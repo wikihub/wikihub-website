@@ -25,7 +25,12 @@ script:
   - npm install
   - hugo version
   - hugo
-  - df -h
+  - cd public
+  - git config user.email "behzad.samadi@gmail.com"
+  - git config --global user.name "bsamadi"
+  - git add -A
+  - git commit -m "Build from $CI_SERVER_NAME $CI_PIPELINE_ID"
+  - git push
 
 before_install:
   - df -h
