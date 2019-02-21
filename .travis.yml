@@ -11,8 +11,6 @@ go:
   - tip
 os:
   - linux
-  - osx
-  - windows
 matrix:
   allow_failures:
     - go: tip
@@ -22,19 +20,9 @@ matrix:
     go: tip
 
 install:
-  - ls
-  - mkdir -p $HOME/src
-  - mv $HOME/gopath/src/github.com/gohugoio/hugo $HOME/src
-  - export TRAVIS_BUILD_DIR=$HOME/src/hugo
-  - cd $HOME/src/hugo
-  - go get github.com/magefile/mage
+  - go get --tags extended  github.com/spf13/hugo
 script:
-  - go mod download
-  - mage -v test
-  - mage -v check
-  - mage -v hugo
-  - ./hugo -s docs/
-  - ./hugo --renderToMemory -s docs/
+  - hugo --version
   - df -h
 
 before_install:
