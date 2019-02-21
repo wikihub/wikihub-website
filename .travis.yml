@@ -22,8 +22,8 @@ matrix:
 install:
   - go get --tags extended  github.com/spf13/hugo
 script:
+  - npm install
   - hugo version
-  - cd github.com/wikihub/wikihub-website
   - hugo
   - df -h
 
