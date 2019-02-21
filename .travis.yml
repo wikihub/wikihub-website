@@ -20,7 +20,7 @@ script:
   - hugo
   - git config user.email "behzad.samadi@gmail.com"
   - git config --global user.name "bsamadi"
-  - ./dp
+  - ./dp.sh
 before_install:
   - df -h
     # https://travis-ci.community/t/go-cant-find-gcc-with-go1-11-1-on-windows/293/5
