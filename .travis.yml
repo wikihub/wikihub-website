@@ -1,9 +1,6 @@
 language: go
 sudo: false
 dist: trusty
-env:
-  global:
-  - HUGO_BUILD_TAGS="extended"
 git:
   depth: false
 go:
@@ -16,7 +13,7 @@ install:
 script:
   - npm install
   - hugo version
-  - hugo 
+  - hugo
 after_script:
   - cd $GIT_DEPLOY_DIR
   - git init
@@ -24,12 +21,4 @@ after_script:
   - git config user.email "behzad.samadi@gmail.com"
   - git add -A
   - git commit -m "Updated by Travis CI"
-  - echo "https://${GITHUB_TOKEN}@${GITHUB_DEPLOY_REPO}"
   - git push --force "https://bsamadi:${GITHUB_TOKEN}@${GITHUB_DEPLOY_REPO}" master:master
-  
-before_install:
-  - df -h
-    # https://travis-ci.community/t/go-cant-find-gcc-with-go1-11-1-on-windows/293/5
-  - if [[ "$TRAVIS_OS_NAME" == "windows" ]]; then choco install mingw -y; export PATH=/c/tools/mingw64/bin:"$PATH"; fi
-  - gem install asciidoctor
-  - type asciidoctor
