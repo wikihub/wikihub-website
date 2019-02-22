@@ -8,11 +8,10 @@ menu:
     weight: 20
 ---
 
-This is a landing page for a top level section.
+These are the main topics:
 
-* Summarize
-* List of sections
-
-Find out how to use the Docsy theme in [Getting Started](getting-started/).
-
-
+* Automotive Systems
+* Cloud Computing
+* Internet of Things
+* Machine Learning
+* Robotics
