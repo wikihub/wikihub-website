@@ -1,6 +1,6 @@
 ---
 title: "Robotics"
 linkTitle: "Robotics"
-weight: 8
+weight: 10
 description: Resources for robotics
 ---
