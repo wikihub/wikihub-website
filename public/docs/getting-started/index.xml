@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WIKIHUB – ROS Agricuture User Guide</title>
+    <link>https://wikihub.github.io/docs/getting-started/</link>
+    <description>Recent Hugo news from gohugo.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 30 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://wikihub.github.io/img/hugo.png</url>
+      <title>GoHugo.io</title>
+      <link>https://wikihub.github.io/docs/getting-started/</link>
+    </image>
+    
+	  <atom:link href="https://wikihub.github.io/docs/getting-started/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: ROS</title>
+      <link>https://wikihub.github.io/docs/getting-started/ros/</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/getting-started/ros/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>
