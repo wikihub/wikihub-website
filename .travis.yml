@@ -25,7 +25,7 @@ after_script:
   - git add -A
   - git commit -m "Updated by Travis CI"
   - echo "https://${GITHUB_TOKEN}@${GITHUB_DEPLOY_REPO}"
-  - git push --force "https://${GITHUB_TOKEN}@${GITHUB_DEPLOY_REPO}" master:master
+  - git push --force "https://bsamadi:${GITHUB_TOKEN}@${GITHUB_DEPLOY_REPO}" master:master
   
 before_install:
   - df -h
