@@ -7,4 +7,4 @@ git config user.email "behzad.samadi@gmail.com"
 git config --global user.name "bsamadi"
 git add -A
 git commit -m "Updated by Travis CI"
-git push
+git push origin master
