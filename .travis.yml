@@ -11,14 +11,4 @@ os:
 install:
   - go get --tags extended  github.com/spf13/hugo
 script:
-  - npm install
-  - hugo version
-  - hugo
-after_script:
-  - cd $GIT_DEPLOY_DIR
-  - git init
-  - git config user.name "bsamadi"
-  - git config user.email "behzad.samadi@gmail.com"
-  - git add -A
-  - git commit -m "Updated by Travis CI"
-  - git push --force "https://bsamadi:${GITHUB_TOKEN}@${GITHUB_DEPLOY_REPO}" master:master
+  - ./deploy.sh
