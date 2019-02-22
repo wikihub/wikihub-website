@@ -24,7 +24,7 @@ after_script:
   - git config user.email "behzad.samadi@gmail.com"
   - git add -A
   - git commit -m "Updated by Travis CI"
-  - git push --force --quiet "https://${GITHUB_TOKEN}@${GITHUB_DEPLOY_REPO}" master:master
+  - git push --force "https://${GITHUB_TOKEN}@${GITHUB_DEPLOY_REPO}" master:master
   
 before_install:
   - df -h
