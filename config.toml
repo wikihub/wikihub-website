@@ -1,5 +1,5 @@
-baseURL = "https://agritechrobotics.gitlab.io"
-title = "ROSA"
+baseURL = "https://wikihub.github.io/"
+title = "WIKIHUB"
 
 enableRobotsTXT = true
 
@@ -56,8 +56,8 @@ anchor = "smart"
 
 [languages]
 [languages.en]
-title = "ROS Agriculture"
-description = "Empowering the farmers"
+title = "WIKIHUB"
+description = "Empowering the Researchers and Engineers"
 languageName ="English"
 # Weight used for sorting.
 weight = 1
@@ -73,9 +73,9 @@ time_format_blog = "02.01.2006"
 # Everything below this are Site Params
 
 [params]
-copyright = "ROS Agriculture"
+copyright = "WIKIHUB"
 privacy_policy = ""
-github_repo = "https://github.com/agritech-robotics/agritech-website"
+github_repo = "https://github.com/wikihub/wikihub-website"
 
 # Google Custom Search Engine ID. Remove or comment out to disable search.
 gcs_engine_id = "002714214824939399291:5_ltfhcysmc"
@@ -101,28 +101,28 @@ no = 'Sorry to hear that. Please <a href="https://github.com/USERNAME/REPOSITORY
 # End user relevant links. These will show up on left side of footer and in the community page if you have one.
 [[params.links.user]]
 	name ="Twitter"
-	url = "https://twitter.com/ROSAgriculture"
+	url = "https://twitter.com/mechatronics3d"
 	icon = "fab fa-twitter"
         desc = "Follow us on Twitter to get the latest news"
 [[params.links.user]]
 	name ="Facebook"
-	url = "https://facebook.com/ROSAgriculture"
+	url = "https://facebook.com/mechatronics3d"
 	icon = "fab fa-facebook"
         desc = "Follow us on Facebook to get the latest stories"
 [[params.links.user]]
 	name = "Slack"
-	url = "http://rosagriculture.slack.com"
+	url = "http://machinelearninggym.slack.com"
 	icon = "fab fa-slack"
-        desc = "Discussion and help from your fellow users"
+        desc = "Chat with other project contributors"
 
 # Developer relevant links. These will show up on right side of footer and in the community page if you have one.
 [[params.links.developer]]
 	name = "Slack"
-	url = "http://rosagriculture.slack.com"
+	url = "http://machinelearninggym.slack.com"
 	icon = "fab fa-slack"
         desc = "Chat with other project contributors"
 [[params.links.developer]]
 	name = "GitHub"
-	url = "https://github.com/ros-agriculture"
+	url = "https://github.com/wikihub/wikihub-website"
 	icon = "fab fa-github"
         desc = "Development takes place here!"
