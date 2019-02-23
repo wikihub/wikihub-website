@@ -6,7 +6,9 @@ description: News and information about software development and necessary tools
 ---
 # Continuous Integration
 - https://drone.io/
+
 # Static Site Generators
+
 ## Private static websites
 - [Private static website](https://github.com/TehShrike/private-static-website)
 - [Just Login](http://justlogin.xyz/)
@@ -31,3 +33,15 @@ description: News and information about software development and necessary tools
 
 # File Sharing
 - [Mount drives](https://askubuntu.com/questions/285539/detect-and-mount-devices)
+
+# Documentation
+- [Docusaurus](https://docusaurus.io/en/)
+- [Forestry](https://forestry.io/)
+- [Hugo](https://gohugo.io/)
+- [VuePress](https://vuepress.vuejs.org/)
+
+# Design
+- [Haiko](https://www.haiku.ai/)
+
+# Tools
+- [Top developer tools 2018](https://stackshare.io/posts/top-developer-tools-2018)
