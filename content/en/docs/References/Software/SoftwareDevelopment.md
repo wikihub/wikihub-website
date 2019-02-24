@@ -46,3 +46,8 @@ description: News and information about software development and necessary tools
 
 # Web Application Development
 - [Stacker](https://stacker.app)
+
+# Web Applications
+
+## Financial Applications
+- [Firefly](https://firefly-iii.org/)
