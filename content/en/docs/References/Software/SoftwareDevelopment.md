@@ -7,16 +7,6 @@ description: News and information about software development and necessary tools
 # Continuous Integration
 - https://drone.io/
 
-# Static Site Generators
-
-## Private static websites
-- [Private static website](https://github.com/TehShrike/private-static-website)
-- [Just Login](http://justlogin.xyz/)
-## Hugo
-- Add a submodule: git submodule add https://github.com/hbpasti/heather-hugo themes/heather-hugo
-- Update a submodule: git submodule update --init --recursive
-- List submodules: git config --file .gitmodules --name-only --get-regexp path
-
 # Version Control System
 
 ## git
@@ -38,8 +28,16 @@ description: News and information about software development and necessary tools
 - [Docusaurus](https://docusaurus.io/en/)
 - [Forestry](https://forestry.io/)
 - [Hugo](https://gohugo.io/)
+    - Add a submodule: git submodule add https://github.com/hbpasti/heather-hugo themes/heather-hugo
+    - Update a submodule: git submodule update --init --recursive
+    - List submodules: git config --file .gitmodules --name-only --get-regexp path
 - [VuePress](https://vuepress.vuejs.org/)
 - [ReLaXed](https://github.com/RelaxedJS/ReLaXed)
+
+## Private static websites
+- [Private static website](https://github.com/TehShrike/private-static-website)
+- [Just Login](http://justlogin.xyz/)
+
 
 # Design
 - [Haiko](https://www.haiku.ai/)
