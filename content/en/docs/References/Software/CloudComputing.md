@@ -5,6 +5,9 @@ date: 2019-02-22
 description: News and information about cloud computing and its applications
 ---
 
+# Self-Hosted Web Applications
+- [Awesome selfhosted](https://github.com/Kickball/awesome-selfhosted)
+
 # Amazon Web Services
 
 # Lambda functions
