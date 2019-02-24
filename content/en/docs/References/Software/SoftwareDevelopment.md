@@ -38,9 +38,11 @@ description: News and information about software development and necessary tools
 - [Private static website](https://github.com/TehShrike/private-static-website)
 - [Just Login](http://justlogin.xyz/)
 
-
 # Design
 - [Haiko](https://www.haiku.ai/)
 
 # Tools
 - [Top developer tools 2018](https://stackshare.io/posts/top-developer-tools-2018)
+
+# Web Application Development
+- [Stacker](https://stacker.app)
