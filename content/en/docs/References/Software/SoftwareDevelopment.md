@@ -39,6 +39,7 @@ description: News and information about software development and necessary tools
 - [Forestry](https://forestry.io/)
 - [Hugo](https://gohugo.io/)
 - [VuePress](https://vuepress.vuejs.org/)
+- [ReLaXed](https://github.com/RelaxedJS/ReLaXed)
 
 # Design
 - [Haiko](https://www.haiku.ai/)
