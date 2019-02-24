@@ -7,6 +7,10 @@ description: News and information about cloud computing and its applications
 
 # Self-Hosted Web Applications
 - [Awesome selfhosted](https://github.com/Kickball/awesome-selfhosted)
+- [Sandstorm](https://apps.sandstorm.io/)
+- [Softaculous](https://www.softaculous.com/apps/)
+- [AMPPS](https://www.ampps.com/apps)
+- [Yunohost](https://yunohost.org/#/apps)
 
 # Amazon Web Services
 
