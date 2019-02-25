@@ -23,3 +23,7 @@ description: News and information about ROS and its applications
 
 # Amazon
 - [RoboMaker](https://aws.amazon.com/robomaker/)
+
+# Pltforms
+- [Linorobot](http://linorobot.org)
+    - [Linorobot Google Group](https://groups.google.com/forum/#!forum/linorobot)
