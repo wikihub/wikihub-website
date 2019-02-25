@@ -44,11 +44,4 @@ description: News and information about software development and necessary tools
 # Tools
 - [Top developer tools 2018](https://stackshare.io/posts/top-developer-tools-2018)
 
-# Web Application Development
-- [Stacker](https://stacker.app)
-- [Convox](https://convox.com)
 
-# Web Applications
-
-## Financial Applications
-- [Firefly](https://firefly-iii.org/)
