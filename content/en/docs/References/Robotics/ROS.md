@@ -35,5 +35,7 @@ description: News and information about ROS and its applications
 * [AGT Electric Cars in Canada](https://www.agtecars.com/)
 * [Pack Mule: Electric Industrial Vehicles](http://packmule.com/?gclid=EAIaIQobChMI-_6sxoK_4AIVjlcNCh1h-gMZEAAYAiAAEgIQPPD_BwE)
 * [Commercial & Industrial Vehicles: Burden Carriers, Tow Tractors, Carts, Stockchasers, Trailers | Taylor-Dunn](https://www.taylor-dunn.com/en-us/vehicles/)
+- [Motrec](https://www.motrec.com/)
+- [EVDOALL](https://www.evdoall.com/)
 
 ## Electric Vehicles
