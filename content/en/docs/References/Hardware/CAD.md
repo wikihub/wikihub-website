@@ -52,3 +52,10 @@ description: News and information about rapid prototyping
 ## Europe
 - [Prodways](https://www.prodways.com/en/)
 - [Materlise](https://www.materialise.com/en)
+
+# Custom Manufacturing
+## Ontario
+* [Ontario Drive and Gear](http://www.odg.com)
+
+## USA
+* [Exomotive](http://exomotive.com/)
