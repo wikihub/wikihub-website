@@ -45,3 +45,5 @@ description: News and information about web development technologies
 
 ## Financial Applications
 - [Firefly](https://firefly-iii.org/)
+- [Getpassiv](https://getpassiv.com)
+- [Portfolio Visualizer](https://www.portfoliovisualizer.com)
