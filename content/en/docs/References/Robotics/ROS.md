@@ -11,9 +11,10 @@ description: News and information about ROS and its applications
 - [Robot Cal Tools](https://github.com/Jmeyer1292/robot_cal_tools)
 
 # 3D Simulation
-- [PyBullet](https://pybullet.org/wordpress/)
 - [Gazebo](http://gazebosim.org/)
+    - [Robot Creation with URDF ROS. Create URDF files by creating 3 robots](https://www.youtube.com/watch?v=UUwHK5ONTAQ)
 - [ARGoS](https://www.argos-sim.info/)
+- [PyBullet](https://pybullet.org/wordpress/)
 
 # Autonomous Driving
 - [CARLA](http://carla.org/)
