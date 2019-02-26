@@ -28,6 +28,8 @@ description: News and information about ROS and its applications
 # Platforms
 
 ## Robots
+- [Clearpath Robotics](https://www.clearpathrobotics.com/)
+- [Aion Robotics](https://www.aionrobotics.com/)
 - [Linorobot](http://linorobot.org)
     - [Linorobot Google Group](https://groups.google.com/forum/#!forum/linorobot)
     
