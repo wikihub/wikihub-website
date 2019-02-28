@@ -25,6 +25,7 @@ description: Resources for robotics
 - [EVDOALL](https://www.evdoall.com/)
 
 ## Electric Vehicles
+- [Kyburz](https://kyburz-switzerland.ch/en/delivery_vehicles)
 
 ## Multi-Agent Reinforcement Learning
 - [DeepMind Lab](https://github.com/deepmind/lab)
