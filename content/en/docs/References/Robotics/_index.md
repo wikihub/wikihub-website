@@ -26,6 +26,7 @@ description: Resources for robotics
 
 ## Electric Vehicles
 - [Kyburz](https://kyburz-switzerland.ch/en/delivery_vehicles)
+- [FOMM](https://fomm.co.th/en/)
 
 ## Multi-Agent Reinforcement Learning
 - [DeepMind Lab](https://github.com/deepmind/lab)
