@@ -1,6 +1,6 @@
 npm install
 rm -rf public
-git clone --depth 1 https://$GITHUB_USER:$GITHUB_TOKEN@$DEPLOY_REPO:$DEPLOY_BRANCH $DEPLOY_DIR
+git clone --depth 1 https://$GITHUB_USER:$GITHUB_TOKEN@$DEPLOY_REPO --branch $DEPLOY_BRANCH $DEPLOY_DIR
 hugo --config config.toml
 cd $DEPLOY_DIR
 git config user.email "$GITHUB_EMAIL"
