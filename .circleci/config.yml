@@ -13,4 +13,4 @@ jobs:
     working_directory: /go/src/github.com/{{ORG_NAME}}/{{REPO_NAME}}
     steps:
       - checkout
-      - run: /go/src/github.com/{{ORG_NAME}}/{{REPO_NAME}}/deploy.sh
+      - run: cd /go/src/github.com/{{ORG_NAME}}/{{REPO_NAME}} | ./deploy.sh
