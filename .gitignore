@@ -17,3 +17,7 @@
 # Node
 node_modules/.
 package-lock.json
+
+# Hugo
+node_modules
+resources
