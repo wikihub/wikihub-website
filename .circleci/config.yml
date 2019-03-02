@@ -14,4 +14,4 @@ jobs:
     steps:
       - checkout
       - run: go get --tags extended  github.com/spf13/hugo
-      - run: ./deploy.sh
+      - run: ../deploy.sh
