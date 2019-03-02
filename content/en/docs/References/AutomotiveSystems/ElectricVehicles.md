@@ -13,6 +13,7 @@ description: News and information about electric vehicles
 # Drivetrain
 
 # Motors
+- [Metric Mind](http://www.metricmind.com/)
 
 # Controllers
 
