@@ -12,5 +12,5 @@ jobs:
     ####   /go/src/bitbucket.org/circleci/go-tool
     working_directory: /go/src/github.com/{{ORG_NAME}}/{{REPO_NAME}}
     steps:
-####      - checkout
+      - checkout
       - run: /go/src/github.com/{{ORG_NAME}}/{{REPO_NAME}}/deploy.sh
