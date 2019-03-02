@@ -7,4 +7,4 @@ git config user.email "$GITHUB_EMAIL"
 git config --global user.name "$GITHUB_USER"
 git add -A
 git commit -m "$GITHUB_MSG"
-git push origin master:$DEPLOY_BRANCH
+git push origin $DEPLOY_BRANCH:$DEPLOY_BRANCH
