@@ -5,24 +5,25 @@ weight: 10
 description: Resources for robotics
 ---
 # Robotics News
-- [Robotics Report](https://www.therobotreport.com/)
-- [Robohub](https://robohub.org/)
+* [Robotics Report](https://www.therobotreport.com/)
+* [Robohub](https://robohub.org/)
 
 # Platforms
 
 ## Robots
-- [Clearpath Robotics](https://www.clearpathrobotics.com/)
-- [Aion Robotics](https://www.aionrobotics.com/)
-- [Linorobot](http://linorobot.org)
-    - [Linorobot Google Group](https://groups.google.com/forum/#!forum/linorobot)
-- [Servosila](https://www.servosila.com/en/)
+* [Clearpath Robotics](https://www.clearpathrobotics.com/)
+* [Aion Robotics](https://www.aionrobotics.com/)
+* [Anymal](https://www.anybotics.com/anymal-legged-robot/)
+* [Linorobot](http://linorobot.org)
+    * [Linorobot Google Group](https://groups.google.com/forum/#!forum/linorobot)
+* [Servosila](https://www.servosila.com/en/)
 
 ## Industrial Tow Tractors
 * [AGT Electric Cars in Canada](https://www.agtecars.com/)
 * [Pack Mule: Electric Industrial Vehicles](http://packmule.com/?gclid=EAIaIQobChMI-_6sxoK_4AIVjlcNCh1h-gMZEAAYAiAAEgIQPPD_BwE)
 * [Commercial & Industrial Vehicles: Burden Carriers, Tow Tractors, Carts, Stockchasers, Trailers | Taylor-Dunn](https://www.taylor-dunn.com/en-us/vehicles/)
-- [Motrec](https://www.motrec.com/)
-- [EVDOALL](https://www.evdoall.com/)
+* [Motrec](https://www.motrec.com/)
+* [EVDOALL](https://www.evdoall.com/)
 
 ## Electric Vehicles
 - [Kyburz](https://kyburz-switzerland.ch/en/delivery_vehicles)
