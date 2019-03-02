@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WIKIHUB – Hardware</title>
+    <link>https://wikihub.github.io/docs/references/hardware/</link>
+    <description>Recent Hugo news from gohugo.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 22 Feb 2019 16:33:13 -0500</lastBuildDate>
+    <image>
+      <url>https://wikihub.github.io/img/hugo.png</url>
+      <title>GoHugo.io</title>
+      <link>https://wikihub.github.io/docs/references/hardware/</link>
+    </image>
+    
+	  <atom:link href="https://wikihub.github.io/docs/references/hardware/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: Internet of Things</title>
+      <link>https://wikihub.github.io/docs/references/hardware/iot/</link>
+      <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/hardware/iot/</guid>
+      <description>
+        
+        
+        
+
+&lt;h1 id=&#34;edge-computing&#34;&gt;Edge Computing&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://aiyprojects.withgoogle.com/edge-tpu&#34; target=&#34;_blank&#34;&gt;Edge TPU&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Rapid Prototyping</title>
+      <link>https://wikihub.github.io/docs/references/hardware/cad/</link>
+      <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/hardware/cad/</guid>
+      <description>
+        
+        
+        
+
+&lt;h1 id=&#34;3d-design&#34;&gt;3D Design&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.blender.org/&#34; target=&#34;_blank&#34;&gt;Blender 3D&lt;/a&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://blender.stackexchange.com/&#34; target=&#34;_blank&#34;&gt;Blender Questions&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;3d-models&#34;&gt;3D Models&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://grabcad.com/library&#34; target=&#34;_blank&#34;&gt;Popular models | 3D CAD Model Collection | GrabCAD Community Library&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cgtrader.com/&#34; target=&#34;_blank&#34;&gt;My Hub | CGTrader&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.blendswap.com/&#34; target=&#34;_blank&#34;&gt;Welcome to Blend Swap! | Blend Swap&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://clara.io/library&#34; target=&#34;_blank&#34;&gt;Free 3D Models, Download or Edit Online · Clara.io&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://clara.io/&#34; target=&#34;_blank&#34;&gt;Clara.io: Online 3D Modeling, 3D Rendering, Free 3D Models&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sketchfab.com/&#34; target=&#34;_blank&#34;&gt;Sketchfab - Your 3D content on web, mobile, AR, and VR.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.turbosquid.com/&#34; target=&#34;_blank&#34;&gt;3D Models for Professionals :: TurboSquid&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thingiverse.com/&#34; target=&#34;_blank&#34;&gt;Thingiverse - Digital Designs for Physical Objects&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://free3d.com/3d-models/library&#34; target=&#34;_blank&#34;&gt;Library Free 3D Models download - Free3D&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://free3d.com/&#34; target=&#34;_blank&#34;&gt;3D Models for Free - Free3D.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://all3dp.com/1/free-stl-files-3d-printer-models-3d-print-files-stl-download/&#34; target=&#34;_blank&#34;&gt;33 Best Sites for Free STL Files &amp;amp; 3D Printer Models in 2019 | All3DP&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.myminifactory.com/&#34; target=&#34;_blank&#34;&gt;MyMiniFactory - Guaranteed free and paid 3D Printable Files and Designs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cults3d.com/en&#34; target=&#34;_blank&#34;&gt;Cults ・ Download for free 3D models for 3D printers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pinshape.com/&#34; target=&#34;_blank&#34;&gt;Free 3D Printable Files and Designs | Pinshape&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://3dsky.org/3dmodels/1?style=all&amp;amp;order=free&#34; target=&#34;_blank&#34;&gt;3d models - download 3dsky.org&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gallery.autodesk.com/&#34; target=&#34;_blank&#34;&gt;Free 3D models, Rendering images and CAD files | Autodesk Online Gallery&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://archibaseplanet.com/&#34; target=&#34;_blank&#34;&gt;Home Design, Free 3D models, High Quality Textures, Online Interior Design, Largest Architects Database at Archibase Planet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://archive3d.net/&#34; target=&#34;_blank&#34;&gt;Free 3D Models and Objects Archive. Download: 3ds , obj , gsm , max models&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cadnav.com/3d-models/&#34; target=&#34;_blank&#34;&gt;3D Models &amp;amp; 3D Objects Free Download - cadnav.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://stock.adobe.com/ca/search?filters%5Bcontent_type%3A3d%5D=1&amp;amp;filters%5B3d_type_id%5D%5B0%5D=1&amp;amp;load_type=3d+lp&#34; target=&#34;_blank&#34;&gt;Stock photos, royalty-free images, graphics, vectors &amp;amp; videos | Adobe Stock&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://3dwarehouse.sketchup.com/&#34; target=&#34;_blank&#34;&gt;3D Warehouse&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.sketchup.com/download/all&#34; target=&#34;_blank&#34;&gt;Download All | SketchUp&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cgtrader.com/3d-models/vehicle/other/argo-j6-atlas-xtr&#34; target=&#34;_blank&#34;&gt;ARGO J6 Atlas XTR 3D | CGTrader&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.argo-xtr.com/&#34; target=&#34;_blank&#34;&gt;ARGO XTR robotic mobility solutions&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;rapid-prototyping&#34;&gt;Rapid Prototyping&lt;/h1&gt;
+
+&lt;h2 id=&#34;ontario&#34;&gt;Ontario&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://canadamakes.ca/&#34; target=&#34;_blank&#34;&gt;Canada Makes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.tph.ca/3d-printing&#34; target=&#34;_blank&#34;&gt;The Printing House&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://proto3000.com/&#34; target=&#34;_blank&#34;&gt;Proto3000&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;quebec&#34;&gt;Quebec&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.axisproto.com/&#34; target=&#34;_blank&#34;&gt;AXIS Prototypes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.genistar.com/&#34; target=&#34;_blank&#34;&gt;Genistar&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;usa&#34;&gt;USA&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.protolabs.com/&#34; target=&#34;_blank&#34;&gt;Protolabs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.3dsystems.com/&#34; target=&#34;_blank&#34;&gt;3d Systems&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;europe&#34;&gt;Europe&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.prodways.com/en/&#34; target=&#34;_blank&#34;&gt;Prodways&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.materialise.com/en&#34; target=&#34;_blank&#34;&gt;Materlise&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;custom-manufacturing&#34;&gt;Custom Manufacturing&lt;/h1&gt;
+
+&lt;h2 id=&#34;ontario-1&#34;&gt;Ontario&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.odg.com&#34; target=&#34;_blank&#34;&gt;Ontario Drive and Gear&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;usa-1&#34;&gt;USA&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://exomotive.com/&#34; target=&#34;_blank&#34;&gt;Exomotive&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

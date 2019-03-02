@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WIKIHUB – Robotics</title>
+    <link>https://wikihub.github.io/docs/references/robotics/</link>
+    <description>Recent Hugo news from gohugo.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 28 Feb 2019 11:09:29 -0500</lastBuildDate>
+    <image>
+      <url>https://wikihub.github.io/img/hugo.png</url>
+      <title>GoHugo.io</title>
+      <link>https://wikihub.github.io/docs/references/robotics/</link>
+    </image>
+    
+	  <atom:link href="https://wikihub.github.io/docs/references/robotics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: ROS</title>
+      <link>https://wikihub.github.io/docs/references/robotics/ros/</link>
+      <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/robotics/ros/</guid>
+      <description>
+        
+        
+        
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.openrobotics.org/&#34; target=&#34;_blank&#34;&gt;Open Robotics&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://rosindustrial.org/&#34; target=&#34;_blank&#34;&gt;ROS Industrial&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ros-books.blogspot.com/&#34; target=&#34;_blank&#34;&gt;ROS Book&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/Jmeyer1292/robot_cal_tools&#34; target=&#34;_blank&#34;&gt;Robot Cal Tools&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;3d-simulation&#34;&gt;3D Simulation&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://gazebosim.org/&#34; target=&#34;_blank&#34;&gt;Gazebo&lt;/a&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=UUwHK5ONTAQ&#34; target=&#34;_blank&#34;&gt;Robot Creation with URDF ROS. Create URDF files by creating 3 robots&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.argos-sim.info/&#34; target=&#34;_blank&#34;&gt;ARGoS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pybullet.org/wordpress/&#34; target=&#34;_blank&#34;&gt;PyBullet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.mujoco.org/&#34; target=&#34;_blank&#34;&gt;MuJoCo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/deepmind/dm_control&#34; target=&#34;_blank&#34;&gt;DeepMind Control&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.groundai.com/project/unity-a-general-platform-for-intelligent-agents/&#34; target=&#34;_blank&#34;&gt;Unity: A General Platform for Intelligent Agents&lt;/a&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://blogs.unity3d.com/2018/09/11/ml-agents-toolkit-v0-5-new-resources-for-ai-researchers-available-now/?_ga=2.251804239.73933905.1544840054-2131074049.1544840054&#34; target=&#34;_blank&#34;&gt;ML Agents Toolkit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://connect.unity.com/p/autonomous-car?_ga=2.181596513.73933905.1544840054-2131074049.1544840054&#34; target=&#34;_blank&#34;&gt;Simple autocar using ml-agents&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/kwea123/RL&#34; target=&#34;_blank&#34;&gt;Unity3D Reinforcement Learning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/MathiasCiarlo/ROSBridgeLib&#34; target=&#34;_blank&#34;&gt;ROS Unity Bridge Lib&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/openai/roboschool&#34; target=&#34;_blank&#34;&gt;Roboshcool&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.vsparc.org&#34; target=&#34;_blank&#34;&gt;VSPARC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://ai2thor.allenai.org/&#34; target=&#34;_blank&#34;&gt;AI2THOR&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/HoME-Platform/home-platform&#34; target=&#34;_blank&#34;&gt;HoME&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;autonomous-driving&#34;&gt;Autonomous Driving&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://carla.org/&#34; target=&#34;_blank&#34;&gt;CARLA&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;physics-engines&#34;&gt;Physics Engines&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/bulletphysics/bullet3&#34; target=&#34;_blank&#34;&gt;Bullet Physics&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dartsim.github.io&#34; target=&#34;_blank&#34;&gt;DART&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ode.org/&#34; target=&#34;_blank&#34;&gt;ODE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://simtk.org/projects/simbody/&#34; target=&#34;_blank&#34;&gt;Simbody&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.sofa-framework.org/applications/gallery/sofa-as-unity3d-physics-engine/&#34; target=&#34;_blank&#34;&gt;SOFA&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;microsoft&#34;&gt;Microsoft&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/Microsoft/AI-Robot-Challenge-Lab&#34; target=&#34;_blank&#34;&gt;AI Robot Challenge Lab&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;amazon&#34;&gt;Amazon&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://aws.amazon.com/robomaker/&#34; target=&#34;_blank&#34;&gt;RoboMaker&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

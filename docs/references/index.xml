@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>WIKIHUB – WIKIHUB</title>
-    <link>https://wikihub.github.io/about/</link>
+    <title>WIKIHUB – References</title>
+    <link>https://wikihub.github.io/docs/references/</link>
     <description>Recent Hugo news from gohugo.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Fri, 22 Feb 2019 15:51:45 -0500</lastBuildDate>
     <image>
       <url>https://wikihub.github.io/img/hugo.png</url>
       <title>GoHugo.io</title>
-      <link>https://wikihub.github.io/about/</link>
+      <link>https://wikihub.github.io/docs/references/</link>
     </image>
     
-	  <atom:link href="https://wikihub.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://wikihub.github.io/docs/references/index.xml" rel="self" type="application/rss+xml" />
     
     
       

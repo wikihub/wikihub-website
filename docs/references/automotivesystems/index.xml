@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WIKIHUB – Automotive Systems</title>
+    <link>https://wikihub.github.io/docs/references/automotivesystems/</link>
+    <description>Recent Hugo news from gohugo.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 22 Feb 2019 16:33:13 -0500</lastBuildDate>
+    <image>
+      <url>https://wikihub.github.io/img/hugo.png</url>
+      <title>GoHugo.io</title>
+      <link>https://wikihub.github.io/docs/references/automotivesystems/</link>
+    </image>
+    
+	  <atom:link href="https://wikihub.github.io/docs/references/automotivesystems/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: Autonomous Driving</title>
+      <link>https://wikihub.github.io/docs/references/automotivesystems/autonomousdriving/</link>
+      <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/automotivesystems/autonomousdriving/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Electric Vehicles</title>
+      <link>https://wikihub.github.io/docs/references/automotivesystems/electricvehicles/</link>
+      <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/automotivesystems/electricvehicles/</guid>
+      <description>
+        
+        
+        
+
+&lt;h1 id=&#34;platforms&#34;&gt;Platforms&lt;/h1&gt;
+
+&lt;h2 id=&#34;industrial-tow-tractors&#34;&gt;Industrial Tow Tractors&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.taylor-dunn.com/en-us/tow-tractor/#specs&#34; target=&#34;_blank&#34;&gt;Taylor Dunn&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;drivetrain&#34;&gt;Drivetrain&lt;/h1&gt;
+
+&lt;h1 id=&#34;motors&#34;&gt;Motors&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.metricmind.com/&#34; target=&#34;_blank&#34;&gt;Metric Mind&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;controllers&#34;&gt;Controllers&lt;/h1&gt;
+
+&lt;h1 id=&#34;batteries&#34;&gt;Batteries&lt;/h1&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

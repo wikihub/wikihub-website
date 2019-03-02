@@ -21,29 +21,6 @@
     
     
     <item>
-      <title>Blog: Sim Farm Update</title>
-      <link>https://wikihub.github.io/blog/2019/01/17/sim-farm-update/</link>
-      <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://wikihub.github.io/blog/2019/01/17/sim-farm-update/</guid>
-      <description>
-        
-        
-        
-
-&lt;h2 id=&#34;version-v0-2-alpha&#34;&gt;Version v0.2-alpha&lt;/h2&gt;
-
-&lt;h3 id=&#34;assets&#34;&gt;Assets&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/ros-agriculture/ros_lawn_tractor/archive/v0.2-alpha.zip&#34; target=&#34;_blank&#34;&gt;Source code (zip)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/ros-agriculture/ros_lawn_tractor/archive/v0.2-alpha.tar.gz&#34; target=&#34;_blank&#34;&gt;Source code (tar.gz)&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
       <title>Blog: First release of lawn tractor software</title>
       <link>https://wikihub.github.io/blog/2018/11/30/first-release-of-lawn-tractor-software/</link>
       <pubDate>Fri, 30 Nov 2018 00:00:00 +0000</pubDate>
