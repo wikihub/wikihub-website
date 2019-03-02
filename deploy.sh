@@ -6,5 +6,5 @@ cd $DEPLOY_DIR
 git config user.email "$GITHUB_EMAIL"
 git config --global user.name "$GITHUB_USER"
 git add -A
-git commit -m "Updated by Travis CI"
+git commit -m "$GITHUB_MSG"
 git push origin master:$DEPLOY_BRANCH
