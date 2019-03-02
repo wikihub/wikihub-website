@@ -14,6 +14,4 @@ jobs:
     steps:
       - checkout
       - run: cd /go/src/github.com/{{ORG_NAME}}/{{REPO_NAME}}
-      - run: npm install
-      - run: rm -rf public
-      - run: git clone --depth 1 https://$GITHUB_USER:$GITHUB_TOKEN@$DEPLOY_REPO:$DEPLOY_BRANCH $DEPLOY_DIR
+      - run: ./deploy.sh
