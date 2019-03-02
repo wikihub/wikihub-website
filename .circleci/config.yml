@@ -4,7 +4,7 @@ version: 2
 jobs:
   build:
     docker:
-      - image: circleci/golang:1.9
+      - image: nubonetics/hugo-node
 
     #### TEMPLATE_NOTE: go expects specific checkout path representing url
     #### expecting it in the form of
@@ -13,5 +13,5 @@ jobs:
     working_directory: /go/src/github.com/{{ORG_NAME}}/{{REPO_NAME}}
     steps:
       - checkout
-      - run: go get --tags extended  github.com/spf13/hugo
+####      - run: go get --tags extended  github.com/spf13/hugo
       - run: ../deploy.sh
