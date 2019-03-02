@@ -21,3 +21,4 @@ package-lock.json
 # Hugo
 node_modules
 resources
+public
