@@ -8,6 +8,10 @@ description: News and information about Internet of Things and its applications
 
 ## Raspberry Pi
 
+## HAT
+
+* [Pinout](https://pinout.xyz/)
+
 ### TFT Display
 * [Touchscreen Supported on Raspberry Pi](https://github.com/notro/fbtft/blob/master/fbtft_device.c)
 * [RFI display](https://learn.watterott.com/rpi-display/fbtft-install/)
