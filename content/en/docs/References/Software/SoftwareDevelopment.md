@@ -8,6 +8,7 @@ description: News and information about software development and necessary tools
 ## Distribution
 
 * [Ubuntu — Show Version Number (Command Line and Unity)](https://www.hostingadvice.com/how-to/ubuntu-show-version/)
+* [HowTo: Ubuntu Linux Kernel Version Command](https://www.cyberciti.biz/faq/find-ubuntu-linux-kernel-version-command/)
 
 ## File Sharing
 
