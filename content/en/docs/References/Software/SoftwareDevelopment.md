@@ -4,12 +4,24 @@ linkTitle: "Software Development"
 date: 2019-02-22
 description: News and information about software development and necessary tools
 ---
+# Linux
+## Distribution
+
+* [Ubuntu — Show Version Number (Command Line and Unity)](https://www.hostingadvice.com/how-to/ubuntu-show-version/)
+
+## File Sharing
+
+- [Mount drives](https://askubuntu.com/questions/285539/detect-and-mount-devices)
+
 # Continuous Integration
-- https://drone.io/
+
+* [Circle CI](http://circleci.com)
+* [Drone.io](https://drone.io/)
 
 # Version Control System
 
 ## git
+
 - [Setting your username in Git](https://help.github.com/articles/setting-your-username-in-git/)
 - [Setting your commit email address in Git](https://help.github.com/articles/setting-your-commit-email-address-in-git/)
 - git add .
@@ -21,10 +33,8 @@ description: News and information about software development and necessary tools
     - git remote set-url origin https://username@github.com/ros-agriculture/ros-a.git
 - [Git push to GitHub Pages](https://devhints.io/travis-gh-pages)
 
-# File Sharing
-- [Mount drives](https://askubuntu.com/questions/285539/detect-and-mount-devices)
-
 # Documentation
+
 - [Docusaurus](https://docusaurus.io/en/)
 - [Forestry](https://forestry.io/)
 - [Hugo](https://gohugo.io/)
@@ -35,13 +45,16 @@ description: News and information about software development and necessary tools
 - [ReLaXed](https://github.com/RelaxedJS/ReLaXed)
 
 ## Private static websites
+
 - [Private static website](https://github.com/TehShrike/private-static-website)
 - [Just Login](http://justlogin.xyz/)
 
 # Design
+
 - [Haiko](https://www.haiku.ai/)
 
 # Tools
+
 - [Top developer tools 2018](https://stackshare.io/posts/top-developer-tools-2018)
 
 
