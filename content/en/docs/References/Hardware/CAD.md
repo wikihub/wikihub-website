@@ -47,7 +47,8 @@ description: News and information about rapid prototyping
 
 ## USA
 - [Protolabs](https://www.protolabs.com/)
-- [3d Systems](https://www.3dsystems.com/)
+- [3D Systems](https://www.3dsystems.com/)
+- [Robo 3D](https://robo3d.com/)
 
 ## Europe
 - [Prodways](https://www.prodways.com/en/)
