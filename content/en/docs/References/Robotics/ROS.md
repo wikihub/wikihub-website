@@ -10,6 +10,10 @@ description: News and information about ROS and its applications
 - [ROS Book](https://ros-books.blogspot.com/)
 - [Robot Cal Tools](https://github.com/Jmeyer1292/robot_cal_tools)
 
+# Install 
+
+* [Install ROS Melodic on Ubuntu Bionic (18.04.2)](http://wiki.ros.org/melodic/Installation/Ubuntu)
+
 # 3D Simulation
 - [Gazebo](http://gazebosim.org/)
     - [Robot Creation with URDF ROS. Create URDF files by creating 3 robots](https://www.youtube.com/watch?v=UUwHK5ONTAQ)
