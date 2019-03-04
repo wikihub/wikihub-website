@@ -15,22 +15,28 @@ description: News and information about ROS and its applications
 * [Install ROS Melodic on Ubuntu Bionic (18.04.2)](http://wiki.ros.org/melodic/Installation/Ubuntu)
 
 # 3D Simulation
-- [Gazebo](http://gazebosim.org/)
-    - [Robot Creation with URDF ROS. Create URDF files by creating 3 robots](https://www.youtube.com/watch?v=UUwHK5ONTAQ)
-- [ARGoS](https://www.argos-sim.info/)
-- [PyBullet](https://pybullet.org/wordpress/)
-- [MuJoCo](http://www.mujoco.org/)
-- [DeepMind Control](https://github.com/deepmind/dm_control)
-- [Unity: A General Platform for Intelligent Agents](https://www.groundai.com/project/unity-a-general-platform-for-intelligent-agents/)
+
+* [Gazebo](http://gazebosim.org/)
+    * [Robot Creation with URDF ROS. Create URDF files by creating 3 robots](https://www.youtube.com/watch?v=UUwHK5ONTAQ)
+* [ARGoS](https://www.argos-sim.info/)
+* [PyBullet](https://pybullet.org/wordpress/)
+* [MuJoCo](http://www.mujoco.org/)
+* [DeepMind Control](https://github.com/deepmind/dm_control)
+* [Unity: A General Platform for Intelligent Agents](https://www.groundai.com/project/unity-a-general-platform-for-intelligent-agents/)
   * [ML Agents Toolkit](https://blogs.unity3d.com/2018/09/11/ml-agents-toolkit-v0-5-new-resources-for-ai-researchers-available-now/?_ga=2.251804239.73933905.1544840054-2131074049.1544840054)
   * [Simple autocar using ml-agents](https://connect.unity.com/p/autonomous-car?_ga=2.181596513.73933905.1544840054-2131074049.1544840054)
   * [Unity3D Reinforcement Learning](https://github.com/kwea123/RL)
   * [ROS Unity Bridge Lib](https://github.com/MathiasCiarlo/ROSBridgeLib)
   * [ROS Sharp](https://github.com/siemens/ros-sharp)
-- [Roboshcool](https://github.com/openai/roboschool)
-- [VSPARC](http://www.vsparc.org)
-- [AI2THOR](http://ai2thor.allenai.org/)
-- [HoME](https://github.com/HoME-Platform/home-platform)
+* [Roboshcool](https://github.com/openai/roboschool)
+* [VSPARC](http://www.vsparc.org)
+* [AI2THOR](http://ai2thor.allenai.org/)
+* [HoME](https://github.com/HoME-Platform/home-platform)
+
+# Visualization
+
+* [Worldview](https://medium.com/cruise/introducing-worldview-749aaf98112d)
+* [webviz](https://github.com/cruise-automation/webviz)
 
 ## Autonomous Driving
 - [CARLA](http://carla.org/)
