@@ -5,6 +5,73 @@ date: 2019-03-07
 description: News and information about word processing tools
 ---
 
+# Writing Guides
+* [Writing a Control Paper](http://www.ece.ucsb.edu/~hespanha/published/writingpapers.pdf)
+* [How to Write a Paper](http://www-mech.eng.cam.ac.uk/mmd/ashby-paper-V6.pdf)
+* [Writing Tips for PhD Students](http://faculty.chicagobooth.edu/john.cochrane/research/papers/phd_paper_writing.pdf)
+* [Tips for Writing Technical Papers](http://infolab.stanford.edu/~widom/paper-writing.html)
+* [How to Write a Good Technical Report](http://homepages.rpi.edu/~holguj2/CIVL2030/How_to_write_search/How_to_write_a_good_technical_report.pdf)
+* [How to Write Good Technical Papers](http://www.fke.utm.my/blog/wp-content/uploads/2011/03/How-to-Write-Good-Technical-Papers-Prof-Marzuki.pdf)
+* [How to Write a Successful Technical Paper](http://www.ics.uci.edu/~rickl/courses/ics-h197/technical-write-slitex.pdf)
+* [How to Write a Technical Paper](http://inside.mines.edu/~mmyoung/phgn471/WrttnPsntatn.pdf)
+* [Mayfield Handbook of Technical and Scientific Writing](http://www.mhhe.com/mayfieldpub/tsw/home.htm)
+* [Communication Skills](http://www.cas.mcmaster.ca/~nedialk/COURSES/3I03/node6.html)
+* [How to publish your research](http://www.youtube.com/playlist?list=PLe2tiLL2q02KGAb7IW5-u2zeJnX3wr4S3)
+
+# Reproducible Research
+
+* [Replication](http://ivory.idyll.org/blog/replication-i.html)
+* [3D Data](http://207.245.165.89/applied-research/ncsa/8-an-overview-of-3d-data-content-file-formats-and-viewers.pdf)
+* [Reproducible Research Examples in Org Mode](http://orgmode.org/worg/org-contrib/babel/uses.html#sec-6)
+* [Reproducible Research](http://reproducibleresearch.net/index.php/RR_links)
+* [Emacs Org Mode](http://www.emacswiki.org/cgi-bin/wiki/OrgMode)
+* [Reproducible Research with R/RStudio](https://github.com/christophergandrud/Rep-Res-Book)
+
+# Coding Standards
+
+* [GNU C](http://www.gnu.org/prep/standards/standards.html)
+* [GCC C++](http://gcc.gnu.org/wiki/CppConventions)
+* [Google C++](http://google-styleguide.googlecode.com/svn/trunk/cppguide.xml)
+* [Java](http://www.dmoz.org/Computers/Programming/Languages/Java/Coding_Standards/)
+* [Python](http://www.python.org/dev/peps/pep-0008/)
+
+# Tools
+
+* Word Processing
+    * [DocOnce](https://github.com/hplgit/doconce)
+    * [Docutils](http://docutils.sourceforge.net/)
+    * [Sphinx](http://sphinx-doc.org/)
+    * [jemdoc](http://jemdoc.jaboc.net/)
+    * [jemdoc mathjax](https://github.com/wsshin/jemdoc_mathjax)
+* Wiki
+    * [ConnectedText](http://www.connectedtext.com/)
+* Mind Maps
+      * [Mind Mapping](http://www.mind-mapping.org/)
+  * Grammar
+      * [StyleWriter: Plain English Manuscript Editing Software for
+        MS-WORD](http://www.stylewriter-usa.com/stylewriter-free-download.php)
+      * [WhiteSmoke - English Grammar Checker
+        Software](http://www.whitesmoke.com/)
+      * [myWriterTools - Essential writing and editing
+        software](http://www.mywritertools.com/)
+      * [Professional Grammar Check & Writing Tool - English
+        Software](http://www.englishsoftware.org/)
+  * [PhDTools](http://phdtools.blogspot.ca/)
+
+# Pandoc
+
+* [Pandoc](http://johnmacfarlane.net/pandoc/)
+* [Dexy](http://www.dexy.it/docs/what-is-dexy.html)
+* [Pandoc filters](https://github.com/jgm/pandocfilters)
+
+# Reference Management
+
+* [Qiqqa](http://www.qiqqa.com/)
+* [Mendeley](http://www.mendeley.com/)
+* [Bibsonomy](http://www.bibsonomy.org/)
+* [CiteULike](http://www.citeulike.org)
+* [Calibre - ebook manager](http://calibre-ebook.com/)
+
 # Markdown
 ## Papers
 
@@ -74,3 +141,33 @@ description: News and information about word processing tools
 ## Examples
 
 * [RMarkdown example](https://github.com/bbest/rmarkdown-example)
+
+# Emacs
+* [Emacs wiki](http://www.emacswiki.org/)
+* [Learn Emacs lisp in 15
+    minutes](http://bzg.fr/learn-emacs-lisp-in-15-minutes.html)
+* [Barik's guide to Emacs](http://dr.barik.net/kb/Emacs)
+* [Installing emacs-goodies-el including the Maple mode on
+    Emacs 24](http://clojure.jr0cket.co.uk/perfect-environment/emacs-leiningen-swank)
+* [remote file editing using
+    emacs](http://nakkaya.com/2009/11/06/remote-file-editing-using-emacs/)
+
+# AUCTeX
+
+* [Starter kit](http://kieranhealy.org/esk/starter-kit-latex.html)
+
+# Org Mode
+
+* [Emacs Org Mode](http://www.emacswiki.org/cgi-bin/wiki/OrgMode)
+* [Writing papers using org
+    mode](http://nakkaya.com/2010/09/07/writing-papers-using-org-mode/)
+* [How to manage and export bibliographic notesrefs in org
+    mode](http://www-public.it-sudparis.eu/~berger_o/weblog/2012/03/23/how-to-manage-and-export-bibliographic-notesrefs-in-org-mode/)
+* [Using bibtex from org
+    mode](http://blog.karssen.org/2013/08/22/using-bibtex-from-org-mode/)
+* [Research paper management with emacs org mode and
+    reftex](http://tincman.wordpress.com/2011/01/04/research-paper-management-with-emacs-org-mode-and-reftex/)
+* [Site creation with org
+    mode](http://www.seas.upenn.edu/~heqin/academic/sitecreation.html)
+* [Syntax highlighting in
+    org-mode](http://praveen.kumar.in/2012/03/10/org-mode-latex-and-minted-syntax-highlighting/)
