@@ -41,6 +41,7 @@ description: News and information about rapid prototyping
 - [Canada Makes](http://canadamakes.ca/)
 - [The Printing House](https://www.tph.ca/3d-printing)
 - [Proto3000](https://proto3000.com/)
+- [Plastic World](http://www.plasticworld.ca/)
 
 ## Quebec
 - [AXIS Prototypes](https://www.axisproto.com/)
