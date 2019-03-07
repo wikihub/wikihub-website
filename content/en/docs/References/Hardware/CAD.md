@@ -6,6 +6,7 @@ description: News and information about rapid prototyping
 ---
 
 # Laser Cutting
+## Acrylic
 
 * [Plastic World](http://www.plasticworld.ca/)
 
