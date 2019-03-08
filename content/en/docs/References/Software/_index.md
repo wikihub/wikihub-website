@@ -1,6 +1,6 @@
 ---
 title: "Software"
 linkTitle: "Software"
-weight: 15
+weight: 40
 description: Software resources
 ---
