@@ -8,6 +8,7 @@ description: Resources for graphic design
 
 * [Fonts.com](https://www.fonts.com/)
 * [Online tools to identify fonts](https://www.etondigital.com/online-tools-to-identify-fonts/)
+* [Wordmark](https://wordmark.it/)
 * [Mangal font](https://www.fonts.com/font/microsoft-corporation/mangal)
 
 # Vector Graphics
