@@ -2,6 +2,7 @@
 title: "Word Processing"
 linkTitle: "Word Processing"
 date: 2019-03-07
+weight: 80
 description: News and information about word processing tools
 ---
 
