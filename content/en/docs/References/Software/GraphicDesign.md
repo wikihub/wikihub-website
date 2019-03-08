@@ -13,3 +13,4 @@ description: Resources for graphic design
 * [Vecta.io](https://vecta.io/)
 * [Tools for SVG](https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Tools_for_SVG)
 * [Snap.svg](http://snapsvg.io/)
+* [Janvas](https://www.janvas.com)
