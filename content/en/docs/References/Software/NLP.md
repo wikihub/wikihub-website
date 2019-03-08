@@ -2,6 +2,7 @@
 title: "Natural Language Processing"
 linkTitle: "Natural Language Processing"
 date: 2019-02-22
+weight: 40
 description: News and information about natural language processing and its applications
 ---
 # Natural Language Processing
