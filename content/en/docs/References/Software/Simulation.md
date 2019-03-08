@@ -2,6 +2,7 @@
 title: "Simulation"
 linkTitle: "Simulation"
 date: 2019-03-07
+weight: 50
 description: News and information about simulation and 3D virtual environments
 ---
 
