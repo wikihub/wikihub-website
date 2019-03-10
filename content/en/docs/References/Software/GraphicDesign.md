@@ -8,6 +8,7 @@ description: Resources for graphic design
 
 * [Google Fonts](https://fonts.google.com)
 * [Fonts.com](https://www.fonts.com/)
+* [Skyfonts](http://skyfonts.com/)
 * [Online tools to identify fonts](https://www.etondigital.com/online-tools-to-identify-fonts/)
 * [Adobe Fonts](https://fonts.adobe.com/fonts)
 * [Mangal font](https://www.fonts.com/font/microsoft-corporation/mangal)
