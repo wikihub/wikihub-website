@@ -28,3 +28,4 @@ description: Resources for graphic design
 ## Inkscape
 
 * [Fix missing fonts in Inkscape on MacOS](https://eastmanreference.com/fix-missing-fonts-in-inkscape-on-mac)
+* [Inkscape does not allow access to anything outside of ~/](https://forum.inkscapecommunity.com/index.php?topic=1205.0)
