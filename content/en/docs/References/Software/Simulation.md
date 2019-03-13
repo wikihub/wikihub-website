@@ -9,6 +9,7 @@ description: News and information about simulation and 3D virtual environments
 # Web
 
 * [Bodylight.js](https://creative-connections.github.io/bodylight.js/)
+* [Visual Components](https://www.visualcomponents.com/)
 
 # 3D Design
 * [Blender 3D](https://www.blender.org/)
