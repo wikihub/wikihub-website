@@ -26,6 +26,10 @@ description: Resources for robotics
 * [Postmates](https://techcrunch.com/2018/12/13/postmates-robot-serve/)
 * [Robby](https://robby.io/)
 
+## Industrial Manipulators
+
+* [Synapticon](https://www.synapticon.com/)
+
 ## Legged Robots
 
 * [Anymal](https://www.anybotics.com/anymal-legged-robot/)
@@ -52,7 +56,7 @@ description: Resources for robotics
 ## Autonomous Driving
 
 * [CARLA](http://carla.org/)
-* []()
+* [Apollo Open Platform](http://apollo.auto/developer.html)
 
 ## Game Engine
 
