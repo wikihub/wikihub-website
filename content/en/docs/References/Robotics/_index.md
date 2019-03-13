@@ -24,6 +24,7 @@ description: Resources for robotics
 * [Commercial & Industrial Vehicles: Burden Carriers, Tow Tractors, Carts, Stockchasers, Trailers | Taylor-Dunn](https://www.taylor-dunn.com/en-us/vehicles/)
 * [Motrec](https://www.motrec.com/)
 * [EVDOALL](https://www.evdoall.com/)
+* [Alke](https://www.alke.com/electric-vehicles)
 
 ## Electric Vehicles
 - [Kyburz](https://kyburz-switzerland.ch/en/delivery_vehicles)
