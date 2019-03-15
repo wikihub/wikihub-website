@@ -66,6 +66,7 @@ description: News and information about autonomous driving
 * [Automated Driving with ROS at BMW ROSCon 2015 Hamburg Day 2](https://www.youtube.com/watch?v=z9WzHXfYqFI)
 * [Nauto](https://www.nauto.com)
 * [nuTonomy](https://www.nutonomy.com/)
+   * [Emilio Frazzoli, CTO, nuTonomy - MIT Self-Driving Cars](https://youtu.be/dWSbItd0HEA)
 * [aimotive](https://aimotive.com/)
 * [nexar](https://www.getnexar.com/)
 * [zoox](http://zoox.com/)
