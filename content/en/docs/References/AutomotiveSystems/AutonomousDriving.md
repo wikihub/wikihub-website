@@ -9,6 +9,7 @@ description: News and information about autonomous driving
 
 * [Successful Autonomous Vehicle Design Through Simulation](https://www.facebook.com/communitechpage/videos/342872519899648/UzpfSTEwMDAyOTY4MjQwMzk5MzoxNDQxNTM4NjMyNTA2OTM/)
 * [More Evidence That Self-driving Cars Are on a Road to Nowhere](https://www.thetruthaboutcars.com/2018/10/more-evidence-that-self-driving-cars-are-on-a-road-to-nowhere/)
+* [Driverless Cars: 90 Percent Done, 90 Percent Left To Go?](https://www.forbes.com/sites/chunkamui/2018/02/28/driverless-cars-90-percent-done-90-percent-left-to-go/)
 
 # Projects
 
@@ -75,6 +76,11 @@ description: News and information about autonomous driving
 
 * [Self-driving Car](http://www.socialledge.com/sjsu/index.php?title=Self-driving_Car)
 * [MOPED](https://moped.sics.se/wordpress/)
+
+# Talks
+
+* [Chris Gerdes - Ingenuity Derived from Self-Driving Cars](https://soundcloud.com/ecorner/chris-gerdes-ingenuity-derived-from-self-driving-cars)
+* [Emilio Frazzoli, CTO, nuTonomy - MIT Self-Driving Cars](https://youtu.be/dWSbItd0HEA)
 
 # Videos
 
