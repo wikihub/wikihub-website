@@ -8,13 +8,14 @@ description: News and information about machine learning and its applications
 # Awesome Machine Learning
 A collection of awesome machine learning goodies
 
-- [What can TensorFlow really do?](https://blog.oursky.com/2018/02/14/tensorflow-business-applications-ai-hong-kong/)
-- [The First World Class Overview of AI for the General Public](https://montrealartificialintelligence.com/academy/#The-First-World-Class-Overview-of-AI-for-the-General-Public)
-- [Fast.ai](http://wiki.fast.ai/index.php/Main_Page)
-- [Deep Learning From Scratch: Theory and Implementation](http://www.deepideas.net/deep-learning-from-scratch-theory-and-implementation/)
-- [Cheat sheets for AI, neural networks, machine learning, deep learning and big data](https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463)
-- [Resources for learning statistics and machine learning](https://sgfin.github.io/learning-resources/)
-- [Machine Learning Mind Map](https://github.com/dformoso/machine-learning-mindmap)
+* [What can TensorFlow really do?](https://blog.oursky.com/2018/02/14/tensorflow-business-applications-ai-hong-kong/)
+* [The First World Class Overview of AI for the General Public](https://montrealartificialintelligence.com/academy/#The-First-World-Class-Overview-of-AI-for-the-General-Public)
+* [Fast.ai](http://wiki.fast.ai/index.php/Main_Page)
+* [Deep Learning From Scratch: Theory and Implementation](http://www.deepideas.net/deep-learning-from-scratch-theory-and-implementation/)
+* [Cheat sheets for AI, neural networks, machine learning, deep learning and big data](https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463)
+* [Resources for learning statistics and machine learning](https://sgfin.github.io/learning-resources/)
+* [Machine Learning Mind Map](https://github.com/dformoso/machine-learning-mindmap)
+* [Deep Learning Drizzle](https://deep-learning-drizzle.github.io/)
 
 # Podcast
 - [Andrew Ng: Influential leader in artificial intelligence](https://behindthetech.libsynpro.com/003-andrew-ng-influential-leader-in-artificial-intelligence)
