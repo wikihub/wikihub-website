@@ -35,9 +35,12 @@ description: News and information about rapid prototyping
 
 # Custom Manufacturing
 
+* [MFG](https://app.mfg.com)
+
 ## Ontario
 
 * [Ontario Drive and Gear](http://www.odg.com)
+* [Canadian Manufacturing Technology Show](https://cmts.ca/)
 
 ## USA
 
