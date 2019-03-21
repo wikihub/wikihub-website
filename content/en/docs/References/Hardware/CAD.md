@@ -8,6 +8,7 @@ description: News and information about rapid prototyping
 # Products
 
 * [Icon Explore](https://www.engineersrule.com/cad-gives-icon-wheelchairs-power/)
+   * [Christian Bagg and Icon Explore](https://ingeniumcanada.org/channel/articles/christian-bagg-and-icon-explore)
 
 # Laser Cutting
 ## Acrylic
