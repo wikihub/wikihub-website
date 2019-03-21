@@ -5,6 +5,10 @@ date: 2019-02-22
 description: News and information about rapid prototyping
 ---
 
+# Products
+
+* [Icon Explore](https://www.engineersrule.com/cad-gives-icon-wheelchairs-power/)
+
 # Laser Cutting
 ## Acrylic
 
