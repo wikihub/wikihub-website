@@ -33,6 +33,10 @@ description: News and information about ROS and its applications
 * [AI2THOR](http://ai2thor.allenai.org/)
 * [HoME](https://github.com/HoME-Platform/home-platform)
 
+## Tutorials
+
+* [ROS/Gazebo simulator as the external simulator for ArduCopter](http://docs.erlerobotics.com/simulation/intro)
+
 # Visualization
 
 * [Worldview](https://medium.com/cruise/introducing-worldview-749aaf98112d)
