@@ -37,6 +37,10 @@ description: News and information about software development and necessary tools
     - git remote set-url origin https://username@github.com/ros-agriculture/ros-a.git
 - [Git push to GitHub Pages](https://devhints.io/travis-gh-pages)
 
+# Docker
+
+* [An Introduction to Docker](http://odewahn.github.io/docker-jumpstart/)
+
 # Documentation
 
 - [Docusaurus](https://docusaurus.io/en/)
