@@ -14,6 +14,10 @@ description: News and information about ROS and its applications
 
 * [Install ROS Melodic on Ubuntu Bionic (18.04.2)](http://wiki.ros.org/melodic/Installation/Ubuntu)
 
+# Docker
+
+* [ROS Docker demos](https://github.com/ruffsl/ros_docker_demos)
+
 # 3D Simulation
 
 * [Gazebo](http://gazebosim.org/)
