@@ -10,6 +10,8 @@ description: News and information about software development and necessary tools
 
 * [Ubuntu — Show Version Number (Command Line and Unity)](https://www.hostingadvice.com/how-to/ubuntu-show-version/)
 * [HowTo: Ubuntu Linux Kernel Version Command](https://www.cyberciti.biz/faq/find-ubuntu-linux-kernel-version-command/)
+* [3 Ways to Check Linux Kernel Version in Command Line](https://itsfoss.com/find-which-kernel-version-is-running-in-ubuntu/)
+* [Installing persistent Ubuntu on USB flash drive](https://unetbootin.github.io/)
 
 ## File Sharing
 
