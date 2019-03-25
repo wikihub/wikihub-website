@@ -40,6 +40,7 @@ description: News and information about software development and necessary tools
 # Docker
 
 * [An Introduction to Docker](http://odewahn.github.io/docker-jumpstart/)
+* [Running Linux apps in MacOS using docker](http://shanavasv.com/running-linux-apps-in-macos-using-docker/)
 
 # Documentation
 
