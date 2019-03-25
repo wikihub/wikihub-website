@@ -41,6 +41,7 @@ description: News and information about software development and necessary tools
 
 * [An Introduction to Docker](http://odewahn.github.io/docker-jumpstart/)
 * [Running Linux apps in MacOS using docker](http://shanavasv.com/running-linux-apps-in-macos-using-docker/)
+* [How to show X11 windows with Docker on Mac](https://medium.com/@mreichelt/how-to-show-x11-windows-within-docker-on-mac-50759f4b65cb)
 
 # Documentation
 
