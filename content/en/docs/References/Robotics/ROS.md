@@ -38,6 +38,10 @@ description: News and information about ROS and its applications
 * [AI2THOR](http://ai2thor.allenai.org/)
 * [HoME](https://github.com/HoME-Platform/home-platform)
 
+## Robots
+
+* [RBCar](https://github.com/RobotnikAutomation/rbcar_sim)
+
 ## Tutorials
 
 * [ROS/Gazebo simulator as the external simulator for ArduCopter](http://docs.erlerobotics.com/simulation/intro)
@@ -56,7 +60,6 @@ description: News and information about ROS and its applications
 - [ODE](https://www.ode.org/)
 - [Simbody](https://simtk.org/projects/simbody/)
 - [SOFA](https://www.sofa-framework.org/applications/gallery/sofa-as-unity3d-physics-engine/)
-
 
 # Microsoft
 - [AI Robot Challenge Lab](https://github.com/Microsoft/AI-Robot-Challenge-Lab)
