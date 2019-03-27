@@ -41,6 +41,7 @@ description: News and information about ROS and its applications
 ## Robots
 
 * [RBCar](https://github.com/RobotnikAutomation/rbcar_sim)
+* [Autonomous Vehicle Control Documentation](https://media.readthedocs.org/pdf/phddocs/latest/phddocs.pdf)
 
 ## Tutorials
 
