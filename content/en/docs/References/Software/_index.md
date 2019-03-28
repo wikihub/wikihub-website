@@ -4,3 +4,28 @@ linkTitle: "Software"
 weight: 40
 description: Software resources
 ---
+
+# Linux
+## Distribution
+
+* [Ubuntu — Show Version Number (Command Line and Unity)](https://www.hostingadvice.com/how-to/ubuntu-show-version/)
+* [HowTo: Ubuntu Linux Kernel Version Command](https://www.cyberciti.biz/faq/find-ubuntu-linux-kernel-version-command/)
+* [3 Ways to Check Linux Kernel Version in Command Line](https://itsfoss.com/find-which-kernel-version-is-running-in-ubuntu/)
+* [Installing persistent Ubuntu on USB flash drive](https://unetbootin.github.io/)
+
+## File Sharing
+
+- [Mount drives](https://askubuntu.com/questions/285539/detect-and-mount-devices)
+
+# Docker
+
+* [An Introduction to Docker](http://odewahn.github.io/docker-jumpstart/)
+* [Running Linux apps in MacOS using docker](http://shanavasv.com/running-linux-apps-in-macos-using-docker/)
+* [How to show X11 windows with Docker on Mac](https://medium.com/@mreichelt/how-to-show-x11-windows-within-docker-on-mac-50759f4b65cb)
+* [Running xeyes in Docker](http://nelkinda.com/blog/xeyes-in-docker/)
+* Remove all the images without a tag: docker rmi $(docker images -f dangling=true -q)
+* Remove all the containers: docker rm $(docker ps -a -q)
+
+# Singularity
+
+* [Singularity Documentation](https://www.sylabs.io/docs/)
