@@ -41,3 +41,7 @@ description: News and information about simulation and 3D virtual environments
 * [Download All | SketchUp](https://www.sketchup.com/download/all)
 * [ARGO J6 Atlas XTR 3D | CGTrader](https://www.cgtrader.com/3d-models/vehicle/other/argo-j6-atlas-xtr)
 * [ARGO XTR robotic mobility solutions](http://www.argo-xtr.com/)
+
+# Industry 4.0
+
+* [IBM Smart Manufacturing Technology](https://www.ibm.com/industries/manufacturing/smart-manufacturing-technology)
