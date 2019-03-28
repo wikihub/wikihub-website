@@ -17,6 +17,7 @@ description: Resources for robotics
 * [Linorobot](http://linorobot.org)
     * [Linorobot Google Group](https://groups.google.com/forum/#!forum/linorobot)
 * [Servosila](https://www.servosila.com/en/)
+* [Earth Explorer](http://www.sampson-jeff.com/eep/)
 
 ## Delivery Robots
 
