@@ -45,3 +45,4 @@ description: News and information about simulation and 3D virtual environments
 # Industry 4.0
 
 * [IBM Smart Manufacturing Technology](https://www.ibm.com/industries/manufacturing/smart-manufacturing-technology)
+* [Octopuz](https://octopuz.com/)
