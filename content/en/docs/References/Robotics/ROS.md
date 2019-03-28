@@ -14,6 +14,15 @@ description: News and information about ROS and its applications
 
 * [Install ROS Melodic on Ubuntu Bionic (18.04.2)](http://wiki.ros.org/melodic/Installation/Ubuntu)
 
+# Training
+## Tutorials
+
+* [ROS/Gazebo simulator as the external simulator for ArduCopter](http://docs.erlerobotics.com/simulation/intro)
+
+## Courses
+
+* [Cosi119a - Autonomous Robotics Lab](http://campusrover.org.s3-website-us-west-2.amazonaws.com/)
+
 # Docker
 
 * [ROS GUI Tutorials on Docker](http://wiki.ros.org/docker/Tutorials/GUI)
@@ -43,10 +52,6 @@ description: News and information about ROS and its applications
 
 * [RBCar](https://github.com/RobotnikAutomation/rbcar_sim)
 * [Autonomous Vehicle Control Documentation](https://media.readthedocs.org/pdf/phddocs/latest/phddocs.pdf)
-
-## Tutorials
-
-* [ROS/Gazebo simulator as the external simulator for ArduCopter](http://docs.erlerobotics.com/simulation/intro)
 
 # Visualization
 
