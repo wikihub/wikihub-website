@@ -11,6 +11,11 @@ description: Resources for material handling robots
 
 # Utility Vehicles
 
+## Canada
+
+* [Motrec](https://www.motrec.com/)
+* [EVDOALL](https://www.evdoall.com/)
+
 ## Japan
 
 * [Toyota](https://www.toyotaforklift.com/lifts/tow-tractors)
@@ -18,6 +23,16 @@ description: Resources for material handling robots
 * [TCM](http://www.tcm-forklift.jp/products/pallet_trucks/trs30t-estrs60t-es_towing_tractor_sit-on.html)
 * [GSE](http://www.sinfo-t.jp/eng/product_info/gse/toe.htm)
 
+# Sweden
+
+* [Kalmar Motor AB](https://kalmarmotor.com/en/products/tow-tractors/fb-150/)
+
+# USA
+
+* [Taylor Dunn](https://www.taylor-dunn.com/en-us/)
+* [Packmule](http://packmule.com/)
+
 # Components
 
 * [Bosch Engineering](https://www.bosch-engineering.jp/en/de/specials_1/off_highway_electric_drive/off_highway_electric_drive_1.html)
+* [UQM](https://www.uqm.com/English/home/default.aspx)
