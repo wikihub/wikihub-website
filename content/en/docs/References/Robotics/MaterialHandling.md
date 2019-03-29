@@ -16,6 +16,10 @@ description: Resources for material handling robots
 * [Motrec](https://www.motrec.com/)
 * [EVDOALL](https://www.evdoall.com/)
 
+## China
+
+* [Hangcha](http://www.hcforklift.com/?portfolio=electric-tow-tractor-10-15t)
+
 ## Germany
 
 * [Volk](https://www.volk.de/en/start_en/)
