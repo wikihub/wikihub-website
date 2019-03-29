@@ -23,6 +23,10 @@ description: News and information about ROS and its applications
 
 * [Cosi119a - Autonomous Robotics Lab](http://campusrover.org.s3-website-us-west-2.amazonaws.com/)
 
+# AWS RoboMaker
+
+* [Deep Racer](https://github.com/aws-robotics/aws-robomaker-sample-application-deepracer)
+
 # Docker
 
 * [ROS GUI Tutorials on Docker](http://wiki.ros.org/docker/Tutorials/GUI)
