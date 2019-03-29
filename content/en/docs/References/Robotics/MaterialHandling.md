@@ -16,6 +16,16 @@ description: Resources for material handling robots
 * [Motrec](https://www.motrec.com/)
 * [EVDOALL](https://www.evdoall.com/)
 
+## Germany
+
+* [Volk](https://www.volk.de/en/start_en/)
+
+## Italy
+
+* [Alke'](https://www.alke.com/electric-vehicles)
+* [ATA Motors](https://www.ata-modena.com/en/prodotti/ata-e200/?portfolioCats=43%2C44%2C46)
+* [SIMAI](https://www.simai.it/en/concept-simai-2/)
+
 ## Japan
 
 * [Toyota](https://www.toyotaforklift.com/lifts/tow-tractors)
@@ -31,6 +41,7 @@ description: Resources for material handling robots
 
 * [Taylor Dunn](https://www.taylor-dunn.com/en-us/)
 * [Packmule](http://packmule.com/)
+* [Hyster](https://www.hyster.com/north-america/en-us/products/overview/tow-tractors/https://www.hyster.com/north-america/en-us/products/overview/tow-tractors/)
 
 # Components
 
