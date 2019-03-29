@@ -41,6 +41,10 @@ description: Resources for material handling robots
 
 * [Kalmar Motor AB](https://kalmarmotor.com/en/products/tow-tractors/fb-150/)
 
+## UK
+
+* [Still](https://www.still.co.uk/platforms-tractors.0.0.html)
+
 ## USA
 
 * [Taylor Dunn](https://www.taylor-dunn.com/en-us/)
