@@ -50,6 +50,7 @@ description: Resources for material handling robots
 * [Taylor Dunn](https://www.taylor-dunn.com/en-us/)
 * [Packmule](http://packmule.com/)
 * [Hyster](https://www.hyster.com/north-america/en-us/products/overview/tow-tractors/https://www.hyster.com/north-america/en-us/products/overview/tow-tractors/)
+* [Yale](https://www.yale.com/emea/en-gb/our-products/product-overview/tow-tractors/)
 
 ## Used
 
