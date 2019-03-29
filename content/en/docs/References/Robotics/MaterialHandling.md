@@ -45,5 +45,11 @@ description: Resources for material handling robots
 
 # Components
 
+## Motors
+
 * [Bosch Engineering](https://www.bosch-engineering.jp/en/de/specials_1/off_highway_electric_drive/off_highway_electric_drive_1.html)
 * [UQM](https://www.uqm.com/English/home/default.aspx)
+
+## Battery
+
+* [Battery Japan](https://www.battery.co.jp/)
