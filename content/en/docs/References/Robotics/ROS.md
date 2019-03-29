@@ -25,6 +25,7 @@ description: News and information about ROS and its applications
 
 # AWS RoboMaker
 
+* [RoboMaker Documentation](https://docs.aws.amazon.com/robomaker/latest/dg/what-is-robomaker.html)
 * [Deep Racer](https://github.com/aws-robotics/aws-robomaker-sample-application-deepracer)
 
 # Docker
