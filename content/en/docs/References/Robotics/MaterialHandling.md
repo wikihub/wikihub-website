@@ -37,15 +37,19 @@ description: Resources for material handling robots
 * [TCM](http://www.tcm-forklift.jp/products/pallet_trucks/trs30t-estrs60t-es_towing_tractor_sit-on.html)
 * [GSE](http://www.sinfo-t.jp/eng/product_info/gse/toe.htm)
 
-# Sweden
+## Sweden
 
 * [Kalmar Motor AB](https://kalmarmotor.com/en/products/tow-tractors/fb-150/)
 
-# USA
+## USA
 
 * [Taylor Dunn](https://www.taylor-dunn.com/en-us/)
 * [Packmule](http://packmule.com/)
 * [Hyster](https://www.hyster.com/north-america/en-us/products/overview/tow-tractors/https://www.hyster.com/north-america/en-us/products/overview/tow-tractors/)
+
+## Used
+
+* [Truck1.eu](https://www.truck1.eu/material-handling-equipment/tow-tractors)
 
 # Components
 
