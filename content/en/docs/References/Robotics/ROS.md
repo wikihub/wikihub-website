@@ -59,6 +59,10 @@ description: News and information about ROS and its applications
 * [RBCar](https://github.com/RobotnikAutomation/rbcar_sim)
 * [Autonomous Vehicle Control Documentation](https://media.readthedocs.org/pdf/phddocs/latest/phddocs.pdf)
 
+# Control Toolbox
+
+* [ROS Controls](https://github.com/ros-controls)
+
 # Visualization
 
 * [Worldview](https://medium.com/cruise/introducing-worldview-749aaf98112d)
