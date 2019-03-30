@@ -32,6 +32,7 @@ description: News and information about ROS and its applications
 
 # Docker
 
+* [ROS-devel](https://github.com/Alabate/ros-devel)
 * [ROS GUI Tutorials on Docker](http://wiki.ros.org/docker/Tutorials/GUI)
 * [ROS Docker demos](https://github.com/ruffsl/ros_docker_demos)
 * [Udacity RoboND Docker container](https://github.com/bpinaya/robond-docker)
