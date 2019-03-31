@@ -10,3 +10,8 @@ description: Resources for startups
 ## Campus-Linked Accelerators
 
 * [Design Fabrication Zone](https://dfz.ryerson.ca/)
+   * [Taiga Robotics](https://dfz.ryerson.ca/portfolio/taiga-robotics/)
+   
+# China
+
+* [China Canada Angels Alliance](http://www.cc-angels.com/wp/)
