@@ -50,6 +50,7 @@ description: Resources for robotics
 - [FOMM](https://fomm.co.th/en/)
 
 ## Multi-Agent Reinforcement Learning
+
 - [DeepMind Lab](https://github.com/deepmind/lab)
 - [Project Malmo](https://www.microsoft.com/en-us/research/project/project-malmo/)
 - [ViZDoom](http://vizdoom.cs.put.edu.pl/)
@@ -69,8 +70,9 @@ description: Resources for robotics
 
 # Robotics Projects
 
-- [H2020 Project CENTAURO](https://www.centauro-project.eu/)
-- [eu ROBOTICS](https://www.eu-robotics.net/)
+* [H2020 Project CENTAURO](https://www.centauro-project.eu/)
+* [eu ROBOTICS](https://www.eu-robotics.net/)
+* [H2020 Robotics Projects 2016](https://ec.europa.eu/programmes/horizon2020/en/news/new-horizon-2020-robotics-projects-2016)
 
 # Robot Controllers
 
