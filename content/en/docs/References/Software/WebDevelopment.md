@@ -42,6 +42,10 @@ description: News and information about web development technologies
 
 * [Create fast loading, highly readable, and 100% responsive interfaces with as little css as possible](http://tachyons.io/docs/)
 
+# Vector Graphics
+
+* [Vectr](https://vectr.com)
+
 # Tools
 - [Stacker](https://stacker.app)
 - [Convox](https://convox.com)
