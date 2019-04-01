@@ -9,6 +9,33 @@ description: Resources for robotics
 * [Robohub](https://robohub.org/)
 * [Robotics Weekly](https://weeklyrobotics.com/)
 
+# Applications
+
+## Agriculture
+
+## Horticulture
+
+* [Harvey HV100](https://robohub.org/harvey-a-working-robot-for-container-crops/)
+   * [Nursery Robot](https://youtu.be/waa9DOaaTA4)
+   * [Robots on the Plant Farm](https://youtu.be/Ls7aBKS2A4Y)
+   * [Growing plants with a little help from our robotic friends](https://youtu.be/swbDwlKPjKE)
+   * [Bailey Nurseries, Yamhill OR: Deep Gravel with HV-100 Part 1](https://youtu.be/nax--FnA3v4)
+   * [Bailey Nurseries, Yamhill OR: Deep Gravel with HV-100 Part 2](https://www.youtube.com/watch?v=nmzwR6XcLIE)
+   * [Robots in Horticulture](https://youtu.be/No39rPOqwrg)
+   * [Dewar Nurseries, FL: HV-100 Robots Consolidate Plants with the Sprinklers On](https://youtu.be/DCzAOwddFZw)
+   * [Robot Plant Movers](https://youtu.be/CYbVdwTtb6o)
+   * [Little plant movers, Robots in action](https://youtu.be/x6WilKKbXog)
+   * [Robot Farming and the Future of Food: Hard Work on Wheels](https://youtu.be/HIpelnM1NBE)
+   * [Nursery Robot in Action](https://www.youtube.com/watch?v=-k7JTfVgjAI)
+   * [Harvest Automation's HV-100 robots space plants at Altman Plants in CA](https://youtu.be/p4J8TPOP-OM)
+   * [Dewar Nurseries, FL 4 HV-100 Robots Space Plants with the Sprinklers On](https://youtu.be/FhtSbPOEnrQ)
+   * [McCorkle Nursery Gives a Glimpse into the Future](https://youtu.be/KkubZ7novI4)
+   * [Harvest Automation's HV-100 Robots spacing plants at McCorkle time-lapse](https://youtu.be/S0pQpgrSoDE)
+   * [Harvest Automation Robots spacing plants at McCorkle Nurseries](https://www.youtube.com/watch?v=uVb8wMULpPs)
+   * [Plant Spacing robots at Bailey Nursery (APGA 2015)](https://youtu.be/QD7m2ociG60)
+   * [KSTP/ABC Bailey Nursery Uses Harvest Automation Robots for Time Consuming, Dull Job](https://youtu.be/tm8-nEkX6mc)
+   * [Robots moving plants at Color Spot Nursery in San Antonio](https://www.youtube.com/watch?v=YjGwRuL649k)
+
 # Platforms
 
 ## Mobile Robots
