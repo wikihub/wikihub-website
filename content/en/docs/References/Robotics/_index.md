@@ -7,6 +7,7 @@ description: Resources for robotics
 # Robotics News
 * [Robotics Report](https://www.therobotreport.com/)
 * [Robohub](https://robohub.org/)
+* [Robotics Weekly](https://weeklyrobotics.com/)
 
 # Platforms
 
