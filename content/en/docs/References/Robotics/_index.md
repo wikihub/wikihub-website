@@ -80,6 +80,10 @@ description: Resources for robotics
 * [SPARC](https://eu-robotics.net/sparc/)
    * [RODIN Robotics](https://rodin-robotics.eu/)
 
+## Indiegogo
+
+* [Tree Rover](https://www.indiegogo.com/projects/treerover-a-tree-planting-robot#/)
+
 # Robot Controllers
 
 - [Acutronic](https://acutronicrobotics.com/)
