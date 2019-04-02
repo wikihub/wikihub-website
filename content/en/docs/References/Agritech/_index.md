@@ -13,6 +13,10 @@ description: Applications of technology in agriculture
 
 * [Donkey](https://www.weterings.nl/en/machines-and-accessories/electric-tow-trucks/donkey-te-20-electric-tractor)
 
+# Tools
+
+* [Yara Precision Farming](https://www.yara.com/crop-nutrition/products-and-solutions/precision-farming/)
+
 # Urban Farming
 
 * [Local Sprouts](http://www.localsprout.com/)
