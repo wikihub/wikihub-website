@@ -12,6 +12,7 @@ description: Applications of technology in agriculture
 # Machines
 
 * [Donkey](https://www.weterings.nl/en/machines-and-accessories/electric-tow-trucks/donkey-te-20-electric-tractor)
+* [Cushman® Tug™ in a Greenhouse Facility](https://www.youtube.com/watch?v=f_1E1UpM8_I)
 
 # Tools
 
