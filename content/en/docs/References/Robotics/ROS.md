@@ -121,3 +121,7 @@ In this example, we will build and bundle the hello world simulation workspace f
 
 # Amazon
 - [RoboMaker](https://aws.amazon.com/robomaker/)
+
+# ROS Based Products
+
+* [Autonomy kit](https://www.clearpathrobotics.com/autonomy-research-kit/)
