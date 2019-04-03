@@ -125,3 +125,4 @@ In this example, we will build and bundle the hello world simulation workspace f
 # ROS Based Products
 
 * [Autonomy kit](https://www.clearpathrobotics.com/autonomy-research-kit/)
+* [AStuff Autonomy Starter Kit](https://autonomoustuff.com/product/autonomy-starter-kit/)
