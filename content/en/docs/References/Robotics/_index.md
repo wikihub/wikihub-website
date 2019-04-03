@@ -46,6 +46,7 @@ description: Resources for robotics
     * [Linorobot Google Group](https://groups.google.com/forum/#!forum/linorobot)
 * [Servosila](https://www.servosila.com/en/)
 * [Earth Explorer](http://www.sampson-jeff.com/eep/)
+* [ZEUS Robot](http://www.nicltd.co.uk/zeus-ultimate-modular-unmanned-ground-vehicle/zeus-ugv-modularity/)
 
 ## Delivery Robots
 
