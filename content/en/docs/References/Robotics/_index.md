@@ -65,12 +65,12 @@ description: Resources for robotics
 
 ## Industrial Tow Tractors
 
-* [AGT Electric Cars in Canada](https://www.agtecars.com/)
-* [Pack Mule: Electric Industrial Vehicles](http://packmule.com/?gclid=EAIaIQobChMI-_6sxoK_4AIVjlcNCh1h-gMZEAAYAiAAEgIQPPD_BwE)
-* [Commercial & Industrial Vehicles: Burden Carriers, Tow Tractors, Carts, Stockchasers, Trailers | Taylor-Dunn](https://www.taylor-dunn.com/en-us/vehicles/)
+* [Taylor-Dunn](https://www.taylor-dunn.com/en-us/vehicles/)
 * [Motrec](https://www.motrec.com/)
-* [EVDOALL](https://www.evdoall.com/)
+* [Pack Mule: Electric Industrial Vehicles](http://packmule.com/?gclid=EAIaIQobChMI-_6sxoK_4AIVjlcNCh1h-gMZEAAYAiAAEgIQPPD_BwE)
 * [Alke](https://www.alke.com/electric-vehicles)
+* [AGT Electric Cars in Canada](https://www.agtecars.com/)
+* [EVDOALL](https://www.evdoall.com/)
 
 ## Electric Vehicles
 
