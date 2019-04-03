@@ -55,6 +55,7 @@ description: Resources for material handling robots
 ## Used
 
 * [Truck1.eu](https://www.truck1.eu/material-handling-equipment/tow-tractors)
+* [Lift Depot](http://liftdepot.com/)
 
 # Components
 
