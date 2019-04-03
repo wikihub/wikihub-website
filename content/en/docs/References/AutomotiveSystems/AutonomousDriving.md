@@ -89,3 +89,6 @@ description: News and information about autonomous driving
 * [Kia has introduced the launch of a new sub-brand, ‘DRIVE WISE’, to encompass its future Advanced Driver Assistance Systems (ADAS). DRIVE WISE embodies Kia’s philosophy to realize intelligently safe vehicles featuring Kia’s latest and forthcoming ADAS technologies. Kia recently announced plans to manufacturer partially-autonomous cars by 2020, and aims to bring its first fully-autonomous vehicle to market by 2030.](https://www.youtube.com/watch?v=9-oS0iqo7X0)
 * [Self Racing Cars, May 28-29 2016](https://www.youtube.com/watch?v=tomJxZ5Rb2E)
 
+# Autonomy Kits
+
+* [AUTONOMOUS GROUND RESUPPLY AUTONOMY KIT](http://gvsets.ndia-mich.org/documents/AGS/2018/AUTONOMOUS%20GROUND%20RESUPPLY%20AUTONOMY%20KIT.pdf)
