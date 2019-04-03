@@ -96,6 +96,7 @@ description: Resources for robotics
 
 * [Sony AI Robotics](https://www.sony.net/SonyInfo/CorporateInfo/newbusiness/AI_Robotics/)
 * [Robotic Research](https://www.roboticresearch.com/)
+* [ASi Robots](https://www.asirobots.com/)
 
 # Robotics Projects
 
