@@ -71,6 +71,7 @@ description: News and information about autonomous driving
    * [Emilio Frazzoli, CTO, nuTonomy - MIT Self-Driving Cars](https://youtu.be/dWSbItd0HEA)
 * [aimotive](https://aimotive.com/)
 * [nexar](https://www.getnexar.com/)
+* [Pix](https://www.pixmoving.com/)
 * [zoox](http://zoox.com/)
 
 # Experiments
