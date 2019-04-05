@@ -25,6 +25,10 @@ description: News and information about ROS and its applications
 * [Hello Real World with ROS](https://online-learning.tudelft.nl/courses/hello-real-world-with-ros-robot-operating-systems/)
 * [Cosi119a - Autonomous Robotics Lab](http://campusrover.org.s3-website-us-west-2.amazonaws.com/)
 
+## Books
+
+* [Mastering ROS for Robotics Programming - Second Edition](https://subscription.packtpub.com/book/hardware_and_creative/9781788478953)
+
 # AWS RoboMaker
 
 * [RoboMaker Documentation](https://docs.aws.amazon.com/robomaker/latest/dg/what-is-robomaker.html)
