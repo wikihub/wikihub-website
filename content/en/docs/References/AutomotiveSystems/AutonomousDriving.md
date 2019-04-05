@@ -22,6 +22,7 @@ description: News and information about autonomous driving
 * [Software for online vehicle verification](http://www6.in.tum.de/Main/SoftwareOnlineVehicleVerification)
 * [APEX](http://repository.upenn.edu/cgi/viewcontent.cgi?article=1098&context=mlab_papers)
 * [Autoware](https://github.com/CPFL/Autoware)
+   * [Autoware Tutorial](https://github.com/pixmoving-moveit/Autoware_tutorial)
 * [BARC - Berkeley](http://www.barc-project.com/)
 * [Automated Driving](https://automatedcars.space/)
 
