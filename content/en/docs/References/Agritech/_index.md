@@ -9,6 +9,10 @@ description: Applications of technology in agriculture
 * [SIMA](https://en.simaonline.com/)
 * [Cultivate 2019](http://www.cultivate19.org/)
 
+# Robots
+
+* [Augean Robotics](http://www.augeanrobotics.com)
+
 # Machines
 
 * [Donkey](https://www.weterings.nl/en/machines-and-accessories/electric-tow-trucks/donkey-te-20-electric-tractor)
