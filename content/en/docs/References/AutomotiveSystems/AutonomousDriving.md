@@ -38,6 +38,14 @@ description: News and information about autonomous driving
 * [OpenDLV](http://www.opendlv.org/)
 * [Ahura](https://sites.google.com/site/mohammadrezabonyadi/standarddatabases/simulated-car-racing)
 
+### Autoware
+
+* [Autoware](https://www.autoware.auto/)
+* [Autoware Foundation](https://github.com/autowarefoundation)
+* [Open Source Integrated Planner for Autonomous Navigation in Highly Dynamic Environments](https://www.fujipress.jp/jrm/rb/robot002900040668/)
+* [Hatem Darweesh GitHub](https://github.com/hatem-darweesh)
+* [Hatem Darweesh YouTube](https://www.youtube.com/channel/UCl1UROdErP1m2t_eiLLcl8w)
+
 # People
 
 * [George Hotz on Comma.AI and the state of self-driving cars](https://www.youtube.com/watch?v=Hxoke1lDJ9w)
