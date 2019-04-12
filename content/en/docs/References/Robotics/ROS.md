@@ -98,12 +98,6 @@ In this example, we will build and bundle the hello world simulation workspace f
 * [AI2THOR](http://ai2thor.allenai.org/)
 * [HoME](https://github.com/HoME-Platform/home-platform)
 
-# Autonomous Vehicles
-
-* [RBCar](https://github.com/RobotnikAutomation/rbcar_sim)
-* [Autonomous Vehicle Control Documentation](https://media.readthedocs.org/pdf/phddocs/latest/phddocs.pdf)
-* [Moving Community - Pix](https://github.com/pixmoving-moveit)
-
 # Robots
 
 * [K-Team](http://www.k-team.com/)
