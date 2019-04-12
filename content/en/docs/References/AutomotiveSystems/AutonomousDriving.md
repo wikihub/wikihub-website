@@ -26,6 +26,12 @@ description: News and information about autonomous driving
 * [BARC - Berkeley](http://www.barc-project.com/)
 * [Automated Driving](https://automatedcars.space/)
 
+# Autonomous Vehicles
+
+* [RBCar](https://github.com/RobotnikAutomation/rbcar_sim)
+* [Autonomous Vehicle Control Documentation](https://media.readthedocs.org/pdf/phddocs/latest/phddocs.pdf)
+* [Moving Community - Pix](https://github.com/pixmoving-moveit)
+
 ## Open Source
 
 * [Apollo](http://apollo.auto/)
