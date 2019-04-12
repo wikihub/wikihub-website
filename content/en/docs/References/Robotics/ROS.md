@@ -104,6 +104,10 @@ In this example, we will build and bundle the hello world simulation workspace f
 * [Autonomous Vehicle Control Documentation](https://media.readthedocs.org/pdf/phddocs/latest/phddocs.pdf)
 * [Moving Community - Pix](https://github.com/pixmoving-moveit)
 
+# Robots
+
+* [K-Team](http://www.k-team.com/)
+
 # Control Toolbox
 
 * [ROS Controls](https://github.com/ros-controls)
