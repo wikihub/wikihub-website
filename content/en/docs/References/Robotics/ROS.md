@@ -28,6 +28,7 @@ description: News and information about ROS and its applications
 ## Books
 
 * [Mastering ROS for Robotics Programming - Second Edition](https://subscription.packtpub.com/book/hardware_and_creative/9781788478953)
+* [Springer book on Robot Operating System (ROS)](http://www.riotu-lab.org/rosbook/)
 
 # AWS RoboMaker
 
