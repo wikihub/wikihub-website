@@ -59,6 +59,7 @@ description: Resources for robotics
 ## Industrial Manipulators
 
 * [Synapticon](https://www.synapticon.com/)
+* [RE2](http://www.resquared.com/)
 
 ## Legged Robots
 
