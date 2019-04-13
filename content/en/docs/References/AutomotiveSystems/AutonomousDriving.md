@@ -25,6 +25,8 @@ description: News and information about autonomous driving
    * [Autoware Tutorial](https://github.com/pixmoving-moveit/Autoware_tutorial)
 * [BARC - Berkeley](http://www.barc-project.com/)
 * [Automated Driving](https://automatedcars.space/)
+* [CARLA](http://carla.org/)
+* [Apollo Open Platform](http://apollo.auto/developer.html)
 
 # Autonomous Vehicles
 
