@@ -48,6 +48,7 @@ description: News and information about autonomous driving
 
 * [Autoware](https://www.autoware.auto/)
 * [Autoware Foundation](https://github.com/autowarefoundation)
+* [Autoware Foundation Announcement](https://www.tier4.jp/en/news/20181210-awf/)
 * [Open Source Integrated Planner for Autonomous Navigation in Highly Dynamic Environments](https://www.fujipress.jp/jrm/rb/robot002900040668/)
 * [Hatem Darweesh GitHub](https://github.com/hatem-darweesh)
 * [Hatem Darweesh YouTube](https://www.youtube.com/channel/UCl1UROdErP1m2t_eiLLcl8w)
