@@ -85,11 +85,6 @@ description: Resources for robotics
 - [Project Malmo](https://www.microsoft.com/en-us/research/project/project-malmo/)
 - [ViZDoom](http://vizdoom.cs.put.edu.pl/)
 
-## Autonomous Driving
-
-* [CARLA](http://carla.org/)
-* [Apollo Open Platform](http://apollo.auto/developer.html)
-
 ## Game Engine
 
 - [Panda3D](https://www.panda3d.org/)
@@ -112,6 +107,7 @@ description: Resources for robotics
 * [H2020 Project CENTAURO](https://www.centauro-project.eu/)
 * [H2020 Robotics Projects 2016](https://ec.europa.eu/programmes/horizon2020/en/news/new-horizon-2020-robotics-projects-2016)
 * [EU Robotics](https://www.eu-robotics.net/)
+* [RobMoSys](https://robmosys.eu/wiki/start)
 * [SPARC](https://eu-robotics.net/sparc/)
    * [RODIN Robotics](https://rodin-robotics.eu/)
 
