@@ -25,6 +25,11 @@ description: News and information about cloud computing and its applications
 * [Gnome VNC](https://cloudcone.com/docs/article/install-desktop-vnc-ubuntu-16-04/)
 * Change shell for user: `$ sudo usermod -s /bin/bash username`
 
+## OpenGL on EC2
+
+* [Running OpenGL GUI Apps on AWS GPU EC2 instances](https://github.com/rncry/Cookbook/blob/master/Running%20OpenGL%20GUI%20Apps%20on%20AWS%20GPU%20EC2%20instances)
+* [How to setup VirtualGL and TurboVNC on Ubuntu](https://gist.github.com/cyberang3l/422a77a47bdc15a0824d5cca47e64ba2)
+
 # Google Cloud Platform
 
 - [Awesome Google Cloud](https://github.com/GoogleCloudPlatform/awesome-google-cloud)
