@@ -6,6 +6,10 @@ weight: 50
 description: News and information about simulation and 3D virtual environments
 ---
 
+# OpenGL
+
+* [Linux GPU Benchmark](https://www.howtoforge.com/tutorial/linux-gpu-benchmark/)
+
 # Web
 
 * [Bodylight.js](https://creative-connections.github.io/bodylight.js/)
