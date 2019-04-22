@@ -28,6 +28,15 @@ description: News and information about autonomous driving
 * [CARLA](http://carla.org/)
 * [Apollo Open Platform](http://apollo.auto/developer.html)
 
+# Canada
+
+* [CAVCOE](http://www.cavcoe.com/index.html)
+* [AVIN](https://www.avinhub.ca/)
+* [CAVI](https://www.unmannedsystems.ca/canadian-automated-vehicles-institute-launched/)
+* [Ottawa Cluster](https://www.ottawaavcluster.com/)
+* [CAV Canada](https://www.cavcanada.ca/)
+* [Canada's First AV Technology Directory](https://www.investottawa.ca/blog/canadas-first-av-technology-and-innovator-directory-announced/)
+
 # Autonomous Vehicles
 
 * [RBCar](https://github.com/RobotnikAutomation/rbcar_sim)
