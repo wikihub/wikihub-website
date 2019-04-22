@@ -36,6 +36,7 @@ description: News and information about autonomous driving
 * [Ottawa Cluster](https://www.ottawaavcluster.com/)
 * [CAV Canada](https://www.cavcanada.ca/)
 * [Canada's First AV Technology Directory](https://www.investottawa.ca/blog/canadas-first-av-technology-and-innovator-directory-announced/)
+* [BLACKBERRY launches security system for autonomous vehicles](https://betakit.com/blackberry-launches-security-system-for-autonomous-vehicles/)
 
 # Autonomous Vehicles
 
