@@ -48,6 +48,7 @@ description: Resources for robotics
 * [Earth Explorer](http://www.sampson-jeff.com/eep/)
 * [ZEUS Robot](http://www.nicltd.co.uk/zeus-ultimate-modular-unmanned-ground-vehicle/zeus-ugv-modularity/)
 * [RMP 210](https://stanleyinnovation.com/products-services/robotics/robotic-mobility-platforms/passive-stability/)
+* [Magni](https://store.ubiquityrobotics.com/)
 
 ## Delivery Robots
 
