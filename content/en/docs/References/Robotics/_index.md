@@ -47,6 +47,7 @@ description: Resources for robotics
 * [Servosila](https://www.servosila.com/en/)
 * [Earth Explorer](http://www.sampson-jeff.com/eep/)
 * [ZEUS Robot](http://www.nicltd.co.uk/zeus-ultimate-modular-unmanned-ground-vehicle/zeus-ugv-modularity/)
+* [RMP 210](https://stanleyinnovation.com/products-services/robotics/robotic-mobility-platforms/passive-stability/)
 
 ## Delivery Robots
 
