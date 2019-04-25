@@ -69,4 +69,8 @@ description: News and information about simulation and 3D virtual environments
 * [PIX4D](https://www.pix4d.com/industry/real-estate)
 * [Matter Port: 3D Capture for All](https://matterport.com/)
 * [Extreme Measures](https://www.xmeasures.com)
+
+## Drone Mapping Services
+
+* [The Sky Guys](https://theskyguys.ca/)
 * [Drone based LiDAR](https://www.precisionhawk.com/blog/media/topic/drone-based-lidar-know)
