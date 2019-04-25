@@ -50,3 +50,9 @@ description: News and information about simulation and 3D virtual environments
 
 * [IBM Smart Manufacturing Technology](https://www.ibm.com/industries/manufacturing/smart-manufacturing-technology)
 * [Octopuz](https://octopuz.com/)
+
+# 3D Modeling
+
+* [PIX4D](https://www.pix4d.com/industry/real-estate)
+* [Matter Port: 3D Capture for All](https://matterport.com/)
+* [Extreme Measures](https://www.xmeasures.com)
