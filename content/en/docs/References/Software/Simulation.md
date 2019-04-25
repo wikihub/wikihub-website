@@ -53,6 +53,20 @@ description: News and information about simulation and 3D virtual environments
 
 # 3D Modeling
 
+## LiDAR
+
+* [LiDAR Sensors](https://3dinsider.com/lidar-sensors/)
+
+## GoPro 3D
+
+* [GoPro 3D Hero System](https://www.thevisorshop.com/en/GoPro-3D-Hero-System/m-16073.aspx)
+* [GoPro Dual HERO System for HERO3+](https://www.amazon.ca/GoPro-System-HERO3-Camera-included/dp/B00J9RO4U2)
+* [GoPro Nippon Japanese Regular Edition](https://www.amazon.ca/GoPro-Japanese-Regular-Premium-Accessory/dp/B004VQAZ54)
+
+## 3D Scanning Service
+
+* [EllisDon](http://www.ellisdon.com/subservice/3d-scanning/)
 * [PIX4D](https://www.pix4d.com/industry/real-estate)
 * [Matter Port: 3D Capture for All](https://matterport.com/)
 * [Extreme Measures](https://www.xmeasures.com)
+* [Drone based LiDAR](https://www.precisionhawk.com/blog/media/topic/drone-based-lidar-know)
