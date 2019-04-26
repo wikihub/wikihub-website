@@ -86,3 +86,7 @@ description: News and information about simulation and 3D virtual environments
 
 * [The Sky Guys](https://theskyguys.ca/)
 * [Drone based LiDAR](https://www.precisionhawk.com/blog/media/topic/drone-based-lidar-know)
+
+# Computational 3D Object Manipulation 
+
+* [GLVisualize](https://github.com/JuliaGL/GLVisualize.jl)
