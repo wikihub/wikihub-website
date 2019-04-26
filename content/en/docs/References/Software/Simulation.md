@@ -70,6 +70,14 @@ description: News and information about simulation and 3D virtual environments
 * [Matter Port: 3D Capture for All](https://matterport.com/)
 * [Extreme Measures](https://www.xmeasures.com)
 
+### Vancouver
+
+* [Scanlab](https://scanlab.ca/)
+* [WSP](https://www.wsp.com/en-CA/services/3d-laser-scanning)
+* [Underhill](http://www.underhill.ca/land-surveying-service/4/3d-laser-scanning)
+* [3D RevEng](http://www.3dreveng.com/)
+* [Corel3D](http://corbel3d.com/)
+
 ## Drone Mapping Services
 
 * [The Sky Guys](https://theskyguys.ca/)
