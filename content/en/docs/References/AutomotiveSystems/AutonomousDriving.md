@@ -40,6 +40,7 @@ description: News and information about autonomous driving
 
 # Autonomous Vehicles
 
+* [AnnieWAY](https://www.mrt.kit.edu/annieway/)
 * [RBCar](https://github.com/RobotnikAutomation/rbcar_sim)
 * [Autonomous Vehicle Control Documentation](https://media.readthedocs.org/pdf/phddocs/latest/phddocs.pdf)
 * [Moving Community - Pix](https://github.com/pixmoving-moveit)
@@ -123,3 +124,19 @@ description: News and information about autonomous driving
 # Autonomy Kits
 
 * [AUTONOMOUS GROUND RESUPPLY AUTONOMY KIT](http://gvsets.ndia-mich.org/documents/AGS/2018/AUTONOMOUS%20GROUND%20RESUPPLY%20AUTONOMY%20KIT.pdf)
+
+# Perception
+
+* [3D Scene Reconstruction Using Omnidirectional Vision and LiDAR: A Hybrid Approach](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5134582/)
+* [Kitti Vision Benchmark](http://www.cvlibs.net/datasets/kitti/)
+* [MapGMU](http://masc.cs.gmu.edu/wiki/MapGMU)
+* [Kitti LiDAR](https://navoshta.com/kitti-lidar/)
+
+## Cameras
+
+* [Ladybug](https://www.ptgrey.com/ladybug5-360-degree-usb3-spherical-camera-systems)
+
+## LiDAR
+
+* [LiDAR sensors](https://3dinsider.com/lidar-sensors/)
+
