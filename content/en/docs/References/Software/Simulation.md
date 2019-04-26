@@ -53,6 +53,10 @@ description: News and information about simulation and 3D virtual environments
 
 # 3D Modeling
 
+## 3D Reconstruction 
+
+* [Capturing Reality](https://www.capturingreality.com)
+
 ## LiDAR
 
 * [LiDAR Sensors](https://3dinsider.com/lidar-sensors/)
