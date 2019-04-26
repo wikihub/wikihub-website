@@ -89,4 +89,4 @@ description: News and information about simulation and 3D virtual environments
 
 # Computational 3D Object Manipulation 
 
-* [GLVisualize](https://github.com/JuliaGL/GLVisualize.jl)
+* [Makie](https://github.com/JuliaPlots/Makie.jl)
