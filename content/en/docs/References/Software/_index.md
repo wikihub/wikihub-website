@@ -6,6 +6,11 @@ description: Software resources
 ---
 
 # Linux
+
+## Libraries
+
+* Find different versions of libraries in a file: strings /usr/lib/x86_64-linux-gnu/libstdc++.so.6 | grep CXXABI
+
 ## Distribution
 
 * [Ubuntu — Show Version Number (Command Line and Unity)](https://www.hostingadvice.com/how-to/ubuntu-show-version/)
