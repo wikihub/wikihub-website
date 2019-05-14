@@ -8,6 +8,7 @@ description: News and information about sensors
 # GPS
 
 * [simpleRTK2B](https://www.kickstarter.com/projects/simplertk2b/simplertk2b-the-first-multiband-rtk-shield-based-o)
+* [NavSpark](http://navspark.mybigcommerce.com/)
 
 # LiDAR
 
