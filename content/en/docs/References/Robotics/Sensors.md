@@ -13,6 +13,7 @@ description: News and information about sensors
 * [ArduPilot GPS](http://ardupilot.org/rover/docs/common-positioning-landing-page.html)
 * [RTKLIB](http://rtklib.com/)
 * [Emlid](https://store.emlid.com/)
+* [ublox M8P](https://www.u-blox.com/en/product/neo-m8p-series)
 
 # LiDAR
 
