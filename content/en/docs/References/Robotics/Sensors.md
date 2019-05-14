@@ -12,6 +12,7 @@ description: News and information about sensors
 * [NavSpark](http://navspark.mybigcommerce.com/)
 * [ArduPilot GPS](http://ardupilot.org/rover/docs/common-positioning-landing-page.html)
 * [RTKLIB](http://rtklib.com/)
+* [Emlid](https://store.emlid.com/)
 
 # LiDAR
 
