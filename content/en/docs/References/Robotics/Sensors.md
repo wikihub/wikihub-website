@@ -7,6 +7,7 @@ description: News and information about sensors
 
 # GPS
 
+* [Spilling the Beans on RTK](http://deepsouthrobotics.com/2017/04/20/spilling-the-beans-on-rtk/)
 * [simpleRTK2B](https://www.kickstarter.com/projects/simplertk2b/simplertk2b-the-first-multiband-rtk-shield-based-o)
 * [NavSpark](http://navspark.mybigcommerce.com/)
 
