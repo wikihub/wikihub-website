@@ -12,3 +12,4 @@ description: News and information about sensors
 # LiDAR
 
 * [Slamtec RPLIDAR A3 360° Laser Scanner](https://www.robotshop.com/ca/en/slamtec-rplidar-a3-360-laser-scanner-25-m.html)
+* [Sweep](https://spectrum.ieee.org/automaton/robotics/robotics-hardware/sweep-lidar-for-robots-and-drones)
