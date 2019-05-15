@@ -14,6 +14,7 @@ description: News and information about sensors
 * [RTKLIB](http://rtklib.com/)
 * [Emlid](https://store.emlid.com/)
 * [ublox M8P](https://www.u-blox.com/en/product/neo-m8p-series)
+* [ublox F9K with IMU](https://www.u-blox.com/en/product/zed-f9k-module)
 * [SwiftNav](https://www.swiftnav.com/store)
 
 # LiDAR
