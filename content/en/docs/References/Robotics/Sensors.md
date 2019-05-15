@@ -14,6 +14,7 @@ description: News and information about sensors
 * [RTKLIB](http://rtklib.com/)
 * [Emlid](https://store.emlid.com/)
 * [ublox M8P](https://www.u-blox.com/en/product/neo-m8p-series)
+* [SwiftNav](https://www.swiftnav.com/store)
 
 # LiDAR
 
