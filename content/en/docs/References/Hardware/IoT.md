@@ -18,4 +18,12 @@ description: News and information about Internet of Things and its applications
 
 # Edge Computing
 
-* [Edge TPU](https://aiyprojects.withgoogle.com/edge-tpu)
+## NVIDIA
+
+* [Jetson](https://developer.nvidia.com/buy-jetson)
+
+## Google 
+
+* [Edge TPU](https://coral.withgoogle.com/)
+
+
