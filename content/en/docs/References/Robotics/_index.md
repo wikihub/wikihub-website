@@ -38,6 +38,10 @@ description: Resources for robotics
 
 # Platforms
 
+## Drones
+
+* [Elroyair](http://www.elroyair.com/)
+
 ## Mobile Robots
 
 * [Clearpath Robotics](https://www.clearpathrobotics.com/)
