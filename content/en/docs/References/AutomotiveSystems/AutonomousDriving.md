@@ -30,6 +30,7 @@ description: News and information about autonomous driving
 
 # Canada
 
+* [Invest in Ontario](https://www.investinontario.com/tags/autonomous-vehicles)
 * [CAVCOE](http://www.cavcoe.com/index.html)
 * [AVIN](https://www.avinhub.ca/)
 * [CAVI](https://www.unmannedsystems.ca/canadian-automated-vehicles-institute-launched/)
@@ -104,6 +105,15 @@ description: News and information about autonomous driving
 * [nexar](https://www.getnexar.com/)
 * [Pix](https://www.pixmoving.com/)
 * [zoox](http://zoox.com/)
+* [Tesla Autopilot](https://www.tesla.com/en_CA/autopilot)
+* [Cadillac Super Cruise](https://www.cadillac.com/world-of-cadillac/innovation/super-cruise)
+* [Waymo](https://waymo.com/)
+* [Volvo Autonomous Driving](https://www.volvocars.com/en-kw/own/own-and-enjoy/autonomous-driving)
+* [Mercedes Benz Autonomous Driving](https://www.mercedes-benz.com/en/mercedes-benz/next/automation/)
+* [BMW Autonomous Driving](https://www.bmw.com/en/automotive-life/autonomous-driving.html)
+* [Huawei Mobile Automation Engine](https://www.huawei.com/en/press-events/news/2018/11/auto-driving-mobile-network-solution-mae)
+* [Toyota Research Institute](https://www.tri.global/research/#Automated%20Driving)
+* [Uber Advanced Technologies Group](https://www.uber.com/info/atg/)
 
 # Experiments
 
