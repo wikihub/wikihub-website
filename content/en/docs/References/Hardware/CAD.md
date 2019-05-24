@@ -16,6 +16,9 @@ description: News and information about rapid prototyping
 * [Plastic World](http://www.plasticworld.ca/)
 
 # 3D Printing
+
+* [Snapmaker](https://www.kickstarter.com/projects/snapmaker/snapmaker-20-modular-3-in-1-3d-printers)
+
 ## Ontario
 
 * [Canada Makes](http://canadamakes.ca/)
