@@ -36,6 +36,10 @@ description: Resources for robotics
    * [KSTP/ABC Bailey Nursery Uses Harvest Automation Robots for Time Consuming, Dull Job](https://youtu.be/tm8-nEkX6mc)
    * [Robots moving plants at Color Spot Nursery in San Antonio](https://www.youtube.com/watch?v=YjGwRuL649k)
 
+## Food
+
+* [Nourish](https://www.nourish.ai/)
+
 # Platforms
 
 ## Drones
