@@ -34,6 +34,7 @@ description: News and information about cloud computing and its applications
 * [Setting up a HW accelerated desktop on AWS G2 instances](https://medium.com/@pigiuz/setting-up-a-hw-accelerated-desktop-on-aws-g2-instances-4b58718a4541)
 * [NVIDIA hardware accelerated box](https://github.com/plumbee/nvidia-hw-accelerated-box)
 * [Cloud Scripts](https://github.com/agisoft-llc/cloud-scripts)
+* [Set up OpenGL on a Ubuntu 16.04](https://gist.github.com/dgoguerra/0f92115664571ca2553754068be8f5c0)
 
 # Google Cloud Platform
 
