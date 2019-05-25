@@ -24,6 +24,7 @@ description: News and information about cloud computing and its applications
 * [It would be good if this worked](https://askubuntu.com/questions/800302/vncserver-grey-screen-ubuntu-16-04-lts)
 * [Gnome VNC](https://cloudcone.com/docs/article/install-desktop-vnc-ubuntu-16-04/)
 * Change shell for user: `$ sudo usermod -s /bin/bash username`
+* [Deploying a 4x4K, GPU-backed Linux desktop instance on AWS](https://aws.amazon.com/blogs/compute/deploying-4k-gpu-backed-linux-desktop-instance-on-aws/)
 
 ## OpenGL on EC2
 
