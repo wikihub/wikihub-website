@@ -26,6 +26,7 @@ description: News and information about cloud computing and its applications
 * Change shell for user: `$ sudo usermod -s /bin/bash username`
 * [Deploying a 4x4K, GPU-backed Linux desktop instance on AWS](https://aws.amazon.com/blogs/compute/deploying-4k-gpu-backed-linux-desktop-instance-on-aws/)
 * [Setting up a HW accelerated desktop on AWS G2 instances](https://medium.com/@pigiuz/setting-up-a-hw-accelerated-desktop-on-aws-g2-instances-4b58718a4541)
+* [NVIDIA hardware accelerated box](https://github.com/plumbee/nvidia-hw-accelerated-box)
 
 ## OpenGL on EC2
 
