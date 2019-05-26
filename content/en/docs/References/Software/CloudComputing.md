@@ -36,6 +36,7 @@ description: News and information about cloud computing and its applications
 * [Cloud Scripts](https://github.com/agisoft-llc/cloud-scripts)
 * [Set up OpenGL on a Ubuntu 16.04](https://gist.github.com/dgoguerra/0f92115664571ca2553754068be8f5c0)
 * [Deploying a 4x4K, GPU-backed Linux desktop instance on AWS](https://aws.amazon.com/blogs/compute/deploying-4k-gpu-backed-linux-desktop-instance-on-aws/)
+* [GPU desktop](https://github.com/rncry/gpu-desktop)
 
 # Google Cloud Platform
 
