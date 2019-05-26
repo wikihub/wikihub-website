@@ -38,6 +38,7 @@ description: News and information about cloud computing and its applications
 * [Deploying a 4x4K, GPU-backed Linux desktop instance on AWS](https://aws.amazon.com/blogs/compute/deploying-4k-gpu-backed-linux-desktop-instance-on-aws/)
 * [GPU desktop](https://github.com/rncry/gpu-desktop)
 * [How to run Unity on Amazon Cloud or without Monitor](https://towardsdatascience.com/how-to-run-unity-on-amazon-cloud-or-without-monitor-3c10ce022639)
+* [Remote accelerated graphics with VirtualGL and TurboVNC](https://summerofhpc.prace-ri.eu/remote-accelerated-graphics-with-virtualgl-and-turbovnc/)
 
 # Google Cloud Platform
 
