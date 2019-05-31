@@ -22,6 +22,10 @@ description: Software resources
 
 - [Mount drives](https://askubuntu.com/questions/285539/detect-and-mount-devices)
 
+## Dual Boot 
+
+* [How Secure Boot Works on Windows 8 and 10, and What It Means for Linux](https://www.howtogeek.com/116569/htg-explains-how-windows-8s-secure-boot-feature-works-what-it-means-for-linux/)
+
 # Docker
 
 * [An Introduction to Docker](http://odewahn.github.io/docker-jumpstart/)
