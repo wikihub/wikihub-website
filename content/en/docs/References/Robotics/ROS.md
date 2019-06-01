@@ -33,6 +33,7 @@ description: News and information about ROS and its applications
 # ROS Tools
 
 * [ROS Show](https://github.com/dheera/rosshow)
+* [Dynamic Reconfigure](http://wiki.ros.org/dynamic_reconfigure)
 
 # AWS RoboMaker
 
