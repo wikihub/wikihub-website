@@ -115,6 +115,7 @@ In this example, we will build and bundle the hello world simulation workspace f
 
 ## Autonomous Driving
 - [CARLA](http://carla.org/)
+- [Prepare a new Ubuntu 16.04 laptop for self driving car study](http://robotcanwrite.com/2017/07/01/to-prepare-a-new-ubuntu-16-04-laptop-for-self-driving-car-study/)
 
 ## Physics Engines
 - [Bullet Physics](https://github.com/bulletphysics/bullet3)
