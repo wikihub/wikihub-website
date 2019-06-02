@@ -7,6 +7,10 @@ description: Software resources
 
 # Linux
 
+## chmod
+
+* [chmod calculator](https://chmod-calculator.com/)
+
 ## Remote desktop
 
 * [Remote server setup for VNC](https://github.com/CDAT/cdat/wiki/Remote-server-setup-for-VNC)
