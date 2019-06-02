@@ -10,6 +10,9 @@ description: Software resources
 ## Remote desktop
 
 * [How to install and configure VNC on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-vnc-on-ubuntu-18-04)
+* [VNC server on EC2](https://askubuntu.com/questions/1068370/vnc-grey-screen-16-04-tightvnc-xfce4-solved)
+* [It would be good if this worked](https://askubuntu.com/questions/800302/vncserver-grey-screen-ubuntu-16-04-lts)
+* [Gnome VNC](https://cloudcone.com/docs/article/install-desktop-vnc-ubuntu-16-04/)
 
 ## Libraries
 
