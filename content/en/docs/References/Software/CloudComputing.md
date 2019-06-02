@@ -13,6 +13,10 @@ description: News and information about cloud computing and its applications
 - [AMPPS](https://www.ampps.com/apps)
 - [Yunohost](https://yunohost.org/#/apps)
 
+# Development Operations
+
+* [opctl](https://opctl.io/docs/)
+
 # Amazon Web Services
 
 # Lambda functions
