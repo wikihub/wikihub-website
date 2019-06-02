@@ -7,6 +7,10 @@ description: Software resources
 
 # Linux
 
+## Remote desktop
+
+* [How to install and configure VNC on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-vnc-on-ubuntu-18-04)
+
 ## Libraries
 
 * Find different versions of libraries in a file: strings /usr/lib/x86_64-linux-gnu/libstdc++.so.6 | grep CXXABI
