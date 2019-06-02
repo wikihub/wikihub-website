@@ -22,6 +22,10 @@ description: News and information about cloud computing and its applications
 
 * Change shell for user: `$ sudo usermod -s /bin/bash username`
 
+## Remote access to EC2
+
+* [AWS virtual bastion](https://github.com/akittana/aws-virtual-bastion)
+
 ## NVIDIA on EC2
 
 * [Install NVIDIA driver](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/install-nvidia-driver.html)
