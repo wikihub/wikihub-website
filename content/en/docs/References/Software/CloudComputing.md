@@ -22,6 +22,10 @@ description: News and information about cloud computing and its applications
 
 * Change shell for user: `$ sudo usermod -s /bin/bash username`
 
+## NVIDIA on EC2
+
+* [Install NVIDIA driver](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/install-nvidia-driver.html)
+
 ## OpenGL on EC2
 
 * [Running OpenGL GUI Apps on AWS GPU EC2 instances](https://github.com/rncry/Cookbook/blob/master/Running%20OpenGL%20GUI%20Apps%20on%20AWS%20GPU%20EC2%20instances)
