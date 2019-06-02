@@ -7,9 +7,10 @@ description: Software resources
 
 # Linux
 
-## chmod
+## Commands
 
 * [chmod calculator](https://chmod-calculator.com/)
+* [jq](https://stedolan.github.io/jq/)
 
 ## Remote desktop
 
