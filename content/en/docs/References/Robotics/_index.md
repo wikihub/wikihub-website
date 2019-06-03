@@ -66,10 +66,16 @@ description: Resources for robotics
 * [Postmates](https://techcrunch.com/2018/12/13/postmates-robot-serve/)
 * [Robby](https://robby.io/)
 
-## Industrial Manipulators
+## Manipulators
 
+* [7bot](https://www.pinecone.ai/)
 * [Synapticon](https://www.synapticon.com/)
 * [RE2](http://www.resquared.com/)
+
+## Mobile Manipulators
+
+* [ROS mobile manipulators](http://www.ros.org/news/robots/mobile-manipulators/)
+* [Universal Robots](http://www.universal-robots.com)
 
 ## Legged Robots
 
