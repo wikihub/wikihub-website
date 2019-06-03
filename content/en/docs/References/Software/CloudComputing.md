@@ -25,6 +25,7 @@ description: News and information about cloud computing and its applications
 # EC2
 
 * Change shell for user: `$ sudo usermod -s /bin/bash username`
+* [EC2 script with for loops](https://github.com/hlupaco/aws-ec2-cmd/blob/master/ec2-cmd.sh)
 
 ## Remote access to EC2
 
