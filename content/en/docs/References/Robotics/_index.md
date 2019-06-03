@@ -71,11 +71,11 @@ description: Resources for robotics
 * [7bot](https://www.pinecone.ai/)
 * [Synapticon](https://www.synapticon.com/)
 * [RE2](http://www.resquared.com/)
+* [Universal Robots](http://www.universal-robots.com)
 
 ## Mobile Manipulators
 
 * [ROS mobile manipulators](http://www.ros.org/news/robots/mobile-manipulators/)
-* [Universal Robots](http://www.universal-robots.com)
 
 ## Legged Robots
 
