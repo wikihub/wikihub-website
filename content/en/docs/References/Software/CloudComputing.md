@@ -6,6 +6,10 @@ weight: 20
 description: News and information about cloud computing and its applications
 ---
 
+# GPU Computing
+
+* [Lambda Labs](https://lambdalabs.com/)
+
 # Self-Hosted Web Applications
 - [Awesome selfhosted](https://github.com/Kickball/awesome-selfhosted)
 - [Sandstorm](https://apps.sandstorm.io/)
