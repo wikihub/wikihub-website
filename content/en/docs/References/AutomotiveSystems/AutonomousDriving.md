@@ -5,6 +5,17 @@ date: 2019-02-22
 description: News and information about autonomous driving
 ---
 
+# Canada
+
+* [Invest in Ontario](https://www.investinontario.com/tags/autonomous-vehicles)
+* [CAVCOE](http://www.cavcoe.com/index.html)
+* [AVIN](https://www.avinhub.ca/)
+* [CAVI](https://www.unmannedsystems.ca/canadian-automated-vehicles-institute-launched/)
+* [Ottawa Cluster](https://www.ottawaavcluster.com/)
+* [CAV Canada](https://www.cavcanada.ca/)
+* [Canada's First AV Technology Directory](https://www.investottawa.ca/blog/canadas-first-av-technology-and-innovator-directory-announced/)
+* [BLACKBERRY launches security system for autonomous vehicles](https://betakit.com/blackberry-launches-security-system-for-autonomous-vehicles/)
+
 # Articles
 
 * [Successful Autonomous Vehicle Design Through Simulation](https://www.facebook.com/communitechpage/videos/342872519899648/UzpfSTEwMDAyOTY4MjQwMzk5MzoxNDQxNTM4NjMyNTA2OTM/)
@@ -27,23 +38,6 @@ description: News and information about autonomous driving
 * [Automated Driving](https://automatedcars.space/)
 * [Apollo Open Platform](http://apollo.auto/developer.html)
 
-# Simulators
-
-* [CARLA](http://carla.org/)
-* [AirSim](https://github.com/microsoft/AirSim)
-* [rFpro](http://www.rfpro.com/)
-
-# Canada
-
-* [Invest in Ontario](https://www.investinontario.com/tags/autonomous-vehicles)
-* [CAVCOE](http://www.cavcoe.com/index.html)
-* [AVIN](https://www.avinhub.ca/)
-* [CAVI](https://www.unmannedsystems.ca/canadian-automated-vehicles-institute-launched/)
-* [Ottawa Cluster](https://www.ottawaavcluster.com/)
-* [CAV Canada](https://www.cavcanada.ca/)
-* [Canada's First AV Technology Directory](https://www.investottawa.ca/blog/canadas-first-av-technology-and-innovator-directory-announced/)
-* [BLACKBERRY launches security system for autonomous vehicles](https://betakit.com/blackberry-launches-security-system-for-autonomous-vehicles/)
-
 # Autonomous Vehicles
 
 * [AnnieWAY](https://www.mrt.kit.edu/annieway/)
@@ -53,7 +47,6 @@ description: News and information about autonomous driving
 
 ## Open Source
 
-* [Apollo](http://apollo.auto/)
 * [Self driving car by Udacity](https://github.com/udacity/self-driving-car)
   - [Udacity Projects](https://github.com/philbort/udacity_self_driving_car)
   - [Udacity Challenge 2](https://medium.com/udacity/challenge-2-using-deep-learning-to-predict-steering-angles-f42004a36ff3)
@@ -62,6 +55,15 @@ description: News and information about autonomous driving
 * [OpenDaVINCI](https://github.com/se-research/OpenDaVINCI)
 * [OpenDLV](http://www.opendlv.org/)
 * [Ahura](https://sites.google.com/site/mohammadrezabonyadi/standarddatabases/simulated-car-racing)
+
+## Simulators
+
+* [Apollo](http://apollo.auto/)
+* [CARLA](http://carla.org/)
+* [AirSim](https://github.com/microsoft/AirSim)
+* [rFpro](http://www.rfpro.com/)
+* [RT-LAB Orchestra](https://www.opal-rt.com/autonomous-vehicle/)
+* [NVIDIA DRIVE CONSTELLATION](https://www.nvidia.com/en-us/self-driving-cars/drive-constellation/)
 
 ### Autoware
 
