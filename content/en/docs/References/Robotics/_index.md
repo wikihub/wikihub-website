@@ -9,6 +9,11 @@ description: Resources for robotics
 * [Robohub](https://robohub.org/)
 * [Robotics Weekly](https://weeklyrobotics.com/)
 
+# VC
+
+* [Grishin Robotics](https://www.grishinrobotics.com/)
+* [Eclipse](http://eclipse.vc)
+
 # Applications
 
 ## Agriculture
@@ -114,6 +119,13 @@ description: Resources for robotics
 ## Suppliers
 
 * [Unmanned Systems Technology](https://www.unmannedsystemstechnology.com/)
+
+# Components
+
+## 3D camera
+
+* [3D cameras with ROS support](https://rosindustrial.org/3d-camera-survey)
+* [Structure.io](https://structure.io/)
 
 # Robotics Projects
 
