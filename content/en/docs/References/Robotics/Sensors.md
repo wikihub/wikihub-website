@@ -8,7 +8,6 @@ description: News and information about sensors
 # GPS
 
 * [Spilling the Beans on RTK](http://deepsouthrobotics.com/2017/04/20/spilling-the-beans-on-rtk/)
-* [simpleRTK2B](https://www.kickstarter.com/projects/simplertk2b/simplertk2b-the-first-multiband-rtk-shield-based-o)
 * [NavSpark](http://navspark.mybigcommerce.com/)
 * [ArduPilot GPS](http://ardupilot.org/rover/docs/common-positioning-landing-page.html)
 * [RTKLIB](http://rtklib.com/)
@@ -25,6 +24,8 @@ description: News and information about sensors
 * [ublox M8P](https://www.u-blox.com/en/product/neo-m8p-series)
 * [ublox M8P kit](https://www.u-blox.com/en/product/c94-m8p)
 * [ublox F9K with IMU](https://www.u-blox.com/en/product/zed-f9k-module)
+* [ublox test](https://www.calvert.ch/maurice/2017/08/28/ublox-c94-m8p-rtk-gps-review-performance-evaluation/)
+* [simpleRTK2B](https://www.kickstarter.com/projects/simplertk2b/simplertk2b-the-first-multiband-rtk-shield-based-o)
 
 ## Polaris
 
