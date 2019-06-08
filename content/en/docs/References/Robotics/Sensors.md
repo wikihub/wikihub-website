@@ -31,6 +31,10 @@ description: News and information about sensors
 
 * [Polaris GNSS](https://www.polaris-gnss.com/shop)
 
+## Correction services
+
+* [How to Get Free GPS Sub-Meter Corrections with SBAS Satellite Systems](https://eos-gnss.com/can-get-gps-sub-meter-corrections-free/)
+
 # LiDAR
 
 * [Slamtec RPLIDAR A3 360° Laser Scanner](https://www.robotshop.com/ca/en/slamtec-rplidar-a3-360-laser-scanner-25-m.html)
