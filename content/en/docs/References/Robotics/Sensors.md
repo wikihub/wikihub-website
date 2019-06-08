@@ -13,14 +13,21 @@ description: News and information about sensors
 * [ArduPilot GPS](http://ardupilot.org/rover/docs/common-positioning-landing-page.html)
 * [RTKLIB](http://rtklib.com/)
 * [Emlid](https://store.emlid.com/)
-* [ublox M8P](https://www.u-blox.com/en/product/neo-m8p-series)
-* [ublox F9K with IMU](https://www.u-blox.com/en/product/zed-f9k-module)
 * [Hemisphere](https://hemispheregnss.com/Products/Products/Position-Heading/vector-v104e284a2-gps-compass-763)
 
 ## Swift Navigation
 
 * [SwiftNav](https://www.swiftnav.com/store)
 * [Install driver](https://support.swiftnav.com/customer/en/portal/articles/2924342-using-ros-with-swift-navigation-gnss-devices)
+
+## ublox
+
+* [ublox M8P](https://www.u-blox.com/en/product/neo-m8p-series)
+* [ublox F9K with IMU](https://www.u-blox.com/en/product/zed-f9k-module)
+
+## Polaris
+
+* [Polaris GNSS](https://www.polaris-gnss.com/shop)
 
 # LiDAR
 
