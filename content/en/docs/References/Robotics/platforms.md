@@ -9,6 +9,10 @@ description: News and information about robot platforms
 
 * [Elroyair](http://www.elroyair.com/)
 
+# Modular Platforms
+
+* [HEBI Robotics](https://www.hebirobotics.com/)
+
 # Mobile Robots
 
 * [Clearpath Robotics](https://www.clearpathrobotics.com/)
