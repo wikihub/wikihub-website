@@ -67,6 +67,7 @@ description: News and information about robot platforms
 * [Robotnik RB-KAIROS](https://www.robotnik.eu/logistics/portfolio/rb-kairos/)
 * [Kuka KMR iiwa](https://www.kuka.com/en-ca/products/mobility/mobile-robots/kmr-iiwa)
 * [Clearpath Husky manipulator package](https://www.clearpathrobotics.com/husky-unmanned-ground-vehicle-robot/)
+* [Dr. Robot Jaguar with arm](http://jaguar.drrobot.com/specification_4x4wArm.asp)
 
 # Legged Robots
 
