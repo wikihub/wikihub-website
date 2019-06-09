@@ -21,6 +21,25 @@ description: News and information about robot platforms
 * [RMP 210](https://stanleyinnovation.com/products-services/robotics/robotic-mobility-platforms/passive-stability/)
 * [Magni](https://store.ubiquityrobotics.com/)
 
+## Warehouse
+
+* [6river](https://6river.com/)
+* [Bossa Nova Robotics](https://www.bossanova.com/)
+* [Cobalt Robotics](https://cobaltrobotics.com/)
+* [Fetch Robotics](https://fetchrobotics.com/)
+* [Geek+](http://www.geekplus.com.cn/en/)
+* [Grey Orange](https://www.greyorange.com/)
+* [IAM Robotics](https://www.iamrobotics.com/)
+* [inVia](https://www.inviarobotics.com/)
+* [Locus Robotics](https://www.locusrobotics.com/)
+* [MiR](https://www.mobile-industrial-robots.com/en/)
+* [Swisslog Holding](https://www.swisslog.com/en-us)
+* [Waypoint Robotics](https://waypointrobotics.com/)
+
+## Retail
+
+* [Simbe Robotics](https://www.simberobotics.com/)
+
 # Delivery Robots
 
 * [Starship](starship.xyz)
