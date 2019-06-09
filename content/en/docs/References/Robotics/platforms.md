@@ -64,6 +64,9 @@ description: News and information about robot platforms
 # Mobile Manipulators
 
 * [ROS mobile manipulators](http://www.ros.org/news/robots/mobile-manipulators/)
+* [Robotnik RB-KAIROS](https://www.robotnik.eu/logistics/portfolio/rb-kairos/)
+* [Kuka KMR iiwa](https://www.kuka.com/en-ca/products/mobility/mobile-robots/kmr-iiwa)
+* [Clearpath Husky manipulator package](https://www.clearpathrobotics.com/husky-unmanned-ground-vehicle-robot/)
 
 # Legged Robots
 
