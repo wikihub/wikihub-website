@@ -9,6 +9,8 @@ description: News and information about web development technologies
 - [Frontend development tools](https://github.com/gamtiq/frontend-tools/blob/master/README.md)
 
 ## [Vue.js](https://vuejs.org/)
+
+- [VuePress](https://vuepress.vuejs.org/)
 - [VueScript.com](http://www.vuescript.com/) - Aims to offer latest free Vue.js components for web application developers.
 - [Build an App with Vue.js: From Authentication to Calling an API](https://auth0.com/blog/build-an-app-with-vuejs/)
 - [BalmUI](https://material.balmjs.com/) - next generation Material UI for Vue.js.
