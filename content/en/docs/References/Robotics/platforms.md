@@ -74,6 +74,7 @@ description: News and information about robot platforms
 * [Dr. Robot Jaguar with Arm](http://jaguar.drrobot.com/specification_4x4wArm.asp)
 * [Neobotix](https://www.neobotix-roboter.de/mobile-manipulatoren-uebersicht.html)
 * [Kinova Movo](https://www.kinovarobotics.com/en/products/mobile-manipulators)
+* [Fetch Mobile Manipulator](https://fetchrobotics.com/robotics-platforms/fetch-mobile-manipulator/)
 
 # Legged Robots
 
