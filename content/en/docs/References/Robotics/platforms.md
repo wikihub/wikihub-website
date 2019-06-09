@@ -55,6 +55,12 @@ description: News and information about robot platforms
 * [RE2](http://www.resquared.com/)
 * [Universal Robots](http://www.universal-robots.com)
 
+## Pick and place
+
+* [Kindred](https://www.kindred.ai/)
+* [Osaro](https://www.osaro.com/)
+* [RightHand Robotics](https://www.righthandrobotics.com/)
+
 # Mobile Manipulators
 
 * [ROS mobile manipulators](http://www.ros.org/news/robots/mobile-manipulators/)
