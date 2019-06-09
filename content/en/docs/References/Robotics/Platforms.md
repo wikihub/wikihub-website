@@ -46,7 +46,7 @@ description: News and information about robot platforms
 
 # Delivery Robots
 
-* [Starship](starship.xyz)
+* [Starship](https://starship.xyz)
 * [Kiwi](https://www.kiwicampus.com/)
 * [TeleRetail](https://teleretail.com/)
 * [Postmates](https://techcrunch.com/2018/12/13/postmates-robot-serve/)
