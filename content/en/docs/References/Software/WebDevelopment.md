@@ -10,6 +10,7 @@ description: News and information about web development technologies
 
 ## [Vue.js](https://vuejs.org/)
 
+- [Awesome Vue](https://github.com/vuejs/awesome-vue)
 - [VuePress](https://vuepress.vuejs.org/)
 - [VueScript.com](http://www.vuescript.com/) - Aims to offer latest free Vue.js components for web application developers.
 - [Build an App with Vue.js: From Authentication to Calling an API](https://auth0.com/blog/build-an-app-with-vuejs/)
