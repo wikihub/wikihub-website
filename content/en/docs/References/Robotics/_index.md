@@ -18,6 +18,8 @@ description: Resources for robotics
 
 ## Agriculture
 
+* [Small Robot Company](https://www.smallrobotcompany.com/)
+
 ## Horticulture
 
 * [Harvey HV100](https://robohub.org/harvey-a-working-robot-for-container-crops/)
