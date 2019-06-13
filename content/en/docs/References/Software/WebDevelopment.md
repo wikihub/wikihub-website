@@ -59,8 +59,13 @@ description: News and information about web development technologies
 * [Vectr](https://vectr.com)
 
 # Tools
+
 - [Stacker](https://stacker.app)
 - [Convox](https://convox.com)
+
+## NPM
+
+* [The right way to do global npm install without sudo](http://michaelb.org/the-right-way-to-do-global-npm-install-without-sudo/)
 
 # Web Applications
 
