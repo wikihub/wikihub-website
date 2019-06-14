@@ -18,6 +18,7 @@ description: News and information about robot components
 # Battery
 
 * [Ion Energy](https://www.ionenergy.co/)
+* [Electrovaya](http://electrovaya.com/forklift-battery-systems/)
 
 # Grippers
 
