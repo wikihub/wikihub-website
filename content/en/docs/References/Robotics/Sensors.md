@@ -23,6 +23,7 @@ description: News and information about sensors
 
 ## GPS RTK
 
+* [SNIP](https://www.use-snip.com/)
 * [Arrow Gold](https://eos-gnss.com/product/arrow-series/arrow-gold/)
 
 ## Swift Navigation
