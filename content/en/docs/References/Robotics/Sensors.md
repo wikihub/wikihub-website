@@ -21,6 +21,10 @@ description: News and information about sensors
 * [Emlid](https://store.emlid.com/)
 * [Hemisphere](https://hemispheregnss.com/Products/Products/Position-Heading/vector-v104e284a2-gps-compass-763)
 
+## ublox
+
+* [ublox F9P](http://deepsouthrobotics.com/2019/06/03/the-taming-of-the-u-blox-zed-f9p/)
+
 ## GPS RTK
 
 * [SNIP](https://www.use-snip.com/)
