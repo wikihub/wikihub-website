@@ -7,6 +7,10 @@ description: News and information about Internet of Things and its applications
 
 - [Awesome IoT](https://phodal.github.io/awesome-iot/)
 
+# IoT Platforms
+
+* [Particle](https://www.particle.io/)
+
 # Single Board Computers
 
 ## Raspberry Pi
