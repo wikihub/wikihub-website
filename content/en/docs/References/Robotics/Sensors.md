@@ -21,6 +21,10 @@ description: News and information about sensors
 * [Emlid](https://store.emlid.com/)
 * [Hemisphere](https://hemispheregnss.com/Products/Products/Position-Heading/vector-v104e284a2-gps-compass-763)
 
+## GPS RTK
+
+* [Arrow Gold](https://eos-gnss.com/product/arrow-series/arrow-gold/)
+
 ## Swift Navigation
 
 * [SwiftNav](https://www.swiftnav.com/store)
