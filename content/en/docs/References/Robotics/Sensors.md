@@ -21,10 +21,6 @@ description: News and information about sensors
 * [Emlid](https://store.emlid.com/)
 * [Hemisphere](https://hemispheregnss.com/Products/Products/Position-Heading/vector-v104e284a2-gps-compass-763)
 
-## ublox
-
-* [ublox F9P](http://deepsouthrobotics.com/2019/06/03/the-taming-of-the-u-blox-zed-f9p/)
-
 ## GPS RTK
 
 * [SNIP](https://www.use-snip.com/)
@@ -42,6 +38,7 @@ description: News and information about sensors
 * [ublox F9K with IMU](https://www.u-blox.com/en/product/zed-f9k-module)
 * [ublox test](https://www.calvert.ch/maurice/2017/08/28/ublox-c94-m8p-rtk-gps-review-performance-evaluation/)
 * [simpleRTK2B](https://www.kickstarter.com/projects/simplertk2b/simplertk2b-the-first-multiband-rtk-shield-based-o)
+* [ublox F9P](http://deepsouthrobotics.com/2019/06/03/the-taming-of-the-u-blox-zed-f9p/)
 
 ## Polaris
 
