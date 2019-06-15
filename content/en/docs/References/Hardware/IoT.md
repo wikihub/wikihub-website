@@ -13,6 +13,8 @@ description: News and information about Internet of Things and its applications
 
 # Single Board Computers
 
+* [New SBC computers](https://www.mickmake.com/post/weekly-roundup-64-new-maker-products)
+
 ## Raspberry Pi
 
 ## HAT
