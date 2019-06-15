@@ -26,6 +26,7 @@ description: News and information about rapid prototyping
 ## Ontario
 
 * [3D Printers Toronto](https://www.blogto.com/tech/2017/04/3d-printers-printing-toronto/)
+* [3D Hub Toronto](https://www.3dhubs.com/3d-printing/location/toronto-canada/)
 * [Canada Makes](http://canadamakes.ca/)
 * [The Printing House](https://www.tph.ca/3d-printing)
 * [Proto3000](https://proto3000.com/)
