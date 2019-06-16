@@ -13,6 +13,7 @@ description: News and information about sensors
 
 ## [Intel RealSense](https://www.intel.ca/content/www/ca/en/architecture-and-technology/realsense-overview.html)
 
+* [Intel RealSense SDK](https://github.com/IntelRealSense/librealsense)
 * [Install on raspbian](https://github.com/IntelRealSense/librealsense/blob/master/doc/installation_raspbian.md)
 
 # GPS
