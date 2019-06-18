@@ -24,6 +24,7 @@ description: News and information about robot platforms
 * [ZEUS Robot](http://www.nicltd.co.uk/zeus-ultimate-modular-unmanned-ground-vehicle/zeus-ugv-modularity/)
 * [RMP 210](https://stanleyinnovation.com/products-services/robotics/robotic-mobility-platforms/passive-stability/)
 * [Magni](https://store.ubiquityrobotics.com/)
+* [Rover Robotics](https://roverrobotics.com/)
 
 ## Warehouse
 
