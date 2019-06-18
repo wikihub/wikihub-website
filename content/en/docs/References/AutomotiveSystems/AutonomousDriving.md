@@ -47,6 +47,7 @@ description: News and information about autonomous driving
 
 ## Open Source
 
+* [idsc-frazzoli](https://github.com/idsc-frazzoli)
 * [Self driving golf cart](https://github.com/sigmaai/self-driving-golf-cart)
 * [Open Source Self Driving Car Initiative](https://github.com/ossdc)
 * [OSCC](https://github.com/PolySync/OSCC)
