@@ -12,6 +12,10 @@ description: Software resources
 * [chmod calculator](https://chmod-calculator.com/)
 * [jq](https://stedolan.github.io/jq/)
 
+## log
+
+* less /var/log/syslog
+
 ## Remote desktop
 
 * [Starting VNC server on boot](https://www.linode.com/docs/applications/remote-desktop/install-vnc-on-ubuntu-16-04/)
