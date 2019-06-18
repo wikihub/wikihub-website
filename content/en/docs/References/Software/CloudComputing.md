@@ -43,6 +43,7 @@ description: News and information about cloud computing and its applications
 
 ## OpenGL on EC2
 
+* [Running CARLA without Display and Selecting GPUs](https://carla.readthedocs.io/en/latest/carla_headless/)
 * [Running OpenGL GUI Apps on AWS GPU EC2 instances](https://github.com/rncry/Cookbook/blob/master/Running%20OpenGL%20GUI%20Apps%20on%20AWS%20GPU%20EC2%20instances)
 * [How to setup VirtualGL and TurboVNC on Ubuntu](https://gist.github.com/cyberang3l/422a77a47bdc15a0824d5cca47e64ba2)
 * [Deploying a 4x4K, GPU-backed Linux desktop instance on AWS](https://aws.amazon.com/blogs/compute/deploying-4k-gpu-backed-linux-desktop-instance-on-aws/)
