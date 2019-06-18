@@ -47,10 +47,12 @@ description: News and information about autonomous driving
 
 ## Open Source
 
+* [Self driving golf cart](https://github.com/sigmaai/self-driving-golf-cart)
+* [Open Source Self Driving Car Initiative](https://github.com/ossdc)
+* [OSCC](https://github.com/PolySync/OSCC)
 * [Self driving car by Udacity](https://github.com/udacity/self-driving-car)
   - [Udacity Projects](https://github.com/philbort/udacity_self_driving_car)
   - [Udacity Challenge 2](https://medium.com/udacity/challenge-2-using-deep-learning-to-predict-steering-angles-f42004a36ff3)
-* [OSCC](https://github.com/PolySync/OSCC)
 * [comma.ai](https://github.com/commaai)
 * [OpenDaVINCI](https://github.com/se-research/OpenDaVINCI)
 * [OpenDLV](http://www.opendlv.org/)
