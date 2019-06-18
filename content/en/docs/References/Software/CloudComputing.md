@@ -6,6 +6,8 @@ weight: 20
 description: News and information about cloud computing and its applications
 ---
 
+* [Open Guides](https://github.com/open-guides/og-aws)
+
 # GPU Computing
 
 * [Lambda Labs](https://lambdalabs.com/)
