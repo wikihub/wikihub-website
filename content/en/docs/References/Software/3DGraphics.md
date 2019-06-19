@@ -8,4 +8,4 @@ description: News and information about 3D graphics applications
 
 # Vulkan
 
-* [VirtualGL](https://github.com/VirtualGL/virtualgl/issues/37)
+* [VirtualGL issue](https://github.com/VirtualGL/virtualgl/issues/37)
