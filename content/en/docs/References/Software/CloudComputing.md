@@ -43,6 +43,7 @@ description: News and information about cloud computing and its applications
 
 ## OpenGL on EC2
 
+* [GPU Benchmarks](https://wiki.archlinux.org/index.php/Benchmarking#Graphics)
 * [How to run Unity on Amazon Cloud or without Monitor](https://towardsdatascience.com/how-to-run-unity-on-amazon-cloud-or-without-monitor-3c10ce022639)
 * [Using the GUI on a remote machine](https://www.scm.com/doc/Installation/Remote_GUI.html#)
 * [Running CARLA without Display and Selecting GPUs](https://carla.readthedocs.io/en/latest/carla_headless/)
