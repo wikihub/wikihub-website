@@ -13,3 +13,4 @@ description: Hardware resources
 * [Adafruit](https://www.adafruit.com/)
 * [Newark (Element14)](https://canada.newark.com/?COM=element14_store_Home)
 * [Digikey](https://www.digikey.ca)
+* [Seeed Studio](https://www.seeedstudio.com/)
