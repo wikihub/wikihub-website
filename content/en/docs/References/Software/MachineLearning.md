@@ -52,7 +52,7 @@ A collection of awesome machine learning goodies
 - [OpenDeep](http://www.opendeep.org)
 - [Small survey on ML tools](https://github.com/szilard/survey-ml-tools)
 
- ## [TensorFlow](https://www.tensorflow.org/)
+## [TensorFlow](https://www.tensorflow.org/)
  
  - [TensorFlow Tutorials](https://github.com/Hvass-Labs/TensorFlow-Tutorials)
  - [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow)
@@ -65,7 +65,7 @@ Don’t Worry, You Can’t Break It. We Promise.
  - [Image Classification using Flowers dataset](https://cloud.google.com/ml-engine/docs/tensorflow/flowers-tutorial)
  - [Troubleshooting a TensorFlow Predictive Model Microservice with Weave Cloud](https://www.weave.works/blog/troubleshooting-a-tensorflow-predictive-model-microservice-with-weave-cloud)
 
- ## [Keras](https://keras.io/)
+## [Keras](https://keras.io/)
  
  - [Awesome Keras](https://github.com/soumendra/awesome-keras)
  - [Keras Resources](https://github.com/fchollet/keras-resources)
