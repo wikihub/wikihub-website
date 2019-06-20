@@ -11,3 +11,5 @@ description: Hardware resources
 * [Robotshop](https://www.robotshop.com/ca/en/)
 * [Sparkfun](https://www.sparkfun.com/)
 * [Adafruit](https://www.adafruit.com/)
+* [Newark (Element14)](https://canada.newark.com/?COM=element14_store_Home)
+* [Digikey](https://www.digikey.ca)
