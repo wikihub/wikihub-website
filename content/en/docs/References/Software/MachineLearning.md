@@ -214,6 +214,10 @@ Don’t Worry, You Can’t Break It. We Promise.
 - [URSA LABS](https://ursalabs.org/)
 - [Comparing Machine Learning as a Service: Amazon, Microsoft Azure, Google Cloud AI, IBM Watson](https://www.altexsoft.com/blog/datascience/comparing-machine-learning-as-a-service-amazon-microsoft-azure-google-cloud-ai-ibm-watson/)
 
+# Edge Computing
+
+* [Sylabs (Singularity)](https://sylabs.io/)
+
 ## TensorFlow
 
 - [TFX: A TensorFlow-Based Production-Scale Machine Learning Platform](http://stevenwhang.com/tfx_paper.pdf)
