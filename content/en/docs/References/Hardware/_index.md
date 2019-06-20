@@ -5,9 +5,9 @@ weight: 20
 description: Hardware resources
 ---
 
-# Linear Actuators
+# Shopping
 
-* [Kar Tech Linear Actuators](http://kar-tech.com/products/additional-devices/12-24v-linear-actuator.html)
-* [Progressive Automations](https://www.progressiveautomations.ca/)
-* [Firgelli Auto](https://www.firgelliauto.ca/)
-* [Actuonix](https://www.actuonix.com/)
+* [Arrow](https://www.arrow.com/)
+* [Robotshop](https://www.robotshop.com/ca/en/)
+* [Sparkfun](https://www.sparkfun.com/)
+* [Adafruit](https://www.adafruit.com/)
