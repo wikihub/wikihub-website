@@ -46,7 +46,7 @@ A collection of awesome machine learning goodies
 # Applications
 - [Project ideas](https://github.com/NirantK/awesome-project-ideas)
 
-## [Natural Language Processing](https://github.com/connected-bsamadi/awesome-wiki/blob/master/awesome-natural-language-processing.md)
+## [Natural Language Processing](https://wikihub.github.io/docs/references/software/nlp/)
 
 # Tools
 - [OpenDeep](http://www.opendeep.org)
