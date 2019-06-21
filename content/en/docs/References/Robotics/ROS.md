@@ -91,6 +91,10 @@ In this example, we will build and bundle the hello world simulation workspace f
 * [Udacity RoboND Docker container](https://github.com/bpinaya/robond-docker)
 * [JuliaMPC MAVs](https://github.com/JuliaMPC/MAVs)
 
+# Sylabs
+
+* [Singularity image by DelftX](https://courses.edx.org/courses/course-v1:DelftX+ROS1x+3T2018/f40348a2d8f648769ba3510c761c93a1/)
+
 # 3D Simulation
 
 * [Gazebo](http://gazebosim.org/)
