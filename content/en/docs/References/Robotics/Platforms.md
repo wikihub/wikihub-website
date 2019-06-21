@@ -25,6 +25,7 @@ description: News and information about robot platforms
 * [RMP 210](https://stanleyinnovation.com/products-services/robotics/robotic-mobility-platforms/passive-stability/)
 * [Magni](https://store.ubiquityrobotics.com/)
 * [Rover Robotics](https://roverrobotics.com/)
+* [LoCoBot](https://locobot-website.netlify.com/)
 
 ## Warehouse
 
