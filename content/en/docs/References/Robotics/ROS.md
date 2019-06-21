@@ -25,6 +25,7 @@ description: News and information about ROS and its applications
 
 * [Autonomy kit](https://www.clearpathrobotics.com/autonomy-research-kit/)
 * [AStuff Autonomy Starter Kit](https://autonomoustuff.com/product/autonomy-starter-kit/)
+* [PyROS](http://pyros.info/)
 
 # Install 
 
