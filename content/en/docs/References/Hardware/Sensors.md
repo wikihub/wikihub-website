@@ -37,6 +37,7 @@ description: News and information about sensors
 
 ## ublox
 
+* [Ardusimple](https://www.ardusimple.com/product/simplertk2b-heading-basic-starter-kit-ip67/)
 * [ublox M8P](https://www.u-blox.com/en/product/neo-m8p-series)
 * [ublox M8P kit](https://www.u-blox.com/en/product/c94-m8p)
 * [ublox F9K with IMU](https://www.u-blox.com/en/product/zed-f9k-module)
