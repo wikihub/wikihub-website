@@ -23,10 +23,7 @@ description: News and information about simulation environments
 * [VSPARC](http://www.vsparc.org)
 * [AI2THOR](http://ai2thor.allenai.org/)
 * [HoME](https://github.com/HoME-Platform/home-platform)
-
-# Robots
-
-* [K-Team](http://www.k-team.com/)
+* [Gibson](http://gibsonenv.stanford.edu/)
 
 # Control Toolbox
 
