@@ -10,6 +10,22 @@ description: News and information about ROS and its applications
 - [ROS Book](https://ros-books.blogspot.com/)
 - [Robot Cal Tools](https://github.com/Jmeyer1292/robot_cal_tools)
 
+# Facebook
+
+* [PyRobot](https://github.com/facebookresearch/pyrobot)
+* [AI Habitat](https://aihabitat.org/)
+
+# Microsoft
+- [AI Robot Challenge Lab](https://github.com/Microsoft/AI-Robot-Challenge-Lab)
+
+# Amazon
+- [RoboMaker](https://aws.amazon.com/robomaker/)
+
+# ROS Based Products
+
+* [Autonomy kit](https://www.clearpathrobotics.com/autonomy-research-kit/)
+* [AStuff Autonomy Starter Kit](https://autonomoustuff.com/product/autonomy-starter-kit/)
+
 # Install 
 
 * [Install ROS Melodic on Ubuntu Bionic (18.04.2)](http://wiki.ros.org/melodic/Installation/Ubuntu)
@@ -137,14 +153,3 @@ In this example, we will build and bundle the hello world simulation workspace f
 - [ODE](https://www.ode.org/)
 - [Simbody](https://simtk.org/projects/simbody/)
 - [SOFA](https://www.sofa-framework.org/applications/gallery/sofa-as-unity3d-physics-engine/)
-
-# Microsoft
-- [AI Robot Challenge Lab](https://github.com/Microsoft/AI-Robot-Challenge-Lab)
-
-# Amazon
-- [RoboMaker](https://aws.amazon.com/robomaker/)
-
-# ROS Based Products
-
-* [Autonomy kit](https://www.clearpathrobotics.com/autonomy-research-kit/)
-* [AStuff Autonomy Starter Kit](https://autonomoustuff.com/product/autonomy-starter-kit/)
