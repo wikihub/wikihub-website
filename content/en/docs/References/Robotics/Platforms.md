@@ -26,6 +26,7 @@ description: News and information about robot platforms
 * [Magni](https://store.ubiquityrobotics.com/)
 * [Rover Robotics](https://roverrobotics.com/)
 * [LoCoBot](https://locobot-website.netlify.com/)
+* [K-Team](http://www.k-team.com/)
 
 ## RC Car
 
