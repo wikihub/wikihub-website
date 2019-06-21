@@ -27,6 +27,11 @@ description: News and information about robot platforms
 * [Rover Robotics](https://roverrobotics.com/)
 * [LoCoBot](https://locobot-website.netlify.com/)
 
+## RC Car
+
+* [Donkey Car](http://docs.donkeycar.com/)
+    * [Donkey Car store](https://store.donkeycar.com/collections/accessories)
+
 ## Warehouse
 
 * [6river](https://6river.com/)
