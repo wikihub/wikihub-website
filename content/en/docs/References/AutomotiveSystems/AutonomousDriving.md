@@ -5,6 +5,13 @@ date: 2019-02-22
 description: News and information about autonomous driving
 ---
 
+# Autonomous Vehicles
+
+* [AnnieWAY](https://www.mrt.kit.edu/annieway/)
+* [RBCar](https://github.com/RobotnikAutomation/rbcar_sim)
+* [Autonomous Vehicle Control Documentation](https://media.readthedocs.org/pdf/phddocs/latest/phddocs.pdf)
+* [Moving Community - Pix](https://github.com/pixmoving-moveit)
+
 # Canada
 
 * [Invest in Ontario](https://www.investinontario.com/tags/autonomous-vehicles)
@@ -38,14 +45,12 @@ description: News and information about autonomous driving
 * [Automated Driving](https://automatedcars.space/)
 * [Apollo Open Platform](http://apollo.auto/developer.html)
 
-# Autonomous Vehicles
+# Udacity Self Driving Car Nano Degree
 
-* [AnnieWAY](https://www.mrt.kit.edu/annieway/)
-* [RBCar](https://github.com/RobotnikAutomation/rbcar_sim)
-* [Autonomous Vehicle Control Documentation](https://media.readthedocs.org/pdf/phddocs/latest/phddocs.pdf)
-* [Moving Community - Pix](https://github.com/pixmoving-moveit)
+* [Udacity Self-Driving Car Engineer Nanodegree projects by Andrea Palazzi](https://github.com/ndrplz/self-driving-car)
+* [Semantic segmentation](https://github.com/phamngoclinh96/SemanticSegmentationModel)
 
-## Open Source
+# Open Source
 
 * [idsc-frazzoli](https://github.com/idsc-frazzoli)
 * [Self driving golf cart](https://github.com/sigmaai/self-driving-golf-cart)
@@ -59,7 +64,7 @@ description: News and information about autonomous driving
 * [OpenDLV](http://www.opendlv.org/)
 * [Ahura](https://sites.google.com/site/mohammadrezabonyadi/standarddatabases/simulated-car-racing)
 
-## Simulators
+# Simulators
 
 * [Apollo](http://apollo.auto/)
 * [CARLA](http://carla.org/)
@@ -67,8 +72,9 @@ description: News and information about autonomous driving
 * [rFpro](http://www.rfpro.com/)
 * [RT-LAB Orchestra](https://www.opal-rt.com/autonomous-vehicle/)
 * [NVIDIA DRIVE CONSTELLATION](https://www.nvidia.com/en-us/self-driving-cars/drive-constellation/)
+* [Micro-Simulation Models](http://www.its.leeds.ac.uk/projects/smartest/append3d.html)
 
-### Autoware
+## Autoware
 
 * [Autoware](https://www.autoware.auto/)
 * [Autoware Foundation](https://github.com/autowarefoundation)
@@ -88,10 +94,6 @@ description: News and information about autonomous driving
 * [Self-driving cars - MIT](http://selfdrivingcars.mit.edu/)
 * [DeepDriving](http://deepdriving.cs.princeton.edu/)
 * [Deep Learning at Oxford 2015](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu)
-
-# Simulation
-
-* [Micro-Simulation Models](http://www.its.leeds.ac.uk/projects/smartest/append3d.html)
 
 # Formal verification
 
