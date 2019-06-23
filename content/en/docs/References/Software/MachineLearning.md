@@ -46,6 +46,10 @@ A collection of awesome machine learning goodies
 # Applications
 - [Project ideas](https://github.com/NirantK/awesome-project-ideas)
 
+## Autonomous driving
+
+* [Semantic segmentation](https://github.com/phamngoclinh96/SemanticSegmentationModel) 
+
 ## [Natural Language Processing](https://wikihub.github.io/docs/references/software/nlp/)
 
 # Tools
