@@ -7,9 +7,11 @@ description: News and information about sensors
 
 # Cameras
 
+* [3D cameras with ROS support](https://rosindustrial.org/3d-camera-survey)
 * [ASUS Xtion 2](http://xtionprolive.com/asus-xtion2)
 * [Primesense Carmine 1.09](http://xtionprolive.com/primesense-carmine-1.09)
 * [Orbbec 3D](https://orbbec3d.com/)
+* [Structure.io](https://structure.io/)
 
 ## [Intel RealSense](https://www.intel.ca/content/www/ca/en/architecture-and-technology/realsense-overview.html)
 
