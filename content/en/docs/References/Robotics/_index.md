@@ -69,13 +69,6 @@ description: Resources for robotics
 
 * [Unmanned Systems Technology](https://www.unmannedsystemstechnology.com/)
 
-# Components
-
-## 3D camera
-
-* [3D cameras with ROS support](https://rosindustrial.org/3d-camera-survey)
-* [Structure.io](https://structure.io/)
-
 # Robotics Projects
 
 ## Europe
