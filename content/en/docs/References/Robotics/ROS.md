@@ -32,6 +32,11 @@ description: News and information about ROS and its applications
 
 * [Install ROS Melodic on Ubuntu Bionic (18.04.2)](http://wiki.ros.org/melodic/Installation/Ubuntu)
 
+# Modeling
+
+* [Simulation Description Format (SDF)](http://sdformat.org/)
+* [sdf-modelica](https://github.com/robotology/sdf-modelica)
+
 # Training
 ## Tutorials
 
