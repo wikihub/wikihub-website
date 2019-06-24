@@ -37,6 +37,7 @@ description: News and information about ROS and its applications
 * [URDF](http://wiki.ros.org/urdf)
 * [Simulation Description Format (SDF)](http://sdformat.org/)
 * [sdf-modelica](https://github.com/robotology/sdf-modelica)
+* [Xacro](http://wiki.ros.org/xacro)
 
 # Training
 ## Tutorials
