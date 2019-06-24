@@ -41,6 +41,7 @@ description: News and information about autonomous driving
 * [APEX](http://repository.upenn.edu/cgi/viewcontent.cgi?article=1098&context=mlab_papers)
 * [Autoware](https://github.com/CPFL/Autoware)
    * [Autoware Tutorial](https://github.com/pixmoving-moveit/Autoware_tutorial)
+   * [Autocore](https://github.com/autocore-ai)
 * [BARC - Berkeley](http://www.barc-project.com/)
 * [Automated Driving](https://automatedcars.space/)
 * [Apollo Open Platform](http://apollo.auto/developer.html)
