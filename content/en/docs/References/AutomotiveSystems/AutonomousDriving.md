@@ -42,6 +42,7 @@ description: News and information about autonomous driving
 * [Autoware](https://github.com/CPFL/Autoware)
    * [Autoware Tutorial](https://github.com/pixmoving-moveit/Autoware_tutorial)
    * [Autocore](https://github.com/autocore-ai)
+   * [Streetdrone](https://streetdrone.com/)
 * [BARC - Berkeley](http://www.barc-project.com/)
 * [Automated Driving](https://automatedcars.space/)
 * [Apollo Open Platform](http://apollo.auto/developer.html)
