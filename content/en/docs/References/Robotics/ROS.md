@@ -38,6 +38,7 @@ description: News and information about ROS and its applications
 * [Simulation Description Format (SDF)](http://sdformat.org/)
 * [sdf-modelica](https://github.com/robotology/sdf-modelica)
 * [Xacro](http://wiki.ros.org/xacro)
+* [Robot Model (URDF editor)](https://github.com/AdoHaha/modelrobot)
 
 # Car like robots
 
