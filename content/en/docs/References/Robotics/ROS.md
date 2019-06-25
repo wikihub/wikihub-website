@@ -39,6 +39,10 @@ description: News and information about ROS and its applications
 * [sdf-modelica](https://github.com/robotology/sdf-modelica)
 * [Xacro](http://wiki.ros.org/xacro)
 
+# Car like robots
+
+* [Robotnik Automation AGV's](https://github.com/RobotnikAutomation/agvs)
+
 # Training
 ## Tutorials
 
