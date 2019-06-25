@@ -47,7 +47,11 @@ description: News and information about autonomous driving
 * [Automated Driving](https://automatedcars.space/)
 * [Apollo Open Platform](http://apollo.auto/developer.html)
 
-# Udacity Self Driving Car Nano Degree
+## RC Car
+
+* [Cherry Autonomous Racecar](https://github.com/DJTobias/Cherry-Autonomous-Racecar)
+
+## Udacity Self Driving Car Nano Degree
 
 * [Udacity Self-Driving Car Engineer Nanodegree projects by Andrea Palazzi](https://github.com/ndrplz/self-driving-car)
 * [Semantic segmentation](https://github.com/phamngoclinh96/SemanticSegmentationModel)
