@@ -12,6 +12,10 @@ description: News and information about autonomous driving
 * [Autonomous Vehicle Control Documentation](https://media.readthedocs.org/pdf/phddocs/latest/phddocs.pdf)
 * [Moving Community - Pix](https://github.com/pixmoving-moveit)
 
+## Agriculture
+
+* [Kubota](https://www.futurefarming.com/Machinery/Articles/2017/4/Kubota-launches-auto-steering-for-small-tractors-and-UTVs-902WP/)
+
 # Canada
 
 * [Invest in Ontario](https://www.investinontario.com/tags/autonomous-vehicles)
