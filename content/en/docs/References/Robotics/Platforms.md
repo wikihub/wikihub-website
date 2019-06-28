@@ -27,6 +27,8 @@ description: News and information about robot platforms
 * [Rover Robotics](https://roverrobotics.com/)
 * [LoCoBot](https://locobot-website.netlify.com/)
 * [K-Team](http://www.k-team.com/)
+* [Omron](https://automation.omron.com/en/ca/products/family/LD)
+    * [Mobile Planner](https://automation.omron.com/en/ca/products/family/Mobile%20Planner)
 
 ## RC Car
 
