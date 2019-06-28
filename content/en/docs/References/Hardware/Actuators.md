@@ -5,6 +5,11 @@ weight: 20
 description: Actuators resources
 ---
 
+# Motor Controllers
+
+* [Sevcon](http://www.sevcon.com/)
+* [Curtis Instruments](https://www.curtisinstruments.com/)
+
 # Hub motors
 
 
