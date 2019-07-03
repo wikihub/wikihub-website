@@ -17,6 +17,7 @@ description: News and information about sensors
 
 * [Intel RealSense SDK](https://github.com/IntelRealSense/librealsense)
 * [Install on raspbian](https://github.com/IntelRealSense/librealsense/blob/master/doc/installation_raspbian.md)
+* [Install on Raspberry Pi 3](https://github.com/IntelRealSense/librealsense/blob/master/doc/RaspberryPi3.md)
 
 # GPS
 
