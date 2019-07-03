@@ -53,6 +53,7 @@ description: Resources for robotics
 * [Rear 3pt hitch Snowblower](https://www.youtube.com/watch?v=PnfHyxtrRF0)
 * [Kubota BX snow blower](https://www.youtube.com/watch?v=FjJjSj4PX50)
 * [Kubota BX snow blowing 28 inches snow](https://www.youtube.com/watch?v=MYct9ZGNUA8)
+* [Kubota Moving Snow](https://www.youtube.com/watch?v=409LlbeaaWY)
 
 # Software
 
