@@ -14,3 +14,7 @@ description: Hardware resources
 * [Newark (Element14)](https://canada.newark.com/?COM=element14_store_Home)
 * [Digikey](https://www.digikey.ca)
 * [Seeed Studio](https://www.seeedstudio.com/)
+
+# CAN Devices
+
+* [CANtact](https://wiki.linklayer.com/index.php/CANtact)
