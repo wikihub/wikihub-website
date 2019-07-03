@@ -5,6 +5,14 @@ date: 2019-02-22
 description: News and information about rapid prototyping
 ---
 
+# CAD
+
+* [OpenSCAD](https://www.openscad.org/)
+* [Tinkercad](https://www.tinkercad.com/)
+* [FreeCAD](https://freecadweb.org)
+* [Blender](https://www.blender.org)
+* [Onshape](https://www.onshape.com)
+
 # Products
 
 * [Icon Explore](https://www.engineersrule.com/cad-gives-icon-wheelchairs-power/)
