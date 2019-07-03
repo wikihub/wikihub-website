@@ -49,6 +49,7 @@ description: Resources for robotics
 
 ## Snow removal
 
+* [Snowposium](https://snowposium.ca/)
 * [Landscaping and snow removal start-up checklist](https://canadabusiness.ca/starting/checklists-and-guides-for-starting-a-business/landscaping-and-snow-removal-start-up-checklist/)
 * [Snowblowing John deere 1025r with quick hitch 54" snowblower](https://www.youtube.com/watch?v=zPt1fb_9Dd8)
 * [Rear 3pt hitch Snowblower](https://www.youtube.com/watch?v=PnfHyxtrRF0)
