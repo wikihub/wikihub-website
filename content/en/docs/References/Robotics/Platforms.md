@@ -34,6 +34,8 @@ description: News and information about robot platforms
 
 * [Donkey Car](http://docs.donkeycar.com/)
     * [Donkey Car store](https://store.donkeycar.com/collections/accessories)
+* [Simple Autonomous Wheeled Robot (SAWR)](https://github.com/intel/sawr)
+* [Self-driving RC car using Robotic Operating System(ROS)](https://medium.com/intro-to-artificial-intelligence/self-driving-rc-car-using-robotic-operating-system-ros-c63a6d102c08)
 
 ## Warehouse
 
