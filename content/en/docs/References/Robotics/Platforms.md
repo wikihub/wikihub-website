@@ -36,6 +36,10 @@ description: News and information about robot platforms
     * [Donkey Car store](https://store.donkeycar.com/collections/accessories)
 * [Simple Autonomous Wheeled Robot (SAWR)](https://github.com/intel/sawr)
 * [Self-driving RC car using Robotic Operating System(ROS)](https://medium.com/intro-to-artificial-intelligence/self-driving-rc-car-using-robotic-operating-system-ros-c63a6d102c08)
+* [Autonomous RC car by germain-hug](https://github.com/germain-hug/Autonomous-RC-Car)
+* [rc_car_ros with RPLiDAR](https://github.com/GigaFlopsis/rc_car_ros)
+* [rc_bot](https://github.com/RoblabWhGe/rc_bot)
+* [Race car project with Hokuyo LiDAR](https://jnazaren.github.io/racecar_project_page/)
 
 ## Warehouse
 
