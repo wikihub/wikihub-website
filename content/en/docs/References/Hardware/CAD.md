@@ -12,6 +12,7 @@ description: News and information about rapid prototyping
 * [FreeCAD](https://freecadweb.org)
 * [Blender](https://www.blender.org)
 * [Onshape](https://www.onshape.com)
+* [Best 3D software](https://all3dp.com/1/best-free-3d-printing-software-3d-printer-program/)
 
 # Products
 
