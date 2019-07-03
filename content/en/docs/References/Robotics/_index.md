@@ -47,6 +47,13 @@ description: Resources for robotics
 
 * [Nourish](https://www.nourish.ai/)
 
+## Snow removal
+
+* [Snowblowing John deere 1025r with quick hitch 54" snowblower](https://www.youtube.com/watch?v=zPt1fb_9Dd8)
+* [Rear 3pt hitch Snowblower](https://www.youtube.com/watch?v=PnfHyxtrRF0)
+* [Kubota BX snow blower](https://www.youtube.com/watch?v=FjJjSj4PX50)
+* [Kubota BX snow blowing 28 inches snow](https://www.youtube.com/watch?v=MYct9ZGNUA8)
+
 # Software
 
 ## Multi-Agent Reinforcement Learning
