@@ -31,6 +31,10 @@ description: News and information about Internet of Things and its applications
 * [Touchscreen Supported on Raspberry Pi](https://github.com/notro/fbtft/blob/master/fbtft_device.c)
 * [RFI display](https://learn.watterott.com/rpi-display/fbtft-install/)
 
+## Up Board
+
+* [Up Board](https://up-board.org/)
+
 ## NVIDIA
 
 * [Jetson](https://developer.nvidia.com/buy-jetson)
