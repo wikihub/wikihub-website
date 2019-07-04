@@ -23,15 +23,13 @@ description: News and information about Internet of Things and its applications
 
 * [Intel® RealSense™ D400 cameras with Raspberry Pi](https://github.com/IntelRealSense/librealsense/blob/master/doc/RaspberryPi3.md)
 
-## HAT
+### HAT
 
 * [Pinout](https://pinout.xyz/)
 
-### TFT Display
+#### TFT Display
 * [Touchscreen Supported on Raspberry Pi](https://github.com/notro/fbtft/blob/master/fbtft_device.c)
 * [RFI display](https://learn.watterott.com/rpi-display/fbtft-install/)
-
-# Edge Computing
 
 ## NVIDIA
 
