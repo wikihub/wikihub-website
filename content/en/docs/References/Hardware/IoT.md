@@ -19,6 +19,10 @@ description: News and information about Internet of Things and its applications
 
 * [GLFW](https://www.raspberrypi.org/forums/viewtopic.php?t=222264)
 
+### Intel RealSense
+
+* [Intel® RealSense™ D400 cameras with Raspberry Pi](https://github.com/IntelRealSense/librealsense/blob/master/doc/RaspberryPi3.md)
+
 ## HAT
 
 * [Pinout](https://pinout.xyz/)
