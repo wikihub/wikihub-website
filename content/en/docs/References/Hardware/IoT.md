@@ -39,6 +39,7 @@ description: News and information about Internet of Things and its applications
 ## NVIDIA
 
 * [Jetson](https://developer.nvidia.com/buy-jetson)
+* [Depth cameras for NVIDIA Jetson](https://devtalk.nvidia.com/default/topic/1046610/jetson-tx2/what-3d-camera-is-recommended-for-use-with-jetson-tx2-/)
 
 ## Google 
 
