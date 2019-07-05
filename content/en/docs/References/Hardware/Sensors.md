@@ -20,6 +20,7 @@ description: News and information about sensors
 * [Install on raspbian](https://github.com/IntelRealSense/librealsense/blob/master/doc/installation_raspbian.md)
 * [Install on Raspberry Pi 3](https://github.com/IntelRealSense/librealsense/blob/master/doc/RaspberryPi3.md)
 * [sudo apt-get update && sudo apt-get install ros-kinetic-ddynamic-reconfigure](https://github.com/IntelRealSense/realsense-ros/issues/812)
+* [Recommended configurations](https://www.intelrealsense.com/developers/)
 * RealSense UDEV-Rules file:
 ```
 /lib/udev/rules.d/60-librealsense2-udev-rules.rules is not up-to date!
