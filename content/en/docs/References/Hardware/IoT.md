@@ -18,6 +18,7 @@ description: News and information about Internet of Things and its applications
 ## Raspberry Pi
 
 * [GLFW](https://www.raspberrypi.org/forums/viewtopic.php?t=222264)
+* [OpenGL](https://ubuntu-mate.community/t/tutorial-activate-opengl-driver-for-ubuntu-mate-16-04/7094/4)
 
 ### Intel RealSense
 
