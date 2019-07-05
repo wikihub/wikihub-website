@@ -1,6 +1,6 @@
 ---
 title: "Robotic Algorithms"
-linkTitle: "Robotics"
+linkTitle: "Robotic Alorithms"
 weight: 30
 description: Resources for algorithms in robotics
 ---
