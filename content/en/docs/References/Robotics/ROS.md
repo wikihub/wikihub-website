@@ -31,6 +31,7 @@ description: News and information about ROS and its applications
 # Install 
 
 * [Install ROS Melodic on Ubuntu Bionic (18.04.2)](http://wiki.ros.org/melodic/Installation/Ubuntu)
+* [Update the public key](http://answers.ros.org/question/325039/apt-update-fails-cannot-install-pkgs-key-not-working/)
 
 # Modeling
 
