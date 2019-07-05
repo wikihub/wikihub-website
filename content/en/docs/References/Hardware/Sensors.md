@@ -12,6 +12,7 @@ description: News and information about sensors
 * [Primesense Carmine 1.09](http://xtionprolive.com/primesense-carmine-1.09)
 * [Orbbec 3D](https://orbbec3d.com/)
 * [Structure.io](https://structure.io/)
+* [See3CAM (Tara)](https://www.e-consystems.com/See3CAM-USB-3-Camera.asp#stereo-vision-camera)
 
 ## [Intel RealSense](https://www.intel.ca/content/www/ca/en/architecture-and-technology/realsense-overview.html)
 
