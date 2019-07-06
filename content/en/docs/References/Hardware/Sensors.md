@@ -21,17 +21,7 @@ description: News and information about sensors
 * [Install on Raspberry Pi 3](https://github.com/IntelRealSense/librealsense/blob/master/doc/RaspberryPi3.md)
 * [sudo apt-get update && sudo apt-get install ros-kinetic-ddynamic-reconfigure](https://github.com/IntelRealSense/realsense-ros/issues/812)
 * [Recommended configurations](https://www.intelrealsense.com/developers/)
-* RealSense UDEV-Rules file:
-```
-/lib/udev/rules.d/60-librealsense2-udev-rules.rules is not up-to date!
-UDEV-Rules permissions configuration for RealSense devices.`
-Missing/outdated UDEV-Rules will cause 'Permissions Denied' errors
-unless the application is running under 'sudo' (not recommended)
-In case of Debians use: 
-sudo apt-get upgrade/install librealsense2-udev-rules
-To manually install UDEV-Rules in terminal run:
-$ sudo cp ~/.99-realsense-libusb.rules /etc/udev/rules.d/99-realsense-libusb.rules && sudo udevadm control --reload-rules && udevadm trigger
-```
+* [Install LibRealSense on Jetosn Nano](https://github.com/JetsonHacksNano/installLibrealsense)
 
 # GPS
 
