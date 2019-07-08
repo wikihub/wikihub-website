@@ -56,6 +56,11 @@ description: News and information about robot platforms
 * [Swisslog Holding](https://www.swisslog.com/en-us)
 * [Waypoint Robotics](https://waypointrobotics.com/)
 
+## Forklift
+
+* [Youbot](http://www.youbot-store.com/wiki/index.php/Forklift)
+* [Gazebo forklift simulation](https://github.com/valentinbarral/gazeboforkliftsimulation)
+
 ## Retail
 
 * [Simbe Robotics](https://www.simberobotics.com/)
