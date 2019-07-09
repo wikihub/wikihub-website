@@ -41,6 +41,10 @@ description: News and information about ROS and its applications
 * [Xacro](http://wiki.ros.org/xacro)
 * [Robot Model (URDF editor)](https://github.com/AdoHaha/modelrobot)
 
+## Gazebo
+
+* [Install Gazebo 8: curl -ssL http://get.gazebosim.org | sh](http://answers.gazebosim.org/question/17094/gazebo-8-installation-with-ros-integration/)
+
 # Car like robots
 
 * [Robotnik Automation AGV's](https://github.com/RobotnikAutomation/agvs)
