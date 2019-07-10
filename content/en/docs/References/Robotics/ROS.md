@@ -28,6 +28,10 @@ description: News and information about ROS and its applications
 * [PyROS](http://pyros.info/)
     * [PyROS Dev](https://github.com/pyros-dev)
 
+# ROS Projects
+
+* [Iliad](https://github.com/LCAS/iliad)
+
 # Install 
 
 * [Install ROS Melodic on Ubuntu Bionic (18.04.2)](http://wiki.ros.org/melodic/Installation/Ubuntu)
