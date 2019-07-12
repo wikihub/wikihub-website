@@ -63,6 +63,8 @@ description: News and information about sensors
 # LiDAR
 
 * [Slamtec RPLIDAR A3 360° Laser Scanner](https://www.robotshop.com/ca/en/slamtec-rplidar-a3-360-laser-scanner-25-m.html)
-* [Sweep](https://spectrum.ieee.org/automaton/robotics/robotics-hardware/sweep-lidar-for-robots-and-drones)
+* [ScanSe Sweep](https://spectrum.ieee.org/automaton/robotics/robotics-hardware/sweep-lidar-for-robots-and-drones)
 * [SICK 1094472](https://www.doigcorp.com/Product/Sensors-and-Vision/1094472.html)
 * [Ouster](https://www.ouster.io/)
+* [Solid-State ToF Infrared LiDAR CE30-A](https://www.robotshop.com/ca/en/solid-state-tof-infrared-lidar-ce30-a.html)
+* [Neptec OPAL](http://www.neptectechnologies.com/products/opal/)
