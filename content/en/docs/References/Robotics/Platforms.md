@@ -72,6 +72,7 @@ description: News and information about robot platforms
 * [JBT](https://www.aalhysterforklifts.com.au/index.php/about/blog-post/benefits_of_automated_guided_vehicle_forklifts)
 * [Hyster](https://www.youtube.com/watch?v=ChPo9bsZsKg)
 * [Industrial forklifts (used)](https://www.industrialforklifttruck.org/Canada)
+* [Deep Systems](https://deepsystems.ai/solutions/autonomous-forklift)
 
 ## Retail
 
