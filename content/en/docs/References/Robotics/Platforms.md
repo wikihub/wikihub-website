@@ -73,6 +73,7 @@ description: News and information about robot platforms
 * [Hyster](https://www.youtube.com/watch?v=ChPo9bsZsKg)
 * [Industrial forklifts (used)](https://www.industrialforklifttruck.org/Canada)
 * [Deep Systems](https://deepsystems.ai/solutions/autonomous-forklift)
+* [SeeGrid](https://www.youtube.com/watch?v=4eghyHzk-4g)
 
 ## Retail
 
