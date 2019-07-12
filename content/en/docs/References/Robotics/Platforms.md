@@ -64,6 +64,11 @@ description: News and information about robot platforms
 
 * [Youbot](http://www.youbot-store.com/wiki/index.php/Forklift)
 * [Gazebo forklift simulation](https://github.com/valentinbarral/gazeboforkliftsimulation)
+* [Autonomous Toyota Forklift](https://www.youtube.com/watch?v=y0mEYIBFOPM)
+* [STROBO](https://www.youtube.com/watch?v=GLVWT2J25w0)
+* [Dematic](https://www.dematic.com/en-us/products/products-overview/agv-systems)
+* [Jungheirich](https://www.mcfa.com/en/jungheinrich/forklifts-pallet-trucks/Jungheinrich/ClassIII/Counterbalanced-Walkie-Stackers/EKS-215a)
+* [Hyundai autonomous forklift](https://www.youtube.com/watch?v=La-k8CYvwYk)
 
 ## Retail
 
