@@ -68,3 +68,5 @@ description: News and information about sensors
 * [Ouster](https://www.ouster.io/)
 * [Solid-State ToF Infrared LiDAR CE30-A](https://www.robotshop.com/ca/en/solid-state-tof-infrared-lidar-ce30-a.html)
 * [Neptec OPAL](http://www.neptectechnologies.com/products/opal/)
+* [RoboSense](https://www.zmp.co.jp/en/products/rslidar)
+* [LeiShen](https://www.robotshop.com/ca/en/3d-16-channels-lidar-15-vfod-120m.html)
