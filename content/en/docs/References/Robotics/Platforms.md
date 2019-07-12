@@ -69,6 +69,7 @@ description: News and information about robot platforms
 * [Dematic](https://www.dematic.com/en-us/products/products-overview/agv-systems)
 * [Jungheirich](https://www.mcfa.com/en/jungheinrich/forklifts-pallet-trucks/Jungheinrich/ClassIII/Counterbalanced-Walkie-Stackers/EKS-215a)
 * [Hyundai autonomous forklift](https://www.youtube.com/watch?v=La-k8CYvwYk)
+* [JBT](https://www.aalhysterforklifts.com.au/index.php/about/blog-post/benefits_of_automated_guided_vehicle_forklifts)
 
 ## Retail
 
