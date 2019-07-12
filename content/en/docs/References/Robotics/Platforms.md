@@ -70,6 +70,8 @@ description: News and information about robot platforms
 * [Jungheirich](https://www.mcfa.com/en/jungheinrich/forklifts-pallet-trucks/Jungheinrich/ClassIII/Counterbalanced-Walkie-Stackers/EKS-215a)
 * [Hyundai autonomous forklift](https://www.youtube.com/watch?v=La-k8CYvwYk)
 * [JBT](https://www.aalhysterforklifts.com.au/index.php/about/blog-post/benefits_of_automated_guided_vehicle_forklifts)
+* [Hyster](https://www.youtube.com/watch?v=ChPo9bsZsKg)
+* [Industrial forklifts (used)](https://www.industrialforklifttruck.org/Canada)
 
 ## Retail
 
