@@ -49,6 +49,10 @@ description: Software resources
 * [USB Overdrive](http://www.usboverdrive.com/USBOverdrive/Download.html)
 * [Install nvm](https://nodesource.com/blog/installing-node-js-tutorial-using-nvm-on-mac-os-x-and-ubuntu/)
 
+# Windows 
+
+* [Install Windows 10 on Asus ROG](https://rog.asus.com/forum/showthread.php?76993-Guide-How-to-install-windows-8-8-1-10-The-proper-way-(UEFI-based-installation)) 
+
 # Docker
 
 * [An Introduction to Docker](http://odewahn.github.io/docker-jumpstart/)
