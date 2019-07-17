@@ -22,6 +22,8 @@ description: News and information about sensors
 * [sudo apt-get update && sudo apt-get install ros-kinetic-ddynamic-reconfigure](https://github.com/IntelRealSense/realsense-ros/issues/812)
 * [Recommended configurations](https://www.intelrealsense.com/developers/)
 * [Install LibRealSense on Jetosn Nano](https://github.com/JetsonHacksNano/installLibrealsense)
+* [3D Reconstruction using RTAB Map with Intel RealSense D435 RGB D Camera](https://github.com/jacobmoroni/robotic_vision/wiki/3D-Reconstruction-using-RTAB-Map-with-Intel-RealSense-D435-RGB-D-Camera)
+* Install LibRealSense on Jetosn Nano: sudo apt install ros-melodic-perception
 
 # GPS
 
