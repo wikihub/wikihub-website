@@ -13,6 +13,7 @@ description: Resources for NVIDIA robotics and the Isaac framework
 
 ## Nano
 
+* [Make a swap file](https://www.jetsonhacks.com/2019/04/14/jetson-nano-use-more-memory/)
 
 # Isaac
 
