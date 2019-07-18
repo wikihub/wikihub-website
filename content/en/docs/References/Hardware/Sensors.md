@@ -13,17 +13,7 @@ description: News and information about sensors
 * [Orbbec 3D](https://orbbec3d.com/)
 * [Structure.io](https://structure.io/)
 * [See3CAM (Tara)](https://www.e-consystems.com/See3CAM-USB-3-Camera.asp#stereo-vision-camera)
-
-## [Intel RealSense](https://www.intel.ca/content/www/ca/en/architecture-and-technology/realsense-overview.html)
-
-* [Intel RealSense SDK](https://github.com/IntelRealSense/librealsense)
-* [Install on raspbian](https://github.com/IntelRealSense/librealsense/blob/master/doc/installation_raspbian.md)
-* [Install on Raspberry Pi 3](https://github.com/IntelRealSense/librealsense/blob/master/doc/RaspberryPi3.md)
-* [sudo apt-get update && sudo apt-get install ros-kinetic-ddynamic-reconfigure](https://github.com/IntelRealSense/realsense-ros/issues/812)
-* [Recommended configurations](https://www.intelrealsense.com/developers/)
-* [Install LibRealSense on Jetosn Nano](https://github.com/JetsonHacksNano/installLibrealsense)
-* [3D Reconstruction using RTAB Map with Intel RealSense D435 RGB D Camera](https://github.com/jacobmoroni/robotic_vision/wiki/3D-Reconstruction-using-RTAB-Map-with-Intel-RealSense-D435-RGB-D-Camera)
-* Install LibRealSense on Jetosn Nano: sudo apt install ros-melodic-perception
+* [Intel RealSense](https://www.intel.ca/content/www/ca/en/architecture-and-technology/realsense-overview.html)
 
 # GPS
 
