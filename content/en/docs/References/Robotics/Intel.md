@@ -18,7 +18,8 @@ description: Resources for Intel robotics and the RealSense cameras
 
 * [Integrating the Intel RealSense D435 with ROS](https://idorobotics.com/2018/11/02/integrating-the-intel-realsense-d435-with-ros/)
 * [3D Reconstruction using RTAB Map with Intel RealSense D435 RGB D Camera](https://github.com/jacobmoroni/robotic_vision/wiki/3D-Reconstruction-using-RTAB-Map-with-Intel-RealSense-D435-RGB-D-Camera)
-* [sudo apt-get update && sudo apt-get install ros-melodic-ddynamic-reconfigure](https://github.com/IntelRealSense/realsense-ros/issues/812)
-* Install LibRealSense on Jetosn Nano: sudo apt install ros-melodic-perception
-* Install LibRealSense on Jetosn Nano: sudo apt install ros-melodic-diagnostics
+   * Install RealSense SDK version 2.24
+   * [sudo apt-get update && sudo apt-get install ros-melodic-ddynamic-reconfigure](https://github.com/IntelRealSense/realsense-ros/issues/812)
+   * Install LibRealSense on Jetosn Nano: sudo apt install ros-melodic-perception
+   * Install LibRealSense on Jetosn Nano: sudo apt install ros-melodic-diagnostics
 * [SLAM with RealSense D435i camera on ROS](https://github.com/IntelRealSense/realsense-ros/wiki/SLAM-with-D435i)
