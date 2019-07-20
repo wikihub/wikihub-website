@@ -9,6 +9,12 @@ description: Resources for algorithms in robotics
 
 * [Nuitrack](https://nuitrack.com/)
 
+# Mapping
+
+* [ORB SLAM2](https://github.com/raulmur/ORB_SLAM2)
+* [RTAB Map](http://introlab.github.io/rtabmap/)
+* [Voxblox](https://github.com/ethz-asl/voxblox)
+
 # SLAM
 
 ## Visual SLAM
