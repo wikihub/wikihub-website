@@ -22,6 +22,8 @@ description: Resources for algorithms in robotics
 
 # SLAM
 
+* [Cartographer: 2D and 3D SLAM](https://github.com/googlecartographer/cartographer)
+
 ## Visual SLAM
 
 * [Thomas Whelan](http://www.thomaswhelan.ie/#publications)
