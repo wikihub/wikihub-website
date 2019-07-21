@@ -9,6 +9,10 @@ description: Resources for algorithms in robotics
 
 * [Nuitrack](https://nuitrack.com/)
 
+## Datasets
+
+* [TUM RGB-D datasets](https://vision.in.tum.de/data/datasets/rgbd-dataset/download)
+
 # Mapping
 
 * [ORB SLAM2](https://github.com/raulmur/ORB_SLAM2)
