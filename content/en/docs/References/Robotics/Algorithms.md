@@ -10,7 +10,7 @@ description: Resources for algorithms in robotics
 * [Nuitrack](https://nuitrack.com/)
 
 ## Datasets
-
+* [Useful tools for the RGB-D benchmark](https://vision.in.tum.de/data/datasets/rgbd-dataset/tools)
 * [TUM RGB-D datasets](https://vision.in.tum.de/data/datasets/rgbd-dataset/download)
 
 # Mapping
