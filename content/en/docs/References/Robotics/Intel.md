@@ -13,6 +13,9 @@ description: Resources for Intel robotics and the RealSense cameras
 * [Recommended configurations](https://www.intelrealsense.com/developers/)
 * [Install LibRealSense on Jetosn Nano](https://github.com/JetsonHacksNano/installLibrealsense)
 
+## Raspberry Pi
+
+* [Intel® RealSense™ D400 cameras with Raspberry Pi](https://github.com/IntelRealSense/librealsense/blob/master/doc/RaspberryPi3.md)
 
 ## ROS
 
