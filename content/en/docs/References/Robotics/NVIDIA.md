@@ -15,6 +15,7 @@ description: Resources for NVIDIA robotics and the Isaac framework
 
 * [JetBot](https://github.com/NVIDIA-AI-IOT/jetbot/wiki)
 * [Make a swap file](https://www.jetsonhacks.com/2019/04/14/jetson-nano-use-more-memory/)
+* [Building Visual Studio Code](https://www.clarenceho.net/2019/05/building-visual-studio-code-on-jetson.html)
 
 # Isaac
 
