@@ -5,6 +5,8 @@ weight: 30
 description: Resources for algorithms in robotics
 ---
 
+* [Awesome visual SLAM](https://github.com/tzutalin/awesome-visual-slam)
+
 # Perception
 
 * [Nuitrack](https://nuitrack.com/)
