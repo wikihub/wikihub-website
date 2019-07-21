@@ -18,6 +18,7 @@ description: Resources for algorithms in robotics
 # Mapping
 
 * [Cartographer](https://github.com/googlecartographer/cartographer)
+   * [Cartographer ROS](https://google-cartographer-ros.readthedocs.io/en/latest/)
 * [ORB SLAM2](https://github.com/raulmur/ORB_SLAM2)
 * [RTAB Map](http://introlab.github.io/rtabmap/)
 * [Voxblox](https://github.com/ethz-asl/voxblox)
