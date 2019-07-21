@@ -20,10 +20,6 @@ description: News and information about Internet of Things and its applications
 * [GLFW](https://www.raspberrypi.org/forums/viewtopic.php?t=222264)
 * [OpenGL](https://ubuntu-mate.community/t/tutorial-activate-opengl-driver-for-ubuntu-mate-16-04/7094/4)
 
-### Intel RealSense
-
-* [Intel® RealSense™ D400 cameras with Raspberry Pi](https://github.com/IntelRealSense/librealsense/blob/master/doc/RaspberryPi3.md)
-
 ### HAT
 
 * [Pinout](https://pinout.xyz/)
@@ -39,8 +35,7 @@ description: News and information about Internet of Things and its applications
 ## NVIDIA
 
 * [Jetson](https://developer.nvidia.com/buy-jetson)
-* [Depth cameras for NVIDIA Jetson](https://devtalk.nvidia.com/default/topic/1046610/jetson-tx2/what-3d-camera-is-recommended-for-use-with-jetson-tx2-/)
-* [Stereo cameras for Jetson](https://elinux.org/Jetson/Cameras#Stereo_Cameras)
+* [AWS ML at Edge with NVIDIA Jetson Nano](https://github.com/mahendrabairagi/AWS_ML_At_Edge_With_NVIDIA_Jetson_Nano)
 
 ## Google 
 
