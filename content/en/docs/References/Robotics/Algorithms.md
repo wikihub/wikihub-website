@@ -15,6 +15,11 @@ description: Resources for algorithms in robotics
 * [RTAB Map](http://introlab.github.io/rtabmap/)
 * [Voxblox](https://github.com/ethz-asl/voxblox)
 
+# Planning
+
+* [Forrest-Z collection](https://github.com/Forrest-Z?tab=repositories)
+* [NEU-ZJX collection](https://github.com/NEU-ZJX?tab=repositories)
+
 # SLAM
 
 ## Visual SLAM
