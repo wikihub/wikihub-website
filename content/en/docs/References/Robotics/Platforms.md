@@ -115,6 +115,10 @@ description: News and information about robot platforms
 
 * [Anymal](https://www.anybotics.com/anymal-legged-robot/)
 
+# Kits
+
+* [Trossen Robotics](https://www.trossenrobotics.com/robot-kits.aspx)
+
 # Industrial Tow Tractors
 
 * [Taylor-Dunn](https://www.taylor-dunn.com/en-us/vehicles/)
