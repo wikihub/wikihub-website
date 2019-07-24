@@ -117,6 +117,7 @@ description: News and information about robot platforms
 
 # Kits
 
+* [DFRobots](https://www.dfrobot.com/category-37.html)
 * [Trossen Robotics](https://www.trossenrobotics.com/robot-kits.aspx)
 
 # Industrial Tow Tractors
