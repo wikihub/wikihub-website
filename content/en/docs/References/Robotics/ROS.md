@@ -54,6 +54,11 @@ description: News and information about ROS and its applications
 * [Robotnik Automation AGV's](https://github.com/RobotnikAutomation/agvs)
 
 # Training
+
+## Multiple computers
+
+* [Run rviz remotely](http://users.umiacs.umd.edu/~cteo/umd-erratic-ros-data/README-rvis-remote)
+
 ## Tutorials
 
 * [ROS/Gazebo simulator as the external simulator for ArduCopter](http://docs.erlerobotics.com/simulation/intro)
