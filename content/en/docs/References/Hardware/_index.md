@@ -15,6 +15,11 @@ description: Hardware resources
 * [Digikey](https://www.digikey.ca)
 * [Seeed Studio](https://www.seeedstudio.com/)
 
+## Ontario
+
+* [Corpshadow](https://corpshadow.biz/)
+
+
 # CAN Devices
 
 * [CANtact](https://wiki.linklayer.com/index.php/CANtact)
