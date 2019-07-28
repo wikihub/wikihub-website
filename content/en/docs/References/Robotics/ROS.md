@@ -63,6 +63,7 @@ description: News and information about ROS and its applications
 ## Multiple computers
 
 * [Run rviz remotely](http://users.umiacs.umd.edu/~cteo/umd-erratic-ros-data/README-rvis-remote)
+* [Topic content issue on remote computers](https://github.com/ros/meta-ros/issues/134)
 
 ## Tutorials
 
