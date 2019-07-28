@@ -56,6 +56,10 @@ description: News and information about ROS and its applications
 
 # Training
 
+## Recording
+
+* [Recording and playing back data](http://wiki.ros.org/ROS/Tutorials/Recording%20and%20playing%20back%20data)
+
 ## Multiple computers
 
 * [Run rviz remotely](http://users.umiacs.umd.edu/~cteo/umd-erratic-ros-data/README-rvis-remote)
