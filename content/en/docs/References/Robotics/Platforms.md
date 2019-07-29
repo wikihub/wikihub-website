@@ -30,6 +30,10 @@ description: News and information about robot platforms
 * [Omron](https://automation.omron.com/en/ca/products/family/LD)
     * [Mobile Planner](https://automation.omron.com/en/ca/products/family/Mobile%20Planner)
 
+## Segway
+
+* [SOE Bobble Bot](http://so.engineering/)
+
 ## RC Car
 
 * [Donkey Car](http://docs.donkeycar.com/)
