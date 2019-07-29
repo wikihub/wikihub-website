@@ -24,3 +24,7 @@ description: Single board computer resources
 # LattePanda
 
 * [LattePanda Alpha 800s](https://www.dfrobot.com/product-1727.html)
+
+# PLC
+
+* [Open source PLC](https://www.digital-loggers.com/plchw.html)
