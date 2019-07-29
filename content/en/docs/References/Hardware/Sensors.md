@@ -5,6 +5,10 @@ date: 2019-02-22
 description: News and information about sensors
 ---
 
+# Odometry
+
+* [Odometry for differential drive vehicle without encoders](https://medium.com/@waleedmansoor/how-i-built-ros-odometry-for-differential-drive-vehicle-without-encoder-c9f73fe63d87)
+
 # Cameras
 
 * [3D cameras with ROS support](https://rosindustrial.org/3d-camera-survey)
