@@ -97,6 +97,7 @@ description: News and information about robot platforms
 * [Synapticon](https://www.synapticon.com/)
 * [RE2](http://www.resquared.com/)
 * [Universal Robots](http://www.universal-robots.com)
+* [Mirobot](https://www.kickstarter.com/projects/mirobot/mirobot-6-axis-mini-industrial-robot-arm)
 
 ## Pick and place
 
