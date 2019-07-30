@@ -11,6 +11,7 @@ description: News and information about Internet of Things and its applications
 
 * [Particle](https://www.particle.io/)
 * [Sierra Wireless](https://www.sierrawireless.com/)
+* [Legato](https://source.sierrawireless.com/legato/)
 * [MangOH](https://mangoh.io/)
 
 # Single Board Computers
