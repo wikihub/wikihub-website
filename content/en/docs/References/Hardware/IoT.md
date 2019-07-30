@@ -10,6 +10,7 @@ description: News and information about Internet of Things and its applications
 # IoT Platforms
 
 * [Particle](https://www.particle.io/)
+* [Sierra Wireless](https://www.sierrawireless.com/)
 * [MangOH](https://mangoh.io/)
 
 # Single Board Computers
