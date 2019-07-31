@@ -76,6 +76,7 @@ description: Resources for robotics
 * [Robotic Research](https://www.roboticresearch.com/)
 * [ASi Robots](https://www.asirobots.com/)
 * [Quimesis](http://www.quimesis.be/en/projects/)
+* [Bel Robotics](https://www.belrobotics.com/en/mowers/)
 
 ## Suppliers
 
