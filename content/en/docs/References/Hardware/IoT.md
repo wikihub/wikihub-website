@@ -23,4 +23,6 @@ description: News and information about Internet of Things and its applications
 
 * [Edge TPU](https://coral.withgoogle.com/)
 
+# Wireless Network
 
+* [ALFA products](https://alfa.en.taiwantrade.com/product-list/all-products.html)
