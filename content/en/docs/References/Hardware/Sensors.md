@@ -13,6 +13,7 @@ description: News and information about sensors
 
 * [3D cameras with ROS support](https://rosindustrial.org/3d-camera-survey)
 * [ASUS Xtion 2](http://xtionprolive.com/asus-xtion2)
+* [Orbbec Astra](https://orbbec3d.com/product-astra-pro/)
 * [Primesense Carmine 1.09](http://xtionprolive.com/primesense-carmine-1.09)
 * [Orbbec 3D](https://orbbec3d.com/)
 * [Structure.io](https://structure.io/)
