@@ -15,6 +15,10 @@ description: News and information about robot components
 * [Sick](https://www.sick.com/us/en/)
 * [Soft Robotics](https://www.softroboticsinc.com/)
 
+# Controllers
+
+* [Quimbox](https://quimbox.com/en/)
+
 # Battery
 
 * [Ion Energy](https://www.ionenergy.co/)
