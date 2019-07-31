@@ -1,9 +1,13 @@
 ---
-title: "Single Board Computers"
-linkTitle: "Single Board Computers"
+title: "Embedded Systems"
+linkTitle: "Embedded Systems"
 weight: 20
-description: Single board computer resources
+description: Resources on embedded systems and single board computers
 ---
+
+# Embedded Systems
+
+* [ChibiOS](http://www.chibios.org/dokuwiki/doku.php?id=chibios:product:start)
 
 # Raspberry Pi
 
