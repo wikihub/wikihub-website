@@ -17,6 +17,7 @@ description: Hardware resources
 
 ## Ontario
 
+* [Sayal](https://shop.sayal.com/)
 * [Corpshadow](https://corpshadow.biz/)
 
 
