@@ -18,6 +18,7 @@ description: News and information about robot components
 # Controllers
 
 * [Quimbox](https://quimbox.com/en/)
+* [Husarion](https://husarion.com/)
 
 # Battery
 
