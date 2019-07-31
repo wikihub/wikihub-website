@@ -15,33 +15,11 @@ description: News and information about Internet of Things and its applications
 * [MangOH](https://mangoh.io/)
 * [Libelium](http://www.libelium.com)
 
-# Single Board Computers
+# IoT Courses
 
-* [New SBC computers](https://www.mickmake.com/post/weekly-roundup-64-new-maker-products)
+* [IoT Open Eu](http://iot-open.eu/)
 
-## Raspberry Pi
-
-* [GLFW](https://www.raspberrypi.org/forums/viewtopic.php?t=222264)
-* [OpenGL](https://ubuntu-mate.community/t/tutorial-activate-opengl-driver-for-ubuntu-mate-16-04/7094/4)
-
-### HAT
-
-* [Pinout](https://pinout.xyz/)
-
-#### TFT Display
-* [Touchscreen Supported on Raspberry Pi](https://github.com/notro/fbtft/blob/master/fbtft_device.c)
-* [RFI display](https://learn.watterott.com/rpi-display/fbtft-install/)
-
-## Up Board
-
-* [Up Board](https://up-board.org/)
-
-## NVIDIA
-
-* [Jetson](https://developer.nvidia.com/buy-jetson)
-* [AWS ML at Edge with NVIDIA Jetson Nano](https://github.com/mahendrabairagi/AWS_ML_At_Edge_With_NVIDIA_Jetson_Nano)
-
-## Google 
+# Google 
 
 * [Edge TPU](https://coral.withgoogle.com/)
 
