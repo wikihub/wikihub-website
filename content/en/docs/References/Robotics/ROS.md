@@ -21,6 +21,10 @@ description: News and information about ROS and its applications
 # Amazon
 - [RoboMaker](https://aws.amazon.com/robomaker/)
 
+# ROS Conferences
+
+* [ROSCon 2019](https://roscon.ros.org/2019/#program)
+
 # ROS Based Products
 
 * [Autonomy kit](https://www.clearpathrobotics.com/autonomy-research-kit/)
