@@ -5,7 +5,7 @@ weight: 30
 description: Resources for algorithms in robotics
 ---
 
-* [Awesome visual SLAM](https://github.com/tzutalin/awesome-visual-slam)
+* [Orebro University](https://github.com/OrebroUniversity)
 
 # Perception
 
@@ -23,6 +23,7 @@ description: Resources for algorithms in robotics
 * [RTAB Map](http://introlab.github.io/rtabmap/)
 * [Voxblox](https://github.com/ethz-asl/voxblox)
 
+
 # Planning
 
 * [Forrest-Z collection](https://github.com/Forrest-Z?tab=repositories)
@@ -34,5 +35,6 @@ description: Resources for algorithms in robotics
 
 ## Visual SLAM
 
+* [Awesome visual SLAM](https://github.com/tzutalin/awesome-visual-slam)
 * [Thomas Whelan](http://www.thomaswhelan.ie/#publications)
 * [A Benchmark for RGB-D Visual Odometry, 3D Reconstruction and SLAM](http://www.thomaswhelan.ie/Handa14icra.pdf)
