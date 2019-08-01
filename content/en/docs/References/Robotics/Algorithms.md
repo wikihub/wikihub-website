@@ -6,6 +6,7 @@ description: Resources for algorithms in robotics
 ---
 
 * [Orebro University](https://github.com/OrebroUniversity)
+* [Iliad project](https://iliad-project.eu/)
 
 # Perception
 
