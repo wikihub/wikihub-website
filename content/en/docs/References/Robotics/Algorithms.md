@@ -21,9 +21,13 @@ description: Resources for algorithms in robotics
 * [Cartographer](https://github.com/googlecartographer/cartographer)
    * [Cartographer ROS](https://google-cartographer-ros.readthedocs.io/en/latest/)
 * [ORB SLAM2](https://github.com/raulmur/ORB_SLAM2)
-* [RTAB Map](http://introlab.github.io/rtabmap/)
 * [Find Object](http://introlab.github.io/find-object/)
 * [Voxblox](https://github.com/ethz-asl/voxblox)
+
+## RTAB Map
+
+* [RTAB Map](http://introlab.github.io/rtabmap/)
+* [RTAB mapping in action](https://robohub.org/real-time-appearance-based-mapping-in-action-at-the-microsoft-kinect-challenge-iros-2014/)
 
 
 # Planning
