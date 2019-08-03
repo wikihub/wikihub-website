@@ -26,9 +26,9 @@ description: Resources for algorithms in robotics
 
 ## RTAB Map
 
-* [RTAB Map](http://introlab.github.io/rtabmap/)
+* [RTAB-Map](http://introlab.github.io/rtabmap/)
 * [RTAB mapping in action](https://robohub.org/real-time-appearance-based-mapping-in-action-at-the-microsoft-kinect-challenge-iros-2014/)
-
+* [How to use RTAB-Map by Mistlab](https://git.mistlab.ca/mistlab/documentation/wikis/how-to-use-rtab-map-for-3d-mapping)
 
 # Planning
 
