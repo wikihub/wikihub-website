@@ -36,6 +36,7 @@ description: Resources on embedded systems and single board computers
 * [Jetson](https://developer.nvidia.com/buy-jetson)
 * [AWS ML at Edge with NVIDIA Jetson Nano](https://github.com/mahendrabairagi/AWS_ML_At_Edge_With_NVIDIA_Jetson_Nano)
 * [Jetson Nano](https://developer.nvidia.com/embedded/jetson-nano-developer-kit)
+* [Getting started with Jetson Nano](https://blog.hackster.io/getting-started-with-the-nvidia-jetson-nano-developer-kit-43aa7c298797)
 
 ### Network adaptor
 
