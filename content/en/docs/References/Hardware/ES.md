@@ -37,6 +37,10 @@ description: Resources on embedded systems and single board computers
 * [AWS ML at Edge with NVIDIA Jetson Nano](https://github.com/mahendrabairagi/AWS_ML_At_Edge_With_NVIDIA_Jetson_Nano)
 * [Jetson Nano](https://developer.nvidia.com/embedded/jetson-nano-developer-kit)
 
+### Network adaptor
+
+* [Realtek RTL8812BU](https://github.com/cilynx/rtl88x2BU_WiFi_linux_v5.3.1_27678.20180430_COEX20180427-5959)
+
 ## Up Board
 
 * [Up Squared](https://up-board.org/upsquared/specifications/)
