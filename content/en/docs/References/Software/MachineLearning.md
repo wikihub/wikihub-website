@@ -16,6 +16,7 @@ A collection of awesome machine learning goodies
 * [Resources for learning statistics and machine learning](https://sgfin.github.io/learning-resources/)
 * [Machine Learning Mind Map](https://github.com/dformoso/machine-learning-mindmap)
 * [Deep Learning Drizzle](https://deep-learning-drizzle.github.io/)
+* [Rethinking generalization requires revisiting old ideas: statistical mechanics approaches and complex learning behavior](https://arxiv.org/abs/1710.09553)
 
 # Podcast
 - [Andrew Ng: Influential leader in artificial intelligence](https://behindthetech.libsynpro.com/003-andrew-ng-influential-leader-in-artificial-intelligence)
