@@ -17,6 +17,7 @@ description: News and information about sensors
 * [Orbbec 3D](https://orbbec3d.com/)
 * [Structure.io](https://structure.io/)
 * [See3CAM (Tara)](https://www.e-consystems.com/See3CAM-USB-3-Camera.asp#stereo-vision-camera)
+   * [3D USB 3.0 e-con Systems](https://www.e-consystems.com/3D-USB-stereo-camera.asp)
 * [Intel RealSense](https://www.intel.ca/content/www/ca/en/architecture-and-technology/realsense-overview.html)
 
 # GPS
