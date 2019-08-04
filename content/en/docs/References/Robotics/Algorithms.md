@@ -23,6 +23,7 @@ description: Resources for algorithms in robotics
 * [ORB SLAM2](https://github.com/raulmur/ORB_SLAM2)
 * [Find Object](http://introlab.github.io/find-object/)
 * [Voxblox](https://github.com/ethz-asl/voxblox)
+* [pointcloud to laserscan](http://wiki.ros.org/pointcloud_to_laserscan)
 
 ## RTAB Map
 
