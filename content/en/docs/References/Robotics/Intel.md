@@ -26,3 +26,7 @@ description: Resources for Intel robotics and the RealSense cameras
    * Install LibRealSense on Jetosn Nano: sudo apt install ros-melodic-perception
    * Install LibRealSense on Jetosn Nano: sudo apt install ros-melodic-diagnostics
 * [SLAM with RealSense D435i camera on ROS](https://github.com/IntelRealSense/realsense-ros/wiki/SLAM-with-D435i)
+
+### Gazebo
+
+* [Gazebo RealSense plugin](https://github.com/intel/gazebo-realsense)
