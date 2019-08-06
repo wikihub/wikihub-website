@@ -17,13 +17,10 @@ description: News and information about robot platforms
 
 * [Clearpath Robotics](https://www.clearpathrobotics.com/)
 * [Aion Robotics](https://www.aionrobotics.com/)
-* [Linorobot](http://linorobot.org)
-    * [Linorobot Google Group](https://groups.google.com/forum/#!forum/linorobot)
 * [Servosila](https://www.servosila.com/en/)
 * [Earth Explorer](http://www.sampson-jeff.com/eep/)
 * [ZEUS Robot](http://www.nicltd.co.uk/zeus-ultimate-modular-unmanned-ground-vehicle/zeus-ugv-modularity/)
 * [RMP 210](https://stanleyinnovation.com/products-services/robotics/robotic-mobility-platforms/passive-stability/)
-* [Magni](https://store.ubiquityrobotics.com/)
 * [Rover Robotics](https://roverrobotics.com/)
 * [LoCoBot](https://locobot-website.netlify.com/)
 * [K-Team](http://www.k-team.com/)
@@ -33,6 +30,16 @@ description: News and information about robot platforms
 ## Segway
 
 * [SOE Bobble Bot](http://so.engineering/)
+
+## [Linorobot](http://linorobot.org)
+
+* [Linorobot Google Group](https://groups.google.com/forum/#!forum/linorobot)
+
+## [Magni](https://store.ubiquityrobotics.com/)
+
+* [Ubiquity motor](https://github.com/UbiquityRobotics/ubiquity_motor)
+* [Tune motor responsiveness](https://forum.ubiquityrobotics.com/t/how-to-tune-motor-responsiveness/97)
+* [Magni robot](https://github.com/UbiquityRobotics/magni_robot)
 
 ## RC Car
 
