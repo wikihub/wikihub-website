@@ -37,6 +37,7 @@ description: News and information about robot platforms
 
 ## [Magni](https://store.ubiquityrobotics.com/)
 
+* [Magni forum](https://forum.ubiquityrobotics.com/)
 * [Ubiquity motor](https://github.com/UbiquityRobotics/ubiquity_motor)
 * [Tune motor responsiveness](https://forum.ubiquityrobotics.com/t/how-to-tune-motor-responsiveness/97)
 * [Magni robot](https://github.com/UbiquityRobotics/magni_robot)
