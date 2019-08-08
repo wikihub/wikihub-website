@@ -12,6 +12,7 @@ description: Applications of technology in agriculture
 # Robots
 
 * [Augean Robotics](http://www.augeanrobotics.com)
+* [Mushroom picking](https://www.freshplaza.com/article/9131522/canadian-firm-receives-funds-to-develop-mushroom-picking-robot/)
 
 # Machines
 
