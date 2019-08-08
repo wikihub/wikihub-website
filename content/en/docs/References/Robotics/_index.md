@@ -47,8 +47,16 @@ description: Resources for robotics
 
 * [Nourish](https://www.nourish.ai/)
 
+## Lawn mowers
+
+* [The mower project](https://mowerproject.com/)
+* [Husqvarna 18V Automower® 310 Robotic Lawn Mower](https://www.canadiantire.ca/en/pdp/husqvarna-18v-automower-310-robotic-lawn-mower-0601799p.0601799.html)
+* [GARDENA 4069 R80Li Robotic Lawnmower](https://www.amazon.ca/Gardena-4069-R80Li-Robotic-Lawnmower/dp/B06XD2X262/ref=pd_sbs_469_7)
+* [Robomow RC304 Robotic Lawn Mower](https://www.walmart.ca/en/ip/robomow-rc304-robotic-lawn-mower/6000199850549)
+
 ## Snow removal
 
+* [Kobi](https://www.accuweather.com/en/weather-news/autonomous-kobi-robot-can-remove-snow-from-your-driveway-startup/60988472)
 * [Snowposium](https://snowposium.ca/)
 * [Landscaping and snow removal start-up checklist](https://canadabusiness.ca/starting/checklists-and-guides-for-starting-a-business/landscaping-and-snow-removal-start-up-checklist/)
 * [Snowblowing John deere 1025r with quick hitch 54" snowblower](https://www.youtube.com/watch?v=zPt1fb_9Dd8)
