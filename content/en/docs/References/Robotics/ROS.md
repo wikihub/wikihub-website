@@ -14,15 +14,19 @@ description: News and information about ROS and its applications
 
 * [ROS launch files by Mantraes](https://github.com/mantraes/ROS-Launch-Files)
 
-# Facebook
+# Companies
+
+* [HomeBrew Robotics Club](http://www.hbrobotics.org/)
+
+## Facebook
 
 * [PyRobot](https://github.com/facebookresearch/pyrobot)
 * [AI Habitat](https://aihabitat.org/)
 
-# Microsoft
+## Microsoft
 - [AI Robot Challenge Lab](https://github.com/Microsoft/AI-Robot-Challenge-Lab)
 
-# Amazon
+## Amazon
 - [RoboMaker](https://aws.amazon.com/robomaker/)
 
 # ROS Conferences
@@ -42,6 +46,7 @@ description: News and information about ROS and its applications
 
 # Install 
 
+* [Laniakea AKA "Turtle Beach": automated way to install ROS and ROS-related packages for Linux-based robots](https://github.com/jetdillo/laniakea)
 * [ROS installer script by Linorobot](https://github.com/linorobot/rosme)
 * [Install ROS Melodic on Ubuntu Bionic (18.04.2)](http://wiki.ros.org/melodic/Installation/Ubuntu)
 * [Update the public key](http://answers.ros.org/question/325039/apt-update-fails-cannot-install-pkgs-key-not-working/)
