@@ -15,6 +15,7 @@ description: Hardware resources
 * [Sparkfun](https://www.sparkfun.com/)
 * [Adafruit](https://www.adafruit.com/)
 * [Seeed Studio](https://www.seeedstudio.com/)
+* [Diigiit](http://www.ca.diigiit.com/)
 
 ## Ontario
 
