@@ -57,6 +57,7 @@ description: Resources for robotics
 * [Husqvarna 18V Automower® 310 Robotic Lawn Mower](https://www.canadiantire.ca/en/pdp/husqvarna-18v-automower-310-robotic-lawn-mower-0601799p.0601799.html)
 * [GARDENA 4069 R80Li Robotic Lawnmower](https://www.amazon.ca/Gardena-4069-R80Li-Robotic-Lawnmower/dp/B06XD2X262/ref=pd_sbs_469_7)
 * [Robomow RC304 Robotic Lawn Mower](https://www.walmart.ca/en/ip/robomow-rc304-robotic-lawn-mower/6000199850549)
+* [RoboGREEN](https://www.youtube.com/watch?v=Ve-V3t0rbkI)
 
 ## Snow removal
 
