@@ -74,6 +74,10 @@ description: Resources for robotics
 * [John Deere Tractors With Snowblowers](https://www.youtube.com/watch?v=w_-yqc_UIc8)
 * [Robotics Snow Plow](https://www.youtube.com/watch?v=5upOXk_AQHE)
 
+### Snow removal market
+
+* [Edmonton](https://globalnews.ca/news/5473401/autonomous-lawn-mower-snow-clearing-robot-edmonton/)
+
 # Software
 
 ## Multi-Agent Reinforcement Learning
