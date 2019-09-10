@@ -62,6 +62,7 @@ description: Resources for robotics
 
 ## Snow removal
 
+* [Left Hand Robotics](https://www.zdnet.com/article/transforming-robot-will-mow-fields-shovel-snow/)
 * [Kobi](https://www.accuweather.com/en/weather-news/autonomous-kobi-robot-can-remove-snow-from-your-driveway-startup/60988472)
 * [Snowposium](https://snowposium.ca/)
 * [Landscaping and snow removal start-up checklist](https://canadabusiness.ca/starting/checklists-and-guides-for-starting-a-business/landscaping-and-snow-removal-start-up-checklist/)
