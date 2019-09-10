@@ -71,6 +71,7 @@ description: Resources for robotics
 * [Kubota BX snow blowing 28 inches snow](https://www.youtube.com/watch?v=MYct9ZGNUA8)
 * [Kubota Moving Snow](https://www.youtube.com/watch?v=409LlbeaaWY)
 * [John Deere Tractors With Snowblowers](https://www.youtube.com/watch?v=w_-yqc_UIc8)
+* [Robotics Snow Plow](https://www.youtube.com/watch?v=5upOXk_AQHE)
 
 # Software
 
