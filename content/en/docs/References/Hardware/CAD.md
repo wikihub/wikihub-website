@@ -34,6 +34,9 @@ description: News and information about rapid prototyping
 
 ## Ontario
 
+* [Shop3D](https://shop3d.ca/)
+* [3D Phacktory](http://3dphacktory.com/)
+* [Top 3D printing services in Toronto](https://www.blogto.com/tech/2017/04/3d-printers-printing-toronto/)
 * [3D Printers Toronto](https://www.blogto.com/tech/2017/04/3d-printers-printing-toronto/)
 * [3D Hub Toronto](https://www.3dhubs.com/3d-printing/location/toronto-canada/)
 * [U of T MedPrint](https://uoftmedprint.com/)
