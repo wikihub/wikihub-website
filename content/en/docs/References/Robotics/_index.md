@@ -81,7 +81,7 @@ description: Resources for robotics
 
 ## Floor sweeping
 
-* [Tennant S30](https://www.thesweeper.com/new-machines/floor-sweepers/tennant/s30)
+* [Tennant S30](https://www.tennantco.com/en_ca/1/machines/sweepers/product.s30.ride-on-sweeper.M-S30.html)
 
 # Software
 
