@@ -79,6 +79,10 @@ description: Resources for robotics
 
 * [Edmonton](https://globalnews.ca/news/5473401/autonomous-lawn-mower-snow-clearing-robot-edmonton/)
 
+## Floor sweeping
+
+* [Tennant S30](https://www.thesweeper.com/new-machines/floor-sweepers/tennant/s30)
+
 # Software
 
 ## Multi-Agent Reinforcement Learning
