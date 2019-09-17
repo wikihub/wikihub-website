@@ -14,6 +14,7 @@ description: News and information about robot components
 * [Schunk](https://schunk.com/us_en/homepage/)
 * [Sick](https://www.sick.com/us/en/)
 * [Soft Robotics](https://www.softroboticsinc.com/)
+* [List of robot electronics](https://github.com/cajt/list_of_robot_electronics)
 
 # Controllers
 
