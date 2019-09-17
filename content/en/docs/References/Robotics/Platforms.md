@@ -31,6 +31,8 @@ description: News and information about robot platforms
 
 * [SOE Bobble Bot](http://so.engineering/)
 
+## [Pulurobot](https://www.pulurobotics.fi/page/pulu-m2-1)
+
 ## [Linorobot](http://linorobot.org)
 
 * [Linorobot Google Group](https://groups.google.com/forum/#!forum/linorobot)
