@@ -15,6 +15,10 @@ description: News and information about robot components
 * [Sick](https://www.sick.com/us/en/)
 * [Soft Robotics](https://www.softroboticsinc.com/)
 * [List of robot electronics](https://github.com/cajt/list_of_robot_electronics)
+* [Awesome robotics](https://github.com/kiloreux/awesome-robotics)
+* [Awesome robotics](https://github.com/ahundt/awesome-robotics)
+* [Awesome robotics libraries](https://github.com/jslee02/awesome-robotics-libraries)
+* [Awesome ROS2](https://github.com/fkromer/awesome-ros2)
 
 # Controllers
 
