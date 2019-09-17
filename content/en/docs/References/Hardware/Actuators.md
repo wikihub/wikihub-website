@@ -5,14 +5,6 @@ weight: 20
 description: Actuators resources
 ---
 
-# Motor Controllers
-
-* [Sevcon](http://www.sevcon.com/)
-* [Curtis Instruments](https://www.curtisinstruments.com/)
-
-# Hub motors
-
-
 # Linear Actuators
 
 * [SKF Motion Technologies](https://www.skfmotiontechnologies.com/en/ca/products/high-performance-actuators?from=skf.com)
