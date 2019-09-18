@@ -9,6 +9,12 @@ description: Resources for robotics
 * [Robohub](https://robohub.org/)
 * [Robotics Weekly](https://weeklyrobotics.com/)
 
+# Shopping
+
+* [Robotshop](https://www.robotshop.com/ca/en/)
+* [Solarbotics](https://solarbotics.com/)
+* [Servocity](https://www.servocity.com/)
+
 # VC
 
 * [Grishin Robotics](https://www.grishinrobotics.com/)
