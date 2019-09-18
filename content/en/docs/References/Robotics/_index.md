@@ -14,6 +14,7 @@ description: Resources for robotics
 * [Robotshop](https://www.robotshop.com/ca/en/)
 * [Solarbotics](https://solarbotics.com/)
 * [Servocity](https://www.servocity.com/)
+* [Maytech](https://maytech.aliexpress.com/store/1630416)
 
 # VC
 
