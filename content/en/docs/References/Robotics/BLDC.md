@@ -15,6 +15,7 @@ description: BLDC motors and controller resources
    * [VESC boot loader installation tutorial](https://www.electric-skateboard.builders/t/vesc-boot-loader-installation-tutorial/32103)
 * [ODrive](https://odriverobotics.com/)
    * [Hoverboard motor and remote control setup guide](https://github.com/madcowswe/ODrive/blob/master/docs/hoverboard.md)
+* [Kelly](https://www.kellycontroller.com/shop/kbs-x/)
 
 # Hub motors
 
