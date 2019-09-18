@@ -18,3 +18,7 @@ description: News and information about electric vehicles
 # Controllers
 
 # Batteries
+
+# Personal mobility
+
+* [Swincar](https://www.swincar.fr/)
