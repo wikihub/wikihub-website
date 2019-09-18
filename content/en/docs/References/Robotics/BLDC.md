@@ -20,3 +20,7 @@ description: BLDC motors and controller resources
 # Hub motors
 
 * [UUMotors](https://www.uumotor.com/ws/)
+
+# Hoverboards
+
+* [Farm robot](http://georgeknowlden.com/projects/farm_robot/log.html)
