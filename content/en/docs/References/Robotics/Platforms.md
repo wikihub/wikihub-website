@@ -46,6 +46,7 @@ description: News and information about robot platforms
 
 ## RC Car
 
+* [Jetson RC car](https://www.jetsonhacks.com/category/robotics/jetson-racecar/)
 * [Donkey Car](http://docs.donkeycar.com/)
     * [Donkey Car store](https://store.donkeycar.com/collections/accessories)
 * [Simple Autonomous Wheeled Robot (SAWR)](https://github.com/intel/sawr)
