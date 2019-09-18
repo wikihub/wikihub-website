@@ -13,6 +13,7 @@ description: BLDC motors and controller resources
 * [VESC](http://vedder.se/2015/01/vesc-open-source-esc/)
 * [VESC Project](https://vesc-project.com/)
    * [VESC boot loader installation tutorial](https://www.electric-skateboard.builders/t/vesc-boot-loader-installation-tutorial/32103)
+* [Flipsky FSESC](https://flipsky.net/collections/new-accessories/products/dual-fsesc6-6-plus-based-on-vesc6)
 * [ODrive](https://odriverobotics.com/)
    * [Hoverboard motor and remote control setup guide](https://github.com/madcowswe/ODrive/blob/master/docs/hoverboard.md)
 * [Kelly](https://www.kellycontroller.com/shop/kbs-x/)
