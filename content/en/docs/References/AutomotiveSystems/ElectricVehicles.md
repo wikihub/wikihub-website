@@ -22,3 +22,4 @@ description: News and information about electric vehicles
 # Personal mobility
 
 * [Swincar](https://www.swincar.fr/)
+* [Quad](http://www.ev4.pl/en/off-road-quad.html)
