@@ -24,3 +24,4 @@ description: BLDC motors and controller resources
 # Hoverboards
 
 * [Farm robot](http://georgeknowlden.com/projects/farm_robot/log.html)
+* [Hoverboard project](https://synthiam.com/Community/Robots/Untitled-Hoverboard-Project-17760/comments)
