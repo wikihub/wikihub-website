@@ -17,6 +17,7 @@ description: BLDC motors and controller resources
 * [ODrive](https://odriverobotics.com/)
    * [Hoverboard motor and remote control setup guide](https://github.com/madcowswe/ODrive/blob/master/docs/hoverboard.md)
 * [Kelly](https://www.kellycontroller.com/shop/kbs-x/)
+* [Tom Sawyer Labs](https://github.com/cinderblock/3-Phase-Driver)
 
 # Hub motors
 
