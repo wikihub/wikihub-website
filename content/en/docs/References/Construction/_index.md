@@ -1,7 +1,7 @@
 ---
 title: "Construction"
 linkTitle: "Construction"
-weight: 30
+weight: 70
 description: Resources for construction
 ---
 
