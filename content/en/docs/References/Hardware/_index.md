@@ -12,6 +12,7 @@ description: Hardware resources
 * [Adafruit](https://www.adafruit.com/)
 * [Seeed Studio](https://www.seeedstudio.com/)
 * [Diigiit](http://www.ca.diigiit.com/)
+* [JAMECO](https://www.jameco.com)
 
 ## Canada
 
