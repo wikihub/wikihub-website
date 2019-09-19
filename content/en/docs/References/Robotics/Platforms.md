@@ -15,6 +15,7 @@ description: News and information about robot platforms
 
 # Mobile Robots
 
+* [Superdroid mobile robots](https://www.superdroidrobots.com/shop/category.aspx/wheeled-robots/51/)
 * [Clearpath Robotics](https://www.clearpathrobotics.com/)
 * [Aion Robotics](https://www.aionrobotics.com/)
 * [Servosila](https://www.servosila.com/en/)
@@ -26,6 +27,10 @@ description: News and information about robot platforms
 * [K-Team](http://www.k-team.com/)
 * [Omron](https://automation.omron.com/en/ca/products/family/LD)
     * [Mobile Planner](https://automation.omron.com/en/ca/products/family/Mobile%20Planner)
+
+## Tracked Robots
+
+* [Superdroid treaded robots](https://www.superdroidrobots.com/shop/category.aspx/treaded-tracked-robots/73/)
 
 ## Segway
 
