@@ -65,6 +65,10 @@ description: News and information about robot platforms
 
 * [Building an autonomous vehicle by SparkFun](https://learn.sparkfun.com/tutorials/building-an-autonomous-vehicle-the-batmobile/all)
 
+## Legged Robots
+
+* [Unitree](http://www.unitree.cc/)
+
 ## Warehouse
 
 * [6river](https://6river.com/)
