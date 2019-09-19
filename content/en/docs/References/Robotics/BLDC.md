@@ -18,6 +18,7 @@ description: BLDC motors and controller resources
    * [Hoverboard motor and remote control setup guide](https://github.com/madcowswe/ODrive/blob/master/docs/hoverboard.md)
 * [Kelly](https://www.kellycontroller.com/shop/kbs-x/)
 * [Tom Sawyer Labs](https://github.com/cinderblock/3-Phase-Driver)
+* [A200S based on VESC](http://teamtriforceuk.com/a200s-v2-1/)
 
 # Hub motors
 
