@@ -30,3 +30,7 @@ description: Hardware resources
 # CAN Devices
 
 * [CANtact](https://wiki.linklayer.com/index.php/CANtact)
+
+# PCB
+
+* [Seeed Fusion PCB & PCB Assembly](https://www.seeedstudio.com/fusion.html)
