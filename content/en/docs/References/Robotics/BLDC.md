@@ -27,7 +27,8 @@ description: BLDC motors and controller resources
 
 # Hub motors
 
-* [UUMotors](https://www.uumotor.com/ws/)
+* [CNQMotor](http://www.cnqsmotor.com/en/)
+* [UUMotor](https://www.uumotor.com/ws/)
 
 # Hoverboards
 
