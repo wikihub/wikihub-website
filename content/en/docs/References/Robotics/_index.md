@@ -11,6 +11,7 @@ description: Resources for robotics
 
 # Shopping
 
+* [Superdroid Robots](https://www.superdroidrobots.com/)
 * [Robotshop](https://www.robotshop.com/ca/en/)
 * [Solarbotics](https://solarbotics.com/)
 * [Servocity](https://www.servocity.com/)
