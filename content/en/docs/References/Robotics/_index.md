@@ -70,6 +70,7 @@ description: Resources for robotics
 ## Snow removal
 
 * [Snow blower features that matter](https://www.consumerreports.org/snow-blowers/snow-blower-features-that-matter/)
+* [Power steering snow blowers](https://www.homedepot.com/b/Outdoors-Outdoor-Power-Equipment-Snow-Removal-Equipment-Snow-Blowers-Gas-Snow-Blowers/Power-Steering/Two-Stage-Gas-Snow-Blower/N-5yc1vZceo5Z1z0m84jZ1z0r2r7)
 * [Left Hand Robotics](https://www.zdnet.com/article/transforming-robot-will-mow-fields-shovel-snow/)
 * [Northstar Robotics](http://www.northstar-robotics.com/)
 * [Kobi](https://www.accuweather.com/en/weather-news/autonomous-kobi-robot-can-remove-snow-from-your-driveway-startup/60988472)
