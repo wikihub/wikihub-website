@@ -9,6 +9,7 @@ description: BLDC motors and controller resources
 
 * [Sevcon](http://www.sevcon.com/)
 * [Curtis Instruments](https://www.curtisinstruments.com/)
+* [Roboteq](https://www.erobotz.com/index.php/products/view/category/virtuemart_category_id/3)
 * [Anaheim Automation](https://anaheimautomation.com/products/brushless/brushless-driver-controller-item.php?sID=278&serID=25&pt=i&tID=999&cID=23)
 * [VESC](http://vedder.se/2015/01/vesc-open-source-esc/)
 * [VESC Project](https://vesc-project.com/)
