@@ -32,6 +32,8 @@ description: BLDC motors and controller resources
 
 # Hoverboards
 
+* [Hoverboard firmware hack](https://github.com/NiklasFauth/hoverboard-firmware-hack)
+* [Hoverboard firmware hack: Generation 2](https://github.com/flo199213/Hoverboard-Firmware-Hack-Gen2)
 * [Farm robot](http://georgeknowlden.com/projects/farm_robot/log.html)
 * [Hoverboard project](https://synthiam.com/Community/Robots/Untitled-Hoverboard-Project-17760/comments)
 
