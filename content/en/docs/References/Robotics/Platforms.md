@@ -68,6 +68,8 @@ description: News and information about robot platforms
 ## Legged Robots
 
 * [Unitree](http://www.unitree.cc/)
+* [OpenDog](https://github.com/XRobots/openDog)
+* [ANYmal](https://www.anybotics.com/anymal-legged-robot/)
 
 ## Warehouse
 
