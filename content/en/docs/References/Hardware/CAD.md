@@ -30,6 +30,8 @@ description: News and information about rapid prototyping
 
 # 3D Printing
 
+# Printers
+
 * [Prusa i3 MK3](https://shop.prusa3d.com/en/3d-printers/180-original-prusa-i3-mk3-kit.html)
 * [Snapmaker](https://www.kickstarter.com/projects/snapmaker/snapmaker-20-modular-3-in-1-3d-printers)
 
@@ -49,6 +51,10 @@ description: News and information about rapid prototyping
 
 * [AXIS Prototypes](https://www.axisproto.com/)
 * [Genistar](http://www.genistar.com/)
+
+## China
+
+* [Deed3D](https://deed3d.com/)
 
 ## USA
 
