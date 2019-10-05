@@ -70,6 +70,7 @@ description: Resources for robotics
 * [RoboFlail](https://www.youtube.com/watch?v=Wx7_vyPcIns)
 * [Remote mowers](https://www.remotemowers.com/)
 * [Alamo Industrial: RidgeRunner](https://www.youtube.com/watch?v=VpnO9zqhgAA)
+* [RoboFlail mini](https://www.kommtek.de/en/products/automation/roboflail-mini/)
 
 ## Snow removal
 
