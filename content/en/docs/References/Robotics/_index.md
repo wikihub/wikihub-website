@@ -69,6 +69,7 @@ description: Resources for robotics
 * [RoboGREEN](https://www.youtube.com/watch?v=Ve-V3t0rbkI)
 * [RoboFlail](https://www.youtube.com/watch?v=Wx7_vyPcIns)
 * [Remote mowers](https://www.remotemowers.com/)
+* [Alamo Industrial: RidgeRunner](https://www.youtube.com/watch?v=VpnO9zqhgAA)
 
 ## Snow removal
 
