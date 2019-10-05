@@ -71,6 +71,7 @@ description: Resources for robotics
 * [Remote mowers](https://www.remotemowers.com/)
 * [Alamo Industrial: RidgeRunner](https://www.youtube.com/watch?v=VpnO9zqhgAA)
 * [RoboFlail mini](https://www.kommtek.de/en/products/automation/roboflail-mini/)
+* [EvaTech](https://evatech.net/PRODUCT.php?ID=6)
 
 ## Snow removal
 
