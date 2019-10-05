@@ -68,6 +68,7 @@ description: Resources for robotics
 * [Robomow RC304 Robotic Lawn Mower](https://www.walmart.ca/en/ip/robomow-rc304-robotic-lawn-mower/6000199850549)
 * [RoboGREEN](https://www.youtube.com/watch?v=Ve-V3t0rbkI)
 * [RoboFlail](https://www.youtube.com/watch?v=Wx7_vyPcIns)
+* [Remote mowers](https://www.remotemowers.com/)
 
 ## Snow removal
 
