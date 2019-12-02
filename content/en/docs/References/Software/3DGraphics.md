@@ -11,6 +11,7 @@ description: News and information about 3D graphics applications
 * [FreeCAD](https://www.freecadweb.org/)
 * [OpenSCAD](https://www.openscad.org/)
 * [LibreCAD](https://librecad.org/)
+* [QCAD](https://www.qcad.org/en/)
 * [Sweet Home 3D](http://www.sweethome3d.com/)
 
 # Vulkan
