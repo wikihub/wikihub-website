@@ -9,6 +9,7 @@ description: News and information about 3D graphics applications
 # CAD
 
 * [FreeCAD](https://www.freecadweb.org/)
+* [OpenSCAD](https://www.openscad.org/)
 * [LibreCAD](https://librecad.org/)
 * [Sweet Home 3D](http://www.sweethome3d.com/)
 
