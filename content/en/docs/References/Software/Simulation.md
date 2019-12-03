@@ -90,3 +90,7 @@ description: News and information about simulation and 3D virtual environments
 # Computational 3D Object Manipulation 
 
 * [Makie](https://github.com/JuliaPlots/Makie.jl)
+
+# Heat
+
+* [CENOS](https://documentation.cenos-platform.com/docs/getting-started/cenos-overview)
