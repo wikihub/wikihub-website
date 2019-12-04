@@ -11,6 +11,11 @@ description: Resources for building construction and optimization
 * [Brain Box AI](https://www.brainboxai.com/)
 * [Parity](https://www.paritygo.com/)
 * [Data-driven building operation and maintenance research group](https://carleton.ca/dbom/)
+* [Building energy challenge](https://buildingenergychallenge.ca/)
+* [Project STASIO](https://projectstasio.com/)
+* [Simulate Energy](https://simulate.energy/)
+* [Clean BC](https://betterbuildingsbc.ca/new-construction/net-zero-energy-ready-challenge/)
+* [BOMA Toronto](https://www.bomatoronto.org/)
 
 # Tiny Houses
 
