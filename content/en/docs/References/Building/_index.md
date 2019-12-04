@@ -16,6 +16,8 @@ description: Resources for building construction and optimization
 * [Simulate Energy](https://simulate.energy/)
 * [Clean BC](https://betterbuildingsbc.ca/new-construction/net-zero-energy-ready-challenge/)
 * [BOMA Toronto](https://www.bomatoronto.org/)
+* [Simulation Research](https://simulationresearch.lbl.gov/)
+* [Buildings Simulation 2019](http://buildingsimulation2019.org/competitions/)
 
 # Tiny Houses
 
