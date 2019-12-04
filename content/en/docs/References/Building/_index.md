@@ -9,6 +9,8 @@ description: Resources for building construction and optimization
 
 * [Building Energy Innovators Council](https://beic.ca/)
 * [Brain Box AI](https://www.brainboxai.com/)
+* [Parity](https://www.paritygo.com/)
+* [Data-driven building operation and maintenance research group](https://carleton.ca/dbom/)
 
 # Tiny Houses
 
