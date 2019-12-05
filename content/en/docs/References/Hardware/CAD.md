@@ -38,6 +38,11 @@ description: News and information about rapid prototyping
 
 * [Color Fabb](https://colorfabb.com/)
 
+## Model Gallery
+
+* [My Minifactory](https://www.myminifactory.com/)
+* [Thingiverse](https://www.thingiverse.com/)
+
 ## Printers
 
 * [Prusa i3 MK3](https://shop.prusa3d.com/en/3d-printers/180-original-prusa-i3-mk3-kit.html)
