@@ -30,7 +30,11 @@ description: News and information about rapid prototyping
 
 # 3D Printing
 
-# Printers
+## Services
+
+* [3D hub](https://www.3dhubs.com/manufacture/)
+
+## Printers
 
 * [Prusa i3 MK3](https://shop.prusa3d.com/en/3d-printers/180-original-prusa-i3-mk3-kit.html)
 * [Snapmaker](https://www.kickstarter.com/projects/snapmaker/snapmaker-20-modular-3-in-1-3d-printers)
