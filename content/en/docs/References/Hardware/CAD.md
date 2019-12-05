@@ -37,6 +37,8 @@ description: News and information about rapid prototyping
 
 ## Ontario
 
+* [Proto3000](https://proto3000.com/)
+* [Makerwiz](https://makerwiz.com/)
 * [Shop3D](https://shop3d.ca/)
 * [3D Phacktory](http://3dphacktory.com/)
 * [Top 3D printing services in Toronto](https://www.blogto.com/tech/2017/04/3d-printers-printing-toronto/)
@@ -45,7 +47,7 @@ description: News and information about rapid prototyping
 * [U of T MedPrint](https://uoftmedprint.com/)
 * [Canada Makes](http://canadamakes.ca/)
 * [The Printing House](https://www.tph.ca/3d-printing)
-* [Proto3000](https://proto3000.com/)
+
 
 ## Quebec
 
