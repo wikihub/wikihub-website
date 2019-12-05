@@ -34,6 +34,10 @@ description: News and information about rapid prototyping
 
 * [3D hub](https://www.3dhubs.com/manufacture/)
 
+## Material
+
+* [Color Fabb](https://colorfabb.com/)
+
 ## Printers
 
 * [Prusa i3 MK3](https://shop.prusa3d.com/en/3d-printers/180-original-prusa-i3-mk3-kit.html)
