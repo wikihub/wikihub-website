@@ -31,6 +31,7 @@ description: News and information about robot platforms
 ## Open Source
 
 * [ROSbot](https://www.instructables.com/id/ROSbot-Autonomous-Robot-With-LiDAR/)
+* [MIT Racecar](https://mit-racecar.github.io/hardware/)
 * [MuSHR](https://mushr.io/)
 
 ## Tracked Robots
