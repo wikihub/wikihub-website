@@ -31,6 +31,10 @@ description: News and information about robot components
 * [Electrovaya](http://electrovaya.com/forklift-battery-systems/)
 * [Canadian Battery Companies](http://energy.sourceguides.com/businesses/byGeo/byC/Canada/byP/batP/batt/byB/manufacturers/byN/byName.shtml)
 
+# Arms
+
+* [xArm](https://www.kickstarter.com/projects/ufactory/xarm-most-cost-effective-intuitive-industrial-robo)
+
 # Grippers
 
 * [Onrobot](https://onrobot.com/en)
