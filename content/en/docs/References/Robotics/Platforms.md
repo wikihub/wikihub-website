@@ -28,6 +28,11 @@ description: News and information about robot platforms
 * [Omron](https://automation.omron.com/en/ca/products/family/LD)
     * [Mobile Planner](https://automation.omron.com/en/ca/products/family/Mobile%20Planner)
 
+## Open Source
+
+* [ROSbot](https://www.instructables.com/id/ROSbot-Autonomous-Robot-With-LiDAR/)
+* [MuSHR](https://mushr.io/)
+
 ## Tracked Robots
 
 * [Superdroid treaded robots](https://www.superdroidrobots.com/shop/category.aspx/treaded-tracked-robots/73/)
@@ -115,6 +120,7 @@ description: News and information about robot platforms
 
 # Manipulators
 
+* [xArm](https://store.ufactory.cc/collections/xarm)
 * [7bot](https://www.pinecone.ai/)
 * [Synapticon](https://www.synapticon.com/)
 * [RE2](http://www.resquared.com/)
