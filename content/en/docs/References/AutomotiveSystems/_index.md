@@ -5,6 +5,10 @@ weight: 5
 description: Automotive Systems
 ---
 
+# Open Source Vehicles
+
+* [World's 1st Open Source Racecar](https://www.andredavidbrown.com/reynard)
+
 # Automotive Control Systems
 
 * [Clear Motion (Bose technology)](https://www.clearmotion.com/)
