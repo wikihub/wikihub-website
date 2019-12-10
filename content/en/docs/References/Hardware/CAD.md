@@ -7,11 +7,12 @@ description: News and information about rapid prototyping
 
 # CAD
 
+* [Fusion 360](https://www.autodesk.ca/en/products/fusion-360/features)
+* [Onshape](https://www.onshape.com)
+* [FreeCAD](https://freecadweb.org)
 * [OpenSCAD](https://www.openscad.org/)
 * [Tinkercad](https://www.tinkercad.com/)
-* [FreeCAD](https://freecadweb.org)
 * [Blender](https://www.blender.org)
-* [Onshape](https://www.onshape.com)
 * [Best 3D software](https://all3dp.com/1/best-free-3d-printing-software-3d-printer-program/)
 
 # Products
@@ -94,3 +95,8 @@ description: News and information about rapid prototyping
 ## USA
 
 * [Exomotive](http://exomotive.com/)
+
+## Aluminum Extrusions
+
+* [MakerBeam](https://www.makerbeam.com/)
+
