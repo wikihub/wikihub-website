@@ -35,6 +35,7 @@ description: News and information about robot platforms
 * [MuSHR](https://mushr.io/)
 * [RACECAR/J](https://racecarj.com/)
 * [F1/10](http://f1tenth.org/build.html)
+* [BARC](http://www.barc-project.com/)
 
 ## Tracked Robots
 
