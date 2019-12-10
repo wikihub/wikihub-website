@@ -34,6 +34,7 @@ description: News and information about robot platforms
 * [MIT Racecar](https://mit-racecar.github.io/hardware/)
 * [MuSHR](https://mushr.io/)
 * [RACECAR/J](https://racecarj.com/)
+* [F1/10](http://f1tenth.org/build.html)
 
 ## Tracked Robots
 
