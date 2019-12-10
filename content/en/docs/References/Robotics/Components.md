@@ -33,7 +33,7 @@ description: News and information about robot components
 
 # Arms
 
-* [xArm](https://www.kickstarter.com/projects/ufactory/xarm-most-cost-effective-intuitive-industrial-robo)
+* [xArm](https://store.ufactory.cc/collections/xarm)
 
 # Grippers
 
