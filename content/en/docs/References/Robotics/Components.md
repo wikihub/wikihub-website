@@ -35,8 +35,3 @@ description: News and information about robot components
 
 * [Onrobot](https://onrobot.com/en)
 * [Robotiq](https://robotiq.com/)
-
-# Motors
-
-* [Harmonic Drive](https://www.harmonicdrive.net/)
-* [Maxon Precision Motors](https://www.maxonmotorusa.com/maxon/view/content/index)
