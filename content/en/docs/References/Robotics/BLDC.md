@@ -41,3 +41,8 @@ description: BLDC motors and controller resources
 # BLDC Motors
 
 * [MAC Motor](http://www.macmotortech.com/)
+
+# Motors
+
+* [Harmonic Drive](https://www.harmonicdrive.net/)
+* [Maxon Precision Motors](https://www.maxonmotorusa.com/maxon/view/content/index)
