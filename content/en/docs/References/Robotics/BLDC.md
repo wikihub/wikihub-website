@@ -37,6 +37,7 @@ description: BLDC motors and controller resources
 * [Farm robot](http://georgeknowlden.com/projects/farm_robot/log.html)
 * [Hoverboard project](https://synthiam.com/Community/Robots/Untitled-Hoverboard-Project-17760/comments)
 * [RC Hoverboard Car 4 Wheel Steer](https://www.youtube.com/watch?v=BZ6JO_grfyw)
+* [Hoverbot](https://hackaday.io/project/158256/logs?sort=oldest)
 
 # BLDC Motors
 
