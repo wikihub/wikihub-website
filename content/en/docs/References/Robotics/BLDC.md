@@ -21,6 +21,7 @@ description: BLDC motors and controller resources
 * [Flipsky FSESC](https://flipsky.net/collections/new-accessories/products/dual-fsesc6-6-plus-based-on-vesc6)
 * [ODrive](https://odriverobotics.com/)
    * [Hoverboard motor and remote control setup guide](https://github.com/madcowswe/ODrive/blob/master/docs/hoverboard.md)
+   * [Power Supply](https://things-in-motion.blogspot.com/2018/12/how-to-select-right-power-source-for.html)
 * [Kelly](https://www.kellycontroller.com/shop/kbs-x/)
 * [Tom Sawyer Labs](https://github.com/cinderblock/3-Phase-Driver)
 
