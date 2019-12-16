@@ -31,7 +31,6 @@ description: News and information about robot components
 * [Kar Tech Wireless Radio Transmitters](http://kar-tech.com/products/radio-transmitters.html)
 * [HATOX JTEXcon ATEX](https://hatox.com/en/EN_jtexcon-atex.html)
 * [FORT Robotics Safe Remote Control System](https://autonomoustuff.com/product/fort-remote-control-system/)
-* []()
 
 # RTK GPS
 
