@@ -24,6 +24,7 @@ description: News and information about robot components
 
 * [Quimbox](https://quimbox.com/en/)
 * [Husarion](https://husarion.com/)
+* [V5 Robot Brain](https://www.vexrobotics.com/276-4810.html)
 
 # Battery
 
