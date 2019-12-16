@@ -32,6 +32,10 @@ description: News and information about robot components
 * [HATOX JTEXcon ATEX](https://hatox.com/en/EN_jtexcon-atex.html)
 * [FORT Robotics Safe Remote Control System](https://autonomoustuff.com/product/fort-remote-control-system/)
 
+# Connectors
+
+* [DEUTSCH Automotive, Truck, Bus, & Off-Road Connectors products](https://www.te.com/global-en/plp/deutsch-automotive-connectors-dt/Zn9bY30DrX25oK.html)
+
 # RTK GPS
 
 * [Microhard P400-ENC](https://autonomoustuff.com/product/p400-enc/)
