@@ -13,6 +13,7 @@ description: Hardware resources
 * [Seeed Studio](https://www.seeedstudio.com/)
 * [Diigiit](http://www.ca.diigiit.com/)
 * [JAMECO](https://www.jameco.com)
+* [Pico Canada](https://picocanada.com/en/)
 
 ## Canada
 
