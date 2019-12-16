@@ -26,6 +26,17 @@ description: News and information about robot components
 * [Husarion](https://husarion.com/)
 * [V5 Robot Brain](https://www.vexrobotics.com/276-4810.html)
 
+# Radio Remote Control
+
+* [Kar Tech Wireless Radio Transmitters](http://kar-tech.com/products/radio-transmitters.html)
+* [HATOX JTEXcon ATEX](https://hatox.com/en/EN_jtexcon-atex.html)
+* [FORT Robotics Safe Remote Control System](https://autonomoustuff.com/product/fort-remote-control-system/)
+* []()
+
+# RTK GPS
+
+* [Microhard P400-ENC](https://autonomoustuff.com/product/p400-enc/)
+
 # Battery
 
 * [Ion Energy](https://www.ionenergy.co/)
