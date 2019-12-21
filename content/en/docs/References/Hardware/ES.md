@@ -12,6 +12,7 @@ description: Resources on embedded systems and single board computers
 # Development Kits
 
 * [Teensy 4.0](https://www.pjrc.com/teensy-4-0/)
+* [Spresense](https://developer.sony.com/develop/spresense/)
 * [M5Stack Gray Development Kit - ESP32 Dev Board w/ MPU6886+BMM150](https://www.adafruit.com/product/4177)
 
 # Single Board Computers
