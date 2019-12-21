@@ -9,6 +9,11 @@ description: Resources on embedded systems and single board computers
 
 * [ChibiOS](http://www.chibios.org/dokuwiki/doku.php?id=chibios:product:start)
 
+# Development Kits
+
+* [Teensy 4.0](https://www.pjrc.com/teensy-4-0/)
+* [M5Stack Gray Development Kit - ESP32 Dev Board w/ MPU6886+BMM150](https://www.adafruit.com/product/4177)
+
 # Single Board Computers
 
 * [New SBC computers](https://www.mickmake.com/post/weekly-roundup-64-new-maker-products)
