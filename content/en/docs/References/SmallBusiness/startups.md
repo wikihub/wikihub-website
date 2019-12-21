@@ -7,6 +7,10 @@ description: Resources for startups
 
 # Ontario
 
+## Services
+
+* [Growth Partners](http://www.growthpartners.ca/)
+
 ## Campus-Linked Accelerators
 
 * [Design Fabrication Zone](https://dfz.ryerson.ca/)
