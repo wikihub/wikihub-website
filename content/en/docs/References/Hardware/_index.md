@@ -14,6 +14,7 @@ description: Hardware resources
 * [Diigiit](http://www.ca.diigiit.com/)
 * [JAMECO](https://www.jameco.com)
 * [Pico Canada](https://picocanada.com/en/)
+* [tindie](https://www.tindie.com/)
 
 ## Canada
 
