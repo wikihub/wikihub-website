@@ -61,7 +61,7 @@ description: News and information about rapid prototyping
 * [U of T MedPrint](https://uoftmedprint.com/)
 * [Canada Makes](http://canadamakes.ca/)
 * [The Printing House](https://www.tph.ca/3d-printing)
-
+* [Hot Pop Factory](https://www.hotpopfactory.com/)
 
 ## Quebec
 
