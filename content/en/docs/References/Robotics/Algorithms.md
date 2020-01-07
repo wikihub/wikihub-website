@@ -8,6 +8,10 @@ description: Resources for algorithms in robotics
 * [Orebro University](https://github.com/OrebroUniversity)
 * [Iliad project](https://iliad-project.eu/)
 
+# Cloud
+
+* [Freedom Robotics](https://www.freedomrobotics.ai/)
+
 # Perception
 
 * [Nuitrack](https://nuitrack.com/)
