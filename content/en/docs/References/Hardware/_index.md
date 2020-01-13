@@ -23,6 +23,7 @@ description: Hardware resources
 * [Digikey](https://www.digikey.ca)
 * [Robotshop](https://www.robotshop.com/ca/en/)
 * [Solarbotics](https://solarbotics.com/)
+* [Elmwood Electronics](https://elmwoodelectronics.ca/)
 
 ## Ontario
 
