@@ -23,10 +23,10 @@ description: Hardware resources
 * [Digikey](https://www.digikey.ca)
 * [Robotshop](https://www.robotshop.com/ca/en/)
 * [Solarbotics](https://solarbotics.com/)
-* [Elmwood Electronics](https://elmwoodelectronics.ca/)
 
 ## Ontario
 
+* [Elmwood Electronics](https://elmwoodelectronics.ca/)
 * [Sayal](https://shop.sayal.com/)
 * [Corpshadow](https://corpshadow.biz/)
 
