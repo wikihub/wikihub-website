@@ -16,7 +16,13 @@ description: Resources on embedded systems and single board computers
 * [M5Stack Gray Development Kit - ESP32 Dev Board w/ MPU6886+BMM150](https://www.adafruit.com/product/4177)
 * [STM32F103C8T6 - Blue Pill](https://stm32-base.org/boards/STM32F103C8T6-Blue-Pill)
 * [STM32 base boards](https://stm32-base.org/boards/)
-* [B-L475E-IOT01A Discovery kit for IoT node](https://www.st.com/en/evaluation-tools/b-l475e-iot01a.html)
+
+## [B-L475E-IOT01A Discovery kit for IoT node](https://www.st.com/en/evaluation-tools/b-l475e-iot01a.html)
+* [PlatformIO: ST DISCO-L475VG-IOT01A](https://docs.platformio.org/en/latest/boards/ststm32/disco_l475vg_iot01a.html)
+
+# IDE
+
+* [Platform IO](https://platformio.org/)
 
 # Single Board Computers
 
