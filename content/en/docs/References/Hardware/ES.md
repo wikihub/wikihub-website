@@ -24,6 +24,7 @@ description: Resources on embedded systems and single board computers
 # IDE
 
 * [Platform IO](https://platformio.org/)
+* [Platform IO on VS Code](https://docs.platformio.org/en/latest/ide/vscode.html)
 
 # Single Board Computers
 
