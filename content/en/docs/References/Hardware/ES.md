@@ -14,6 +14,9 @@ description: Resources on embedded systems and single board computers
 * [Teensy 4.0](https://www.pjrc.com/teensy-4-0/)
 * [Spresense](https://developer.sony.com/develop/spresense/)
 * [M5Stack Gray Development Kit - ESP32 Dev Board w/ MPU6886+BMM150](https://www.adafruit.com/product/4177)
+* [STM32F103C8T6 - Blue Pill](https://stm32-base.org/boards/STM32F103C8T6-Blue-Pill)
+* [STM32 base boards](https://stm32-base.org/boards/)
+* [B-L475E-IOT01A Discovery kit for IoT node](https://www.st.com/en/evaluation-tools/b-l475e-iot01a.html)
 
 # Single Board Computers
 
