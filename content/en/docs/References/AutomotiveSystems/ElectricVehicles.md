@@ -10,6 +10,15 @@ description: News and information about electric vehicles
 ## Industrial Tow Tractors
 - [Taylor Dunn](https://www.taylor-dunn.com/en-us/tow-tractor/#specs)
 
+## Electric tractors
+
+* [John Deere Sesam 2016](https://www.theverge.com/2016/12/7/13874576/john-deere-sesam-electric-tractor-150kw-battery)
+* [John Deere GridON 2019](https://www.ivtinternational.com/news/agriculture/john-deere-develops-fully-electric-autonomous-tractor.html)
+* [Soletrac eUtility](https://www.solectrac.com/eutility)
+* [Rigitrac SKE50](https://www.rigitrac.ch/produkte-1/rigitrac-ske-50-electric/)
+* [Fendt e100varioe](https://www.fendt.com/int/fendt-e100-vario)
+* [Farmtrac Champion 37](https://www.escortsgroup.com/agri-machinery/products/farmtrac/31-to-40-hp.html)
+
 # Drivetrain
 
 # Motors
@@ -23,3 +32,12 @@ description: News and information about electric vehicles
 
 * [Swincar](https://www.swincar.fr/)
 * [Quad](http://www.ev4.pl/en/off-road-quad.html)
+
+# Conversion 
+
+* [EV West](https://evwest.com/catalog/)
+* [Canadian Electric Vehicles](https://canev.com/)
+
+## Lawn tractor
+
+* [DIY Electric Lawn Mower Conversions](https://electriclawntractor.com/)
