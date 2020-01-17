@@ -22,6 +22,7 @@ description: News and information about electric vehicles
 ## Electric wheel loaders
 
 * [Kramer 5055e](https://www.youtube.com/watch?v=fJNydCCVXeQ)
+* [Kramer 5055e, zero emission](https://www.kramer-online.com/en/discover-kramer/zero-emission/the-kramer-5055e/)
 * [MultiOne EZ 7](http://www.multione.com/ez-7/)
 
 # Drivetrain
