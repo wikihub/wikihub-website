@@ -19,6 +19,11 @@ description: News and information about electric vehicles
 * [Fendt e100varioe](https://www.fendt.com/int/fendt-e100-vario)
 * [Farmtrac Champion 37](https://www.escortsgroup.com/agri-machinery/products/farmtrac/31-to-40-hp.html)
 
+## Electric wheel loaders
+
+* [Kramer 5055e](https://www.youtube.com/watch?v=fJNydCCVXeQ)
+* [MultiOne EZ 7](http://www.multione.com/ez-7/)
+
 # Drivetrain
 
 # Motors
