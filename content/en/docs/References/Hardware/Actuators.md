@@ -13,3 +13,5 @@ description: Actuators resources
 * [Progressive Automations](https://www.progressiveautomations.ca/)
 * [Firgelli Auto](https://www.firgelliauto.ca/)
 * [Actuonix](https://www.actuonix.com/)
+* [Hiwin](https://www.hiwin.com/linear-actuators.html)
+* [Thomson Linear](https://www.thomsonlinear.com/micro/smart-actuation_eng/)
