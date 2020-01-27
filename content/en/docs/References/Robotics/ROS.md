@@ -113,7 +113,7 @@ description: News and information about ROS and its applications
 # AWS RoboMaker
 
 * [RoboMaker Documentation](https://docs.aws.amazon.com/robomaker/latest/dg/what-is-robomaker.html)
-* [RoboMaker Cheeat Sheet](https://www.techrepublic.com/article/aws-robomaker-a-cheat-sheet/)
+* [RoboMaker Cheat Sheet](https://www.techrepublic.com/article/aws-robomaker-a-cheat-sheet/)
 * [Deep Racer](https://github.com/aws-robotics/aws-robomaker-sample-application-deepracer)
 * [Colcon Bundle Format](https://github.com/colcon/colcon-bundle/blob/master/BUNDLE_FORMAT.md)
 
