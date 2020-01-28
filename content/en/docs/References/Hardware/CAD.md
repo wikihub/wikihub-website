@@ -5,7 +5,7 @@ date: 2019-02-22
 description: News and information about rapid prototyping
 ---
 
-* [NGen](http://ngen.com)
+* [NGen](https://www.ngen.ca/)
 
 # CAD
 
