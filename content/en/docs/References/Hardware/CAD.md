@@ -5,6 +5,8 @@ date: 2019-02-22
 description: News and information about rapid prototyping
 ---
 
+* [NGen](http://ngen.com)
+
 # CAD
 
 * [Fusion 360](https://www.autodesk.ca/en/products/fusion-360/features)
