@@ -38,6 +38,18 @@ description: News and information about autonomous driving
 * [JCA Electronics](http://www.jcaelectronics.ca/)
 * [K.U.L.T](https://www.kress-landtechnik.eu/en/index.php)
 * [Lykketronic](https://www.lykketronic.dk/)
+* [Machinery Guide](http://machineryguide.hu/index)
+* [Aachen ETAROB](http://maskor.fh-aachen.de/projects/ETAROB/)
+* [Milar](http://www.milar.farm/)
+* [Mobiletronics](https://www.mobiletronics.net/)
+* [Naïo Technologies](https://www.naio-technologies.com/en/)
+* [Optronia](https://optronia.com/)
+* [Pool agri](https://www.pool-agri.com/)
+* [Raussendorf](https://www.raussendorf.de/en/index.html)
+* [Universität Hohenheim, faculty of agricultural sciences](https://agrar.uni-hohenheim.de/)
+* [Universität Osnabrück - Embedded Knowledge-Based Systems](https://kbs.informatik.uos.de/)
+* [Vertical Works](https://www.verticalworks.eu/)
+* [XAG](https://www.xa.com/)
 
 # Canada
 
