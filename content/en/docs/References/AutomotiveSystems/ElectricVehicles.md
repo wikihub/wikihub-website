@@ -39,6 +39,7 @@ description: News and information about electric vehicles
 - [Curtis Instruments](https://www.curtisinstruments.com/)
 
 # Batteries
+- [Orion BMS](https://www.orionbms.com/)
 
 # Personal mobility
 
