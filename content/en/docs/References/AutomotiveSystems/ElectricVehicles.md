@@ -7,6 +7,10 @@ description: News and information about electric vehicles
 
 # Platforms
 
+## Golf Carts
+
+* [Nick Golf Carts](https://nicksgolfcarts.com/)
+
 ## Industrial Tow Tractors
 - [Taylor Dunn](https://www.taylor-dunn.com/en-us/tow-tractor/#specs)
 
@@ -29,8 +33,10 @@ description: News and information about electric vehicles
 
 # Motors
 - [Metric Mind](http://www.metricmind.com/)
+- [High PErformance Electric Vehicle Systems](http://www.hpevs.com/)
 
 # Controllers
+- [Curtis Instruments](https://www.curtisinstruments.com/)
 
 # Batteries
 
