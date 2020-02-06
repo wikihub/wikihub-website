@@ -53,9 +53,12 @@ description: News and information about autonomous driving
 
 # Drive by Wire
 
+## Steer by Wire
+
 * [DCE motorsport](http://www.dcemotorsport.com/Home/EPAS)
 * [Dataspeed](https://www.dataspeedinc.com/)
 * [Autonomoustuff](https://autonomoustuff.com/)
+* [Understanding Electric Traction and Steering for Robotic Vehicles](https://www.alliedmotion.com/wp-content/uploads/documents/2-Understanding-Electric-Traction-Steering.pdf)
 
 # Canada
 
