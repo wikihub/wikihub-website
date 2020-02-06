@@ -51,6 +51,12 @@ description: News and information about autonomous driving
 * [Vertical Works](https://www.verticalworks.eu/)
 * [XAG](https://www.xa.com/)
 
+# Drive by Wire
+
+* [DCE motorsport](http://www.dcemotorsport.com/Home/EPAS)
+* [Dataspeed](https://www.dataspeedinc.com/)
+* [Autonomoustuff](https://autonomoustuff.com/)
+
 # Canada
 
 * [Invest in Ontario](https://www.investinontario.com/tags/autonomous-vehicles)
