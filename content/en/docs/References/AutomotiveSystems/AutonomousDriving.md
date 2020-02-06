@@ -60,6 +60,7 @@ description: News and information about autonomous driving
 * [Dataspeed](https://www.dataspeedinc.com/)
 * [Autonomoustuff](https://autonomoustuff.com/)
 * [Understanding Electric Traction and Steering for Robotic Vehicles](https://www.alliedmotion.com/wp-content/uploads/documents/2-Understanding-Electric-Traction-Steering.pdf)
+* [Electric power assist conversion](https://www.therangerstation.com/tech/wheels_and_brakes/toyota-electric-power-steering-eps-conversion/)
 
 # Canada
 
