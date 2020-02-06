@@ -55,6 +55,7 @@ description: News and information about autonomous driving
 
 ## Steer by Wire
 
+* [Nexteer](https://www.nexteer.com/)
 * [DCE motorsport](http://www.dcemotorsport.com/Home/EPAS)
 * [Dataspeed](https://www.dataspeedinc.com/)
 * [Autonomoustuff](https://autonomoustuff.com/)
