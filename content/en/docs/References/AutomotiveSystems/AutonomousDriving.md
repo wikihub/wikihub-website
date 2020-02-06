@@ -55,6 +55,7 @@ description: News and information about autonomous driving
 
 ## Steer by Wire
 
+* [Bosch Mobility Solutions](https://www.bosch-mobility-solutions.com/en/products-and-services/passenger-cars-and-light-commercial-vehicles/steering-systems/electric-power-steering-systems/steering-motors/)
 * [Nexteer](https://www.nexteer.com/)
 * [DCE motorsport](http://www.dcemotorsport.com/Home/EPAS)
 * [Dataspeed](https://www.dataspeedinc.com/)
