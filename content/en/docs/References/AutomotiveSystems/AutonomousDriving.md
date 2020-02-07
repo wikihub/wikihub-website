@@ -56,7 +56,7 @@ description: News and information about autonomous driving
 * [Autonomous Ground Vehicle Prototype via Steering-, Throttle-, and Brakeby Wire Modules](https://digitalcommons.wpi.edu/cgi/viewcontent.cgi?article=4182&context=mqp-all)
 * [Conversion of a personal mobility vehicle into a steer-by-wire vehicle](https://www.researchgate.net/profile/Denesh_Sivalingam/publication/337101863_Conversion_of_a_personal_mobility_vehicle_into_a_steer-by-wire_vehicle/links/5dc4f6e3299bf1a47b1fa11c/Conversion-of-a-personal-mobility-vehicle-into-a-steer-by-wire-vehicle.pdf)
 * [Goat Cart: The Autonomous Golf Cart](https://digitalcommons.wpi.edu/cgi/viewcontent.cgi?article=3551&context=mqp-all)
-* [fka steer by wire gold cart](https://www.fka.de/en/competences/prototype-construction.html)
+* [fka steer by wire golf cart](https://www.fka.de/en/competences/prototype-construction.html)
 * [Autonomous luggage transportation system](https://repository.lib.fit.edu/bitstream/handle/11141/854/Showcase2016_MAE_Eierle.pdf?sequence=1&isAllowed=y)
 * [Autonomous golf cart testbed](https://cecas.clemson.edu/pisugroup/autonomous-golf-cart.html)
 * [Self driving golf cart](https://neilnie.com/self-driving-golf-cart/)
