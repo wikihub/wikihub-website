@@ -12,6 +12,34 @@ description: News and information about autonomous driving
 * [Autonomous Vehicle Control Documentation](https://media.readthedocs.org/pdf/phddocs/latest/phddocs.pdf)
 * [Moving Community - Pix](https://github.com/pixmoving-moveit)
 
+## Companies
+
+* [Drive.ai](https://www.drive.ai/)
+    * [Drive.ai report](http://spectrum.ieee.org/video/transportation/self-driving/driveai-deep-learning-first-autonomous-driving)
+* [Self Driving Cars](http://selfracingcars.com/)
+* [Wheego](http://wheego.net/nihao/)
+* [Polysync](https://polysync.io/)
+* [NVIDIA DRIVE PX 2](http://www.nvidia.ca/object/drive-px.html)
+   * [How Deep Learning Will Enable Self-Driving Cars ](https://www.youtube.com/watch?v=RhGFH5jndGY)
+* [Automated Driving with ROS at BMW ROSCon 2015 Hamburg Day 2](https://www.youtube.com/watch?v=z9WzHXfYqFI)
+* [Nauto](https://www.nauto.com)
+* [nuTonomy](https://www.nutonomy.com/)
+   * [Emilio Frazzoli, CTO, nuTonomy - MIT Self-Driving Cars](https://youtu.be/dWSbItd0HEA)
+* [aimotive](https://aimotive.com/)
+* [nexar](https://www.getnexar.com/)
+* [Pix](https://www.pixmoving.com/)
+* [zoox](http://zoox.com/)
+* [Tesla Autopilot](https://www.tesla.com/en_CA/autopilot)
+* [Cadillac Super Cruise](https://www.cadillac.com/world-of-cadillac/innovation/super-cruise)
+* [Waymo](https://waymo.com/)
+* [Volvo Autonomous Driving](https://www.volvocars.com/en-kw/own/own-and-enjoy/autonomous-driving)
+* [Mercedes Benz Autonomous Driving](https://www.mercedes-benz.com/en/mercedes-benz/next/automation/)
+* [BMW Autonomous Driving](https://www.bmw.com/en/automotive-life/autonomous-driving.html)
+* [Huawei Mobile Automation Engine](https://www.huawei.com/en/press-events/news/2018/11/auto-driving-mobile-network-solution-mae)
+* [Toyota Research Institute](https://www.tri.global/research/#Automated%20Driving)
+* [Uber Advanced Technologies Group](https://www.uber.com/info/atg/)
+* [Ridecell](https://ridecell.com/)
+
 ## Agriculture
 
 * [Kubota](https://www.futurefarming.com/Machinery/Articles/2017/4/Kubota-launches-auto-steering-for-small-tractors-and-UTVs-902WP/)
@@ -65,6 +93,12 @@ description: News and information about autonomous driving
 * [Level filve supplies](https://levelfivesupplies.com/product/dataspeed-adas-kit/)
 * [Robocart: autonomous ground vehicle](https://web.wpi.edu/Pubs/E-project/Available/E-project-043015-034638/unrestricted/Final_Report.pdf)
 * [Autonomous Ground Vehicle Prototype via Steering-, Throttle-, and Brakeby Wire Modules](https://digitalcommons.wpi.edu/cgi/viewcontent.cgi?article=4182&context=mqp-all)
+* [Conversion of a personal mobility vehicle into a steer-by-wire vehicle](https://www.researchgate.net/profile/Denesh_Sivalingam/publication/337101863_Conversion_of_a_personal_mobility_vehicle_into_a_steer-by-wire_vehicle/links/5dc4f6e3299bf1a47b1fa11c/Conversion-of-a-personal-mobility-vehicle-into-a-steer-by-wire-vehicle.pdf)
+* [Goat Cart: The Autonomous Golf Cart](https://digitalcommons.wpi.edu/cgi/viewcontent.cgi?article=3551&context=mqp-all)
+* [fka steer by wire gold cart](https://www.fka.de/en/competences/prototype-construction.html)
+* [Autonomous luggage transportation system](https://repository.lib.fit.edu/bitstream/handle/11141/854/Showcase2016_MAE_Eierle.pdf?sequence=1&isAllowed=y)
+* [Autonomous golf cart testbed](https://cecas.clemson.edu/pisugroup/autonomous-golf-cart.html)
+
 
 # Canada
 
@@ -76,6 +110,8 @@ description: News and information about autonomous driving
 * [CAV Canada](https://www.cavcanada.ca/)
 * [Canada's First AV Technology Directory](https://www.investottawa.ca/blog/canadas-first-av-technology-and-innovator-directory-announced/)
 * [BLACKBERRY launches security system for autonomous vehicles](https://betakit.com/blackberry-launches-security-system-for-autonomous-vehicles/)
+* [Steer by wire golf cart](https://www.youtube.com/watch?v=_0-c5DTxQmU)
+* [Joystick control for gold carts and ATVs](http://www.designabilityinc.com/)
 
 # Articles
 
@@ -160,33 +196,6 @@ description: News and information about autonomous driving
 
 * [Edge Case Research](https://vimeo.com/edgecase)
 * [Verifiable Autonomy](http://wordpress.csc.liv.ac.uk/va/)
-
-# Companies
-
-* [Drive.ai](https://www.drive.ai/)
-    * [Drive.ai report](http://spectrum.ieee.org/video/transportation/self-driving/driveai-deep-learning-first-autonomous-driving)
-* [Self Driving Cars](http://selfracingcars.com/)
-* [Wheego](http://wheego.net/nihao/)
-* [Polysync](https://polysync.io/)
-* [NVIDIA DRIVE PX 2](http://www.nvidia.ca/object/drive-px.html)
-   * [How Deep Learning Will Enable Self-Driving Cars ](https://www.youtube.com/watch?v=RhGFH5jndGY)
-* [Automated Driving with ROS at BMW ROSCon 2015 Hamburg Day 2](https://www.youtube.com/watch?v=z9WzHXfYqFI)
-* [Nauto](https://www.nauto.com)
-* [nuTonomy](https://www.nutonomy.com/)
-   * [Emilio Frazzoli, CTO, nuTonomy - MIT Self-Driving Cars](https://youtu.be/dWSbItd0HEA)
-* [aimotive](https://aimotive.com/)
-* [nexar](https://www.getnexar.com/)
-* [Pix](https://www.pixmoving.com/)
-* [zoox](http://zoox.com/)
-* [Tesla Autopilot](https://www.tesla.com/en_CA/autopilot)
-* [Cadillac Super Cruise](https://www.cadillac.com/world-of-cadillac/innovation/super-cruise)
-* [Waymo](https://waymo.com/)
-* [Volvo Autonomous Driving](https://www.volvocars.com/en-kw/own/own-and-enjoy/autonomous-driving)
-* [Mercedes Benz Autonomous Driving](https://www.mercedes-benz.com/en/mercedes-benz/next/automation/)
-* [BMW Autonomous Driving](https://www.bmw.com/en/automotive-life/autonomous-driving.html)
-* [Huawei Mobile Automation Engine](https://www.huawei.com/en/press-events/news/2018/11/auto-driving-mobile-network-solution-mae)
-* [Toyota Research Institute](https://www.tri.global/research/#Automated%20Driving)
-* [Uber Advanced Technologies Group](https://www.uber.com/info/atg/)
 
 # Experiments
 
