@@ -63,6 +63,8 @@ description: News and information about autonomous driving
 * [Understanding Electric Traction and Steering for Robotic Vehicles](https://www.alliedmotion.com/wp-content/uploads/documents/2-Understanding-Electric-Traction-Steering.pdf)
 * [Electric power assist conversion](https://www.therangerstation.com/tech/wheels_and_brakes/toyota-electric-power-steering-eps-conversion/)
 * [Level filve supplies](https://levelfivesupplies.com/product/dataspeed-adas-kit/)
+* [Robocart: autonomous ground vehicle](https://web.wpi.edu/Pubs/E-project/Available/E-project-043015-034638/unrestricted/Final_Report.pdf)
+* [Autonomous Ground Vehicle Prototype via Steering-, Throttle-, and Brakeby Wire Modules](https://digitalcommons.wpi.edu/cgi/viewcontent.cgi?article=4182&context=mqp-all)
 
 # Canada
 
