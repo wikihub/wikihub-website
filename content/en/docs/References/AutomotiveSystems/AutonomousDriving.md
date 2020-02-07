@@ -40,6 +40,28 @@ description: News and information about autonomous driving
 * [Uber Advanced Technologies Group](https://www.uber.com/info/atg/)
 * [Ridecell](https://ridecell.com/)
 
+# Drive by Wire
+
+* [Bosch Mobility Solutions](https://www.bosch-mobility-solutions.com/en/products-and-services/passenger-cars-and-light-commercial-vehicles/steering-systems/electric-power-steering-systems/steering-motors/)
+* [Nexteer](https://www.nexteer.com/)
+* [DCE motorsport](http://www.dcemotorsport.com/Home/EPAS)
+* [Dataspeed](https://www.dataspeedinc.com/)
+* [Autonomoustuff](https://autonomoustuff.com/)
+* [Understanding Electric Traction and Steering for Robotic Vehicles](https://www.alliedmotion.com/wp-content/uploads/documents/2-Understanding-Electric-Traction-Steering.pdf)
+* [Electric power assist conversion](https://www.therangerstation.com/tech/wheels_and_brakes/toyota-electric-power-steering-eps-conversion/)
+* [Level filve supplies](https://levelfivesupplies.com/product/dataspeed-adas-kit/)
+* [Robocart: autonomous ground vehicle](https://web.wpi.edu/Pubs/E-project/Available/E-project-043015-034638/unrestricted/Final_Report.pdf)
+* [Autonomous Ground Vehicle Prototype via Steering-, Throttle-, and Brakeby Wire Modules](https://digitalcommons.wpi.edu/cgi/viewcontent.cgi?article=4182&context=mqp-all)
+* [Conversion of a personal mobility vehicle into a steer-by-wire vehicle](https://www.researchgate.net/profile/Denesh_Sivalingam/publication/337101863_Conversion_of_a_personal_mobility_vehicle_into_a_steer-by-wire_vehicle/links/5dc4f6e3299bf1a47b1fa11c/Conversion-of-a-personal-mobility-vehicle-into-a-steer-by-wire-vehicle.pdf)
+* [Goat Cart: The Autonomous Golf Cart](https://digitalcommons.wpi.edu/cgi/viewcontent.cgi?article=3551&context=mqp-all)
+* [fka steer by wire gold cart](https://www.fka.de/en/competences/prototype-construction.html)
+* [Autonomous luggage transportation system](https://repository.lib.fit.edu/bitstream/handle/11141/854/Showcase2016_MAE_Eierle.pdf?sequence=1&isAllowed=y)
+* [Autonomous golf cart testbed](https://cecas.clemson.edu/pisugroup/autonomous-golf-cart.html)
+* [Self driving golf cart](https://neilnie.com/self-driving-golf-cart/)
+* [Smart autonomous vehicle](https://smart.mit.edu/news-events/news/fact-sheet-smart-autonomous-vehicle)
+* [Autonomous people move - RIT](http://edge.rit.edu/edge/P15241/public/Modifications/Mechanical_Modifications)
+* [Cal Poly Robotics Club - Autonomous golf cart](https://www.calpolyrobotics.com/autonomous-golf-cart)
+
 ## Agriculture
 
 * [Kubota](https://www.futurefarming.com/Machinery/Articles/2017/4/Kubota-launches-auto-steering-for-small-tractors-and-UTVs-902WP/)
@@ -78,27 +100,6 @@ description: News and information about autonomous driving
 * [Universität Osnabrück - Embedded Knowledge-Based Systems](https://kbs.informatik.uos.de/)
 * [Vertical Works](https://www.verticalworks.eu/)
 * [XAG](https://www.xa.com/)
-
-# Drive by Wire
-
-## Steer by Wire
-
-* [Bosch Mobility Solutions](https://www.bosch-mobility-solutions.com/en/products-and-services/passenger-cars-and-light-commercial-vehicles/steering-systems/electric-power-steering-systems/steering-motors/)
-* [Nexteer](https://www.nexteer.com/)
-* [DCE motorsport](http://www.dcemotorsport.com/Home/EPAS)
-* [Dataspeed](https://www.dataspeedinc.com/)
-* [Autonomoustuff](https://autonomoustuff.com/)
-* [Understanding Electric Traction and Steering for Robotic Vehicles](https://www.alliedmotion.com/wp-content/uploads/documents/2-Understanding-Electric-Traction-Steering.pdf)
-* [Electric power assist conversion](https://www.therangerstation.com/tech/wheels_and_brakes/toyota-electric-power-steering-eps-conversion/)
-* [Level filve supplies](https://levelfivesupplies.com/product/dataspeed-adas-kit/)
-* [Robocart: autonomous ground vehicle](https://web.wpi.edu/Pubs/E-project/Available/E-project-043015-034638/unrestricted/Final_Report.pdf)
-* [Autonomous Ground Vehicle Prototype via Steering-, Throttle-, and Brakeby Wire Modules](https://digitalcommons.wpi.edu/cgi/viewcontent.cgi?article=4182&context=mqp-all)
-* [Conversion of a personal mobility vehicle into a steer-by-wire vehicle](https://www.researchgate.net/profile/Denesh_Sivalingam/publication/337101863_Conversion_of_a_personal_mobility_vehicle_into_a_steer-by-wire_vehicle/links/5dc4f6e3299bf1a47b1fa11c/Conversion-of-a-personal-mobility-vehicle-into-a-steer-by-wire-vehicle.pdf)
-* [Goat Cart: The Autonomous Golf Cart](https://digitalcommons.wpi.edu/cgi/viewcontent.cgi?article=3551&context=mqp-all)
-* [fka steer by wire gold cart](https://www.fka.de/en/competences/prototype-construction.html)
-* [Autonomous luggage transportation system](https://repository.lib.fit.edu/bitstream/handle/11141/854/Showcase2016_MAE_Eierle.pdf?sequence=1&isAllowed=y)
-* [Autonomous golf cart testbed](https://cecas.clemson.edu/pisugroup/autonomous-golf-cart.html)
-
 
 # Canada
 
