@@ -44,6 +44,8 @@ description: News and information about autonomous driving
 
 # Drive by Wire
 
+* [SKF Electronic Steering Input Unit](https://www.skf.com/binary/79-158102/SKF-Electronic-Steering-Input-Unit---11048_2-EN.pdf)
+* [Cascade steering](https://cascadedrives.com/cascade-steering/)
 * [Bosch Mobility Solutions](https://www.bosch-mobility-solutions.com/en/products-and-services/passenger-cars-and-light-commercial-vehicles/steering-systems/electric-power-steering-systems/steering-motors/)
 * [Nexteer](https://www.nexteer.com/)
 * [DCE motorsport](http://www.dcemotorsport.com/Home/EPAS)
