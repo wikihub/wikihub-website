@@ -37,6 +37,10 @@ description: News and information about robot platforms
 * [F1/10](http://f1tenth.org/build.html)
 * [BARC](http://www.barc-project.com/)
 
+## Hoverboard motor
+
+* [ArrBot](https://hackaday.io/project/163723-arrbot/details)
+
 ## Tracked Robots
 
 * [Superdroid treaded robots](https://www.superdroidrobots.com/shop/category.aspx/treaded-tracked-robots/73/)
