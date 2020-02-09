@@ -75,3 +75,9 @@ description: Resources on embedded systems and single board computers
 # PLC
 
 * [Open source PLC](https://www.digital-loggers.com/plchw.html)
+
+# Power Supply
+
+* [SMAKN DC/DC Converter 36V/48V to 24V 3A 72W Step-Down Power Supply Module](https://www.amazon.com/SMAKN-Converter-Step-Down-Supply-Module/dp/B00XKL6M8U)
+* [LM2596 DC to DC Buck Converter 3.0-40V to 1.5-35V Power Supply Step Down Module](https://www.amazon.ca/Erayco-LM2596-Converter-3-0-40V-1-5-35V/dp/B07JNQFV7F/ref=pd_lutyp_crty_cxhsh_3_3/139-5285681-3002038)
+* [Power Supply Module, DROK DC to DC Converter 5.3V-32V to 1.2V-32V Step Down Voltage Regulator 12A LCD Volt Transformer 160W CC CV Buck Converter Reducer](https://www.amazon.ca/Adjustable-Converter-DROK-Regulator-Transformer/dp/B078Q1624B/ref=sxbs_sxwds-stvp)
