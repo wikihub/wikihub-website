@@ -10,6 +10,10 @@ description: News and information about ROS and its applications
 - [ROS Book](https://ros-books.blogspot.com/)
 - [Robot Cal Tools](https://github.com/Jmeyer1292/robot_cal_tools)
 
+# Hardware
+
+* [ros_control](https://github.com/ros-controls/ros_control)
+
 # ROS2
 
 * [Navigation2](https://github.com/ros-planning/navigation2)
