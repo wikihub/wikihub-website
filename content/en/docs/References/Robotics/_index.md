@@ -143,6 +143,7 @@ description: Resources for robotics
 
 - [Acutronic](https://acutronicrobotics.com/)
 - [Erle Robotics](https://erlerobotics.com)
+- [BrickPi](https://www.dexterindustries.com/brickpi/)
 
 # Edge Computing
 
