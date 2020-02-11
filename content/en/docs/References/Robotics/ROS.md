@@ -14,6 +14,12 @@ description: News and information about ROS and its applications
 
 * [ros_control](https://github.com/ros-controls/ros_control)
 
+## Odrive
+
+* [Odrive ROS - Neomanic](https://github.com/neomanic/odrive_ros)
+* [Odrive ROS - Naktamello](https://github.com/naktamello/odrive_ros_control)
+* [Odrive ROS - BenBurgessLimerick](https://github.com/BenBurgessLimerick/odrive_cpp_ros)
+
 # ROS2
 
 * [Navigation2](https://github.com/ros-planning/navigation2)
