@@ -49,3 +49,7 @@ description: BLDC motors and controller resources
 
 * [Harmonic Drive](https://www.harmonicdrive.net/)
 * [Maxon Precision Motors](https://www.maxonmotorusa.com/maxon/view/content/index)
+
+# Automotive
+
+* [Rickshaw King motor](https://www.omgextras.com/rickshaw-king-motor-60V-800W-p/600-sa400-370-24-01.htm)
