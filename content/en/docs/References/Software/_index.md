@@ -39,6 +39,7 @@ description: Software resources
 ## File Sharing
 
 - [Mount drives](https://askubuntu.com/questions/285539/detect-and-mount-devices)
+- [Samba does not use the system account user and password](https://ubuntu.com/tutorials/install-and-configure-samba#4-setting-up-user-accounts-and-connecting-to-share)
 
 ## Dual Boot 
 
