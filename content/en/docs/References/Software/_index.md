@@ -25,6 +25,10 @@ description: Software resources
 * [It would be good if this worked](https://askubuntu.com/questions/800302/vncserver-grey-screen-ubuntu-16-04-lts)
 * [Gnome VNC](https://cloudcone.com/docs/article/install-desktop-vnc-ubuntu-16-04/)
 
+## Folder Sync
+
+* [Syncthing](https://computingforgeeks.com/how-to-install-and-use-syncthing-on-ubuntu-18-04/)
+
 ## Libraries
 
 * Find different versions of libraries in a file: strings /usr/lib/x86_64-linux-gnu/libstdc++.so.6 | grep CXXABI
