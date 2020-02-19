@@ -5,6 +5,12 @@ weight: 40
 description: Software resources
 ---
 
+# Cross Platform
+
+## File Sharing
+
+* [Seafile](/www.seafile.com/en/home/)
+
 # Linux
 
 ## Commands
