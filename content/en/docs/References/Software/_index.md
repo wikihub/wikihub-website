@@ -10,6 +10,7 @@ description: Software resources
 ## File Sharing
 
 * [Seafile](http://www.seafile.com/en/home/)
+* [Spark Share](http://www.sparkleshare.org/)
 
 # Linux
 
