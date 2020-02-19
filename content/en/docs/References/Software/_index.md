@@ -9,7 +9,7 @@ description: Software resources
 
 ## File Sharing
 
-* [Seafile](/www.seafile.com/en/home/)
+* [Seafile](http://www.seafile.com/en/home/)
 
 # Linux
 
