@@ -25,6 +25,7 @@ description: Software resources
 * [jq](https://stedolan.github.io/jq/)
 * [locale](https://www.thomas-krenn.com/en/wiki/Configure_Locales_in_Ubuntu)
 * [Symbolic link](https://linuxhint.com/create_symbolic_link_ubuntu/)
+* [ssh](https://www.ssh.com)
 
 ## log
 
