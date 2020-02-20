@@ -18,6 +18,7 @@ description: Software resources
 
 * [chmod calculator](https://chmod-calculator.com/)
 * [jq](https://stedolan.github.io/jq/)
+* [locale](https://www.thomas-krenn.com/en/wiki/Configure_Locales_in_Ubuntu)
 
 ## log
 
