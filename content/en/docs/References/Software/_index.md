@@ -27,6 +27,10 @@ description: Software resources
 * [Symbolic link](https://linuxhint.com/create_symbolic_link_ubuntu/)
 * [ssh](https://www.ssh.com)
 
+## Docker
+
+* [How to setup Docker and Nvidia-Docker 2.0 on Ubuntu 18.04](https://cnvrg.io/how-to-setup-docker-and-nvidia-docker-2-0-on-ubuntu-18-04/)
+
 ## log
 
 * less /var/log/syslog
