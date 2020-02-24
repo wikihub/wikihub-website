@@ -12,6 +12,10 @@ description: Software resources
 * [Seafile](http://www.seafile.com/en/home/)
 * [Spark Share](http://www.sparkleshare.org/)
 
+## Grub
+
+* [Grub2 troubleshooting](https://help.ubuntu.com/community/Grub2/Troubleshooting)
+
 # Linux
 
 ## Tutorials
