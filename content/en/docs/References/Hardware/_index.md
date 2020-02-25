@@ -15,6 +15,7 @@ description: Hardware resources
 * [JAMECO](https://www.jameco.com)
 * [Pico Canada](https://picocanada.com/en/)
 * [tindie](https://www.tindie.com/)
+* [Rev Robotics](http://www.revrobotics.com/)
 
 ## Canada
 
