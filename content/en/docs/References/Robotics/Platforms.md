@@ -73,6 +73,7 @@ description: News and information about robot platforms
 * [rc_car_ros with RPLiDAR](https://github.com/GigaFlopsis/rc_car_ros)
 * [rc_bot](https://github.com/RoblabWhGe/rc_bot)
 * [Race car project with Hokuyo LiDAR](https://jnazaren.github.io/racecar_project_page/)
+* [F1/10 autonomous racing](https://linklab-uva.github.io/autonomousracing/)
 
 ## Race Car
 
