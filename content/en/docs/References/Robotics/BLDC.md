@@ -7,6 +7,7 @@ description: BLDC motors and controller resources
 
 # Motor Controllers
 
+* [Accelerated Systems](https://www.accelerated-systems.com/)
 * [Spark Max](http://www.revrobotics.com/rev-11-2158/)
 * [Sevcon](http://www.sevcon.com/)
 * [Curtis Instruments](https://www.curtisinstruments.com/)
