@@ -32,7 +32,7 @@ description: Software resources
 
 ### [ssh](https://www.ssh.com)
 
-* [Generate ssh key for remote computer](https://raspberrypi.stackexchange.com/questions/1686/how-do-i-set-up-ssh-keys-to-log-into-my-rpi)
+* [Generate ssh key for a remote computer](https://www.ssh.com/ssh/keygen)
 
 ## Docker
 
