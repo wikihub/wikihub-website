@@ -37,6 +37,8 @@ description: News and information about electric vehicles
 
 # Controllers
 - [Curtis Instruments](https://www.curtisinstruments.com/)
+- [SME](https://sme-group.com/)
+- [Accelerated Systems](http://accelerated-systems.com)
 
 # Batteries
 - [Orion BMS](https://www.orionbms.com/)
