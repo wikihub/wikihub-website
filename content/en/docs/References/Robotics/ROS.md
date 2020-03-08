@@ -20,6 +20,10 @@ description: News and information about ROS and its applications
 * [Odrive ROS - Naktamello](https://github.com/naktamello/odrive_ros_control)
 * [Odrive ROS - BenBurgessLimerick](https://github.com/BenBurgessLimerick/odrive_cpp_ros)
 
+# Python3
+
+* [How to setup ROS with Python 3](https://medium.com/@beta_b0t/how-to-setup-ros-with-python-3-44a69ca36674)
+
 # ROS2
 
 * [Navigation2](https://github.com/ros-planning/navigation2)
