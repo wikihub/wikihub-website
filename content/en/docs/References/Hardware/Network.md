@@ -13,4 +13,5 @@ description: Network and Internet resources
 ## Linksys
 
 * [AsusWRT Merlin build 384.5 or later on Linksys EA6900 or EA6700](https://www.linksysinfo.org/index.php?threads/asuswrt-merlin-build-384-5-or-later-on-linksys-ea6900-or-ea6700.74209/)
+* [How to flash Linksys EA6300v1, EA6400, EA6500v2, EA6700, EA6900v1.0/1.1 with Tomato](https://www.linksysinfo.org/index.php?threads/guide-flash-linksys-ea6300v1-ea6400-ea6500v2-ea6700-ea6900v1-0-1-1-with-tomato.73877/)
 * [Linsys EA6900 official firmwares](https://sourceforge.net/projects/officiallinksysfirmware/files/ea6900/v1/)
