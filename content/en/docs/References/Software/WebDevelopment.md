@@ -62,6 +62,7 @@ description: News and information about web development technologies
 
 - [Stacker](https://stacker.app)
 - [Convox](https://convox.com)
+- [Gloomaps](https://www.gloomaps.com/)
 
 ## NPM
 
