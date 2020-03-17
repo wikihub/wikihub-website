@@ -42,19 +42,21 @@ description: News and information about web development technologies
 
 ## Angular
 
-# CSS
+# Graphical Design
+
+## CSS
 
 * [Create fast loading, highly readable, and 100% responsive interfaces with as little css as possible](http://tachyons.io/docs/)
 
-# Illustrations
+## Illustrations
 
 * [Undraw](https://undraw.co/)
 
-# Photos
+## Photos
 
 * [Unsplash](https://unsplash.com/)
 
-# Vector Graphics
+## Vector Graphics
 
 * [Vectr](https://vectr.com)
 
