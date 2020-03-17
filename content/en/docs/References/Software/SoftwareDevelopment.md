@@ -8,6 +8,7 @@ description: News and information about software development and necessary tools
 
 # Software Project Management
 
+* [User story cards](https://www.agilebusiness.org/page/ProjectFramework_15_RequirementsandUserStories)
 * [Miro](https://miro.com/)
 * [Gloomaps](https://www.gloomaps.com/)
 
