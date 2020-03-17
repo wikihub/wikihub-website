@@ -13,6 +13,7 @@ description: Software resources
 * [Spark Share](http://www.sparkleshare.org/)
 * [Mount drives](https://askubuntu.com/questions/285539/detect-and-mount-devices)
 * [Samba does not use the system account user and password](https://ubuntu.com/tutorials/install-and-configure-samba#4-setting-up-user-accounts-and-connecting-to-share)
+* The /var/lib/samba/usershares folder should belong to the sambashare group. The user should also belong to the sambashare group.
 
 ## Grub
 
