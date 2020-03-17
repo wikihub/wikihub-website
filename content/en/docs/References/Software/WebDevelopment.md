@@ -47,6 +47,7 @@ description: News and information about web development technologies
 * [Adobe XD](https://www.adobe.com/ca/products/xd.html)
 * [Figma](https://www.figma.com/)
 * [Pencil](https://pencil.evolus.vn/)
+* [Sketch](https://www.sketch.com/)
 
 ## CSS
 
