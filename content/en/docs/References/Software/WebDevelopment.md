@@ -44,6 +44,10 @@ description: News and information about web development technologies
 
 # Graphical Design
 
+* [Adobe XD](https://www.adobe.com/ca/products/xd.html)
+* [Figma](https://www.figma.com/)
+* [Pencil](https://pencil.evolus.vn/)
+
 ## CSS
 
 * [Create fast loading, highly readable, and 100% responsive interfaces with as little css as possible](http://tachyons.io/docs/)
