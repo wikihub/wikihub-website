@@ -6,6 +6,11 @@ weight: 60
 description: News and information about software development and necessary tools
 ---
 
+# Software Project Management
+
+* [Miro](https://miro.com/)
+* [Gloomaps](https://www.gloomaps.com/)
+
 # Continuous Integration
 
 * [Circle CI](http://circleci.com)
