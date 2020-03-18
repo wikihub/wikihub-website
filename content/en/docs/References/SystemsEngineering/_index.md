@@ -9,6 +9,7 @@ description: Resources and tools for Systems Engineering
 
 ## Tools
 
+* [RoBoMoSys Project](https://robmosys.eu/)
 * [Papyrus for Robotics](https://www.eclipse.org/papyrus/components/robotics/)
 * [Papyrus](https://www.eclipse.org/papyrus/)
 * [Capella](https://www.eclipse.org/capella/)
