@@ -12,3 +12,4 @@ description: Resources and tools for Systems Engineering
 * [Papyrus](https://www.eclipse.org/papyrus/)
 * [Capella](https://www.eclipse.org/capella/)
 * [Modelio](https://www.modelio.org/)
+* [WebGME](https://github.com/webgme)
