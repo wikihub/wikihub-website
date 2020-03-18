@@ -7,6 +7,11 @@ description: Resources and tools for Systems Engineering
 
 # MBSE
 
+## References
+
+* [OMG SysML](http://www.omgsysml.org/)
+* [SysML](https://sysml.org/)
+
 ## Tools
 
 * [RoBoMoSys Project](https://robmosys.eu/)
