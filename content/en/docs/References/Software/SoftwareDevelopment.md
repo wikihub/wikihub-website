@@ -12,6 +12,10 @@ description: News and information about software development and necessary tools
 * [Miro](https://miro.com/)
 * [Gloomaps](https://www.gloomaps.com/)
 
+## Whiteboards
+
+* [Best online whiteboards](https://zapier.com/blog/best-online-whiteboard/)
+
 # Continuous Integration
 
 * [Circle CI](http://circleci.com)
