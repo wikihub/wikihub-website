@@ -14,6 +14,7 @@ description: News and information about software development and necessary tools
 
 ## Whiteboards
 
+* [Trello](https://trello.com)
 * [Best online whiteboards](https://zapier.com/blog/best-online-whiteboard/)
 
 # Continuous Integration
