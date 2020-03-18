@@ -9,6 +9,7 @@ description: Resources and tools for Systems Engineering
 
 ## Tools
 
+* [Papyrus for Robotics](https://www.eclipse.org/papyrus/components/robotics/)
 * [Papyrus](https://www.eclipse.org/papyrus/)
 * [Capella](https://www.eclipse.org/capella/)
 * [Modelio](https://www.modelio.org/)
