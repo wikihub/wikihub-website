@@ -20,6 +20,11 @@ description: News and information about ROS and its applications
 * [Odrive ROS - Naktamello](https://github.com/naktamello/odrive_ros_control)
 * [Odrive ROS - BenBurgessLimerick](https://github.com/BenBurgessLimerick/odrive_cpp_ros)
 
+# Software
+
+* [Open Source Integrated Planner for Autonomous Navigation in Highly Dynamic Environments](https://www.fujipress.jp/jrm/rb/robot002900040668/)
+* [OpenPlanner 2.0 Requirements, Design, and Implementation](https://discourse.ros.org/t/openplanner-2-0-requirements-design-and-implementation/11985)
+
 # Python3
 
 * [How to setup ROS with Python 3](https://medium.com/@beta_b0t/how-to-setup-ros-with-python-3-44a69ca36674)
