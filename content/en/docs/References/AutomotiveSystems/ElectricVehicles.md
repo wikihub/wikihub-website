@@ -7,6 +7,10 @@ description: News and information about electric vehicles
 
 # Platforms
 
+## AUTO
+
+* [The GM AUTOnomy](https://www.adrianchernoff.com/)
+
 ## Golf Carts
 
 * [Nick Golf Carts](https://nicksgolfcarts.com/)
