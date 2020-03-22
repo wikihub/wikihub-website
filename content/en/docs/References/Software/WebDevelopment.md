@@ -86,3 +86,8 @@ description: News and information about web development technologies
 ## Forms
 
 * [Formspree](https://formspree.io/)
+
+# Static websites
+
+* [Hugo](https://gohugo.io/)
+* [Jekyll](https://jekyllrb.com/)
