@@ -91,3 +91,4 @@ description: News and information about web development technologies
 
 * [Hugo](https://gohugo.io/)
 * [Jekyll](https://jekyllrb.com/)
+   * [Jekyll themes](https://jekyllrb.com/docs/themes/)
