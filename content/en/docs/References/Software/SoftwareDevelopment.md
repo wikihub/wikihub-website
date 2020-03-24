@@ -22,6 +22,8 @@ description: News and information about software development and necessary tools
 
 * [Circle CI](http://circleci.com)
 * [Drone.io](https://drone.io/)
+* GitHub Actions
+   * [Awesome actions](https://github.com/sdras/awesome-actions#github-pages)
 
 # Version Control System
 
