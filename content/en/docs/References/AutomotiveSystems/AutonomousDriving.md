@@ -139,10 +139,11 @@ description: News and information about autonomous driving
 * [Apollo Open Platform](http://apollo.auto/developer.html)
 
 ## [Autoware](https://github.com/CPFL/Autoware)
+* [Autoware wiki](https://gitlab.com/autowarefoundation/autoware.ai/autoware/-/wikis/home)
 * [Autoware Tutorial](https://github.com/pixmoving-moveit/Autoware_tutorial)
 * [Autocore](https://github.com/autocore-ai)
 * [Streetdrone](https://streetdrone.com/)
-* [Autoware feature documentation](https://autoware.readthedocs.io/en/feature-documentation_rtd/UsersGuide/Videos.html)
+* [Autoware feature documentation](https://autoware.readthedocs.io/en/feature-documentation_rtd/index.html)
 * [Autoware](https://www.autoware.auto/)
 * [Autoware Foundation](https://github.com/autowarefoundation)
 * [Autoware Foundation Announcement](https://www.tier4.jp/en/news/20181210-awf/)
