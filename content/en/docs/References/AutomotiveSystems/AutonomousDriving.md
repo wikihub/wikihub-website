@@ -134,15 +134,19 @@ description: News and information about autonomous driving
 * [GM-CMU](http://gm.web.cmu.edu/research/index.php)
 * [Software for online vehicle verification](http://www6.in.tum.de/Main/SoftwareOnlineVehicleVerification)
 * [APEX](http://repository.upenn.edu/cgi/viewcontent.cgi?article=1098&context=mlab_papers)
-* [Autoware](https://github.com/CPFL/Autoware)
-   * [Autoware Tutorial](https://github.com/pixmoving-moveit/Autoware_tutorial)
-   * [Autocore](https://github.com/autocore-ai)
-   * [Streetdrone](https://streetdrone.com/)
-   * [Autoware feature documentation](https://autoware.readthedocs.io/en/feature-documentation_rtd/UsersGuide/Videos.html)
-   * [Autoware web runtime manager](https://github.com/tier4/autoware_web_runtime_manager)
 * [BARC - Berkeley](http://www.barc-project.com/)
 * [Automated Driving](https://automatedcars.space/)
 * [Apollo Open Platform](http://apollo.auto/developer.html)
+
+## [Autoware](https://github.com/CPFL/Autoware)
+* [Autoware Tutorial](https://github.com/pixmoving-moveit/Autoware_tutorial)
+* [Autocore](https://github.com/autocore-ai)
+* [Streetdrone](https://streetdrone.com/)
+* [Autoware feature documentation](https://autoware.readthedocs.io/en/feature-documentation_rtd/UsersGuide/Videos.html)
+* [Autoware web runtime manager](https://github.com/tier4/autoware_web_runtime_manager)
+
+### People
+* [Amin Tahmasbi](https://github.com/amintahmasbi)
 
 ## RC Car
 
