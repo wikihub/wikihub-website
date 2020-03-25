@@ -41,6 +41,7 @@ description: Software resources
 ## Docker
 
 * [How to setup Docker and Nvidia-Docker 2.0 on Ubuntu 18.04](https://cnvrg.io/how-to-setup-docker-and-nvidia-docker-2-0-on-ubuntu-18-04/)
+* Docker permission denied fix: `sudo chmod 666 /var/run/docker.sock`
 
 ## log
 
