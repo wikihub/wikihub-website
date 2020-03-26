@@ -150,6 +150,7 @@ description: News and information about autonomous driving
 * [Open Source Integrated Planner for Autonomous Navigation in Highly Dynamic Environments](https://www.fujipress.jp/jrm/rb/robot002900040668/)
 * [AMC JP YouTube](https://www.youtube.com/channel/UCtUkb-IvlrqaNOsgcV3QRhQ)
 * [PIX Moving](https://medium.com/pixmoving)
+* [Autoware-Carla](https://github.com/carla-simulator/carla-autoware)
 
 ### Applications
 * [Autoware web runtime manager](https://github.com/tier4/autoware_web_runtime_manager)
