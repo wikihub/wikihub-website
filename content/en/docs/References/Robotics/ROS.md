@@ -125,9 +125,10 @@ description: News and information about ROS and its applications
 * [ROS Show](https://github.com/dheera/rosshow)
 * [Dynamic Reconfigure](http://wiki.ros.org/dynamic_reconfigure)
 
-# Robot Web Tools
+# Cloud Robotics
 
 * [Robot Web Tools](http://robotwebtools.org/)
+* [Webviz](https://github.com/cruise-automation/webviz)
 
 # AWS RoboMaker
 
