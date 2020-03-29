@@ -10,3 +10,7 @@ description: News and resources about Uber autonomy technologies
 # Visualization
 
 * [Autonomous Visualization System by Uber](https://avs.auto/demo/index.html)
+
+# Learning
+
+* [Udacity](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013)
