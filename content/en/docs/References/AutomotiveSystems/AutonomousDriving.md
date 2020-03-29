@@ -195,6 +195,10 @@ description: News and information about autonomous driving
 * [NVIDIA DRIVE CONSTELLATION](https://www.nvidia.com/en-us/self-driving-cars/drive-constellation/)
 * [Micro-Simulation Models](http://www.its.leeds.ac.uk/projects/smartest/append3d.html)
 
+# Visualization
+
+* [Autonomous Visualization System by Uber](https://avs.auto/demo/index.html)
+
 # People
 
 * [George Hotz on Comma.AI and the state of self-driving cars](https://www.youtube.com/watch?v=Hxoke1lDJ9w)
