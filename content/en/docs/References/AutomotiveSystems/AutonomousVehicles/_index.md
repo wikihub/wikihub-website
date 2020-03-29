@@ -136,31 +136,6 @@ description: Autonomous Vehicles
 * [APEX](http://repository.upenn.edu/cgi/viewcontent.cgi?article=1098&context=mlab_papers)
 * [BARC - Berkeley](http://www.barc-project.com/)
 * [Automated Driving](https://automatedcars.space/)
-* [Apollo Open Platform](http://apollo.auto/developer.html)
-
-## [Autoware](https://github.com/CPFL/Autoware)
-* [Autoware wiki](https://gitlab.com/autowarefoundation/autoware.ai/autoware/-/wikis/home)
-* [Autoware Tutorial](https://github.com/pixmoving-moveit/Autoware_tutorial)
-* [Autocore](https://github.com/autocore-ai)
-* [Streetdrone](https://streetdrone.com/)
-* [Autoware feature documentation](https://autoware.readthedocs.io/en/feature-documentation_rtd/index.html)
-* [Autoware](https://www.autoware.auto/)
-* [Autoware Foundation](https://github.com/autowarefoundation)
-* [Autoware Foundation Announcement](https://www.tier4.jp/en/news/20181210-awf/)
-* [Open Source Integrated Planner for Autonomous Navigation in Highly Dynamic Environments](https://www.fujipress.jp/jrm/rb/robot002900040668/)
-* [AMC JP YouTube](https://www.youtube.com/channel/UCtUkb-IvlrqaNOsgcV3QRhQ)
-* [PIX Moving](https://medium.com/pixmoving)
-* [PIX Moving MoveIt](https://github.com/pixmoving-moveit)
-* [Autoware tutorial by PIX Moving](https://github.com/pixmoving-moveit/Autoware_tutorial)
-* [Autoware-Carla](https://github.com/carla-simulator/carla-autoware)
-
-### Applications
-* [Autoware web runtime manager](https://github.com/tier4/autoware_web_runtime_manager)
-
-### People
-* [Amin Tahmasbi](https://github.com/amintahmasbi)
-* [Hatem Darweesh GitHub](https://github.com/hatem-darweesh)
-* [Hatem Darweesh YouTube](https://www.youtube.com/channel/UCl1UROdErP1m2t_eiLLcl8w)
 
 ## RC Car
 
@@ -187,17 +162,10 @@ description: Autonomous Vehicles
 
 # Simulators
 
-* [Apollo](http://apollo.auto/)
 * [CARLA](http://carla.org/)
-* [AirSim](https://github.com/microsoft/AirSim)
 * [rFpro](http://www.rfpro.com/)
 * [RT-LAB Orchestra](https://www.opal-rt.com/autonomous-vehicle/)
-* [NVIDIA DRIVE CONSTELLATION](https://www.nvidia.com/en-us/self-driving-cars/drive-constellation/)
 * [Micro-Simulation Models](http://www.its.leeds.ac.uk/projects/smartest/append3d.html)
-
-# Visualization
-
-* [Autonomous Visualization System by Uber](https://avs.auto/demo/index.html)
 
 # People
 
