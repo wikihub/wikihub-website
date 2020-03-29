@@ -7,6 +7,7 @@ description: Resources on fleet management and web interface for robots
 
 # Fleet Managetment
 
+* [Freedom Robotics](https://www.freedomrobotics.ai/)
 * [Formant](https://formant.io/)
 * [ROSHub](https://roshub.io/)
 * [Balyo](https://www.balyo.com/our-technology-in-1-min)
