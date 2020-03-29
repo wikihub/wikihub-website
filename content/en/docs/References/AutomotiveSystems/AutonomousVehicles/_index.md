@@ -10,8 +10,6 @@ description: Autonomous Vehicles
 * [AnnieWAY](https://www.mrt.kit.edu/annieway/)
 * [RBCar](https://github.com/RobotnikAutomation/rbcar_sim)
 * [Autonomous Vehicle Control Documentation](https://media.readthedocs.org/pdf/phddocs/latest/phddocs.pdf)
-* [Moving Community - Pix](https://github.com/pixmoving-moveit)
-* [ZMP MV2](https://www.zmp.co.jp/en/products/robocar-mv?lang=en)
 * [MIT SMART](http://dspace.mit.edu/bitstream/handle/1721.1/98419/IROS15_1943_finalVersion.pdf?sequence=1)
 
 ## Companies
