@@ -25,6 +25,9 @@ description: News and information about simulation environments
 * [HoME](https://github.com/HoME-Platform/home-platform)
 * [Gibson](http://gibsonenv.stanford.edu/)
 
+## Web
+* [Xemo](http://www.xemo.io/)
+
 # Control Toolbox
 
 * [ROS Controls](https://github.com/ros-controls)
