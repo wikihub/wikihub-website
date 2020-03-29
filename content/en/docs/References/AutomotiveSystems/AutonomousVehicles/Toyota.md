@@ -6,4 +6,9 @@ description: News and resources on Toyota
 ---
 
 * [Toyota Research Institute](https://www.tri.global/research/#Automated%20Driving)
-* [CARLA](http://carla.org/)
+
+
+# [CARLA](http://carla.org/)
+
+* [Carla ROS-Bridge](https://github.com/carla-simulator/ros-bridge)
+* [Carla Autoware](https://github.com/carla-simulator/carla-autoware)
