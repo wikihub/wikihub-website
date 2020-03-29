@@ -119,6 +119,7 @@ description: Autonomous Vehicles
 * [Applied Intuition](https://www.appliedintuition.com/)
 * [Metamoto](https://www.metamoto.com/)
 * [RightHook](https://righthook.io/)
+* [Carcraft by Waymo](https://www.theatlantic.com/technology/archive/2017/08/inside-waymos-secret-testing-and-simulation-facilities/537648/)
 * [rFpro](http://www.rfpro.com/)
 * [Micro-Simulation Models](http://www.its.leeds.ac.uk/projects/smartest/append3d.html)
 
