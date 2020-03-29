@@ -116,6 +116,9 @@ description: Autonomous Vehicles
 
 # Simulators
 
+* [Applied Intuition](https://www.appliedintuition.com/)
+* [Metamoto](https://www.metamoto.com/)
+* [RightHook](https://righthook.io/)
 * [rFpro](http://www.rfpro.com/)
 * [Micro-Simulation Models](http://www.its.leeds.ac.uk/projects/smartest/append3d.html)
 
