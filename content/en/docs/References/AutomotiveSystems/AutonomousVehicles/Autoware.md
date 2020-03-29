@@ -25,7 +25,9 @@ description: News and resources on Autoware
 * [Autoware web runtime manager](https://github.com/tier4/autoware_web_runtime_manager)
 
 # Companies
+* [Moving Community - Pix](https://github.com/pixmoving-moveit)
 * [ZMP MV2](https://www.zmp.co.jp/en/products/robocar-mv?lang=en)
+
 
 # People
 * [Amin Tahmasbi](https://github.com/amintahmasbi)
