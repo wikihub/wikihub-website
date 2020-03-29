@@ -10,6 +10,7 @@ description: Resources on fleet management and web interface for robots
 * [Freedom Robotics](https://www.freedomrobotics.ai/)
 * [Formant](https://formant.io/)
 * [ROSHub](https://roshub.io/)
+* [Seegrid](https://seegrid.com/)
 * [Balyo](https://www.balyo.com/our-technology-in-1-min)
 * [Bridge Robotics](https://bridgerobotics.com/robotops-analytics/#robotops_home)
 * [Omron](https://automation.omron.com/en/ca/blog/mobile-robot-fleet-management-blog)
