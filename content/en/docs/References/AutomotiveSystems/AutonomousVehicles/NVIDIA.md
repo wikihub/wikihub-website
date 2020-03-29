@@ -7,3 +7,7 @@ description: News and resources on NVIDIA
 
 # NVIDIA DRIVE
 * [NVIDIA DRIVE CONSTELLATION](https://www.nvidia.com/en-us/self-driving-cars/drive-constellation/)
+
+# Companies
+
+* [Cognata](https://www.cognata.com/)
