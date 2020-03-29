@@ -6,3 +6,7 @@ description: News and resources about Microsoft autonomy technologies
 ---
 
 # [AirSim](https://github.com/microsoft/AirSim)
+
+# Companies
+
+* [Cognata](https://www.cognata.com/)
