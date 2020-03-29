@@ -19,15 +19,12 @@ description: Autonomous Vehicles
 * [Self Driving Cars](http://selfracingcars.com/)
 * [Wheego](http://wheego.net/nihao/)
 * [Polysync](https://polysync.io/)
-* [NVIDIA DRIVE PX 2](http://www.nvidia.ca/object/drive-px.html)
-   * [How Deep Learning Will Enable Self-Driving Cars ](https://www.youtube.com/watch?v=RhGFH5jndGY)
 * [Automated Driving with ROS at BMW ROSCon 2015 Hamburg Day 2](https://www.youtube.com/watch?v=z9WzHXfYqFI)
 * [Nauto](https://www.nauto.com)
 * [nuTonomy](https://www.nutonomy.com/)
    * [Emilio Frazzoli, CTO, nuTonomy - MIT Self-Driving Cars](https://youtu.be/dWSbItd0HEA)
 * [aimotive](https://aimotive.com/)
 * [nexar](https://www.getnexar.com/)
-* [Pix](https://www.pixmoving.com/)
 * [zoox](http://zoox.com/)
 * [Tesla Autopilot](https://www.tesla.com/en_CA/autopilot)
 * [Cadillac Super Cruise](https://www.cadillac.com/world-of-cadillac/innovation/super-cruise)
@@ -36,8 +33,6 @@ description: Autonomous Vehicles
 * [Mercedes Benz Autonomous Driving](https://www.mercedes-benz.com/en/mercedes-benz/next/automation/)
 * [BMW Autonomous Driving](https://www.bmw.com/en/automotive-life/autonomous-driving.html)
 * [Huawei Mobile Automation Engine](https://www.huawei.com/en/press-events/news/2018/11/auto-driving-mobile-network-solution-mae)
-* [Toyota Research Institute](https://www.tri.global/research/#Automated%20Driving)
-* [Uber Advanced Technologies Group](https://www.uber.com/info/atg/)
 * [Ridecell](https://ridecell.com/)
 
 # Drive by Wire
@@ -122,7 +117,6 @@ description: Autonomous Vehicles
 # Simulators
 
 * [rFpro](http://www.rfpro.com/)
-* [RT-LAB Orchestra](https://www.opal-rt.com/autonomous-vehicle/)
 * [Micro-Simulation Models](http://www.its.leeds.ac.uk/projects/smartest/append3d.html)
 
 # People
