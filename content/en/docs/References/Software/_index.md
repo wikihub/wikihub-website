@@ -26,6 +26,10 @@ description: Software resources
 * [Linux Shell Scripting Tutorial (LSST) v2.0](https://bash.cyberciti.biz/guide/Main_Page)
 * [Linux Hint](https://linuxhint.com/)
 
+## bash
+
+* [30 bash script examples](https://linuxhint.com/30_bash_script_examples/)
+
 ## Commands
 
 * [chmod calculator](https://chmod-calculator.com/)
