@@ -12,3 +12,4 @@ description: News and resources on Toyota
 
 * [Carla ROS-Bridge](https://github.com/carla-simulator/ros-bridge)
 * [Carla Autoware](https://github.com/carla-simulator/carla-autoware)
+* [CarlaViz](https://github.com/wx9698/carlaviz)
