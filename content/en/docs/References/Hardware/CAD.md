@@ -51,6 +51,10 @@ description: News and information about rapid prototyping
 * [Prusa i3 MK3](https://shop.prusa3d.com/en/3d-printers/180-original-prusa-i3-mk3-kit.html)
 * [Snapmaker](https://www.kickstarter.com/projects/snapmaker/snapmaker-20-modular-3-in-1-3d-printers)
 
+## British Columbia
+
+* [Nova Machine Works](https://www.novamachineworks.com/)
+
 ## Ontario
 
 * [Proto3000](https://proto3000.com/)
