@@ -24,6 +24,10 @@ description: News and resources on Autoware
 # Autoware.auto
 * [AutowareAuto wiki](https://autowarefoundation.gitlab.io/autoware.auto/AutowareAuto/index.html)
 
+# Simulation
+* [LGSVL](https://github.com/lgsvl/Autoware)
+* [Carla](http://carla.org/)
+
 # Web Applications
 * [Autoware web runtime manager](https://github.com/tier4/autoware_web_runtime_manager)
 
