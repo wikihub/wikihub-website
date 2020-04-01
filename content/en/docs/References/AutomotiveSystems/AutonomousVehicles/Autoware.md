@@ -27,13 +27,13 @@ description: News and resources on Autoware
 
 ## Simulation
 * [Gazebo](https://gitlab.com/autowarefoundation/autoware.ai/autoware/-/wikis/Gazebo-Simulation-Start)
-* [LGSVL](https://gitlab.com/autowarefoundation/autoware.ai/autoware/-/wikis/LGSVL-Simulator-Quick-Start-Guide)
+* [LGSVL GitHub](https://github.com/lgsvl/Autoware)
+* [LGSVL Start Guide](https://gitlab.com/autowarefoundation/autoware.ai/autoware/-/wikis/LGSVL-Simulator-Quick-Start-Guide)
 
 # Autoware.auto (ROS 2)
 * [AutowareAuto wiki](https://autowarefoundation.gitlab.io/autoware.auto/AutowareAuto/index.html)
 
 # Simulation
-* [LGSVL](https://github.com/lgsvl/Autoware)
 * [Carla](http://carla.org/)
 
 # Web Applications
