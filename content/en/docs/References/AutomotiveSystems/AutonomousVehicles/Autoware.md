@@ -35,6 +35,7 @@ description: News and resources on Autoware
 
 # Simulation
 * [Carla](http://carla.org/)
+* [LGSVL](https://autowarefoundation.gitlab.io/autoware.auto/AutowareAuto/lgsvl.html)
 
 # Web Applications
 * [Autoware web runtime manager](https://github.com/tier4/autoware_web_runtime_manager)
