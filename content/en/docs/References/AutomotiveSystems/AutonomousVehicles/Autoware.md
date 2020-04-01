@@ -25,6 +25,10 @@ description: News and resources on Autoware
 * [Autoware tutorial by PIX Moving](https://github.com/pixmoving-moveit/Autoware_tutorial)
 * [Autoware-Carla](https://github.com/carla-simulator/carla-autoware)
 
+## Simulation
+* [Gazebo](https://gitlab.com/autowarefoundation/autoware.ai/autoware/-/wikis/Gazebo-Simulation-Start)
+* [LGSVL](https://gitlab.com/autowarefoundation/autoware.ai/autoware/-/wikis/LGSVL-Simulator-Quick-Start-Guide)
+
 # Autoware.auto (ROS 2)
 * [AutowareAuto wiki](https://autowarefoundation.gitlab.io/autoware.auto/AutowareAuto/index.html)
 
