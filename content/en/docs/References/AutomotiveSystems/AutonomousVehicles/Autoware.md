@@ -4,6 +4,10 @@ linkTitle: "Autoware"
 date: 2020-02-06
 description: News and resources on Autoware
 ---
+# Autoware.io
+* Vehicle control
+* Sensor and ECU integration
+* Simulation & Tools
 
 # [Autoware.ai (ROS 1)](https://github.com/CPFL/Autoware)
 * [Autoware wiki](https://gitlab.com/autowarefoundation/autoware.ai/autoware/-/wikis/home)
