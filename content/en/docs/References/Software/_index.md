@@ -30,6 +30,9 @@ description: Software resources
 
 * [30 bash script examples](https://linuxhint.com/30_bash_script_examples/)
 
+## Packages
+* Search: apt-cache search keyword
+
 ## Commands
 
 * [chmod calculator](https://chmod-calculator.com/)
