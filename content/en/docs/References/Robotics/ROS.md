@@ -14,6 +14,10 @@ description: News and information about ROS and its applications
 * [ROS Tutorials](https://wiki.ros.org/ROS/Tutorials)
 * [Understanding Topics](https://wiki.ros.org/ROS/Tutorials/UnderstandingTopics)
 
+# ROS Packages
+
+* [Autonomous patrolling](https://github.com/strands-project/autonomous_patrolling)
+
 # Hardware
 
 * [ros_control](https://github.com/ros-controls/ros_control)
