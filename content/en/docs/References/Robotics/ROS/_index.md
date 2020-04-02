@@ -14,6 +14,26 @@ description: News and information about ROS and its applications
 
 * [Autonomous patrolling](https://github.com/strands-project/autonomous_patrolling)
 
+# Robot description
+* [Unified Robot Description Format (URDF)](https://wiki.ros.org/urdf)
+* [URDF](http://wiki.ros.org/urdf)
+* [Simulation Description Format (SDF)](http://sdformat.org/)
+* [sdf-modelica](https://github.com/robotology/sdf-modelica)
+* [Xacro](http://wiki.ros.org/xacro)
+* [Robot Model (URDF editor)](https://github.com/AdoHaha/modelrobot)
+
+# Recording
+
+* [Recording and playing back data](http://wiki.ros.org/ROS/Tutorials/Recording%20and%20playing%20back%20data)
+* [ROSbag cookbook](http://wiki.ros.org/rosbag/Cookbook)
+* [ROS Bag Python Controller](https://github.com/masasin/pyrosbag)
+* [rosbag examples](https://www.programcreek.com/python/example/89952/rosbag.Bag)
+
+# Multiple computers
+
+* [Run rviz remotely](http://users.umiacs.umd.edu/~cteo/umd-erratic-ros-data/README-rvis-remote)
+* [Topic content issue on remote computers](https://github.com/ros/meta-ros/issues/134)
+
 # Hardware
 
 * [ros_control](https://github.com/ros-controls/ros_control)
