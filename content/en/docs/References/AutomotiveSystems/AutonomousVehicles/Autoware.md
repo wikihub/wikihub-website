@@ -9,7 +9,7 @@ description: News and resources on Autoware
 * Sensor and ECU integration
 * Simulation & Tools
 
-# [Autoware.ai (ROS 1)](https://github.com/CPFL/Autoware)
+# [Autoware.ai (ROS 1)](https://gitlab.com/autowarefoundation/autoware.ai)
 * [Autoware wiki](https://gitlab.com/autowarefoundation/autoware.ai/autoware/-/wikis/home)
 * [Autoware Tutorial](https://github.com/pixmoving-moveit/Autoware_tutorial)
 * [Autocore](https://github.com/autocore-ai)
