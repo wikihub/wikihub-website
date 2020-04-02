@@ -17,6 +17,11 @@ description: News and information about learning ROS
 
 # Robot description
 * [Unified Robot Description Format (URDF)](https://wiki.ros.org/urdf)
+* [URDF](http://wiki.ros.org/urdf)
+* [Simulation Description Format (SDF)](http://sdformat.org/)
+* [sdf-modelica](https://github.com/robotology/sdf-modelica)
+* [Xacro](http://wiki.ros.org/xacro)
+* [Robot Model (URDF editor)](https://github.com/AdoHaha/modelrobot)
 
 # Recording
 
