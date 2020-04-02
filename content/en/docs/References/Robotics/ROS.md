@@ -17,6 +17,7 @@ description: News and information about ROS and its applications
 * [ROS concepts](https://wiki.ros.org/ROS/Concepts)
 * [ROS workspaces](https://wiki.ros.org/catkin/Tutorials/create_a_workspace)
 * [Understanding Topics](https://wiki.ros.org/ROS/Tutorials/UnderstandingTopics)
+* [Programming languages](https://wiki.ros.org/Client%20Libraries)
 
 ## Robot description
 * [Unified Robot Description Format (URDF)](https://wiki.ros.org/urdf)
