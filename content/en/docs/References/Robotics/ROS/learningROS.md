@@ -15,26 +15,6 @@ description: News and information about learning ROS
 * [Programming languages](https://wiki.ros.org/Client%20Libraries)
 * [ROS command-line interface](https://wiki.ros.org/ROS/CommandLineTools)
 
-# Robot description
-* [Unified Robot Description Format (URDF)](https://wiki.ros.org/urdf)
-* [URDF](http://wiki.ros.org/urdf)
-* [Simulation Description Format (SDF)](http://sdformat.org/)
-* [sdf-modelica](https://github.com/robotology/sdf-modelica)
-* [Xacro](http://wiki.ros.org/xacro)
-* [Robot Model (URDF editor)](https://github.com/AdoHaha/modelrobot)
-
-# Recording
-
-* [Recording and playing back data](http://wiki.ros.org/ROS/Tutorials/Recording%20and%20playing%20back%20data)
-* [ROSbag cookbook](http://wiki.ros.org/rosbag/Cookbook)
-* [ROS Bag Python Controller](https://github.com/masasin/pyrosbag)
-* [rosbag examples](https://www.programcreek.com/python/example/89952/rosbag.Bag)
-
-# Multiple computers
-
-* [Run rviz remotely](http://users.umiacs.umd.edu/~cteo/umd-erratic-ros-data/README-rvis-remote)
-* [Topic content issue on remote computers](https://github.com/ros/meta-ros/issues/134)
-
 # Tutorials
 
 * [ROS/Gazebo simulator as the external simulator for ArduCopter](http://docs.erlerobotics.com/simulation/intro)
