@@ -30,3 +30,7 @@ description: News and information about learning ROS
 
 * [Mastering ROS for Robotics Programming - Second Edition](https://subscription.packtpub.com/book/hardware_and_creative/9781788478953)
 * [Springer book on Robot Operating System (ROS)](http://www.riotu-lab.org/rosbook/)
+
+# Online Learning
+
+* [The Robotics Back-End](https://roboticsbackend.com/)
