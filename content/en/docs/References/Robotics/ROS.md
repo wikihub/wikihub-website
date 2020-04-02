@@ -12,7 +12,8 @@ description: News and information about ROS and its applications
 
 # Start
 * [ROS Tutorials](https://wiki.ros.org/ROS/Tutorials)
-* [ROS cheat sheets](https://clearpathrobotics.com/ros-robot-operating-system-cheat-sheet/)
+* [ROS cheat sheet (catkin)](https://github.com/ros/cheatsheet/releases/download/0.0.1/ROScheatsheet_catkin.pdf)
+* [ROS cheat sheets by Clearpath](https://clearpathrobotics.com/ros-robot-operating-system-cheat-sheet/)
 * [ROS concepts](https://wiki.ros.org/ROS/Concepts)
 * [ROS workspaces](https://wiki.ros.org/catkin/Tutorials/create_a_workspace)
 * [Understanding Topics](https://wiki.ros.org/ROS/Tutorials/UnderstandingTopics)
