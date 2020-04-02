@@ -1,6 +1,6 @@
 ---
-title: "Learning"
-linkTitle: "LearningROS"
+title: "Learning ROS"
+linkTitle: "Learning ROS"
 date: 2019-02-22
 description: News and information about learning ROS
 ---
