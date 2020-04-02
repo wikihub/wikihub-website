@@ -29,6 +29,7 @@ description: News and resources on Autoware
 * [Gazebo](https://gitlab.com/autowarefoundation/autoware.ai/autoware/-/wikis/Gazebo-Simulation-Start)
 * [LGSVL GitHub](https://github.com/lgsvl/Autoware)
 * [LGSVL Start Guide](https://gitlab.com/autowarefoundation/autoware.ai/autoware/-/wikis/LGSVL-Simulator-Quick-Start-Guide)
+* [Carla simulation bridge](https://gitlab.com/autowarefoundation/autoware.ai/simulation/-/tree/master/carla_simulator_bridge)
 
 # Autoware.auto (ROS 2)
 * [AutowareAuto wiki](https://autowarefoundation.gitlab.io/autoware.auto/AutowareAuto/index.html)
