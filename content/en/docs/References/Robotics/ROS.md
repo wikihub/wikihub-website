@@ -18,6 +18,9 @@ description: News and information about ROS and its applications
 * [ROS workspaces](https://wiki.ros.org/catkin/Tutorials/create_a_workspace)
 * [Understanding Topics](https://wiki.ros.org/ROS/Tutorials/UnderstandingTopics)
 
+## Robot description
+* [Unified Robot Description Format (URDF)](https://wiki.ros.org/urdf)
+
 # ROS Packages
 
 * [Autonomous patrolling](https://github.com/strands-project/autonomous_patrolling)
