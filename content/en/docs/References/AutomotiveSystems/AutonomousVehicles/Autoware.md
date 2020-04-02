@@ -45,6 +45,8 @@ description: News and resources on Autoware
 * [Pix Moving Community](https://github.com/pixmoving-moveit)
 * [ZMP MV2](https://www.zmp.co.jp/en/products/robocar-mv?lang=en)
 
+# Projects
+* [Autonomous Valet Parking](https://avp-project.uk/autoware)
 
 # People
 * [Amin Tahmasbi](https://github.com/amintahmasbi)
