@@ -11,6 +11,7 @@ description: News and resources on Autoware
 
 # [Autoware.ai (ROS 1)](https://gitlab.com/autowarefoundation/autoware.ai)
 * [Autoware wiki](https://gitlab.com/autowarefoundation/autoware.ai/autoware/-/wikis/home)
+* [Autoware manuals](https://github.com/CPFL/Autoware-Manuals/tree/master/en)
 * [Autoware Tutorial](https://github.com/pixmoving-moveit/Autoware_tutorial)
 * [Autocore](https://github.com/autocore-ai)
 * [Streetdrone](https://streetdrone.com/)
