@@ -11,4 +11,4 @@ description: News and learning resources on autonomous driving
 
 # Udemy
 
-* [Daniel Stang](https://www.udemy.com/course/autonomous-robots-path-planning/#instructor-1)
+* [Daniel Stang](https://www.udemy.com/user/daniel-stang-2/)
