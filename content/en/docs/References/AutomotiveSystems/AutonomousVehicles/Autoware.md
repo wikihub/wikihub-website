@@ -54,3 +54,6 @@ description: News and resources on Autoware
 * [Amin Tahmasbi](https://github.com/amintahmasbi)
 * [Hatem Darweesh GitHub](https://github.com/hatem-darweesh)
 * [Hatem Darweesh YouTube](https://www.youtube.com/channel/UCl1UROdErP1m2t_eiLLcl8w)
+
+# Training
+* [Autoware online class](https://discourse.ros.org/t/autoware-online-class-rfq/13528)
