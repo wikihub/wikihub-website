@@ -24,7 +24,6 @@ description: News and resources on Autoware
 * [PIX Moving](https://medium.com/pixmoving)
 * [PIX Moving MoveIt](https://github.com/pixmoving-moveit)
 * [Autoware tutorial by PIX Moving](https://github.com/pixmoving-moveit/Autoware_tutorial)
-* [Autoware-Carla](https://github.com/carla-simulator/carla-autoware)
 
 ## Simulation
 * [Gazebo](https://gitlab.com/autowarefoundation/autoware.ai/autoware/-/wikis/Gazebo-Simulation-Start)
