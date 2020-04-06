@@ -16,6 +16,7 @@ description: News and learning resources on autonomous driving
 # [EdX](https://www.edx.org)
 
 * [Multi-Object Tracking for Automotive Systems](https://www.edx.org/course/multi-object-tracking-for-automotive-systems)
+* [Sensor Fusion and Non-linear Filtering for Automotive Systems](https://www.edx.org/course/sensor-fusion-and-non-linear-filtering-for-automot)
 
 # [Udemy](https://www.udemy.com/)
 
