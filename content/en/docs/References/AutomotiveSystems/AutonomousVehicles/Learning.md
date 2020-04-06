@@ -1,8 +1,8 @@
 ---
-title: "Training"
-linkTitle: "Training"
+title: "Learning CAV"
+linkTitle: "Learning CAV"
 date: 2020-04-06
-description: News and learning resources on autonomous driving
+description: News and learning resources on connected autonomous vehicles
 ---
 
 # [Udacity](https://www.udacity.com/)
