@@ -24,6 +24,8 @@ description: News and information about software development and necessary tools
 * [Drone.io](https://drone.io/)
 * GitHub Actions
    * [Awesome actions](https://github.com/sdras/awesome-actions#github-pages)
+* Bitbucket pipelines
+   * [Test your Bitbucket pipeline locally](https://github.com/mserranom/bbrun)
 
 # Containers
 
