@@ -24,3 +24,6 @@ description: Network and Internet resources
 * [GNU C language sockets](https://www.gnu.org/software/libc/manual/html_node/Sockets.html)
 * [Real Python sockets](https://realpython.com/python-sockets/)
 * [Python sockets](https://docs.python.org/3/howto/sockets.html)
+
+## Socket tools
+* [Web socket tool](https://plantain-00.github.io/ws-tool/)
