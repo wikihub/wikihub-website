@@ -31,5 +31,3 @@ description: Resources for running a small business
 * [Custom Online Business Printing & Design | MOO CA](https://www.moo.com/ca/)
 * [TPH® The Printing House - Business Printing Solutions](https://www.tph.ca/)
 
-# Networking
-* [Robotics Summit](https://www.roboticssummit.com/)
