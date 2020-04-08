@@ -61,6 +61,7 @@ description: News and resources on Autoware
 
 # People
 * [Amin Tahmasbi](https://github.com/amintahmasbi)
+* [Hatem Darweesh Gitlab](https://gitlab.com/hatem-darweesh)
 * [Hatem Darweesh GitHub](https://github.com/hatem-darweesh)
 * [Hatem Darweesh YouTube](https://www.youtube.com/channel/UCl1UROdErP1m2t_eiLLcl8w)
 
