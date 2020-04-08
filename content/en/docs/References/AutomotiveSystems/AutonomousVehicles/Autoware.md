@@ -41,6 +41,7 @@ description: News and resources on Autoware
 
 # Maps
 * [ASSURE MAPS](https://github.com/hatem-darweesh/assuremappingtools)
+* [Lanelet2](https://github.com/fzi-forschungszentrum-informatik/Lanelet2)
 
 # Simulation
 * [Carla](http://carla.org/)
