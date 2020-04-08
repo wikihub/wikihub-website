@@ -9,6 +9,7 @@ description: News and information about web applications for ROS-based robots
 
 * [Robot Web Tools](http://robotwebtools.org/)
 * [Webviz](https://github.com/cruise-automation/webviz)
+* [nav2djs](https://github.com/GT-RAIL/nav2djs)
 * [ros-rviz](https://github.com/jstnhuang/ros-rviz)
 
 # AWS RoboMaker
