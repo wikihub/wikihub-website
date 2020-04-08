@@ -36,6 +36,8 @@ description: News and information about Markdown
 * [RStudio](https://www.rstudio.com/)
     * [Slidify](http://slidify.org/index.html)
 * [Markdown for Mac](http://mac.appstorm.net/roundups/productivity-roundups/35-markdown-apps-for-the-mac/)
+* [Firepad](https://firepad.io/)
+* [Socrates](http://socrates.io)
 
 ## Blog
 
