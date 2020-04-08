@@ -30,3 +30,6 @@ description: Resources for running a small business
 * [High Quality Business Card Printing Services Toronto | Printcloud Inc.](https://www.printcloud.ca/)
 * [Custom Online Business Printing & Design | MOO CA](https://www.moo.com/ca/)
 * [TPH® The Printing House - Business Printing Solutions](https://www.tph.ca/)
+
+# Networking
+* [Robotics Summit](https://www.roboticssummit.com/)
