@@ -17,3 +17,7 @@ description: Network and Internet resources
 * [Linsys EA6900 official firmwares](https://sourceforge.net/projects/officiallinksysfirmware/files/ea6900/v1/)
 * [CFEditor](https://cfeditor.feng.si/)
 * [AsusWRT-Merlin](https://www.asuswrt-merlin.net/)
+
+# Sockets
+
+* [Awesome web sockets](https://github.com/facundofarias/awesome-websockets/blob/master/README.md)
