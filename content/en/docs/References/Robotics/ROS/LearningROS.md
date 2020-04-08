@@ -37,5 +37,5 @@ description: News and information about learning ROS
 * [Springer book on Robot Operating System (ROS)](http://www.riotu-lab.org/rosbook/)
 
 # Online Learning
-
 * [The Robotics Back-End](https://roboticsbackend.com/)
+* [CSE 468-568 Robotic Algorithms](https://medium.com/cse-468-568-robotic-algorithms)
