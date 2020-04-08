@@ -39,6 +39,9 @@ description: News and resources on Autoware
 # Autoware.auto (ROS 2)
 * [AutowareAuto wiki](https://autowarefoundation.gitlab.io/autoware.auto/AutowareAuto/index.html)
 
+# Maps
+* [ASSURE MAPS](https://github.com/hatem-darweesh/assuremappingtools)
+
 # Simulation
 * [Carla](http://carla.org/)
 * [LGSVL](https://autowarefoundation.gitlab.io/autoware.auto/AutowareAuto/lgsvl.html)
