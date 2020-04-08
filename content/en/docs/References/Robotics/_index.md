@@ -4,6 +4,10 @@ linkTitle: "Robotics"
 weight: 30
 description: Resources for robotics
 ---
+
+# Networking
+* [Robotics Summit](https://www.roboticssummit.com/)
+
 # Robotics News
 * [Robotics Report](https://www.therobotreport.com/)
 * [Robohub](https://robohub.org/)
