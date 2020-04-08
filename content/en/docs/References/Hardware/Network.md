@@ -21,6 +21,5 @@ description: Network and Internet resources
 # Sockets
 
 * [Awesome web sockets](https://github.com/facundofarias/awesome-websockets/blob/master/README.md)
-
-## C Language
-* [Sockets](https://www.gnu.org/software/libc/manual/html_node/Sockets.html)
+* [GNU C language sockets](https://www.gnu.org/software/libc/manual/html_node/Sockets.html)
+* [Python sockets](https://realpython.com/python-sockets/)
