@@ -10,7 +10,6 @@ description: News and resources on Autoware
 * Simulation & Tools
 
 # [Autoware.ai (ROS 1)](https://gitlab.com/autowarefoundation/autoware.ai)
-* [Old Autoware repo](https://github.com/streetdrone-home/Autoware/)
 * [Autoware wiki](https://gitlab.com/autowarefoundation/autoware.ai/autoware/-/wikis/home)
 * [Autoware manuals](https://github.com/CPFL/Autoware-Manuals/tree/master/en)
 * [Autoware Tutorial](https://github.com/pixmoving-moveit/Autoware_tutorial)
@@ -25,6 +24,9 @@ description: News and resources on Autoware
 * [PIX Moving](https://medium.com/pixmoving)
 * [PIX Moving MoveIt](https://github.com/pixmoving-moveit)
 * [Autoware tutorial by PIX Moving](https://github.com/pixmoving-moveit/Autoware_tutorial)
+## Repos
+* [op-x repo by Hatem](https://github.com/hatem-darweesh/autoware/tree/op-x)
+* [Old Autoware repo](https://github.com/streetdrone-home/Autoware/)
 
 ## Simulation
 * [Gazebo](https://gitlab.com/autowarefoundation/autoware.ai/autoware/-/wikis/Gazebo-Simulation-Start)
