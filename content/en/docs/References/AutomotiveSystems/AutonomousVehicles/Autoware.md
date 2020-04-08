@@ -67,3 +67,7 @@ description: News and resources on Autoware
 
 # Training
 * [Autoware online class](https://discourse.ros.org/t/autoware-online-class-rfq/13528)
+## Path Planning
+* [Path Planning on Autoware: A Simulation tool (Part 1/3)](https://medium.com/cse-468-568-robotic-algorithms/path-planning-on-autoware-a-simulation-tool-715563274a81)
+* [Path Planning on Autoware: A Simulation tool (Part 2/3)](https://medium.com/cse-468-568-robotic-algorithms/path-planning-on-autoware-a-simulation-tool-part-2-3-2c1093c44f0f)
+* [Path Planning on Autoware: A Simulation tool (Part 3/3)](https://medium.com/@rugved42/path-planning-on-autoware-a-simulation-tool-part-3-3-2461343fab07)
