@@ -36,6 +36,9 @@ description: News and resources on Autoware
 * [Carla Autoware](https://github.com/carla-simulator/carla-autoware)
 * [Carla simulation bridge](https://gitlab.com/autowarefoundation/autoware.ai/simulation/-/tree/master/carla_simulator_bridge)
 
+## Fleet Management
+* [Autoware Management System](https://github.com/CPFL/AMS)
+
 # Autoware.auto (ROS 2)
 * [AutowareAuto wiki](https://autowarefoundation.gitlab.io/autoware.auto/AutowareAuto/index.html)
 
