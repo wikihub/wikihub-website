@@ -9,8 +9,14 @@ description: News and information about web applications for ROS-based robots
 
 * [Robot Web Tools](http://robotwebtools.org/)
 * [Webviz](https://github.com/cruise-automation/webviz)
-* [nav2djs](https://github.com/GT-RAIL/nav2djs)
 * [ros-rviz](https://github.com/jstnhuang/ros-rviz)
+
+# 2D Navigation
+* [nav2djs](https://github.com/GT-RAIL/nav2djs)
+
+## Map formats
+* [Export map data from Google My Maps to a KML file](https://help.scribblemaps.com/knowledgebase/articles/1917415-export-map-data-from-google-my-maps-to-a-kml-file)
+* [ASSURE mapping tools](https://github.com/hatem-darweesh/assuremappingtools)
 
 # AWS RoboMaker
 
