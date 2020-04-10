@@ -16,7 +16,8 @@ description: News and information about web applications for ROS-based robots
 
 ## Map formats
 * [Export map data from Google My Maps to a KML file](https://help.scribblemaps.com/knowledgebase/articles/1917415-export-map-data-from-google-my-maps-to-a-kml-file)
-* [ASSURE mapping tools](https://github.com/hatem-darweesh/assuremappingtools)
+* [ASSURE Mapping Tools](https://github.com/hatem-darweesh/assuremappingtools)
+* [ASSURE Mapping Tools tutorials](https://www.youtube.com/watch?v=oQFkeAeBnOE)
 
 # AWS RoboMaker
 
