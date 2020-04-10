@@ -57,6 +57,7 @@ description: News and information about software development and necessary tools
 
 ## git
 
+- [Install the latest git](https://itsfoss.com/install-git-ubuntu/)
 - [Setting your username in Git](https://help.github.com/articles/setting-your-username-in-git/)
 - [Setting your commit email address in Git](https://help.github.com/articles/setting-your-commit-email-address-in-git/)
 - git add .
