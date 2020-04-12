@@ -2,7 +2,7 @@
 title: "3D Graphics"
 linkTitle: "3D Graphics"
 date: 2019-02-22
-weight: 20
+weight: 10
 description: News and information about 3D graphics applications
 ---
 
