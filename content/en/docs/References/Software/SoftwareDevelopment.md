@@ -44,6 +44,7 @@ description: News and information about software development and necessary tools
     - git remote -v
     - git remote set-url origin https://username@github.com/ros-agriculture/ros-a.git
 - [Git push to GitHub Pages](https://devhints.io/travis-gh-pages)
+- [Testing your SSH connection](https://help.github.com/en/github/authenticating-to-github/testing-your-ssh-connection)
 
 # Documentation
 
