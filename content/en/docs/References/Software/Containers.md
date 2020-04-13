@@ -22,6 +22,7 @@ description: News and information about containers
 * [How to show X11 windows with Docker on Mac](https://medium.com/@mreichelt/how-to-show-x11-windows-within-docker-on-mac-50759f4b65cb)
 * [Running xeyes in Docker](http://nelkinda.com/blog/xeyes-in-docker/)
 * Remove all the images without a tag: `docker rmi $(docker images -f dangling=true -q)`
+* Remove <none> images: `docker rmi $(docker images |grep "<none>"|awk '$1=="<none>" {print $3}')`
 * Prune the system: `docker system prune`
 * Remove all the containers: `docker rm $(docker ps -a -q)`
 
