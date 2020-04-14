@@ -26,6 +26,7 @@ description: News and information about containers
 * Prune the system: `docker system prune`
 * Remove all the containers: `docker rm $(docker ps -a -q)`
 * [Base image Docker](https://phusion.github.io/baseimage-docker/)
+* Restart Docker: `service docker restart`
 
 ## Docker tools
 * [Kubler](https://www.elttam.com/blog/kubler/)
