@@ -25,6 +25,7 @@ description: News and information about containers
 * Remove <none> images: `docker rmi $(docker images |grep "<none>"|awk '$1=="<none>" {print $3}')`
 * Prune the system: `docker system prune`
 * Remove all the containers: `docker rm $(docker ps -a -q)`
+* [Base image Docker](https://phusion.github.io/baseimage-docker/)
 
 ## Docker tools
 * [Kubler](https://www.elttam.com/blog/kubler/)
