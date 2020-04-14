@@ -12,7 +12,7 @@ description: News and information about containers
 * Fixing an error: `sudo apt-get install musl` and `sudo ln -s /lib/ld-musl-x86_64.so.1 /lib/libc.musl-x86_64.so.1`
 
 # Docker
-
+* [Install Docker on Ubuntu](https://docs.docker.com/engine/install/ubuntu/)
 * [Dockerfile reference](https://docs.docker.com/engine/reference/builder/)
 * [Develop with Docker](https://docs.docker.com/develop/)
 * [How to setup Docker and Nvidia-Docker 2.0 on Ubuntu 18.04](https://cnvrg.io/how-to-setup-docker-and-nvidia-docker-2-0-on-ubuntu-18-04/)
