@@ -5,5 +5,5 @@ date: 2020-04-18
 description: News and resources on AutoCore
 ---
 
-* [Autocore](https://www.autocore.ai/)
-* [Autocore PCU](https://github.com/autocore-ai/autocore_pcu_doc)
+* [AutoCore](https://www.autocore.ai/)
+* [AutoCore PCU](https://github.com/autocore-ai/autocore_pcu_doc)
