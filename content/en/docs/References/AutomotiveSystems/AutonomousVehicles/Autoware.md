@@ -56,6 +56,7 @@ description: News and resources on Autoware
 
 # Hardware
 * [Autocore](https://www.autocore.ai/)
+* [Autocore PCU](https://github.com/autocore-ai/autocore_pcu_doc)
 
 # Companies
 * [Pix Moving](https://www.pixmoving.com/)
