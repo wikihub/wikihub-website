@@ -54,10 +54,6 @@ description: News and resources on Autoware
 # Web Applications
 * [Autoware web runtime manager](https://github.com/tier4/autoware_web_runtime_manager)
 
-# Hardware
-* [Autocore](https://www.autocore.ai/)
-* [Autocore PCU](https://github.com/autocore-ai/autocore_pcu_doc)
-
 # Companies
 * [Pix Moving](https://www.pixmoving.com/)
 * [Pix Moving Community](https://github.com/pixmoving-moveit)
