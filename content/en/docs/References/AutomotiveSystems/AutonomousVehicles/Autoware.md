@@ -41,6 +41,9 @@ description: News and resources on Autoware
 
 # Autoware.auto (ROS 2)
 * [AutowareAuto wiki](https://autowarefoundation.gitlab.io/autoware.auto/AutowareAuto/index.html)
+* [Autonomy hardware workgroup](https://gitlab.com/autowarefoundation/autoware-foundation/-/wikis/Autonomy-hardware-working-group)
+* [Autonomy software working group](https://gitlab.com/autowarefoundation/autoware-foundation/-/wikis/Autonomy-Software-working-group)
+
 
 ## Autonomous Valet Parking
 * [Milestone 1](https://gitlab.com/autowarefoundation/autoware.auto/AutowareAuto/-/milestones/29)
