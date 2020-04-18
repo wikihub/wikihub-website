@@ -48,7 +48,7 @@ description: News and resources on Autoware
 * [Milestone 3](https://gitlab.com/autowarefoundation/autoware.auto/AutowareAuto/-/milestones/25)
 * [Milestone 4](https://gitlab.com/autowarefoundation/autoware.auto/AutowareAuto/-/milestones/26)
 * [Milestone 5](https://gitlab.com/autowarefoundation/autoware.auto/AutowareAuto/-/milestones/27)
-* [AVP Zoom meeting Dec. 2019](https://zoom.us/recording/play/6WgbvY-PneV_y0ldeBVEPOs8P35NcWVYHcA3v9QmlXp9UgWXeW_KHQp_rJmRfI2F)
+* [AVP Zoom meeting 3 Dec. 2019](https://zoom.us/recording/play/6WgbvY-PneV_y0ldeBVEPOs8P35NcWVYHcA3v9QmlXp9UgWXeW_KHQp_rJmRfI2F)
 
 # Maps
 * [ASSURE MAPS](https://github.com/hatem-darweesh/assuremappingtools)
