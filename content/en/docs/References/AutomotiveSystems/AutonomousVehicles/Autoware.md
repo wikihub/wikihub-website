@@ -42,6 +42,14 @@ description: News and resources on Autoware
 # Autoware.auto (ROS 2)
 * [AutowareAuto wiki](https://autowarefoundation.gitlab.io/autoware.auto/AutowareAuto/index.html)
 
+## Autonomous Valet Parking
+* [Milestone 1](https://gitlab.com/autowarefoundation/autoware.auto/AutowareAuto/-/milestones/29)
+* [Milestone 2](https://gitlab.com/autowarefoundation/autoware.auto/AutowareAuto/-/milestones/24)
+* [Milestone 3](https://gitlab.com/autowarefoundation/autoware.auto/AutowareAuto/-/milestones/25)
+* [Milestone 4](https://gitlab.com/autowarefoundation/autoware.auto/AutowareAuto/-/milestones/26)
+* [Milestone 5](https://gitlab.com/autowarefoundation/autoware.auto/AutowareAuto/-/milestones/27)
+* [AVP Zoom meeting Dec. 2019](https://zoom.us/recording/play/6WgbvY-PneV_y0ldeBVEPOs8P35NcWVYHcA3v9QmlXp9UgWXeW_KHQp_rJmRfI2F)
+
 # Maps
 * [ASSURE MAPS](https://github.com/hatem-darweesh/assuremappingtools)
 * [Lanelet2](https://github.com/fzi-forschungszentrum-informatik/Lanelet2)
