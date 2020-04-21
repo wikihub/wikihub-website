@@ -22,6 +22,7 @@ description: Resources for learning
 
 # Project documentation
 * [Docz and Gatsby](https://github.com/doczjs/docz/tree/master/core/gatsby-theme-docz)
+* [Sphinx](https://www.sphinx-doc.org/en/master/)
 
 # Terminal
 * [8 Popular and Lesser Know Linux Terminal Recording Tools](https://linoxide.com/linux-how-to/linux-terminal-recording-tools/)
