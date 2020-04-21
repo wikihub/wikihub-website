@@ -7,6 +7,7 @@ description: Resources for learning
 
 # Web slides
 * [MDX Deck](https://github.com/jxnblk/mdx-deck)
+* [Eagle js slides](https://github.com/zulko/eagle.js/)
 * [Web slides TV](https://webslides.tv/)
 * [Reveal js](https://revealjs.com/#/)
 * [Impress js](https://github.com/impress/impress.js/)
