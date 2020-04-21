@@ -13,3 +13,4 @@ description: Resources on mobile application development
 * [Hugo](https://gohugo.io/)
 * [Jekyll](https://jekyllrb.com/)
    * [Jekyll themes](https://jekyllrb.com/docs/themes/)
+* [Gitbook](https://pages.gitlab.io/gitbook/)   
