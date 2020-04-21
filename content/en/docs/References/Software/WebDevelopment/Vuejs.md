@@ -1,6 +1,6 @@
 ---
 title: "Vue.js"
-linkTitle: "Vue.js Development"
+linkTitle: "Vue.js"
 date: 2019-04-20
 weight: 70
 description: News and information about Vue.js tools
