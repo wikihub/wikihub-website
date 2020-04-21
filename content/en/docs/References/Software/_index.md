@@ -21,6 +21,9 @@ description: Software resources
 
 # Linux
 
+## Ubuntu
+* [Fix the Budgie panel](https://discourse.ubuntubudgie.org/t/main-menu-disappeared/2378): `nohup budgie-panel --reset --replace &`
+
 ## Tutorials
 
 * [Linux Shell Scripting Tutorial (LSST) v2.0](https://bash.cyberciti.biz/guide/Main_Page)
