@@ -20,5 +20,8 @@ description: Resources for learning
 * [Slidy](https://www.w3.org/Talks/Tools/Slidy2/Overview.html#(1))
 * [Slideous](https://goessner.net/articles/slideous/slideous.html)
 
+# Project documentation
+* [Docz and Gatsby](https://github.com/doczjs/docz/tree/master/core/gatsby-theme-docz)
+
 # Terminal
 * [8 Popular and Lesser Know Linux Terminal Recording Tools](https://linoxide.com/linux-how-to/linux-terminal-recording-tools/)
