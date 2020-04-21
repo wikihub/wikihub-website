@@ -5,8 +5,11 @@ date: 2019-02-22
 weight: 70
 description: News and information about web development technologies
 ---
+# Learning resources
+* [web.dev](https://web.dev/)
+
 # Frontend
-- [Frontend development tools](https://github.com/gamtiq/frontend-tools/blob/master/README.md)
+* [Frontend development tools](https://github.com/gamtiq/frontend-tools/blob/master/README.md)
 
 # Graphical Design
 
