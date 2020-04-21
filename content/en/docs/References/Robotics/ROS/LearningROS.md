@@ -25,6 +25,7 @@ description: News and information about learning ROS
 
 * [ROS/Gazebo simulator as the external simulator for ArduCopter](http://docs.erlerobotics.com/simulation/intro)
 * [ROS kinetic tutorial by Shawn Chen](https://www.youtube.com/watch?v=ehtUb55Rmmg&list=PLk51HrKSBQ8-jTgD0qgRp1vmQeVSJ5SQC&index=1)
+* [Webots tutorials](https://cyberbotics.com/doc/guide/tutorial-1-your-first-simulation-in-webots)
 
 # Courses
 
