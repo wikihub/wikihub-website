@@ -53,3 +53,7 @@ description: News and information about containers
 # Kubernetes
 * [kind](https://kind.sigs.k8s.io/)
 * [K8s device plugin by NVIDIA](https://github.com/NVIDIA/k8s-device-plugin)
+
+# Singularity
+
+* [Singularity Documentation](https://www.sylabs.io/docs/)
