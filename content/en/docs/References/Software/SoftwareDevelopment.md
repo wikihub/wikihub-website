@@ -26,9 +26,10 @@ description: News and information about software development and necessary tools
    * [Awesome actions](https://github.com/sdras/awesome-actions#github-pages)
 * Bitbucket pipelines
    * [Test your Bitbucket pipeline locally](https://github.com/mserranom/bbrun)
+   
 ## Gitlab pipelines
-   * [Predefined variables](https://docs.gitlab.com/ee/ci/variables/predefined_variables.html)
-   * [Install Gitlab Runner on Linux](https://docs.gitlab.com/runner/install/linux-repository.html)
+* [Predefined variables](https://docs.gitlab.com/ee/ci/variables/predefined_variables.html)
+* [Install Gitlab Runner on Linux](https://docs.gitlab.com/runner/install/linux-repository.html)
 
 # Version Control System
 
