@@ -76,3 +76,5 @@ description: News and information about software development and necessary tools
 # Development Environments
 * [Koding](https://www.koding.com/)
 
+# Package Management
+* [Homebrew](https://docs.brew.sh/Homebrew-on-Linux)
