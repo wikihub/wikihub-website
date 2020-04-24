@@ -11,6 +11,7 @@ description: Resources on mobile application development
 # [Static websites](https://www.staticgen.com/)
 
 * [Hugo](https://gohugo.io/)
+   * [Hugo, getting started](https://gohugo.io/getting-started/quick-start/)
 * [Jekyll](https://jekyllrb.com/)
    * [Jekyll themes](https://jekyllrb.com/docs/themes/)
 * [Gitbook](https://pages.gitlab.io/gitbook/)   
