@@ -5,6 +5,9 @@ weight: 70
 description: Resources for learning
 ---
 
+# Tutorials
+* [claat](https://github.com/googlecodelabs/tools)
+
 # Web slides
 * [MDX Deck (React)](https://github.com/jxnblk/mdx-deck)
 * [Eagle js slides (Vue)](https://github.com/zulko/eagle.js/)
