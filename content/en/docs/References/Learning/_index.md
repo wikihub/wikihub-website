@@ -7,6 +7,7 @@ description: Resources for learning
 
 # Tutorials
 * [claat](https://github.com/googlecodelabs/tools)
+* [claat in Node.js](https://github.com/deepakshrma/googles-codelabs)
 
 # Web slides
 * [MDX Deck (React)](https://github.com/jxnblk/mdx-deck)
