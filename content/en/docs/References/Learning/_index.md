@@ -8,6 +8,7 @@ description: Resources for learning
 # Tutorials
 * [claat](https://github.com/googlecodelabs/tools)
 * [claat in Node.js](https://github.com/deepakshrma/googles-codelabs)
+* [Atom extension for claat](https://github.com/ucl-casa-ce/claat-snippets-atom) 
 
 # Web slides
 * [MDX Deck (React)](https://github.com/jxnblk/mdx-deck)
