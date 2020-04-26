@@ -10,6 +10,9 @@ description: Resources for learning
 * [claat in Node.js](https://github.com/deepakshrma/googles-codelabs)
 * [Atom extension for claat](https://github.com/ucl-casa-ce/claat-snippets-atom) 
 
+# Online course templates
+* [Gatsby, Reveal.js and Binder](https://github.com/ines/course-starter-python)
+
 # Web slides
 * [MDX Deck (React)](https://github.com/jxnblk/mdx-deck)
 * [Eagle js slides (Vue)](https://github.com/zulko/eagle.js/)
