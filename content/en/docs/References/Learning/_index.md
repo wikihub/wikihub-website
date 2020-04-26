@@ -47,3 +47,4 @@ description: Resources for learning
 
 ## Julia
 * [Julia](https://julialang.org/learning/)
+* [Quantecon Notebooks Julia](https://github.com/QuantEcon/quantecon-notebooks-julia)
