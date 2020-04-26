@@ -44,3 +44,6 @@ description: Resources for learning
 
 ## HTML
 * [MarkSheet](https://marksheet.io/)
+
+## Julia
+* [Julia](https://julialang.org/learning/)
