@@ -51,6 +51,7 @@ description: Resources for learning
 * [Semiotic](https://semiotic.nteract.io/)
 * [Commuter](https://github.com/nteract/commuter)
 * [Mybinder](https://github.com/binder-examples/)
+* [Jupyter extensions](https://blog.jupyter.org/99-ways-to-extend-the-jupyter-ecosystem-11e5dab7c54)
 
 ## Node JS
 * [Node School](https://nodeschool.io/)
