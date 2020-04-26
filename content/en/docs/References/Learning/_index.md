@@ -52,6 +52,8 @@ description: Resources for learning
 * [Commuter](https://github.com/nteract/commuter)
 * [Mybinder](https://github.com/binder-examples/)
 * [Jupyter extensions](https://blog.jupyter.org/99-ways-to-extend-the-jupyter-ecosystem-11e5dab7c54)
+* [Zero to Binderhub](https://binderhub.readthedocs.io/en/latest/zero-to-binderhub/index.html#zero-to-binderhub)
+* [Zero to JupyterHub with Kubernetes](https://zero-to-jupyterhub.readthedocs.io/en/latest/index.html#customization-guide)
 
 ## Node JS
 * [Node School](https://nodeschool.io/)
