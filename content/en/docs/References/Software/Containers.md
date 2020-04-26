@@ -36,6 +36,9 @@ description: News and information about containers
 * [Kubler](https://www.elttam.com/blog/kubler/)
 * [Nautilus](https://nautilusdev.com/)
 
+# Tools
+* [Bolt](https://puppetlabs.github.io/bolt/)
+
 # Containerd
 * [Containerd](https://containerd.io/)
 
