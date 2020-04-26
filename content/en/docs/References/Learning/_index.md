@@ -35,6 +35,9 @@ description: Resources for learning
 # Terminal
 * [8 Popular and Lesser Know Linux Terminal Recording Tools](https://linoxide.com/linux-how-to/linux-terminal-recording-tools/)
 
+# Open Source PRojects
+* [NumFOCUS](https://numfocus.org/)
+
 # Programming
 * [Tech.io](https://github.com/TechDotIO)
 * [60 amazing resources to learn coding](https://www.houseofbots.com/news-detail/4166-4-60-amazing-resources-&-tools-to-learn-programming-language-coding)
