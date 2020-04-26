@@ -44,6 +44,7 @@ description: Resources for learning
 
 ## Notebooks
 * [nteract](https://nteract.io/)
+* [nteract on Github](https://github.com/nteract)
 * [Semiotic](https://semiotic.nteract.io/)
 * [Commuter](https://github.com/nteract/commuter)
 
