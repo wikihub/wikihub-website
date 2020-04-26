@@ -42,6 +42,11 @@ description: Resources for learning
 * [Tech.io](https://github.com/TechDotIO)
 * [60 amazing resources to learn coding](https://www.houseofbots.com/news-detail/4166-4-60-amazing-resources-&-tools-to-learn-programming-language-coding)
 
+## Notebooks
+* [nteract](https://nteract.io/)
+* [Semiotic](https://semiotic.nteract.io/)
+* [Commuter](https://github.com/nteract/commuter)
+
 ## Node JS
 * [Node School](https://nodeschool.io/)
 
