@@ -29,6 +29,7 @@ description: Resources and tools for Systems Engineering
 * [Papyrus robotics](https://wiki.eclipse.org/Papyrus/customizations/robotics)
 
 ## Tutorials
+* [Capella tutorials](https://esd.sutd.edu.sg/40014-capella-tutorial/)
 * [Introduction to Arcadia Capella with a toy catapult project](https://youtu.be/K4eU8nj1nok)
 
 ## RobMoSys Simulation
