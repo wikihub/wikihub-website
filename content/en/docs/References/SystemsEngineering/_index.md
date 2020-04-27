@@ -7,8 +7,6 @@ description: Resources and tools for Systems Engineering
 
 # MBSE
 
-## References
-
 * [OMG SysML](http://www.omgsysml.org/)
 * [SysML](https://sysml.org/)
 
@@ -19,13 +17,16 @@ description: Resources and tools for Systems Engineering
 * [WebGME](https://github.com/webgme)
 * [MBSE Tools](https://mbse4u.com/sysml-tools/)
 
-### Capella
+# Capella
 
 * [Capella](https://www.eclipse.org/capella/)
 * Capella on Ubuntu works with Java 1.8 (not 1.11). Change the Java version with: `sudo update-alternatives --config java`
 
-### RobMoSys
+# RobMoSys
 
 * [RoBoMoSys Project](https://robmosys.eu/)
 * [Papyrus for Robotics](https://www.eclipse.org/papyrus/components/robotics/)
 * [Papyrus robotics](https://wiki.eclipse.org/Papyrus/customizations/robotics)
+
+## RobMoSys Simulation
+* [AROSYS](https://robmosys.eu/arosys/)
