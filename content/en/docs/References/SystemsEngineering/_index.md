@@ -30,3 +30,6 @@ description: Resources and tools for Systems Engineering
 
 ## RobMoSys Simulation
 * [AROSYS](https://robmosys.eu/arosys/)
+
+## Team
+* [Service Robotics - Ulm](http://www.servicerobotik-ulm.de/wpr/projects/)
