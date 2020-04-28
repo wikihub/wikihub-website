@@ -12,6 +12,8 @@ description: News and information about containers
 * [Docksal](https://github.com/docksal/docksal)
 * [Ballast](https://github.com/digitalpulp/ballast)
 * [Docker development tools](https://www.docker.com/products/developer-tools)
+* [Create a reproducible dev environment with VS Code](https://medium.com/swlh/create-a-reproducible-dev-environment-with-vs-code-fd89285644da)
+
 ## [ADE](https://ade-cli.readthedocs.io/en/latest/#)
 * Fixing an error: `sudo apt-get install musl` and `sudo ln -s /lib/ld-musl-x86_64.so.1 /lib/libc.musl-x86_64.so.1`
 
