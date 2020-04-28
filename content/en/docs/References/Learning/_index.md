@@ -10,6 +10,9 @@ description: Resources for learning
 * [claat in Node.js](https://github.com/deepakshrma/googles-codelabs)
 * [Atom extension for claat](https://github.com/ucl-casa-ce/claat-snippets-atom) 
 
+## Databases
+* [Introduction to databases](https://github.com/ipeirotis/introduction-to-databases/tree/739f25fd9891523bc949f5aeda2c515f5d2b6858)
+
 # Online course templates
 * [Gatsby, Reveal.js and Binder](https://github.com/ines/course-starter-python)
 
