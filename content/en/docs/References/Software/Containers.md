@@ -5,6 +5,8 @@ date: 2019-04-11
 weight: 25
 description: News and information about containers
 ---
+# Reproducible Development Environments
+* [Reproducible Development Environments](https://garbas.si/2015/reproducible-development-environments.html)
 
 # Develop Environments
 * [Lando](https://github.com/lando/lando)
