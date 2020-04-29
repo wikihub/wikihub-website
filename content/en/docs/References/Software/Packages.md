@@ -12,3 +12,4 @@ description: News and information about software packages
 * [Isolated development environment using Nix](https://ariya.io/2016/06/isolated-development-environment-using-nix)
 * Search for Hugo: `nix-env -qaP | grep hugo`
 * Installing Hugo: `nix-env -iA nixpkgs.hugo`
+* [Nix binder example](https://github.com/costrouc/nix-binder-example)
