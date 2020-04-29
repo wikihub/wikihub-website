@@ -14,6 +14,7 @@ description: News and information about electric vehicles
 ## Golf Carts
 
 * [Nick Golf Carts](https://nicksgolfcarts.com/)
+* [Plum Quick Motors](https://plumquick.com/)
 
 ## Industrial Tow Tractors
 - [Taylor Dunn](https://www.taylor-dunn.com/en-us/tow-tractor/#specs)
