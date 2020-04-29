@@ -10,4 +10,5 @@ description: News and information about software packages
 
 * [Search NixOS packages](https://nixos.org/nixos/packages.html)
 * [Isolated development environment using Nix](https://ariya.io/2016/06/isolated-development-environment-using-nix)
+* Search for Hugo: `nix-env -qaP | grep hugo`
 * Installing Hugo: `nix-env -iA nixpkgs.hugo`
