@@ -27,6 +27,7 @@ description: Resources on embedded systems and single board computers
 * [Using thingsboard.io, STM32 B-L475E-IOT01A IoT kit and ARM Mbed to monitor temperature](https://forgge.github.io/B-L475E-IOT01A-thingsboard-read-temperature-and-humidity-using-mbed.html)
 * [Fixing L475E-IOT01A reset issue](https://innomatic.home.blog/2018/12/24/fixing-b-l475e-iot01a-board-reset-issue/)
 * [Discovery kit for IoT node review](https://www.element14.com/community/roadTestReviews/2543/l/stmicroelectronics-discovery-kit-for-iot-node-review)
+* [Edge Impulse for B-L475E-IOT01A](https://docs.edgeimpulse.com/docs/unboxing-the-st-b-l475e-iot01a)
 * [MicroPython for L475E IOT01A](https://github.com/Vjmorrison/micropython_B_L475E_IOT01A)
 
 # IDE
