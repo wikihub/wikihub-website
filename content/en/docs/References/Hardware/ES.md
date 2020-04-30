@@ -25,6 +25,7 @@ description: Resources on embedded systems and single board computers
 * [Example projects by PlatformIO](https://github.com/platformio/platform-ststm32/tree/master/examples?utm_source=platformio&utm_medium=docs)
 * [Mbed for ST Discovery L475E-IOT01A](https://os.mbed.com/platforms/ST-Discovery-L475E-IOT01A/)
 * [Using thingsboard.io, STM32 B-L475E-IOT01A IoT kit and ARM Mbed to monitor temperature](https://forgge.github.io/B-L475E-IOT01A-thingsboard-read-temperature-and-humidity-using-mbed.html)
+* [Fixing L475E-IOT01A reset issue](https://innomatic.home.blog/2018/12/24/fixing-b-l475e-iot01a-board-reset-issue/)
 * [MicroPython for L475E IOT01A](https://github.com/Vjmorrison/micropython_B_L475E_IOT01A)
 
 # IDE
