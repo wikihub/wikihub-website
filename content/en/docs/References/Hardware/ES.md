@@ -20,6 +20,7 @@ description: Resources on embedded systems and single board computers
 ## [B-L475E-IOT01A Discovery kit for IoT node](https://www.st.com/en/evaluation-tools/b-l475e-iot01a.html)
 * [PlatformIO: ST DISCO-L475VG-IOT01A](https://docs.platformio.org/en/latest/boards/ststm32/disco_l475vg_iot01a.html)
 * [Example projects by PlatformIO](https://github.com/platformio/platform-ststm32/tree/master/examples?utm_source=platformio&utm_medium=docs)
+* [Mbed for ST Discovery L475E-IOT01A](https://os.mbed.com/platforms/ST-Discovery-L475E-IOT01A/)
 
 # IDE
 
