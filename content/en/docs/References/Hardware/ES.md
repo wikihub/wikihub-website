@@ -24,6 +24,7 @@ description: Resources on embedded systems and single board computers
 * [PlatformIO: ST DISCO-L475VG-IOT01A](https://docs.platformio.org/en/latest/boards/ststm32/disco_l475vg_iot01a.html)
 * [Example projects by PlatformIO](https://github.com/platformio/platform-ststm32/tree/master/examples?utm_source=platformio&utm_medium=docs)
 * [Mbed for ST Discovery L475E-IOT01A](https://os.mbed.com/platforms/ST-Discovery-L475E-IOT01A/)
+* [Using thingsboard.io, STM32 B-L475E-IOT01A IoT kit and ARM Mbed to monitor temperature](https://forgge.github.io/B-L475E-IOT01A-thingsboard-read-temperature-and-humidity-using-mbed.html)
 
 # IDE
 
