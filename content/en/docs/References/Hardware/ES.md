@@ -45,7 +45,7 @@ description: Resources on embedded systems and single board computers
 
 # [STM32F407G-DISC1](https://www.st.com/en/evaluation-tools/stm32f4discovery.html)
 
-# [32F469IDISCOVERY](https://www.st.com/en/evaluation-tools/32f469idiscovery.html)
+# [STM32F469IDISCOVERY](https://www.st.com/en/evaluation-tools/32f469idiscovery.html)
 
 # DFU
 * [Update firmware field using microcontroller DFU mode](https://www.digikey.com/en/articles/update-firmware-field-using-microcontroller-dfu-mode)
