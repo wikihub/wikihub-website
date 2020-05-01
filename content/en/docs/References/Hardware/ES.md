@@ -12,7 +12,10 @@ description: Resources on embedded systems and single board computers
 # STM32
 * [ST Link](https://github.com/stlink-org/stlink)
 
-# Development Kits
+## Tools
+* [STM32CubeProgrammer](https://www.st.com/en/development-tools/stm32cubeprog.html)
+
+## Development Kits
 
 * [STM32 base boards](https://stm32-base.org/boards/)
 * [STM32F103C8T6 - Blue Pill](https://stm32-base.org/boards/STM32F103C8T6-Blue-Pill)
