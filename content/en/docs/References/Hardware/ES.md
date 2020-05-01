@@ -19,6 +19,7 @@ description: Resources on embedded systems and single board computers
 * [ST-LINK, ST-LINK/V2, ST-LINK/V2-1 USB driver signed for Windows7, Windows8, Windows10](https://www.st.com/en/development-tools/stsw-link009.html)
 * [DfuSe USB device firmware upgrade STMicroelectronics extension](https://www.st.com/en/development-tools/stsw-stm32080.html)
 * [Zadig](https://zadig.akeo.ie/)
+* [ARM Keil](http://www2.keil.com/mdk5/selector)
 
 ## Development Kits
 
