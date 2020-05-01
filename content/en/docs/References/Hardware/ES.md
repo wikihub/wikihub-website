@@ -33,7 +33,7 @@ description: Resources on embedded systems and single board computers
 * [Example projects by PlatformIO](https://github.com/platformio/platform-ststm32/tree/master/examples?utm_source=platformio&utm_medium=docs)
 * [Mbed for ST Discovery L475E-IOT01A](https://os.mbed.com/platforms/ST-Discovery-L475E-IOT01A/)
 * [Using thingsboard.io, STM32 B-L475E-IOT01A IoT kit and ARM Mbed to monitor temperature](https://forgge.github.io/B-L475E-IOT01A-thingsboard-read-temperature-and-humidity-using-mbed.html)
-* [Fixing L475E-IOT01A reset issue](https://innomatic.home.blog/2018/12/24/fixing-b-l475e-iot01a-board-reset-issue/)
+* [Fixing L475E-IOT01A MB1297 C-01 reset issue](https://innomatic.home.blog/2018/12/24/fixing-b-l475e-iot01a-board-reset-issue/)
 * [Discovery kit for IoT node review](https://www.element14.com/community/roadTestReviews/2543/l/stmicroelectronics-discovery-kit-for-iot-node-review)
 * [B-L475E-IOT01A and Visual Studio](https://github.com/nomadpgmr/stm32_blink_vs_code)
 * [Edge Impulse for B-L475E-IOT01A](https://docs.edgeimpulse.com/docs/unboxing-the-st-b-l475e-iot01a)
