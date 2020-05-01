@@ -37,6 +37,7 @@ description: Resources on embedded systems and single board computers
 * [B-L475E-IOT01A and Visual Studio](https://github.com/nomadpgmr/stm32_blink_vs_code)
 * [Edge Impulse for B-L475E-IOT01A](https://docs.edgeimpulse.com/docs/unboxing-the-st-b-l475e-iot01a)
 * [MicroPython for L475E IOT01A](https://github.com/Vjmorrison/micropython_B_L475E_IOT01A)
+* [Mongoose OS](https://mongoose-os.com/)
 
 # IDE
 
