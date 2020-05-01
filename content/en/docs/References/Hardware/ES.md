@@ -14,6 +14,7 @@ description: Resources on embedded systems and single board computers
 
 ## Tools
 * [STM32CubeProgrammer](https://www.st.com/en/development-tools/stm32cubeprog.html)
+* [ST Link Utility](https://my.st.com/content/my_st_com/en/products/development-tools/software-development-tools/stm32-software-development-tools/stm32-programmers/stsw-link004.html)
 * [STM32 Virtual COM Port Driver](https://www.st.com/en/development-tools/stsw-stm32102.html)
 * [ST-LINK, ST-LINK/V2, ST-LINK/V2-1 USB driver signed for Windows7, Windows8, Windows10](https://www.st.com/en/development-tools/stsw-link009.html)
 * [DfuSe USB device firmware upgrade STMicroelectronics extension](https://www.st.com/en/development-tools/stsw-stm32080.html)
