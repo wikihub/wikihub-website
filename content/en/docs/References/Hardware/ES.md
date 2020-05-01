@@ -12,6 +12,9 @@ description: Resources on embedded systems and single board computers
 # STM32
 * [ST Link](https://github.com/stlink-org/stlink)
 
+## Tutorials
+* [From 0 to STM32](https://www.playembedded.org/blog/from-0-to-stm32/)
+
 ## Tools
 * [STM32CubeProgrammer](https://www.st.com/en/development-tools/stm32cubeprog.html)
 * [ST Link Utility](https://my.st.com/content/my_st_com/en/products/development-tools/software-development-tools/stm32-software-development-tools/stm32-programmers/stsw-link004.html)
