@@ -42,6 +42,9 @@ description: Resources on embedded systems and single board computers
 * [ThingsBoard](https://forgge.github.io/B-L475E-IOT01A-thingsboard-read-temperature-and-humidity-using-mbed.html)
 * [Google Cloud Platform](https://www.mouser.ca/applications/stm32l4-kit-iot-node-integrating-google-cloud/)
 
+# DFU
+* [Update firmware field using microcontroller DFU mode](https://www.digikey.com/en/articles/update-firmware-field-using-microcontroller-dfu-mode)
+
 # MQTT
 * [Mbed MQTT](https://github.com/ARMmbed/mbed-mqtt)
 
