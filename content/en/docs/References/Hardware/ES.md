@@ -43,6 +43,10 @@ description: Resources on embedded systems and single board computers
 * [ThingsBoard](https://forgge.github.io/B-L475E-IOT01A-thingsboard-read-temperature-and-humidity-using-mbed.html)
 * [Google Cloud Platform](https://www.mouser.ca/applications/stm32l4-kit-iot-node-integrating-google-cloud/)
 
+# [STM32F407G-DISC1](https://www.st.com/en/evaluation-tools/stm32f4discovery.html)
+
+# [32F469IDISCOVERY](https://www.st.com/en/evaluation-tools/32f469idiscovery.html)
+
 # DFU
 * [Update firmware field using microcontroller DFU mode](https://www.digikey.com/en/articles/update-firmware-field-using-microcontroller-dfu-mode)
 
