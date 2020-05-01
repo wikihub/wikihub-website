@@ -43,6 +43,9 @@ description: Resources on embedded systems and single board computers
 # MQTT
 * [Mbed MQTT](https://github.com/ARMmbed/mbed-mqtt)
 
+# OTA
+* [Gizwits MCU OTA](https://docs.gizwits.com/en-us/UserManual/MCUOTA.html)
+
 # ThingsBoard
 * [ThingsBoard](https://thingsboard.io/docs/getting-started-guides/helloworld/)
 
