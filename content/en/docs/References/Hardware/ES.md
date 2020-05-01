@@ -43,6 +43,9 @@ description: Resources on embedded systems and single board computers
 # MQTT
 * [Mbed MQTT](https://github.com/ARMmbed/mbed-mqtt)
 
+# ThingsBoard
+* [ThingsBoard](https://thingsboard.io/docs/getting-started-guides/helloworld/)
+
 # IDE
 
 * [Platform IO](https://platformio.org/)
