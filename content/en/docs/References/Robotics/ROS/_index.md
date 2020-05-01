@@ -51,6 +51,8 @@ description: News and information about ROS and its applications
 # Python3
 
 * [How to setup ROS with Python 3](https://medium.com/@beta_b0t/how-to-setup-ros-with-python-3-44a69ca36674)
+* [ROS Melodic Python 3](https://www.miguelalonsojr.com/blog/robotics/ros/python3/2019/08/20/ros-melodic-python-3-build.html)
+* [Docker ROS Melodic Python 3](https://github.com/iansoliv/Docker/tree/master/ubuntu-ros-melodic-python3)
 
 # ROS2
 
