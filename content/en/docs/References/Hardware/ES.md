@@ -43,7 +43,7 @@ description: Resources on embedded systems and single board computers
 * [ThingsBoard](https://forgge.github.io/B-L475E-IOT01A-thingsboard-read-temperature-and-humidity-using-mbed.html)
 * [Google Cloud Platform](https://www.mouser.ca/applications/stm32l4-kit-iot-node-integrating-google-cloud/)
 
-# [STM32F407G-DISC1](https://www.st.com/en/evaluation-tools/stm32f4discovery.html)
+# [STM32F407G-DISCOVERY](https://www.st.com/en/evaluation-tools/stm32f4discovery.html)
 
 # [STM32F469IDISCOVERY](https://www.st.com/en/evaluation-tools/32f469idiscovery.html)
 
