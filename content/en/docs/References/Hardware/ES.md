@@ -40,6 +40,9 @@ description: Resources on embedded systems and single board computers
 * [Mongoose OS](https://mongoose-os.com/)
 * [ThingsBoard](https://forgge.github.io/B-L475E-IOT01A-thingsboard-read-temperature-and-humidity-using-mbed.html)
 
+# MQTT
+* [Mbed MQTT](https://github.com/ARMmbed/mbed-mqtt)
+
 # IDE
 
 * [Platform IO](https://platformio.org/)
