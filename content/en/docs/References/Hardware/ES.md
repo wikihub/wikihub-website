@@ -16,6 +16,7 @@ description: Resources on embedded systems and single board computers
 * [STM32CubeProgrammer](https://www.st.com/en/development-tools/stm32cubeprog.html)
 * [STM32 Virtual COM Port Driver](https://www.st.com/en/development-tools/stsw-stm32102.html)
 * [ST-LINK, ST-LINK/V2, ST-LINK/V2-1 USB driver signed for Windows7, Windows8, Windows10](https://www.st.com/en/development-tools/stsw-link009.html)
+* [Zadig](https://zadig.akeo.ie/)
 
 ## Development Kits
 
