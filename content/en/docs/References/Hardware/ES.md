@@ -14,6 +14,7 @@ description: Resources on embedded systems and single board computers
 
 ## Tools
 * [STM32CubeProgrammer](https://www.st.com/en/development-tools/stm32cubeprog.html)
+* [STM32 Virtual COM Port Driver](https://www.st.com/en/development-tools/stsw-stm32102.html)
 
 ## Development Kits
 
