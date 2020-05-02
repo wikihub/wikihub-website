@@ -28,6 +28,7 @@ description: News and information about learning ROS
 * [Webots tutorials](https://cyberbotics.com/doc/guide/tutorial-1-your-first-simulation-in-webots)
 * [Simple ROS tutorial](https://easybuildtech.com/simple-comprehensive-ros-melodic-robot/)
 * [ROS Industrial](https://industrial-training-master.readthedocs.io/en/melodic/index.html)
+* [ROS Tutorials by Tiziano Fiorenzani](https://www.youtube.com/watch?v=N6K2LWG2kRI&list=PLuteWQUGtU9BU0sQIVqRQa24p-pSBCYNv)
 
 # Courses
 
