@@ -14,3 +14,4 @@ description: News and information about software packages
 * Installing Hugo: `nix-env -iA nixpkgs.hugo`
 * [Nix binder example](https://github.com/costrouc/nix-binder-example)
 * [Working with hugo using nix](https://kalbas.it/2019/02/26/manage-a-static-website-with-hugo-and-nix/)
+* [Pinning nix packages](https://nixos.wiki/wiki/FAQ/Pinning_Nixpkgs)
