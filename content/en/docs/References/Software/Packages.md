@@ -13,3 +13,4 @@ description: News and information about software packages
 * Search for Hugo: `nix-env -qaP | grep hugo`
 * Installing Hugo: `nix-env -iA nixpkgs.hugo`
 * [Nix binder example](https://github.com/costrouc/nix-binder-example)
+* [Working with hugo using nix](https://kalbas.it/2019/02/26/manage-a-static-website-with-hugo-and-nix/)
