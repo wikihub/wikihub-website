@@ -8,6 +8,8 @@ description: News and information about learning ROS
 # ROS
 * [ROS2 drivers](https://github.com/ros-drivers)
 * [micro ROS](https://micro-ros.github.io/)
+* [uROSnode code](https://github.com/openrobots-dev/uROSnode)
+* [uROSnode paper](https://roscon.ros.org/2013/wp-content/uploads/2013/06/urosnode.pdf)
 
 # STM32
 
