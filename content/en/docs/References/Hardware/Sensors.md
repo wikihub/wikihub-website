@@ -67,3 +67,6 @@ description: News and information about sensors
 * [Neptec OPAL](http://www.neptectechnologies.com/products/opal/)
 * [RoboSense](https://www.zmp.co.jp/en/products/rslidar)
 * [LeiShen](https://www.robotshop.com/ca/en/3d-16-channels-lidar-15-vfod-120m.html)
+
+# IMU
+* [FXIMU2](https://github.com/altineller/fximu2)
