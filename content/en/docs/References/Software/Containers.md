@@ -63,6 +63,7 @@ description: News and information about containers
 * [Deploy using MiniKube on Linux](https://www.kubeflow.org/docs/started/workstation/minikube-linux/)
 * [kind](https://kind.sigs.k8s.io/)
 * [K8s device plugin by NVIDIA](https://github.com/NVIDIA/k8s-device-plugin)
+* [Kubernetes cheat sheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
 
 # Singularity
 
