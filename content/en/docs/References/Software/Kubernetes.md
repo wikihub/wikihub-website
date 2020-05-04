@@ -13,6 +13,9 @@ description: News and information about Kubernetes
 * [K8s device plugin by NVIDIA](https://github.com/NVIDIA/k8s-device-plugin)
 * [Kubernetes cheat sheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
 
+# Local development environment
+* [Running Kubernetes locally on Linux with Minikube](https://kubernetes.io/blog/2019/03/28/running-kubernetes-locally-on-linux-with-minikube-now-with-kubernetes-1.14-support/)
+
 # Tools
 * [Gardener](https://gardener.cloud/)
 * [Garden](https://garden.io/)
