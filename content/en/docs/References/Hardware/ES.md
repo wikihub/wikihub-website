@@ -9,6 +9,16 @@ description: Resources on embedded systems and single board computers
 
 * [ChibiOS](http://www.chibios.org/dokuwiki/doku.php?id=chibios:product:start)
 
+# Programming frameworks
+
+## Arduino
+
+## Mbed
+
+## STM32Cube
+
+## Zephyre
+
 # STM32
 * [ST Link](https://github.com/stlink-org/stlink)
 
