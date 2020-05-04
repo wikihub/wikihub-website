@@ -59,6 +59,7 @@ description: News and information about containers
 * [Containerd](https://containerd.io/)
 
 # Kubernetes
+* [Getting started](https://www.kubeflow.org/docs/started/getting-started/)
 * [kind](https://kind.sigs.k8s.io/)
 * [K8s device plugin by NVIDIA](https://github.com/NVIDIA/k8s-device-plugin)
 
