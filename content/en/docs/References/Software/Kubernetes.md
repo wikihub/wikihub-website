@@ -21,4 +21,6 @@ description: News and information about Kubernetes
 * [Squash](https://squash.solo.io/)
 * [Telepresence](https://www.telepresence.io/)
 * [ksync](https://ksync.github.io/ksync/)
+* [Gitkube]9https://gitkube.sh/)
+* [Watchpod](https://github.com/MinikubeAddon/watchpod)
 * [k8s-devbox](https://github.com/Mirantis/k8s-devbox)
