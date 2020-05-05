@@ -16,6 +16,9 @@ description: News and information about learning ROS
 * [Embedded ROS](https://github.com/kvzhao/Embedded-ROS)
 * [ROSbot 2.0 for STM32F4 microcontroller](https://github.com/husarion/rosbot-firmware-new)
 
+# CAN
+* [ROS CANopen](https://github.com/ipa-mdl/ros_canopen)
+
 # RTOS
 * [ChibiOS](http://www.chibios.org/dokuwiki/doku.php)
 
