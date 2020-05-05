@@ -20,6 +20,7 @@ description: News and information about learning ROS
 * [ROS CANopen](https://github.com/ipa-mdl/ros_canopen)
 * [UAVCAN](https://uavcan.org/)
 * [JeeH](https://jeelabs.org/projects/jeeh/)
+* [CAN USB STM32](https://github.com/TheRo0T/CAN-USB-STM32)
 
 # RTOS
 * [ChibiOS](http://www.chibios.org/dokuwiki/doku.php)
