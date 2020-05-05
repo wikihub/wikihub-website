@@ -67,6 +67,7 @@ description: News and resources on Autoware
 * [OpenDRIVE](http://www.opendrive.org/)
 * [Map Toolbox by AutoCore](https://github.com/autocore-ai/MapToolbox)
 * [AVP maps](https://avp-project.uk/downloads)
+* [OpenDRIVE](http://www.opendrive.org/)
 
 # Simulation
 * [Carla](http://carla.org/)
