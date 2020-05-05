@@ -14,6 +14,9 @@ description: News and information about ROS and its applications
 
 * [Autonomous patrolling](https://github.com/strands-project/autonomous_patrolling)
 
+## Control
+* [ROS Control](http://gazebosim.org/tutorials/?tut=ros_control)
+
 # Robot description
 * [Unified Robot Description Format (URDF)](https://wiki.ros.org/urdf)
 * [Simulation Description Format (SDF)](http://sdformat.org/)
