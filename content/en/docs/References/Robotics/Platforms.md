@@ -45,7 +45,7 @@ description: News and information about robot platforms
 
 * [Superdroid treaded robots](https://www.superdroidrobots.com/shop/category.aspx/treaded-tracked-robots/73/)
 
-## Segway
+## Self-balanced two wheel robot
 
 * [SOE Bobble Bot](http://so.engineering/)
 
