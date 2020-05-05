@@ -46,6 +46,12 @@ description: News and resources on Autoware
 * [Autonomy hardware workgroup](https://gitlab.com/autowarefoundation/autoware-foundation/-/wikis/Autonomy-hardware-working-group)
 * [Autonomy software working group](https://gitlab.com/autowarefoundation/autoware-foundation/-/wikis/Autonomy-Software-working-group)
 
+## Vehicle Interface
+* [Collect use cases for vehicle interface](https://gitlab.com/autowarefoundation/autoware.auto/AutowareAuto/-/issues/85)
+* Linux CAN (SocketCAN: can-utils) interface for networking CAN Bus support to the Linux Kernel
+* All platforms use CAN as the low-level communication protocol but each DBW system has its own implementation (DBC).
+* At this time, some vendors provide ROS drivers which can utilize either 'kvaser_interface' or 'socketcan_interface' ROS nodes to communicate with their DBW system while others use their own proprietary hardware and software interface for CAN communication below the ROS layer.
+* [Vehicle interface reference implementation](https://gitlab.com/autowarefoundation/autoware.auto/AutowareAuto/-/blob/master/docs/architecture/reference_implementations/vehicle-interface-reference-implementation.md)
 
 ## Autonomous Valet Parking
 * [Milestone 1](https://gitlab.com/autowarefoundation/autoware.auto/AutowareAuto/-/milestones/29)
