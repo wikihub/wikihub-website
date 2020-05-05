@@ -5,7 +5,7 @@ weight: 20
 description: Resources on embedded systems and single board computers
 ---
 
-# Embedded Systems
+# Embedded Operating Systems
 
 * [ChibiOS](http://www.chibios.org/dokuwiki/doku.php?id=chibios:product:start)
 
@@ -14,10 +14,14 @@ description: Resources on embedded systems and single board computers
 ## [STM32duino](https://github.com/stm32duino/wiki/wiki)
 
 ## [Mbed](https://os.mbed.com/)
+* [CAN Hello](https://os.mbed.com/users/hudakz/code/CAN_Hello//file/3211e88e30a5/main.cpp/)
 
 ## [STM32Cube](https://www.st.com/en/ecosystems/stm32cube.html)
+* [CAN networking example](https://github.com/STMicroelectronics/STM32CubeF4/tree/b5abca20c9676b04f8d2885a668a9b653ee65705/Projects/STM324xG_EVAL/Examples/CAN/CAN_Networking)
 
 ## [Zephyr](https://www.zephyrproject.org/)
+* [CAN API](https://docs.zephyrproject.org/latest/reference/networking/can_api.html)
+* [CAN driver](https://github.com/platformio/platform-ststm32/tree/develop/examples/zephyr-drivers-can)
 
 ## [NuttX](https://nuttx.apache.org/)
 
