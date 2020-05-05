@@ -19,6 +19,7 @@ description: News and information about learning ROS
 # CAN
 * [ROS CANopen](https://github.com/ipa-mdl/ros_canopen)
 * [UAVCAN](https://uavcan.org/)
+* [JeeH](https://jeelabs.org/projects/jeeh/)
 
 # RTOS
 * [ChibiOS](http://www.chibios.org/dokuwiki/doku.php)
