@@ -5,6 +5,9 @@ date: 2020-04-18
 description: News and resources on vehicle interface for drive by wire vehicles
 ---
 
+# Vehicle Interface
+* [Vehicle Interface Firmware](https://github.com/openxc/vi-firmware)
+
 # CAN
 * [KVASER](https://www.kvaser.com/download/)
-* [Vehicle Interface Firmware](https://github.com/openxc/vi-firmware)
+* [CAN Isolator Click](https://www.mikroe.com/can-isolator-click)
