@@ -10,3 +10,4 @@ description: Resources for quadrotors
 * [Ardupilot](https://ardupilot.org/dev/index.html)
 * [ProfiCNC](http://www.proficnc.com/)
 * [CubePilot](https://docs.cubepilot.org/user-guides/)
+* [Hex](http://www.hex.aero/)
