@@ -11,3 +11,4 @@ description: Resources for quadrotors
 * [ProfiCNC](http://www.proficnc.com/)
 * [CubePilot](https://docs.cubepilot.org/user-guides/)
 * [Hex](http://www.hex.aero/)
+* [RobotShop drone flight controller](https://www.robotshop.com/ca/en/uav-drone-flight-controllers.html) 
