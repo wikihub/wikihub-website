@@ -11,13 +11,15 @@ description: Resources on embedded systems and single board computers
 
 # Programming frameworks
 
-## Arduino
+## [STM32duino](https://github.com/stm32duino/wiki/wiki)
 
-## Mbed
+## [Mbed](https://os.mbed.com/)
 
-## STM32Cube
+## [STM32Cube](https://www.st.com/en/ecosystems/stm32cube.html)
 
-## Zephyre
+## [Zephyr](https://www.zephyrproject.org/)
+
+## [NuttX](https://nuttx.apache.org/)
 
 # STM32
 * [ST Link](https://github.com/stlink-org/stlink)
