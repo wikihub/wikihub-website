@@ -1,6 +1,6 @@
 ---
-title: "Network"
-linkTitle: "Network"
+title: "Ethernet"
+linkTitle: "Ethernet"
 weight: 20
 description: Network and Internet resources
 ---
