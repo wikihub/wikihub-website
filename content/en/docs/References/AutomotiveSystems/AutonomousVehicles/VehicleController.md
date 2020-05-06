@@ -13,3 +13,4 @@ description: News and resources on vehicle interface for drive by wire vehicles
 * [CAN Isolator Click](https://www.mikroe.com/can-isolator-click)
 
 ## [SockerCAN](https://en.m.wikipedia.org/wiki/SocketCAN)
+* [CAN bus on embedded Linux](https://elinux.org/CAN_Bus)
