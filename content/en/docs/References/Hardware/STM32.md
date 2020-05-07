@@ -26,6 +26,7 @@ description: Resources on STM32
 * [CAN driver](https://github.com/platformio/platform-ststm32/tree/develop/examples/zephyr-drivers-can)
 
 ## [NuttX](https://nuttx.apache.org/)
+* [CAN example](https://github.com/MotorolaMobilityLLC/nuttx/tree/master/apps/examples/can)
 
 # STM32
 * [ST Link](https://github.com/stlink-org/stlink)
