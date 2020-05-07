@@ -49,3 +49,4 @@ description: Resources on CAN networking
 ## Seeed Technologies
 * [OBD-II CAN Bus GPS Development Kit](https://www.seeedstudio.com/OBD-II-CAN-Bus-GPS-Development-Kit-p-2868.html)
 * [USB CAN Analyzer](https://www.seeedstudio.com/USB-CAN-Analyzer-p-2888.html)
+* [CAN Bus Analyzer on Amazon.ca](https://www.amazon.ca/dp/B07KF2R2KS/ref=sspa_dk_detail_0)
