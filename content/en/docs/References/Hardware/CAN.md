@@ -23,6 +23,8 @@ description: Resources on CAN networking
 
 # CAN Adapters
 
+* [Kvaser](https://www.kvaser.com/products-services/our-products/#/)
+
 ## USB
 * [Candle USB](https://github.com/candle-usb/candleLight_fw)
 * [CANtact](https://wiki.linklayer.com/index.php/CANtact)
