@@ -4,7 +4,12 @@ linkTitle: "CAN"
 weight: 20
 description: Resources on CAN networking
 ---
+
 # Software
+
+## Python
+[Python lib CANopen](https://github.com/rscada/libcanopen/)
+[PythonCAN](https://elinux.org/Python_Can)
 
 ## Arduino
 * [Arduino CAN Library](https://github.com/McNeight/CAN_Library)
@@ -13,6 +18,13 @@ description: Resources on CAN networking
 * [Arduino library for CAN on Teensy 3.1](https://github.com/teachop/FlexCAN_Library)
 * [Arduino CAN library for Teensy 3.1, 3.2, 3.5, and 3.6](https://github.com/collin80/FlexCAN_Library)
 
+## Android
+* [eLinux: Android](https://elinux.org/Android)
+
 # CAN Adapters
 * [Candle USB](https://github.com/candle-usb/candleLight_fw)
 * [CANtact](https://wiki.linklayer.com/index.php/CANtact)
+* [Python CAN interface](https://python-can.readthedocs.io/en/stable/interfaces.html)
+
+## Seeed Technologies
+* [OBD-II CAN Bus GPS Development Kit](https://www.seeedstudio.com/OBD-II-CAN-Bus-GPS-Development-Kit-p-2868.html)
