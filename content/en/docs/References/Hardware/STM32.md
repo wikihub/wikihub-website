@@ -28,13 +28,11 @@ description: Resources on STM32
 ## [NuttX](https://nuttx.apache.org/)
 * [CAN example](https://github.com/MotorolaMobilityLLC/nuttx/tree/master/apps/examples/can)
 
-# STM32
-* [ST Link](https://github.com/stlink-org/stlink)
-
-## Tutorials
+# Tutorials
 * [From 0 to STM32](https://www.playembedded.org/blog/from-0-to-stm32/)
 
-## Tools
+# Tools
+* [ST Link](https://github.com/stlink-org/stlink)
 * [STM32CubeProgrammer](https://www.st.com/en/development-tools/stm32cubeprog.html)
 * [ST Link Utility](https://my.st.com/content/my_st_com/en/products/development-tools/software-development-tools/stm32-software-development-tools/stm32-programmers/stsw-link004.html)
 * [STM32 Virtual COM Port Driver](https://www.st.com/en/development-tools/stsw-stm32102.html)
@@ -43,7 +41,7 @@ description: Resources on STM32
 * [Zadig](https://zadig.akeo.ie/)
 * [ARM Keil](http://www2.keil.com/mdk5/selector)
 
-## Development Kits
+# Development Kits
 
 * [STM32 base boards](https://stm32-base.org/boards/)
 * [STM32F103C8T6 - Blue Pill](https://stm32-base.org/boards/STM32F103C8T6-Blue-Pill)
@@ -51,7 +49,7 @@ description: Resources on STM32
 * [Spresense](https://developer.sony.com/develop/spresense/)
 * [M5Stack Gray Development Kit - ESP32 Dev Board w/ MPU6886+BMM150](https://www.adafruit.com/product/4177)
 
-## [B-L475E-IOT01A Discovery kit for IoT node](https://www.st.com/en/evaluation-tools/b-l475e-iot01a.html)
+# [B-L475E-IOT01A Discovery kit for IoT node](https://www.st.com/en/evaluation-tools/b-l475e-iot01a.html)
 * [PlatformIO: ST DISCO-L475VG-IOT01A](https://docs.platformio.org/en/latest/boards/ststm32/disco_l475vg_iot01a.html)
 * [Example projects by PlatformIO](https://github.com/platformio/platform-ststm32/tree/master/examples?utm_source=platformio&utm_medium=docs)
 * [Mbed for ST Discovery L475E-IOT01A](https://os.mbed.com/platforms/ST-Discovery-L475E-IOT01A/)
