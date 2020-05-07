@@ -5,6 +5,8 @@ weight: 20
 description: Resources on CAN networking
 ---
 
+* [CAN wiki](http://www.can-wiki.info/doku.php?id=start)
+
 # Software
 
 ## Python
