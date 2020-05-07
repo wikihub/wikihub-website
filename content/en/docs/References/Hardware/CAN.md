@@ -36,6 +36,9 @@ description: Resources on CAN networking
 * [CANUSB](https://canusbshop.com/)
 * [Vision Systems](https://shop-visionsystems.de/en/140-can-bus)
 
+## Ethernet
+* [Ethernet CAN interfaces](http://www.can-wiki.info/doku.php?id=can_interfaces:ethernet)
+
 ## WiFi
 * [Kvaser BlackBird v2](https://www.kvaser.com/product/kvaser-blackbird-v2/)
 
