@@ -41,7 +41,7 @@ description: Resources on CAN networking
 
 ## Ethernet
 * [Ethernet CAN interfaces](http://www.can-wiki.info/doku.php?id=can_interfaces:ethernet)
-* [CANNET2CAN](https://www.amazon.ca/)
+* [CANET2CAN](https://www.amazon.ca/CAN-Bus-Ethernet-Interface-Converter-Industrial/dp/B07V3FPBVK/ref=sr_1_2_sspa)
 * [uMIC.200](http://www.microcontrol.net/produkte/steuerungen/)
 
 ## WiFi
