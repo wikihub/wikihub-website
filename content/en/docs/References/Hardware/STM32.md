@@ -27,6 +27,7 @@ description: Resources on STM32
 * [CAN example](https://github.com/MotorolaMobilityLLC/nuttx/tree/master/apps/examples/can)
 
 ## [ChibiOS](http://www.chibios.org/dokuwiki/doku.php?id=chibios:product:start)
+* [Play Embedded](https://www.playembedded.org)
 
 # Tutorials
 * [From 0 to STM32](https://www.playembedded.org/blog/from-0-to-stm32/)
