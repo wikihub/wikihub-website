@@ -24,7 +24,8 @@ description: Resources on CAN networking
 * [eLinux: Android](https://elinux.org/Android)
 
 # CAN Adapters
-
+* [CAN tranceivers](http://www.can-wiki.info/doku.php?id=can_physical_layer:can_transceivers)
+* [CAN interfaces](http://www.can-wiki.info/doku.php?id=can_interfaces:main)
 * [Kvaser](https://www.kvaser.com/products-services/our-products/#/)
 
 ## USB
