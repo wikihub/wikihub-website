@@ -4,8 +4,6 @@ linkTitle: "STM32"
 weight: 20
 description: Resources on STM32
 ---
-# Embedded Operating Systems
-* [ChibiOS](http://www.chibios.org/dokuwiki/doku.php?id=chibios:product:start)
 
 # Programming frameworks
 
@@ -27,6 +25,8 @@ description: Resources on STM32
 
 ## [NuttX](https://nuttx.apache.org/)
 * [CAN example](https://github.com/MotorolaMobilityLLC/nuttx/tree/master/apps/examples/can)
+
+## [ChibiOS](http://www.chibios.org/dokuwiki/doku.php?id=chibios:product:start)
 
 # Tutorials
 * [From 0 to STM32](https://www.playembedded.org/blog/from-0-to-stm32/)
