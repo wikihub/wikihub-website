@@ -25,6 +25,7 @@ description: Resources on CAN networking
 * [Candle USB](https://github.com/candle-usb/candleLight_fw)
 * [CANtact](https://wiki.linklayer.com/index.php/CANtact)
 * [Python CAN interface](https://python-can.readthedocs.io/en/stable/interfaces.html)
+* [USB2CAN](https://www.8devices.com/products/usb2can_korlan)
 
 ## Seeed Technologies
 * [OBD-II CAN Bus GPS Development Kit](https://www.seeedstudio.com/OBD-II-CAN-Bus-GPS-Development-Kit-p-2868.html)
