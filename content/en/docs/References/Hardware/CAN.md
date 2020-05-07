@@ -28,6 +28,11 @@ description: Resources on CAN networking
 * [CAN interfaces](http://www.can-wiki.info/doku.php?id=can_interfaces:main)
 * [Kvaser](https://www.kvaser.com/products-services/our-products/#/)
 
+## IC
+* [STN1110](https://www.obdsol.com/solutions/chips/stn1110/)
+* [MCP2515](http://ww1.microchip.com/downloads/en/DeviceDoc/MCP2515-Stand-Alone-CAN-Controller-with-SPI-20001801J.pdf)
+* [MCP2551](http://ww1.microchip.com/downloads/en/DeviceDoc/20001667G.pdf)
+
 ## USB
 * [Candle USB](https://github.com/candle-usb/candleLight_fw)
 * [CANtact](https://wiki.linklayer.com/index.php/CANtact)
