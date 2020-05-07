@@ -70,6 +70,9 @@ description: Resources on STM32
 # DFU
 * [Update firmware field using microcontroller DFU mode](https://www.digikey.com/en/articles/update-firmware-field-using-microcontroller-dfu-mode)
 
+# Ethernet
+* [STM32 Ethernet](https://github.com/stm32duino/STM32Ethernet)
+
 # MQTT
 * [Mbed MQTT](https://github.com/ARMmbed/mbed-mqtt)
 
