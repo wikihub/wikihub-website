@@ -36,6 +36,9 @@ description: Resources on CAN networking
 * [CANUSB](https://canusbshop.com/)
 * [Vision Systems](https://shop-visionsystems.de/en/140-can-bus)
 
+## USB Opto-isolated
+* [Janztec CAN USB](https://www.janztec.com/devices/can-interface/can-usb/)
+
 ## Ethernet
 * [Ethernet CAN interfaces](http://www.can-wiki.info/doku.php?id=can_interfaces:ethernet)
 * [uMIC.200](http://www.microcontrol.net/produkte/steuerungen/)
