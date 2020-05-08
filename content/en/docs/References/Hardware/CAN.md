@@ -33,6 +33,7 @@ description: Resources on CAN networking
    * [OBD II UART hookup guide](https://learn.sparkfun.com/tutorials/obd-ii-uart-hookup-guide)
 * [MCP2515](http://ww1.microchip.com/downloads/en/DeviceDoc/MCP2515-Stand-Alone-CAN-Controller-with-SPI-20001801J.pdf)
 * [MCP2551](http://ww1.microchip.com/downloads/en/DeviceDoc/20001667G.pdf)
+* [MCP2561/2](http://ww1.microchip.com/downloads/en/DeviceDoc/20005167C.pdf)
 
 ## USB
 * [Candle USB](https://github.com/candle-usb/candleLight_fw)
