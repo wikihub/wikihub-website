@@ -52,6 +52,9 @@ description: Software resources
 
 * less /var/log/syslog
 
+## dd
+* [Cloning disks](https://www.howtoforge.com/tutorial/linux-dd-command-clone-disk-practical-example/)
+
 ## Remote desktop
 
 * [Starting VNC server on boot](https://www.linode.com/docs/applications/remote-desktop/install-vnc-on-ubuntu-16-04/)
