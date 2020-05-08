@@ -30,6 +30,7 @@ description: Resources on CAN networking
 
 ## IC
 * [STN1110](https://www.obdsol.com/solutions/chips/stn1110/)
+   * [OBD II UART hookup guide](https://learn.sparkfun.com/tutorials/obd-ii-uart-hookup-guide)
 * [MCP2515](http://ww1.microchip.com/downloads/en/DeviceDoc/MCP2515-Stand-Alone-CAN-Controller-with-SPI-20001801J.pdf)
 * [MCP2551](http://ww1.microchip.com/downloads/en/DeviceDoc/20001667G.pdf)
 
