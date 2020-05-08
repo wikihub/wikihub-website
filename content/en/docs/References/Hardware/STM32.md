@@ -12,6 +12,7 @@ description: Resources on STM32
 * [MQTT](https://github.com/stm32duino/STM32Examples/tree/master/examples/Communication)
 * [WiFi MQTT](https://github.com/stm32duino/STM32Examples/tree/master/examples/Boards/STM32L475VG-DISCOVERY-IOT/WiFi_MQTT_Adafruit.io)
 * [Ethernet MQTT](https://github.com/stm32duino/STM32Examples/tree/master/examples/Boards/STM32F746NG-DISCOVERY/Ethernet_MQTT_Adafruit.io)
+* [No CAN support](https://github.com/stm32duino/Arduino_Core_STM32/issues/259)
 
 ## [Mbed](https://os.mbed.com/)
 * [CAN Hello](https://os.mbed.com/users/hudakz/code/CAN_Hello//file/3211e88e30a5/main.cpp/)
