@@ -42,6 +42,9 @@ description: Resources on STM32
 * [Zadig](https://zadig.akeo.ie/)
 * [ARM Keil](http://www2.keil.com/mdk5/selector)
 
+# Emulators
+* [QEMU STM32](http://beckus.github.io/qemu_stm32/)
+
 # Development Kits
 
 * [STM32 base boards](https://stm32-base.org/boards/)
