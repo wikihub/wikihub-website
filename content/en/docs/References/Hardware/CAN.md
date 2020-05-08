@@ -31,9 +31,12 @@ description: Resources on CAN networking
 ## IC
 * [STN1110](https://www.obdsol.com/solutions/chips/stn1110/)
    * [OBD II UART hookup guide](https://learn.sparkfun.com/tutorials/obd-ii-uart-hookup-guide)
+   * [Open source Bluetooth OBD-II Adapter](https://nabil.me/?s=obd)
+   * [STN1110 Bluetooth OBD-II Adapter](http://ahdesign.us/blog/stn1170-bluetooth-obdii-adapter/bluetooth-obdii-adapter/)
 * [MCP2515](http://ww1.microchip.com/downloads/en/DeviceDoc/MCP2515-Stand-Alone-CAN-Controller-with-SPI-20001801J.pdf)
 * [MCP2551](http://ww1.microchip.com/downloads/en/DeviceDoc/20001667G.pdf)
 * [MCP2561/2](http://ww1.microchip.com/downloads/en/DeviceDoc/20005167C.pdf)
+* [SJA1000T](https://www.nxp.com/products/interfaces/can-transceivers/legacy-can/stand-alone-can-controller:SJA1000T)
 
 ## USB
 * [Candle USB](https://github.com/candle-usb/candleLight_fw)
