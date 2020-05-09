@@ -6,7 +6,7 @@ description: Resources on embedded systems and single board computers
 ---
 
 # Single Board Computers
-
+* [Hacker boards](https://www.hackerboards.com/home.php)
 * [New SBC computers](https://www.mickmake.com/post/weekly-roundup-64-new-maker-products)
 * [Mikroe](https://www.mikroe.com/)
 * [u-blox](https://os.mbed.com/platforms/ublox-EVK-ODIN-W2/)
