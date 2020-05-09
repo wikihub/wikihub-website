@@ -8,6 +8,7 @@ description: Resources on embedded systems and single board computers
 # Single Board Computers
 
 * [New SBC computers](https://www.mickmake.com/post/weekly-roundup-64-new-maker-products)
+* [Mikroe](https://www.mikroe.com/)
 
 ## Raspberry Pi
 
