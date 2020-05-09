@@ -1,6 +1,6 @@
 ---
-title: "Machine Learning Applications"
-linkTitle: "Machine Learning Applications"
+title: "Machine Learning"
+linkTitle: "Machine Learning"
 weight: 5
 description: Machine Learning Applications in Autonomous Vehicles
 ---
