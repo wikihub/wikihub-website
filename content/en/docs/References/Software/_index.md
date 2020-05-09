@@ -5,6 +5,9 @@ weight: 40
 description: Software resources
 ---
 
+# Open Source
+* [Awesome Open Source](https://awesomeopensource.com/)
+
 # Cross Platform
 
 ## File Sharing
