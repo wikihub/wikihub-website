@@ -6,4 +6,4 @@ description: Embedded GUI resources
 ---
 
 # Frameworks
-* [Guiliani](https://www.guiliani.de/mediawiki/index.php?title=Guiliani:Features)
+* [TES Guiliani](https://www.guiliani.de/mediawiki/index.php?title=Guiliani:Features)
