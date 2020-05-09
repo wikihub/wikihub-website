@@ -27,3 +27,6 @@ description: Network and Internet resources
 
 ## Socket tools
 * [Web socket tool](https://plantain-00.github.io/ws-tool/)
+
+# Embedded Ethernet
+* [nuvoTon](https://direct.nuvoton.com/en/m487-ethernet-series/)
