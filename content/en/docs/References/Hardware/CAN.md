@@ -24,6 +24,9 @@ description: Resources on CAN networking
 ## Android
 * [eLinux: Android](https://elinux.org/Android)
 
+# Development boards
+* [nuvoTon](https://direct.nuvoton.com/en/m483-can-series/)
+
 # CAN Adapters
 * [CAN tranceivers](http://www.can-wiki.info/doku.php?id=can_physical_layer:can_transceivers)
 * [CAN interfaces](http://www.can-wiki.info/doku.php?id=can_interfaces:main)
