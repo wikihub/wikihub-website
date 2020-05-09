@@ -8,6 +8,7 @@ description: Autonomous Vehicles
 # Software
 * [Open source autonomous driving](https://awesomeopensource.com/projects/autonomous-driving)
 * [Open source autonomous vehicles](https://awesomeopensource.com/projects/autonomous-vehicles)
+* [Meta car](https://www.metacar-project.com/)
 
 # Projects
 
