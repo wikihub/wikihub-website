@@ -5,7 +5,11 @@ weight: 5
 description: Autonomous Vehicles
 ---
 
-# Autonomous Vehicles
+# Software
+* [Open source autonomous driving](https://awesomeopensource.com/projects/autonomous-driving)
+* [Open source autonomous vehicles](https://awesomeopensource.com/projects/autonomous-vehicles)
+
+# Projects
 
 * [AnnieWAY](https://www.mrt.kit.edu/annieway/)
 * [RBCar](https://github.com/RobotnikAutomation/rbcar_sim)
