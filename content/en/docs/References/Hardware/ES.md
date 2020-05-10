@@ -5,12 +5,17 @@ weight: 20
 description: Resources on embedded systems and single board computers
 ---
 
-# Single Board Computers
-* [Hacker boards](https://www.hackerboards.com/home.php)
-* [New SBC computers](https://www.mickmake.com/post/weekly-roundup-64-new-maker-products)
+# Single Board Microcontroller
+* [Comparison of single board microcontrollers](https://en.wikipedia.org/wiki/Comparison_of_single-board_microcontrollers)
 * [Mikroe](https://www.mikroe.com/)
 * [u-blox](https://os.mbed.com/platforms/ublox-EVK-ODIN-W2/)
 * [BeagleBoard Blue](https://beagleboard.org/blue)
+
+
+# Single Board Computers
+* [Hacker boards](https://www.hackerboards.com/home.php)
+* [Comparison of single board computers](https://en.wikipedia.org/wiki/User:OliverGalvin/Comparison_of_single-board_computers)
+* [New SBC computers](https://www.mickmake.com/post/weekly-roundup-64-new-maker-products)
 
 ## Raspberry Pi
 
