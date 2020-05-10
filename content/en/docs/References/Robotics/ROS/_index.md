@@ -17,6 +17,9 @@ description: News and information about ROS and its applications
 ## Control
 * [ROS Control](http://gazebosim.org/tutorials/?tut=ros_control)
 
+## rosserial
+* [Chomp 2.0](https://github.com/DavidKopalaCU/Chomp-2.0)
+
 # Robot description
 * [Unified Robot Description Format (URDF)](https://wiki.ros.org/urdf)
 * [Simulation Description Format (SDF)](http://sdformat.org/)
