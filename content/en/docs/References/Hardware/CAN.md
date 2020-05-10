@@ -30,6 +30,7 @@ description: Resources on CAN networking
 
 ## Raspberry Pi
 * [AutoPi](https://www.autopi.io/hardware-dongle/compare/)
+* [2 Channel CAN bus (FD) shield](https://www.seeedstudio.com/2-Channel-CAN-BUS-FD-Shield-for-Raspberry-Pi-p-4072.html)
 
 ## Teensy
 * [Teensy 4.0 board with 3 CAN buses](https://copperhilltech.com/teensy-4-0-triple-can-bus-board-with-two-can-2-0b-and-one-can-fd-port/)
