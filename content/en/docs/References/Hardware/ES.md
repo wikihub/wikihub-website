@@ -33,6 +33,9 @@ description: Resources on embedded systems and single board computers
 * [Touchscreen Supported on Raspberry Pi](https://github.com/notro/fbtft/blob/master/fbtft_device.c)
 * [RFI display](https://learn.watterott.com/rpi-display/fbtft-install/)
 
+## Digilent
+* [Digilent ARM boards](https://store.digilentinc.com/processors/by-technology/arm/)
+
 ## Up Board
 
 * [Up Board](https://up-board.org/)
