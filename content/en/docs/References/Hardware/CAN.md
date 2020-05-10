@@ -32,6 +32,7 @@ description: Resources on CAN networking
 * [CAN tranceivers](http://www.can-wiki.info/doku.php?id=can_physical_layer:can_transceivers)
 * [CAN interfaces](http://www.can-wiki.info/doku.php?id=can_interfaces:main)
 * [Kvaser](https://www.kvaser.com/products-services/our-products/#/)
+* [CANCrocodile](https://copperhilltech.com/cancrocodile-contactless-can-bus-reader/)
 
 ## IC
 * [STN1110](https://www.obdsol.com/solutions/chips/stn1110/)
