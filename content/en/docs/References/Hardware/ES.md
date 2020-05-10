@@ -26,8 +26,8 @@ description: Resources on embedded systems and single board computers
 * [OpenGL](https://ubuntu-mate.community/t/tutorial-activate-opengl-driver-for-ubuntu-mate-16-04/7094/4)
 
 ### HAT
-
 * [Pinout](https://pinout.xyz/)
+* [PoE](https://www.adafruit.com/product/3953)
 
 #### TFT Display
 * [Touchscreen Supported on Raspberry Pi](https://github.com/notro/fbtft/blob/master/fbtft_device.c)
