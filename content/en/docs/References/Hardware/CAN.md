@@ -7,6 +7,7 @@ description: Resources on CAN networking
 
 * [CAN wiki](http://www.can-wiki.info/doku.php?id=start)
 * [UAVCAN](https://uavcan.org/)
+* [CAN vs Ethernet](https://copperhilltech.com/blog/comparison-of-can-bus-and-ethernet-features-for-automotive-networking-applications/)
 
 # Software
 
