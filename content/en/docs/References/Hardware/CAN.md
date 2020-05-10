@@ -28,6 +28,12 @@ description: Resources on CAN networking
 # Development boards
 * [nuvoTon](https://direct.nuvoton.com/en/m483-can-series/)
 
+## Raspberry Pi
+* [AutoPi](https://www.autopi.io/hardware-dongle/compare/)
+
+## Teensy
+* [Teensy 4.0 board with 3 CAN buses](https://copperhilltech.com/teensy-4-0-triple-can-bus-board-with-two-can-2-0b-and-one-can-fd-port/)
+
 # CAN Adapters
 * [CAN tranceivers](http://www.can-wiki.info/doku.php?id=can_physical_layer:can_transceivers)
 * [CAN interfaces](http://www.can-wiki.info/doku.php?id=can_interfaces:main)
