@@ -28,6 +28,9 @@ description: Resources on CAN networking
 # Development boards
 * [nuvoTon](https://direct.nuvoton.com/en/m483-can-series/)
 
+## Arduino
+* [Arduino CAN bus shield V2](https://www.seeedstudio.com/CAN-BUS-Shield-V2.html)
+
 ## Raspberry Pi
 * [AutoPi](https://www.autopi.io/hardware-dongle/compare/)
 * [2 Channel CAN bus (FD) shield](https://www.seeedstudio.com/2-Channel-CAN-BUS-FD-Shield-for-Raspberry-Pi-p-4072.html)
