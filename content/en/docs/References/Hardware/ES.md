@@ -12,7 +12,7 @@ description: Resources on embedded systems and single board computers
 * [Mikroe](https://www.mikroe.com/)
 * [u-blox](https://os.mbed.com/platforms/ublox-EVK-ODIN-W2/)
 * [BeagleBoard Blue](https://beagleboard.org/blue)
-
+* [DesignWare ARC EM](https://www.synopsys.com/dw/ipdir.php?ds=arc_em_starter_kit)
 
 # Single Board Computers
 * [Hacker boards](https://www.hackerboards.com/home.php)
