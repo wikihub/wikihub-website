@@ -30,6 +30,7 @@ description: Resources on CAN networking
 
 ## Arduino
 * [Arduino CAN bus shield V2](https://www.seeedstudio.com/CAN-BUS-Shield-V2.html)
+* [Arduino MKR CAN shield](https://www.robotshop.com/ca/en/arduino-mkr-can-shield.html)
 
 ## Raspberry Pi
 * [AutoPi](https://www.autopi.io/hardware-dongle/compare/)
