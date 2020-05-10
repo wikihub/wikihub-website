@@ -5,7 +5,9 @@ weight: 20
 description: Resources on embedded systems and single board computers
 ---
 
-# Single Board Microcontroller
+# Single Board Microcontrollers
+* [Mbed platforms](https://os.mbed.com/platforms/)
+* [PlatformIO boards](https://platformio.org/boards)
 * [Comparison of single board microcontrollers](https://en.wikipedia.org/wiki/Comparison_of_single-board_microcontrollers)
 * [Mikroe](https://www.mikroe.com/)
 * [u-blox](https://os.mbed.com/platforms/ublox-EVK-ODIN-W2/)
