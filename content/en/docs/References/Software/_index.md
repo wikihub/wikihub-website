@@ -22,6 +22,10 @@ description: Software resources
 
 * [Grub2 troubleshooting](https://help.ubuntu.com/community/Grub2/Troubleshooting)
 
+## Regular Expressions
+* [regexr.com](https://regexr.com/)
+* [Learn Regular Expressions In 20 Minutes](https://www.youtube.com/watch?v=rhzKDrUiJVk)
+
 # Linux
 
 ## Ubuntu
