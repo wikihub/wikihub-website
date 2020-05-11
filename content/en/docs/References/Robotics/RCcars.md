@@ -5,6 +5,12 @@ weight: 30
 description: Resources for RC cars
 ---
 
+# Standard RC cars
+
+## Kyosho
+* [Mini Z](https://www.kyoshoamerica.com/32336PW-MINI-Z-RWD-TOYOTA-86-White_p_26021.html)
+
+
 ## RC Car
 * [Jetson RC car](https://www.jetsonhacks.com/category/robotics/jetson-racecar/)
 * [Donkey Car](http://docs.donkeycar.com/)
@@ -24,6 +30,7 @@ description: Resources for RC cars
 # 3D printed RC cars
 * [Nearly entirely 3D printed RC car](https://hackaday.com/2019/04/09/nearly-entirely-3d-printed-rc-car-is-4wd-fun/)
 * [3D printed RC car V3](https://www.thingiverse.com/thing:3546277)
+* [BlueCArd](https://www.thingiverse.com/thing:4332095)
 
 # Open source projects
 * [ROSbot](https://www.instructables.com/id/ROSbot-Autonomous-Robot-With-LiDAR/)
