@@ -22,6 +22,7 @@ description: Resources for RC cars
 
 # 3D printed RC cars
 * [Nearly entirely 3D printed RC car](https://hackaday.com/2019/04/09/nearly-entirely-3d-printed-rc-car-is-4wd-fun/)
+* [3D printed RC car V3](https://www.thingiverse.com/thing:3546277)
 
 # Open source projects
 * [ROSbot](https://www.instructables.com/id/ROSbot-Autonomous-Robot-With-LiDAR/)
