@@ -62,3 +62,4 @@ description: News and information about containers
 
 # Virtualization
 * [Xen project](https://xenproject.org/)
+* [QEMU](https://elinux.org/R-Car/Virtualization#Virtualization_with_QEMU)
