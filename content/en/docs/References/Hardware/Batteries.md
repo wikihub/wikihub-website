@@ -5,6 +5,9 @@ weight: 20
 description: Battery resources
 ---
 
+# Battery Management Systems
+* [CSS Electronics](https://www.csselectronics.com/screen/page/cloud-battery-management-can-bus-bms/language/en)
+
 # 18650 Batteries
 
 * [Vruzend battery kits](https://vruzend.com/product-category/battery-kits/)
