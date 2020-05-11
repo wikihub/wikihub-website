@@ -8,6 +8,9 @@ description: Network and Internet resources
 * [How to connect PC to PC using a LAN cable](https://techwiser.com/how-to-connect-pc-to-pc-lan-cable/)
 * Run `sudo apt install avahi-daemon libnss-mdns` in your VM, and make sure that your networking config is in ‘Bridge Mode’ to get .local addressing working.
 
+# WiFi Adapters
+* [rtl88x2bu driver updated for current kernels](https://github.com/cilynx/rtl88x2bu)
+
 # Routers
 
 ## Linksys
