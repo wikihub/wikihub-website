@@ -91,3 +91,6 @@ description: Resources on STM32
 
 * [Platform IO](https://platformio.org/)
 * [Platform IO on VS Code](https://docs.platformio.org/en/latest/ide/vscode.html)
+
+# Frameworks
+* [easyIPC](https://www.basicpi.org/documentation/easyipc/)
