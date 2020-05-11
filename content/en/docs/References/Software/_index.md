@@ -25,6 +25,7 @@ description: Software resources
 ## Regular Expressions
 * [regexr.com](https://regexr.com/)
 * [Learn Regular Expressions In 20 Minutes](https://www.youtube.com/watch?v=rhzKDrUiJVk)
+* [sed](https://sed.js.org/)
 
 # Linux
 
