@@ -45,6 +45,7 @@ description: Resources on CAN networking
 * [Kvaser](https://www.kvaser.com/products-services/our-products/#/)
 * [CANCrocodile](https://copperhilltech.com/cancrocodile-contactless-can-bus-reader/)
 * [CANgineBerry](https://www.cangineberry.com/index.php/en/#Buy)
+* [openOBD](https://github.com/isand3r/openOBD)
 
 ## IC
 * [STN1110](https://www.obdsol.com/solutions/chips/stn1110/)
