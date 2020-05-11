@@ -11,3 +11,4 @@ description: News and information about automotive engines
 
 # Open Source ECU
 * [Pi Innovo](https://www.pi-innovo.com/)
+* [rusEFI](https://github.com/rusefi/rusefi/wiki/Hardware)
