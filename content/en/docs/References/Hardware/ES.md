@@ -5,6 +5,8 @@ weight: 20
 description: Resources on embedded systems and single board computers
 ---
 
+* [Embedded computing news](https://www.embedded-computing.com/)
+
 # Single Board Microcontrollers
 * [Mbed platforms](https://os.mbed.com/platforms/)
 * [PlatformIO boards](https://platformio.org/boards)
