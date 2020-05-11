@@ -64,12 +64,12 @@ description: Resources on embedded systems and single board computers
 
 * [LattePanda Alpha 800s](https://www.dfrobot.com/product-1727.html)
 
-# Industrial/Automotive Computers
+# Automotive Computers
 * [Industrial Computers for AGV (automated guided vehicles)](https://www.syslogic.de/eng/fahrerlose-transportsysteme-fts-91156.shtml)
 
 # PLC
-
 * [Open source PLC](https://www.digital-loggers.com/plchw.html)
+* [Industrial Shields](https://www.industrialshields.com/)
 
 # Power Supply
 
