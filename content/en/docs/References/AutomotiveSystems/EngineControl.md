@@ -8,3 +8,6 @@ description: News and information about automotive engines
 # Companies
 
 * [New Eagle](https://neweagle.net/)
+
+# Open Source ECU
+* [Pi Innovo](https://www.pi-innovo.com/)
