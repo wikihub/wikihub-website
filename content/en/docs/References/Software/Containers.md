@@ -48,7 +48,6 @@ description: News and information about containers
 * [Containerd](https://containerd.io/)
 
 # Registries
-
 * [Portainer](https://www.portainer.io/)
 * [Instana](https://www.instana.com/)
 * [Kata containers](https://katacontainers.io/)
@@ -59,5 +58,7 @@ description: News and information about containers
 * [Containerd](https://containerd.io/)
 
 # Singularity
-
 * [Singularity Documentation](https://www.sylabs.io/docs/)
+
+# Virtualization
+* [Xen project](https://xenproject.org/)
