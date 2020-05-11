@@ -9,6 +9,7 @@ description: Resources for RC cars
 * [Jetson RC car](https://www.jetsonhacks.com/category/robotics/jetson-racecar/)
 * [Donkey Car](http://docs.donkeycar.com/)
     * [Donkey Car store](https://store.donkeycar.com/collections/accessories)
+    * [Donkey Car on Makezine](https://makezine.com/projects/build-autonomous-rc-car-raspberry-pi/)
 * [Simple Autonomous Wheeled Robot (SAWR)](https://github.com/intel/sawr)
 * [Self-driving RC car using Robotic Operating System(ROS)](https://medium.com/intro-to-artificial-intelligence/self-driving-rc-car-using-robotic-operating-system-ros-c63a6d102c08)
 * [Autonomous RC car by germain-hug](https://github.com/germain-hug/Autonomous-RC-Car)
