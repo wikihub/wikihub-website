@@ -17,3 +17,6 @@ description: News and resources on NVIDIA
 # Companies
 
 * [Cognata](https://www.cognata.com/)
+
+# Car computers
+* [Syslogic](https://www.syslogic.com/eng/ki-embedded-system-94630.shtml)
