@@ -10,6 +10,7 @@ description: Resources on embedded systems and single board computers
 # Single Board Microcontrollers
 * [Mbed platforms](https://os.mbed.com/platforms/)
 * [PlatformIO boards](https://platformio.org/boards)
+* [Pelion boards](https://www.pelion.com/docs/device-management/current/connecting/tutorial-pelion-mbedos.html)
 * [Comparison of single board microcontrollers](https://en.wikipedia.org/wiki/Comparison_of_single-board_microcontrollers)
 * [Mikroe](https://www.mikroe.com/)
 * [u-blox](https://os.mbed.com/platforms/ublox-EVK-ODIN-W2/)
