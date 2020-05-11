@@ -28,6 +28,8 @@ description: BLDC motors and controller resources
 * [Kelly](https://www.kellycontroller.com/shop/kbs-x/)
 * [Tom Sawyer Labs](https://github.com/cinderblock/3-Phase-Driver)
 
+## STM32
+* [X-NUCLEO-IHM08M1](https://www.st.com/content/st_com/en/products/ecosystems/stm32-open-development-environment/stm32-nucleo-expansion-boards/stm32-ode-move-actuate-hw/x-nucleo-ihm08m1.html)
 
 # Hub motors
 
