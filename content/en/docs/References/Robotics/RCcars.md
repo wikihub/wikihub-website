@@ -33,6 +33,7 @@ description: Resources for RC cars
 * [BlueCArd](https://www.thingiverse.com/thing:4332095)
 * [CARduino](https://www.thingiverse.com/thing:3749485)
 * [3D printed mini car](https://www.youtube.com/watch?v=ulJYxnqg5uE)
+* [3D FUNS](https://www.youtube.com/watch?v=poAqHuJEFzU&list=PLSais_tJnMDB7eW5cRBJyd--KQbyus_eS)
 
 # Open source projects
 * [ROSbot](https://www.instructables.com/id/ROSbot-Autonomous-Robot-With-LiDAR/)
