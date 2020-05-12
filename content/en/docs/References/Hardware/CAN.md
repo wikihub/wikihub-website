@@ -56,6 +56,7 @@ description: Resources on CAN networking
 * [MCP2551](http://ww1.microchip.com/downloads/en/DeviceDoc/20001667G.pdf)
 * [MCP2561/2](http://ww1.microchip.com/downloads/en/DeviceDoc/20005167C.pdf)
 * [SJA1000T](https://www.nxp.com/products/interfaces/can-transceivers/legacy-can/stand-alone-can-controller:SJA1000T)
+* [SN65HVD230](https://www.ti.com/product/SN65HVD230)
 
 ## USB
 * [Candle USB](https://github.com/candle-usb/candleLight_fw)
