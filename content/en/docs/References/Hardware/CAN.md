@@ -27,6 +27,7 @@ description: Resources on CAN networking
 * [eLinux: Android](https://elinux.org/Android)
 
 # Development boards
+* [Mbed boards with CAN](https://os.mbed.com/platforms/?q=&Communication=CAN&Target+Core=Cortex-M4)
 * [nuvoTon](https://direct.nuvoton.com/en/m483-can-series/)
 
 ## Arduino
