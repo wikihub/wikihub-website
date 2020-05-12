@@ -15,3 +15,6 @@ description: Resources for quadrotors
 
 # Software
 * [ArduPilot](https://ardupilot.org/)
+
+# Teams
+* [Monash UAS](https://monashuas.org/)
