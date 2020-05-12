@@ -62,6 +62,7 @@ description: Resources on CAN networking
 ## USB
 * [Candle USB](https://github.com/candle-usb/candleLight_fw)
 * [CANtact](https://wiki.linklayer.com/index.php/CANtact)
+* [CANable](https://canable.io/)
 * [Python CAN interface](https://python-can.readthedocs.io/en/stable/interfaces.html)
 * [USB2CAN](https://www.8devices.com/products/usb2can_korlan)
 * [CANUSB](https://canusbshop.com/)
