@@ -6,3 +6,4 @@ description: Resources for GPS
 ---
 
 * [simpleRTK2B](https://www.ardusimple.com/simplertk2b/)
+* [ArduSimple store](https://www.ardusimple.com/store/)
