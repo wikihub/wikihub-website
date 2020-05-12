@@ -20,3 +20,4 @@ description: News and resources on NVIDIA
 
 # Car computers
 * [Syslogic](https://www.syslogic.com/eng/ki-embedded-system-94630.shtml)
+* [Rugged Science](https://www.ruggedscience.com/industrial-computers/nvidia-gpu-computers)
