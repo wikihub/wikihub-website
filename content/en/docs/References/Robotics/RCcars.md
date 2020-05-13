@@ -10,6 +10,8 @@ description: Resources for RC cars
 ## Kyosho
 * [Mini Z](https://www.kyoshoamerica.com/32336PW-MINI-Z-RWD-TOYOTA-86-White_p_26021.html)
 
+## Traxxas
+* [LaTrax](https://latrax.com/products/prerunner)
 
 ## RC Car
 * [Jetson RC car](https://www.jetsonhacks.com/category/robotics/jetson-racecar/)
