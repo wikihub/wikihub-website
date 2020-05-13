@@ -8,7 +8,13 @@ description: News and resources on NVIDIA
 # Autonomous Driving
 ## Robots
 * [JetBot](https://github.com/NVIDIA-AI-IOT/jetbot)
-* [JetRacer](https://github.com/NVIDIA-AI-IOT/jetracer)
+* [JetRacer](https://github.com/NVIDIA-AI-IOT/jetracer) 
+* [Jetson Car](https://github.com/datlife/jetson-car)
+* [F1/10](https://f1tenth.org/build.html)
+
+## Jetson Boards
+* [Jetson Nano](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-nano/)
+* [Jetson TX2](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-tx2/)
 
 ## NVIDIA DRIVE
 * [NVIDIA DRIVE CONSTELLATION](https://www.nvidia.com/en-us/self-driving-cars/drive-constellation/)
