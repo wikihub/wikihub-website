@@ -13,7 +13,10 @@ description: Resources for RC cars
 ## Traxxas
 * [LaTrax](https://latrax.com/products/prerunner)
 
-## RC Car
+## Maisto
+* [Maisto](http://www.maisto.com/)
+
+# RC Car
 * [Jetson RC car](https://www.jetsonhacks.com/category/robotics/jetson-racecar/)
 * [Donkey Car](http://docs.donkeycar.com/)
     * [Donkey Car store](https://store.donkeycar.com/collections/accessories)
