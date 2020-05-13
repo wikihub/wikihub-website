@@ -31,3 +31,4 @@ description: News and resources on NVIDIA
 * [Syslogic](https://www.syslogic.com/eng/ki-embedded-system-94630.shtml)
 * [Rugged Science](https://www.ruggedscience.com/industrial-computers/nvidia-gpu-computers)
 * [AAEON BOXER-8110AI](https://www.aaeon.com/en/p/fanless-embedded-computers-boxer-8110ai)
+* [Aetina](https://www.aetina.com/products-list.php?t=87)
