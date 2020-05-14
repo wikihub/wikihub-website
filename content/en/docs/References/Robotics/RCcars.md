@@ -52,3 +52,4 @@ description: Resources for RC cars
 
 ## Toronto
 * [Hand Racing](http://www.handracing.ca/MiniZ-Tournaments.php)
+* [Runtime RC](https://www.runtimerc.ca/)
