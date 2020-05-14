@@ -48,3 +48,7 @@ description: Resources for RC cars
 * [F1/10](http://f1tenth.org/build.html)
 * [BARC](http://www.barc-project.com/)
 
+# Clubs
+
+## Toronto
+* [Hand Racing](http://www.handracing.ca/MiniZ-Tournaments.php)
