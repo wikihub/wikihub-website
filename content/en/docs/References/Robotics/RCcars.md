@@ -13,8 +13,17 @@ description: Resources for RC cars
 ## Traxxas
 * [LaTrax](https://latrax.com/products/prerunner)
 
+# Tamiya
+* [Tamiya RC models](https://www.tamiya.com/english/rc/rc.htm)
+
+## WLToys
+* [WLToys](https://wltoys.co/)
+
 ## Maisto
 * [Maisto](http://www.maisto.com/)
+
+## FPV RC Cars
+* [RC Car Remote Control,Wi-Fi Camera 720P HD, 1/16 LED Light 4x4 Buggy](https://www.amazon.ca/T%C3%A9l%C3%A9commande-t%C3%A9l%C3%A9command%C3%A9e-voitures-tout-terrain-v%C3%A9hicule/dp/B081Z37LW6/ref=sr_1_29)
 
 # RC Car
 * [Jetson RC car](https://www.jetsonhacks.com/category/robotics/jetson-racecar/)
@@ -47,6 +56,11 @@ description: Resources for RC cars
 * [RACECAR/J](https://racecarj.com/)
 * [F1/10](http://f1tenth.org/build.html)
 * [BARC](http://www.barc-project.com/)
+
+# Stores
+
+## Toronto
+* [Pinnacle Hobby](https://pinnaclehobby.ca/)
 
 # Clubs
 
