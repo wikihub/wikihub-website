@@ -68,6 +68,7 @@ description: Resources for RC cars
 * [rc_bot](https://github.com/RoblabWhGe/rc_bot)
 * [Race car project with Hokuyo LiDAR](https://jnazaren.github.io/racecar_project_page/)
 * [F1/10 autonomous racing](https://linklab-uva.github.io/autonomousracing/)
+* [RACECAR/J](https://racecarj.com/)
 
 ## Race Car
 * [Building an autonomous vehicle by SparkFun](https://learn.sparkfun.com/tutorials/building-an-autonomous-vehicle-the-batmobile/all)
