@@ -65,7 +65,14 @@ description: Resources for RC cars
 ## Toronto
 * [Pinnacle Hobby](https://pinnaclehobby.ca/)
 
-# Clubs
+# Businesses
+
+## USA
+* [Kyosho America](https://www.kyoshoamerica.com)
+
+## Canada
+* [Advance Hobbies](http://www.advancehobbies.com/)
+* [Canada Hobbies](https://www.canadahobbies.ca/)
 
 ## Toronto
 * [Hand Racing](http://www.handracing.ca/MiniZ-Tournaments.php)
