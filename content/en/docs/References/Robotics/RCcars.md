@@ -76,11 +76,8 @@ description: Resources for RC cars
 * [Arduino Nano 33 BLE Sense](https://store.arduino.cc/usa/nano-33-ble-sense)
 * [Arduino Nano 33 IoT](https://store.arduino.cc/usa/nano-33-iot)
 
-
-# Stores
-
-## Toronto
-* [Pinnacle Hobby](https://pinnaclehobby.ca/)
+# News
+* [RC Groups](https://www.rcgroups.com/forums/channels.php?id=17)
 
 # Businesses
 
@@ -95,3 +92,4 @@ description: Resources for RC cars
 ## Toronto
 * [Hand Racing](http://www.handracing.ca/MiniZ-Tournaments.php)
 * [Runtime RC](https://www.runtimerc.ca/)
+* [Pinnacle Hobby](https://pinnaclehobby.ca/)
