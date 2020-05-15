@@ -55,6 +55,10 @@ description: Resources for RC cars
 * [3D printed mini car](https://www.youtube.com/watch?v=ulJYxnqg5uE)
 * [3D FUNS](https://www.youtube.com/watch?v=poAqHuJEFzU&list=PLSais_tJnMDB7eW5cRBJyd--KQbyus_eS)
 
+# Research
+* [Computer controlled RC car racing - ETHZ](https://www.youtube.com/watch?v=Hf68uPoXJOY)
+* [ORCA - ETHZ](https://www.youtube.com/watch?v=QWY7sV9sjkA)
+
 # Open source projects
 * [ROSbot](https://www.instructables.com/id/ROSbot-Autonomous-Robot-With-LiDAR/)
 * [MIT Racecar](https://mit-racecar.github.io/hardware/)
