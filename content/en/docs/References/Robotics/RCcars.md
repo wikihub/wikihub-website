@@ -1,6 +1,6 @@
 ---
-title: "RC cars"
-linkTitle: "RC cars"
+title: "RC Cars"
+linkTitle: "RC Cars"
 weight: 30
 description: Resources for RC cars
 ---
@@ -36,6 +36,15 @@ description: Resources for RC cars
 # RC Car Classes
 ## Mini Z
 * [1/28 RC Roundup - 01 | Speed Test](https://www.youtube.com/watch?v=hXH8iTWgpDo)
+* Mini Z Sports MR03
+* Mini Z FWD
+* WLtoys K989
+* Mini Q Q7 RTR
+* Mini Q Q7BL
+* Mini Q Q1
+* Mini Q Q2
+* Atomic AMZ
+* Firelap IW04M
 
 # FPV RC Cars
 * [RC Car Remote Control,Wi-Fi Camera 720P HD, 1/16 LED Light 4x4 Buggy](https://www.amazon.ca/T%C3%A9l%C3%A9commande-t%C3%A9l%C3%A9command%C3%A9e-voitures-tout-terrain-v%C3%A9hicule/dp/B081Z37LW6/ref=sr_1_29)
