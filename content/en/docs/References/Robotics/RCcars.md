@@ -86,6 +86,7 @@ description: Resources for RC cars
 
 ## USA
 * [Kyosho America](https://www.kyoshoamerica.com)
+* [Hobby King](https://hobbyking.com/en_us)
 
 ## Canada
 * [Advance Hobbies](http://www.advancehobbies.com/)
