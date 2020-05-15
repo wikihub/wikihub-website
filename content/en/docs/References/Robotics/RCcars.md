@@ -104,6 +104,7 @@ description: Resources for RC cars
 * [Arduino Nano 33 IoT](https://store.arduino.cc/usa/nano-33-iot)
 
 # News
+* [Reddit Mini Z](https://www.reddit.com/r/MiniZ/)
 * [RC Groups](https://www.rcgroups.com/forums/channels.php?id=17)
 
 # Businesses
