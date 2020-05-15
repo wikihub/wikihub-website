@@ -54,6 +54,8 @@ description: Resources for RC cars
 * [CARduino](https://www.thingiverse.com/thing:3749485)
 * [3D printed mini car](https://www.youtube.com/watch?v=ulJYxnqg5uE)
 * [3D FUNS](https://www.youtube.com/watch?v=poAqHuJEFzU&list=PLSais_tJnMDB7eW5cRBJyd--KQbyus_eS)
+* [3DRC 1/24 AWD Drift car](https://www.thingiverse.com/thing:2772823)
+* [Fully 3D printable RC cars](https://www.thingiverse.com/MazeMieter/collections/fully-3d-printable-rc-cars)
 
 # Research
 * [Computer controlled RC car racing - ETHZ](https://www.youtube.com/watch?v=Hf68uPoXJOY)
