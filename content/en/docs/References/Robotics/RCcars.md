@@ -13,8 +13,11 @@ description: Resources for RC cars
 ## Traxxas
 * [LaTrax](https://latrax.com/products/prerunner)
 
-# Tamiya
+## Tamiya
 * [Tamiya RC models](https://www.tamiya.com/english/rc/rc.htm)
+
+## Team Associated
+* [Associated Electrics](https://www.associatedelectrics.com/)
 
 ## WLToys
 * [WLToys](https://wltoys.co/)
