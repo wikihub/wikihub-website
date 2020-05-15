@@ -60,6 +60,16 @@ description: Resources for RC cars
 * [F1/10](http://f1tenth.org/build.html)
 * [BARC](http://www.barc-project.com/)
 
+# Controllers
+* [RobotZero](https://tinycircuits.com/collections/processors/products/robotzero)
+* [WiFi TinyShield](https://tinycircuits.com/collections/communication/products/wifi-tinyshield-atwinc1500)
+* [Arduino MKR WAN](https://store.arduino.cc/usa/mkr-wan-1300)
+* [Arduino MKR WiFi](https://store.arduino.cc/usa/mkr-wifi-1010)
+* [Arduino MKR IMU Shield](https://store.arduino.cc/usa/arduino-mkr-imu-shield)
+* [Arduino Nano 33 BLE Sense](https://store.arduino.cc/usa/nano-33-ble-sense)
+* [Arduino Nano 33 IoT](https://store.arduino.cc/usa/nano-33-iot)
+
+
 # Stores
 
 ## Toronto
