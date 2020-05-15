@@ -5,7 +5,7 @@ weight: 30
 description: Resources for RC cars
 ---
 
-# Standard RC cars
+# RC Car Manufacturers
 
 ## Kyosho
 * [Mini Z](https://www.kyoshoamerica.com/32336PW-MINI-Z-RWD-TOYOTA-86-White_p_26021.html)
@@ -33,13 +33,17 @@ description: Resources for RC cars
 ## Maisto
 * [Maisto](http://www.maisto.com/)
 
-## FPV RC Cars
+# RC Car Classes
+## Mini Z
+* [1/28 RC Roundup - 01 | Speed Test](https://www.youtube.com/watch?v=hXH8iTWgpDo)
+
+# FPV RC Cars
 * [RC Car Remote Control,Wi-Fi Camera 720P HD, 1/16 LED Light 4x4 Buggy](https://www.amazon.ca/T%C3%A9l%C3%A9commande-t%C3%A9l%C3%A9command%C3%A9e-voitures-tout-terrain-v%C3%A9hicule/dp/B081Z37LW6/ref=sr_1_29)
 
-## Steering Wheel
+# Steering Wheel
 * [Aalto University](https://wiki.aalto.fi/pages/viewpage.action?pageId=105420066)
 
-# RC Car
+# RC Car Projects
 * [Jetson RC car](https://www.jetsonhacks.com/category/robotics/jetson-racecar/)
 * [Donkey Car](http://docs.donkeycar.com/)
     * [Donkey Car store](https://store.donkeycar.com/collections/accessories)
