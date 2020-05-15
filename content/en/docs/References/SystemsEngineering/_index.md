@@ -5,6 +5,17 @@ weight: 15
 description: Resources and tools for Systems Engineering
 ---
 
+# Ecosystem
+* MagicDraw (SysML, No Magic)
+* Rhapsody (SysML, IBM Rational)
+* Simulink (Simulation, The MathWorks)
+* GitHub (ALM, GitHub)
+* JIRA (Project Management, Atlassian)
+* Jama Connect (Requirements, Jama Software)
+* DOORS NG (Requirements, IBM)
+* Teamcenter (PLM, Siemens)
+* TestRail (Test Management, Gurock)
+
 # MBSE
 
 * [OMG SysML](http://www.omgsysml.org/)
