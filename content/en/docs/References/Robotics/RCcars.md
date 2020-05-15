@@ -19,6 +19,9 @@ description: Resources for RC cars
 ## Team Associated
 * [Associated Electrics](https://www.associatedelectrics.com/)
 
+## Sinhobby
+* [Sinhobby Mini Q](http://www.sinohobby.com/Default.aspx)
+
 ## WLToys
 * [WLToys](https://wltoys.co/)
 
