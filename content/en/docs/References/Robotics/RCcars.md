@@ -19,6 +19,7 @@ description: Resources for RC cars
 
 ## Tamiya
 * [Tamiya RC models](https://www.tamiya.com/english/rc/rc.htm)
+* Tamiya Mini 4WD FM-A
 
 ## Team Associated
 * [Associated Electrics](https://www.associatedelectrics.com/)
@@ -46,6 +47,8 @@ description: Resources for RC cars
 * Mini Q Q2 (17 km/h)
 * Atomic AMZ 3500KV (20 km/h)
 * Firelap IW04M (8 km/h)
+* Tamiya Mini 4WD FM-A (17 km/h)
+* Tamiya Mini 4WD AR (32 m/h)
 
 # FPV RC Cars
 * [RC Car Remote Control,Wi-Fi Camera 720P HD, 1/16 LED Light 4x4 Buggy](https://www.amazon.ca/T%C3%A9l%C3%A9commande-t%C3%A9l%C3%A9command%C3%A9e-voitures-tout-terrain-v%C3%A9hicule/dp/B081Z37LW6/ref=sr_1_29)
