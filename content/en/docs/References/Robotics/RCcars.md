@@ -10,6 +10,10 @@ description: Resources for RC cars
 ## Kyosho
 * [Mini Z](https://www.kyoshoamerica.com/32336PW-MINI-Z-RWD-TOYOTA-86-White_p_26021.html)
 
+## Atomic
+* [Atomic](http://www.rcatomic.com)
+* [AMZ]()
+
 ## Traxxas
 * [LaTrax](https://latrax.com/products/prerunner)
 
@@ -24,6 +28,7 @@ description: Resources for RC cars
 
 ## WLToys
 * [WLToys](https://wltoys.co/)
+* [K989](https://wltoys.co/product/wltoys-k989-1-28-2-4g-4wd-brushed-rc-rally-car-rtr/)
 
 ## Maisto
 * [Maisto](http://www.maisto.com/)
@@ -95,6 +100,7 @@ description: Resources for RC cars
 * [Canada Hobbies](https://www.canadahobbies.ca/)
 
 ## Toronto
+* [Mini Car Club of Canada (MC3)](http://www.minicarclubofcanada.com/)
 * [Hand Racing](http://www.handracing.ca/MiniZ-Tournaments.php)
 * [Runtime RC](https://www.runtimerc.ca/)
 * [Pinnacle Hobby](https://pinnaclehobby.ca/)
