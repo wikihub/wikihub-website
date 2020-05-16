@@ -6,6 +6,7 @@ description: Resources and tools for SysML
 ---
 
 # References
+* [OMG SysML](http://www.omgsysml.org/)
 * [SysML](https://sysml.org/)
 * [Glossary of SysML concepts](https://docs.nomagic.com/display/SYSMLP190/Glossary+of+SysML+concepts)
 
