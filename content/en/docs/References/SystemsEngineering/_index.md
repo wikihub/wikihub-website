@@ -16,6 +16,7 @@ description: Resources and tools for Systems Engineering
 * Teamcenter (PLM, Siemens)
 * TestRail (Test Management, Gurock)
 * OpenMBEE (Open Model Based Engineering Environment)
+* [OpenSE Cookbook](http://mbse.gfse.de/documents/faq.html)
 * SYSMOD
 
 # MBSE
