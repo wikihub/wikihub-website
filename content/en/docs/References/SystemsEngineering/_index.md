@@ -19,11 +19,6 @@ description: Resources and tools for Systems Engineering
 * [OpenSE Cookbook](http://mbse.gfse.de/documents/faq.html)
 * SYSMOD
 
-# MBSE
-
-* [OMG SysML](http://www.omgsysml.org/)
-* [SysML](https://sysml.org/)
-
 # Tools
 
 * [Papyrus](https://www.eclipse.org/papyrus/)
