@@ -45,15 +45,6 @@ description: Resources and tools for Systems Engineering
 * [Capella tutorials](https://esd.sutd.edu.sg/40014-capella-tutorial/)
 * [Introduction to Arcadia Capella with a toy catapult project](https://youtu.be/K4eU8nj1nok)
 
-## RobMoSys
-
-* [RoBoMoSys Project](https://robmosys.eu/)
-* [Papyrus for Robotics](https://www.eclipse.org/papyrus/components/robotics/)
-* [Papyrus robotics](https://wiki.eclipse.org/Papyrus/customizations/robotics)
-
-### RobMoSys Simulation
-* [AROSYS](https://robmosys.eu/arosys/)
-
 ## Team
 * [Service Robotics - Ulm](http://www.servicerobotik-ulm.de/wpr/projects/)
 
