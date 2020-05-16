@@ -10,6 +10,9 @@ description: Resources and tools for SysML
 * [SysML](https://sysml.org/)
 * [Glossary of SysML concepts](https://docs.nomagic.com/display/SYSMLP190/Glossary+of+SysML+concepts)
 
+# Tutorials
+* [Component diagram UML example](https://www.guru99.com/component-diagram-uml-example.html)
+
 # Tools
 * [Papyrus](https://www.eclipse.org/papyrus/)
 
