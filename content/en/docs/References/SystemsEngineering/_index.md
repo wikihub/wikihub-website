@@ -27,6 +27,7 @@ description: Resources and tools for Systems Engineering
 * [Modelio](https://www.modelio.org/)
 * [WebGME](https://github.com/webgme)
 * [MBSE Tools](https://mbse4u.com/sysml-tools/)
+* [Neo4j](https://neo4j.com/developer/get-started/)
 
 ## Syndeia
 * [Syndeia](http://intercax.com/products/syndeia/)
