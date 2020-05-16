@@ -70,6 +70,9 @@ description: Resources for RC cars
 * [F1/10 autonomous racing](https://linklab-uva.github.io/autonomousracing/)
 * [RACECAR/J](https://racecarj.com/)
 
+# Papers
+* [MIR Vehicle at DeepAI](https://deepai.org/publication/mir-vehicle-cost-effective-research-platform-for-autonomous-vehicle-applications)
+
 ## Race Car
 * [Building an autonomous vehicle by SparkFun](https://learn.sparkfun.com/tutorials/building-an-autonomous-vehicle-the-batmobile/all)
 
