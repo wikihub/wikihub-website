@@ -15,6 +15,7 @@ description: Resources and tools for Systems Engineering
 * DOORS NG (Requirements, IBM)
 * Teamcenter (PLM, Siemens)
 * TestRail (Test Management, Gurock)
+* OpenMBEE (Open Model Based Engineering Environment)
 
 # MBSE
 
