@@ -45,3 +45,10 @@ description: News and information about learning ROS
 * [The Robotics Back-End](https://roboticsbackend.com/)
 * [CSE 468-568 Robotic Algorithms](https://medium.com/cse-468-568-robotic-algorithms)
 * [Metrorobots](http://metrorobots.com/)
+
+# Notebooks for Robots
+* [Robot Stack](https://github.com/RoboStack)
+* [ROS@Jupyter](https://blog.jupyter.org/ros-jupyter-b7e82b5e1202)
+* [Jupyter Notebooks for Zümi](https://github.com/keuperj/ZumiDashBoard)
+* [Jupyter and Robots](https://github.com/Calysto/jyro)
+* [ROS Tutorial Jupyter Notebooks](https://github.com/ecervera/ROS-JupyT)
