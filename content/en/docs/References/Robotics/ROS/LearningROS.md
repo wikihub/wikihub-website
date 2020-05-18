@@ -52,3 +52,4 @@ description: News and information about learning ROS
 * [Jupyter Notebooks for Zümi](https://github.com/keuperj/ZumiDashBoard)
 * [Jupyter and Robots](https://github.com/Calysto/jyro)
 * [ROS Tutorial Jupyter Notebooks](https://github.com/RobInLabUJI/ROS-Tutorials)
+* [Robotic Intelligence Lab](https://github.com/RobInLabUJI)
