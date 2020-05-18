@@ -18,3 +18,6 @@ description: Resources for learning using notebooks
 * [Jupyter extensions](https://blog.jupyter.org/99-ways-to-extend-the-jupyter-ecosystem-11e5dab7c54)
 * [Zero to Binderhub](https://binderhub.readthedocs.io/en/latest/zero-to-binderhub/index.html#zero-to-binderhub)
 * [Zero to JupyterHub with Kubernetes](https://zero-to-jupyterhub.readthedocs.io/en/latest/index.html#customization-guide)
+
+# Textbooks
+* [Numerical Linear Algebra by FastAI](https://github.com/fastai/numerical-linear-algebra)
