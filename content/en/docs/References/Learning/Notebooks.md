@@ -10,7 +10,7 @@ description: Resources for learning using notebooks
 * [Book: Teaching and Learning with Jupyter](https://jupyter4edu.github.io/jupyter-edu-book/)
 
 ## Books
-* [Jupyter {Book}](https://jupyterbook.org/intro.html)
+* [Jupyter Book](https://jupyterbook.org/intro.html)
 
 # Notebook Tools
 * [nteract](https://nteract.io/)
