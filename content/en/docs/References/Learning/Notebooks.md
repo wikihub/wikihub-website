@@ -6,7 +6,8 @@ description: Resources for learning using notebooks
 ---
 
 # Education
-* [Jupyter for Education](https://blog.jupyter.org/teaching-and-learning-with-jupyter-c1d965f7b93a)
+* [Teaching and Learning with Jupyter](https://blog.jupyter.org/teaching-and-learning-with-jupyter-c1d965f7b93a)
+* [Book: Teaching and Learning with Jupyter](https://jupyter4edu.github.io/jupyter-edu-book/)
 
 # Notebook Tools
 * [nteract](https://nteract.io/)
