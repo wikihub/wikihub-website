@@ -25,4 +25,5 @@ description: Resources for learning using notebooks
 # Textbooks
 * [Numerical Linear Algebra by FastAI](https://github.com/fastai/numerical-linear-algebra)
 * [Algorithms for Optimization](https://github.com/sisl/algforopt-notebooks)
+* [Jupyter Notebooks for Robotics Courses](https://github.com/jotaraul/jupyter-notebooks-for-robotics-courses)
 
