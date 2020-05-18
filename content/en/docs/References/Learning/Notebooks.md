@@ -9,6 +9,9 @@ description: Resources for learning using notebooks
 * [Teaching and Learning with Jupyter](https://blog.jupyter.org/teaching-and-learning-with-jupyter-c1d965f7b93a)
 * [Book: Teaching and Learning with Jupyter](https://jupyter4edu.github.io/jupyter-edu-book/)
 
+## Books
+* [Jupyter {Book}](https://jupyterbook.org/intro.html)
+
 # Notebook Tools
 * [nteract](https://nteract.io/)
 * [nteract on Github](https://github.com/nteract)
@@ -21,3 +24,5 @@ description: Resources for learning using notebooks
 
 # Textbooks
 * [Numerical Linear Algebra by FastAI](https://github.com/fastai/numerical-linear-algebra)
+* [Algorithms for Optimization](https://github.com/sisl/algforopt-notebooks)
+
