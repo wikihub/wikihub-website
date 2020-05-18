@@ -65,6 +65,7 @@ description: Resources for robotics
 * [RobMoSys](https://robmosys.eu/wiki/start)
 * [SPARC](https://eu-robotics.net/sparc/)
    * [RODIN Robotics](https://rodin-robotics.eu/)
+* [EMARO](https://master-emaro.ec-nantes.fr/)
 
 ## Crowdfunding
 
