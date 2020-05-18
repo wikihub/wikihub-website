@@ -30,3 +30,4 @@ description: Resources for learning using notebooks
 
 # Notebooks for Robots
 * [Jupyter Notebooks for Zümi](https://github.com/keuperj/ZumiDashBoard)
+* [Jupyter and Robots](https://github.com/Calysto/jyro)
