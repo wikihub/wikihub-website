@@ -30,5 +30,6 @@ description: Resources for learning using notebooks
 * [Jupyter notebooks for teaching Robotics and Machine Learning](https://github.com/alessandro-giusti/teaching-notebooks)
 
 # Notebooks for Robots
+* [ROS@Jupyter](https://blog.jupyter.org/ros-jupyter-b7e82b5e1202)
 * [Jupyter Notebooks for Zümi](https://github.com/keuperj/ZumiDashBoard)
 * [Jupyter and Robots](https://github.com/Calysto/jyro)
