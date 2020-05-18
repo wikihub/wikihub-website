@@ -54,3 +54,6 @@ description: News and information about learning ROS
 * [ROS Tutorial Jupyter Notebooks](https://github.com/RobInLabUJI/ROS-Tutorials)
 * [Robotic Intelligence Lab](https://github.com/RobInLabUJI)
 * [Jupyter roslibpy](https://github.com/kw90/jupyter-roslibpy)
+
+## TurtleBot
+* [ROS cmdvel demo](https://github.com/frankjoshua/demo-ros-cmdvel-jupyter)
