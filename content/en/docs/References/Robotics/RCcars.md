@@ -126,3 +126,6 @@ description: Resources for RC cars
 * [Hand Racing](http://www.handracing.ca/MiniZ-Tournaments.php)
 * [Runtime RC](https://www.runtimerc.ca/)
 * [Pinnacle Hobby](https://pinnaclehobby.ca/)
+
+## Quebec
+* [SMTech](https://smtech.ca/boutique/fr)
