@@ -57,3 +57,6 @@ description: News and information about learning ROS
 
 ## TurtleBot
 * [ROS cmdvel demo](https://github.com/frankjoshua/demo-ros-cmdvel-jupyter)
+
+# Julia
+* [CxxROS](https://github.com/moyhig/CxxROS)
