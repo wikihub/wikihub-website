@@ -29,3 +29,4 @@ description: Resources and tools for SysML
 * [PlantUML Themes](https://bschwarz.github.io/puml-themes/)
 * [PlantText](https://www.planttext.com/)
 * [Napkin](https://github.com/pinetr2e/napkin)
+* [Real world PlantUML diagrams](https://real-world-plantuml.com/?type=component)
