@@ -26,8 +26,17 @@ description: Resources and tools for SysML
 
 # UML
 * [PlantUML](https://plantuml.com/)
+
+## Style
 * [PlantUML Themes](https://bschwarz.github.io/puml-themes/)
+* [PlantUML Styler](https://github.com/isaaceindhoven/plantuml-styler)
+
+## Online
 * [PlantText](https://www.planttext.com/)
 * [LiveUML](https://liveuml.com/)
+
+## Python
 * [Napkin](https://github.com/pinetr2e/napkin)
+
+## Examples
 * [Real world PlantUML diagrams](https://real-world-plantuml.com/?type=component)
