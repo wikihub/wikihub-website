@@ -23,3 +23,8 @@ description: Resources and tools for SysML
 
 ### RobMoSys Simulation
 * [AROSYS](https://robmosys.eu/arosys/)
+
+# UML
+* [PlantUML](https://plantuml.com/)
+* [PlantUML Themes](https://bschwarz.github.io/puml-themes/)
+* [PlantText](https://www.planttext.com/)
