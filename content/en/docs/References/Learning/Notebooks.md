@@ -11,6 +11,7 @@ description: Resources for learning using notebooks
 
 ## Books
 * [Jupyter Book](https://jupyterbook.org/intro.html)
+* [iPyPublish](https://ipypublish.readthedocs.io/en/latest/)
 
 # Notebook Tools
 * [nteract](https://nteract.io/)
