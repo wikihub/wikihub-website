@@ -23,6 +23,7 @@ description: Resources for learning using notebooks
 * [Zero to JupyterHub with Kubernetes](https://zero-to-jupyterhub.readthedocs.io/en/latest/index.html#customization-guide)
 * [Jupyter Notebook Tools for Sphinx](https://nbsphinx.readthedocs.io/en/0.7.0/)
 * [Myst-nb](https://myst-nb.readthedocs.io/en/latest/)
+* [Executable notebooks](https://github.com/executablebooks)
 
 # Textbooks
 * [Numerical Linear Algebra by FastAI](https://github.com/fastai/numerical-linear-algebra)
