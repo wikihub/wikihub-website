@@ -40,6 +40,9 @@ description: Resources for RC cars
 # RC Car Classes
 ## Mini Z
 * [1/28 RC Roundup - 01 | Speed Test](https://www.youtube.com/watch?v=hXH8iTWgpDo)
+* [Mini Z Racer](http://mini-zracer.com/)
+
+### Mini Z RC Cars
 * Mini Z Sports MR03 (16 km/h)
 * Mini Z FWD (21 km/h)
 * WLtoys K989 (27 km/h)
