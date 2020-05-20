@@ -27,6 +27,7 @@ description: News and information about electric vehicles
 * [Rigitrac SKE50](https://www.rigitrac.ch/produkte-1/rigitrac-ske-50-electric/)
 * [Fendt e100varioe](https://www.fendt.com/int/fendt-e100-vario)
 * [Farmtrac Champion 37](https://www.escortsgroup.com/agri-machinery/products/farmtrac/31-to-40-hp.html)
+* [T-EV](https://www.allelectricvehicles.com.au/blog/the-incredible-benefits-of-switching-to-electric-farm-utility-vehicles/)
 
 ## Electric wheel loaders
 
