@@ -28,6 +28,7 @@ description: News and information about electric vehicles
 * [Fendt e100varioe](https://www.fendt.com/int/fendt-e100-vario)
 * [Farmtrac Champion 37](https://www.escortsgroup.com/agri-machinery/products/farmtrac/31-to-40-hp.html)
 * [T-EV](https://www.allelectricvehicles.com.au/blog/the-incredible-benefits-of-switching-to-electric-farm-utility-vehicles/)
+* [KULAN](https://www.autoevolution.com/news/meet-the-kulan-your-next-lightweight-electric-tractor-85343.html)
 
 ## Electric wheel loaders
 
