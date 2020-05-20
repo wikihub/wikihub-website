@@ -26,7 +26,8 @@ description: Resources and tools for SysML
 
 # UML
 * [PlantUML](https://plantuml.com/)
-   * [command line](https://plantuml.com/command-line)
+   * [PlantUML command line](https://plantuml.com/command-line)
+   * [PlantUML help](https://hackmd.io/6H3Wz_TBQuubyeLvlEnBTQ?view)
 
 ## Style
 * [PlantUML Themes](https://bschwarz.github.io/puml-themes/)
