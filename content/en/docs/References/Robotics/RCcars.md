@@ -34,6 +34,9 @@ description: Resources for RC cars
 ## Maisto
 * [Maisto](http://www.maisto.com/)
 
+# RC Car Parts
+* [Team Orion](https://teamorion.com/en/)
+
 # RC Car Classes
 ## Mini Z
 * [1/28 RC Roundup - 01 | Speed Test](https://www.youtube.com/watch?v=hXH8iTWgpDo)
