@@ -22,3 +22,4 @@ description: Automotive Systems
 # Parts
 
 * [OMG Extras](https://www.omgextras.com/default.asp#&panel1-1)
+* [Speedway Motors](https://www.speedwaymotors.com/)
