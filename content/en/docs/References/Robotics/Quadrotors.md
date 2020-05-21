@@ -16,6 +16,7 @@ description: Resources for quadrotors
 # Drones
 * [DJI Mavic Pro with 4k camera](https://www.bestbuy.ca/en-ca/product/dji-mavic-pro-quadcopter-drone-with-4k-uhd-camera-controller-fly-more-bundle-platinum-bilingual/11624405)
 * [DJI Mavic Pro Platinum - Quadcopter - Wi-Fi](https://www.dell.com/en-ca/shop/dji-mavic-pro-platinum-quadcopter-wi-fi/apd/aa035232/gaming-gaming-accessories?gacd=9683780-3004-5761040-0-0)
+* [DJI Mavic 2 Pro - Quadcopter - Wi-Fi](https://www.dell.com/en-ca/shop/dji-mavic-2-pro-quadcopter-wi-fi/apd/aa410884/gaming-gaming-accessories?ref=p13n_ena_pdp_vv&c=ca&cs=cadhs1&l=en&s=dhs)
 
 # Software
 * [ArduPilot](https://ardupilot.org/)
