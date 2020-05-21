@@ -21,6 +21,9 @@ description: Resources for RC cars
 * [Tamiya RC models](https://www.tamiya.com/english/rc/rc.htm)
 * Tamiya Mini 4WD FM-A
 
+## Carson
+* [Carson model sport](https://www.carson-modelsport.com/en/home/)
+
 ## Team Associated
 * [Associated Electrics](https://www.associatedelectrics.com/)
 
