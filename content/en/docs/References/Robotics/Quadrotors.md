@@ -13,6 +13,10 @@ description: Resources for quadrotors
 * [Hex](http://www.hex.aero/)
 * [RobotShop drone flight controller](https://www.robotshop.com/ca/en/uav-drone-flight-controllers.html) 
 
+# Drones
+* [DJI Mavic Pro with 4k camera](https://www.bestbuy.ca/en-ca/product/dji-mavic-pro-quadcopter-drone-with-4k-uhd-camera-controller-fly-more-bundle-platinum-bilingual/11624405)
+* [DJI Mavic Pro Platinum - Quadcopter - Wi-Fi](https://www.dell.com/en-ca/shop/dji-mavic-pro-platinum-quadcopter-wi-fi/apd/aa035232/gaming-gaming-accessories?gacd=9683780-3004-5761040-0-0)
+
 # Software
 * [ArduPilot](https://ardupilot.org/)
 
