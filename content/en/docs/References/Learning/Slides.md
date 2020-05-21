@@ -8,10 +8,10 @@ description: Resources for learning with slides
 # Interactive Slides
 * [RISE](https://rise.readthedocs.io/en/stable/)
 
-# Recording Slides
+# Recorded Presentations
 * [Slides Live](https://slideslive.com/)
 
-# Web slides
+# Web Slides
 * [MDX Deck (React)](https://github.com/jxnblk/mdx-deck)
 * [Eagle js slides (Vue)](https://github.com/zulko/eagle.js/)
 * [Vue presentation](https://github.com/RobinCK/vue-presentation)
