@@ -96,6 +96,9 @@ description: Resources for RC cars
 * [Computer controlled RC car racing - ETHZ](https://www.youtube.com/watch?v=Hf68uPoXJOY)
 * [ORCA - ETHZ](https://www.youtube.com/watch?v=QWY7sV9sjkA)
 
+## Duckie Town
+* [Dockie Town](https://www.duckietown.org/)
+
 # Open source projects
 * [ROSbot](https://www.instructables.com/id/ROSbot-Autonomous-Robot-With-LiDAR/)
 * [MIT Racecar](https://mit-racecar.github.io/hardware/)
