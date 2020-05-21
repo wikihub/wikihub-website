@@ -24,6 +24,9 @@ description: Resources for RC cars
 ## Carson
 * [Carson model sport](https://www.carson-modelsport.com/en/home/)
 
+## LEGO Technic
+* [BuWizz](https://buwizz.com/)
+
 ## Team Associated
 * [Associated Electrics](https://www.associatedelectrics.com/)
 
