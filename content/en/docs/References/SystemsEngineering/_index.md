@@ -45,3 +45,6 @@ description: Resources and tools for Systems Engineering
 
 # Requirement Management
 * [Jama](https://www.jamasoftware.com/)
+
+# Visualization
+* [MatrixBrowser](https://sourceforge.net/projects/matrixbrowser/)
