@@ -20,7 +20,7 @@ description: Resources and tools for Systems Engineering
 * SYSMOD
 
 # Tools
-
+* [Data Driven Systems Engineering (DDSE)](https://www.valispace.com/hardware-engineering-ddse/)
 * [Papyrus](https://www.eclipse.org/papyrus/)
 * [Modelio](https://www.modelio.org/)
 * [WebGME](https://github.com/webgme)
