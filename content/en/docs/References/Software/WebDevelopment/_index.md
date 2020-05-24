@@ -8,6 +8,9 @@ description: News and information about web development technologies
 # Learning resources
 * [web.dev](https://web.dev/)
 
+# Build
+* [Snowpack](https://www.snowpack.dev/#what-is-snowpack%3F)
+
 # Hardware
 * [Access USB devices on the web](https://developers.google.com/web/updates/2016/03/access-usb-devices-on-the-web)
 
