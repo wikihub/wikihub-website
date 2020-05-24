@@ -109,6 +109,9 @@ description: Resources for RC cars
 ## Duckie Town
 * [Dockie Town](https://www.duckietown.org/)
 
+# Quanser
+* [QCar](https://quanserinc.app.box.com/s/mpra4hhr0684atd4yl2crhsjowsmcg8g)
+
 # Open source projects
 * [ROSbot](https://www.instructables.com/id/ROSbot-Autonomous-Robot-With-LiDAR/)
 * [MIT Racecar](https://mit-racecar.github.io/hardware/)
