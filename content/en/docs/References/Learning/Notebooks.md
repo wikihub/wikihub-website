@@ -18,6 +18,17 @@ description: Resources for learning using notebooks
 * [The littlest JuperHub](https://github.com/jupyterhub/the-littlest-jupyterhub)
 * [Zero to JupyterHub k8s](https://github.com/jupyterhub/zero-to-jupyterhub-k8s)
 
+# Running Jupyter on the cloud
+* [CoCalc (previously SageMathCloud)](https://cocalc.com) 
+* [Gryd](https://gryd.us)
+* [HubHero](https://hubhero.net)
+* [Kaggle Kernels](https://kaggle.com/kernels)
+* [codio](https://codio.com/features/ide)
+* [Microsoft Azure notebooks](https://notebooks.azure.com/)
+* [Amazon Sagemaker](https://docs.aws.amazon.com/sagemaker/latest/dg/ex1-prepare.html)
+* [Gradient by Paperspace](https://www.paperspace.com/gradient)
+* [Google Colaboratory](https://colab.research.google.com/ )
+
 # Notebook Tools
 * [nteract](https://nteract.io/)
 * [nteract on Github](https://github.com/nteract)
