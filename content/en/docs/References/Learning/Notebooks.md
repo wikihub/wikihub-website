@@ -35,3 +35,7 @@ description: Resources for learning using notebooks
 * [Jupyter Notebooks for Robotics Courses](https://github.com/jotaraul/jupyter-notebooks-for-robotics-courses)
 * [Jupyter notebooks for teaching Robotics and Machine Learning](https://github.com/alessandro-giusti/teaching-notebooks)
 
+# Block-Based Programming
+* [BlockPy iupyter Notebooks](https://blog.ouseful.info/tag/blockpy/)
+* [Learning Calico Jigsaw](https://www.youtube.com/playlist?list=PLo7YO_w3ktGSuVtXI6WG2JXO6yHh-xnEa)
+
