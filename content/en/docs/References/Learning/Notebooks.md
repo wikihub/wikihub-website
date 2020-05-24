@@ -11,7 +11,12 @@ description: Resources for learning using notebooks
 
 ## Books
 * [Jupyter Book](https://jupyterbook.org/intro.html)
-* [iPyPublish](https://ipypublish.readthedocs.io/en/latest/)
+* [iPyPublish](https://ipypublish.readthedocs.io/en/latest/)e
+
+# Running Jupyter Servers
+* [JupyterHub](https://github.com/jupyterhub/jupyterhub)
+* [The littlest JuperHub](https://github.com/jupyterhub/the-littlest-jupyterhub)
+* [Zero to JupyterHub k8s](https://github.com/jupyterhub/zero-to-jupyterhub-k8s)
 
 # Notebook Tools
 * [nteract](https://nteract.io/)
