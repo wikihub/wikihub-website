@@ -5,6 +5,10 @@ weight: 70
 description: Resources for learning
 ---
 
+# eLearning
+* [Computing Education Research Blog](https://computinged.wordpress.com/)
+* [Walking Randomly](http://www.walkingrandomly.com/)
+
 # Tutorials
 
 ## Codelab
