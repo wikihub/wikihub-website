@@ -26,6 +26,9 @@ description: Resources for learning using notebooks
 * [Myst-nb](https://myst-nb.readthedocs.io/en/latest/)
 * [Executable notebooks](https://github.com/executablebooks)
 
+# Education
+* [Teaching and learning with Jupyter](https://jupyter4edu.github.io/jupyter-edu-book/)
+
 # Textbooks
 * [Numerical Linear Algebra by FastAI](https://github.com/fastai/numerical-linear-algebra)
 * [Algorithms for Optimization](https://github.com/sisl/algforopt-notebooks)
