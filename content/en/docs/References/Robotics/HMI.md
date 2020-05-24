@@ -15,3 +15,5 @@ description: Resources on fleet management and web interface for robots
 * [Bridge Robotics](https://bridgerobotics.com/robotops-analytics/#robotops_home)
 * [Omron](https://automation.omron.com/en/ca/blog/mobile-robot-fleet-management-blog)
 * [Double Robotics](https://www.doublerobotics.com/fleet-management.html)
+* [Phantom.Auto](https://phantom.auto/)
+* [Rocos](https://www.rocos.io/)
