@@ -12,3 +12,6 @@ description: Resources about academia
 
 ## University of Waterloo
 * [UWSpace](https://uwspace.uwaterloo.ca/)
+
+## Ontario College of Art and Design
+* [Lindy Wilkins](https://www.linkedin.com/in/lindy-wilkins-7644b948/)
