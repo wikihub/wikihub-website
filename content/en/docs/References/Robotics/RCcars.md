@@ -108,6 +108,7 @@ description: Resources for RC cars
 
 ## Duckie Town
 * [Dockie Town](https://www.duckietown.org/)
+* [Community Spotlight: Arian Houshmand – Control Algorithms for Traffic](https://www.duckietown.org/archives/49554)
 
 # Quanser
 * [QCar](https://quanserinc.app.box.com/s/mpra4hhr0684atd4yl2crhsjowsmcg8g)
