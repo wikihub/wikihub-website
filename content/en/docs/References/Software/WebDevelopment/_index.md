@@ -5,8 +5,12 @@ date: 2019-02-22
 weight: 70
 description: News and information about web development technologies
 ---
+
 # Learning resources
 * [web.dev](https://web.dev/)
+
+# Websites
+* [Jamstack](https://jamstack.org/)
 
 # Build
 * [Snowpack](https://www.snowpack.dev/#what-is-snowpack%3F)
@@ -18,7 +22,6 @@ description: News and information about web development technologies
 * [Frontend development tools](https://github.com/gamtiq/frontend-tools/blob/master/README.md)
 
 # Graphical Design
-
 * [Adobe XD](https://www.adobe.com/ca/products/xd.html)
 * [Figma](https://www.figma.com/)
 * [Pencil](https://pencil.evolus.vn/)
