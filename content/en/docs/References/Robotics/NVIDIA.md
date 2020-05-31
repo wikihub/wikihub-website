@@ -18,6 +18,7 @@ description: Resources for NVIDIA robotics and the Isaac framework
 * [Building Visual Studio Code](https://www.clarenceho.net/2019/05/building-visual-studio-code-on-jetson.html)
 * [Depth cameras for NVIDIA Jetson](https://devtalk.nvidia.com/default/topic/1046610/jetson-tx2/what-3d-camera-is-recommended-for-use-with-jetson-tx2-/)
 * [Stereo cameras for Jetson](https://elinux.org/Jetson/Cameras#Stereo_Cameras)
+* [Jetson Zoo](https://elinux.org/Jetson_Zoo)
 
 # Isaac
 
