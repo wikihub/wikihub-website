@@ -30,6 +30,9 @@ description: News and information about learning ROS
 * [ROS Industrial](https://industrial-training-master.readthedocs.io/en/melodic/index.html)
 * [ROS Tutorials by Tiziano Fiorenzani](https://www.youtube.com/watch?v=N6K2LWG2kRI&list=PLuteWQUGtU9BU0sQIVqRQa24p-pSBCYNv)
 
+# Talks
+* [Connect Linaro](https://connect.linaro.org/resources/
+
 # Courses
 
 * [ROS Online Course by ROBOTIS](https://www.youtube.com/playlist?list=PLRG6WP3c31_U7TFGduEIJWVtkOw6AJjFf)
