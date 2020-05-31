@@ -68,6 +68,7 @@ description: News and information about sensors
 * [RoboSense](https://www.zmp.co.jp/en/products/rslidar)
 * [LeiShen](https://www.robotshop.com/ca/en/3d-16-channels-lidar-15-vfod-120m.html)
 * [Garmin LIDAR-Lite v3](https://buy.garmin.com/en-CA/CA/p/557294)
+* [OpenLIDAR](http://www.xaxxon.com/xaxxon/openlidar)
 
 # IMU
 * [FXIMU2](https://github.com/altineller/fximu2)
