@@ -30,6 +30,7 @@ description: News and information about robot platforms
 * [K-Team](http://www.k-team.com/)
 * [Omron](https://automation.omron.com/en/ca/products/family/LD)
     * [Mobile Planner](https://automation.omron.com/en/ca/products/family/Mobile%20Planner)
+* [LeRover](https://www.leorover.tech/
 
 ## Hoverboard motor
 
