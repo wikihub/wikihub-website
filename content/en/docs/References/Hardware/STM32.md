@@ -53,6 +53,7 @@ description: Resources on STM32
 * [Teensy 4.0](https://www.pjrc.com/teensy-4-0/)
 * [Spresense](https://developer.sony.com/develop/spresense/)
 * [M5Stack Gray Development Kit - ESP32 Dev Board w/ MPU6886+BMM150](https://www.adafruit.com/product/4177)
+* [96boards](https://www.96boards.org/product/stm32/)
 
 # [B-L475E-IOT01A Discovery kit for IoT node](https://www.st.com/en/evaluation-tools/b-l475e-iot01a.html)
 * [PlatformIO: ST DISCO-L475VG-IOT01A](https://docs.platformio.org/en/latest/boards/ststm32/disco_l475vg_iot01a.html)
