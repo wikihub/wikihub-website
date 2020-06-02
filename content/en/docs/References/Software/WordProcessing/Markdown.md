@@ -20,6 +20,7 @@ description: News and information about Markdown
 * [HackMD](https://hackmd.io/)
 * [Render](https://render.com/)
 * [Gitbook](https://www.gitbook.com/)
+* [Allmark](https://allmark.io/)
 
 ## Editors
 * [CuteMarkEd](https://cloose.github.io/CuteMarkEd/)
@@ -42,26 +43,22 @@ description: News and information about Markdown
 * [Socrates](http://socrates.io)
 
 ## Blog
-
 * [Installing Jekyll on Windows](http://thedustytome.blogspot.ca/2014/02/getting-jekyll-up-and-running-on-windows.html)
 * [Writing with Markdown in Stata](http://haghish.com/statistics/stata-blog/reproducible-research/dynamic_documents/markdown.php)
 
 ## Web
-
 * [Poole](https://bitbucket.org/obensonne/poole)
 * [jemdoc](http://jemdoc.jaboc.net/index.html)
+* [MkDocs](https://www.mkdocs.org/)
 
 ## Themes
-
 * [Markdown CSS themes](https://github.com/jasonm23/markdown-css-themes)
 
 ## Templates
-
 * [Pandoc templates](https://github.com/jgm/pandoc-templates)
 * [Resume](http://cmwelsh.com/beautiful-resumes-with-markdown-and-latex)
 
 ## Tools
-
 * [Try Pandoc](http://johnmacfarlane.net/pandoc/try/)
 * [Python-Markdown](http://pythonhosted.org//Markdown/index.html)
 * [78 Tools for writing and previewing Markdown](http://mashable.com/2013/06/24/markdown-tools/)
@@ -71,9 +68,7 @@ description: News and information about Markdown
 * [wkhtmltopdf](http://wkhtmltopdf.org/)
 
 ## Resources
-
 * [What is Markdown](http://whatismarkdown.com/)
 
 ## Examples
-
 * [RMarkdown example](https://github.com/bbest/rmarkdown-example)
