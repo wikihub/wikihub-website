@@ -6,20 +6,22 @@ description: News and information about Markdown
 ---
 
 ## Papers
-
 * [Plain Text Papers Pandoc](http://kieranhealy.org/blog/archives/2014/01/23/plain-text/)
 * [Rendering Markdown, Asciidoc and Friends automatically while Editing](http://noone.org/blog/English/Computer/Web/Rendering%20Markdown,%20Asciidoc%20and%20Friends%20automatically%20while%20Editing.futile)
 * [Academic Markdown](https://github.com/smathot/academicmarkdown)
 * [Bookdown](https://bookdown.org)
 
 ## Documentations
-
 * [DocumentUp](http://documentup.com/)
 * [MkDocs](http://www.mkdocs.org/)
 * [Read the Docs](https://readthedocs.org/)
 
-## Editors
+## Markdown Servers
+* [HackMD](https://hackmd.io/)
+* [Render](https://render.com/)
+* [Gitbook](https://www.gitbook.com/)
 
+## Editors
 * [CuteMarkEd](https://cloose.github.io/CuteMarkEd/)
 * [Hallo](http://hallojs.org/)
 * [Strapdownjs](http://strapdownjs.com/) - [Mathjax support with conflict](https://gist.github.com/memeplex/6309540)
