@@ -5,6 +5,7 @@ weight: 20
 description: Resources on embedded systems and single board computers
 ---
 
+* [Awesome embedded](https://github.com/nhivp/Awesome-Embedded)
 * [Embedded computing news](https://www.embedded-computing.com/)
 
 # Single Board Microcontrollers
