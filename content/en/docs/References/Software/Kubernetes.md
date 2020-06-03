@@ -30,3 +30,6 @@ description: News and information about Kubernetes
 * [Watchpod](https://github.com/MinikubeAddon/watchpod)
 * [k8s-devbox](https://github.com/Mirantis/k8s-devbox)
 * [Kompose](https://kompose.io/)
+
+# Kubeflow
+* [Install Kubeflow on Minikube](https://www.kubeflow.org/docs/started/workstation/minikube-linux/)
