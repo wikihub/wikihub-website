@@ -12,6 +12,7 @@ description: News and information about Kubernetes
 * [kind](https://kind.sigs.k8s.io/)
 * [K8s device plugin by NVIDIA](https://github.com/NVIDIA/k8s-device-plugin)
 * [Kubernetes cheat sheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
+* [kubectl for Docker users](https://kubernetes.io/docs/reference/kubectl/docker-cli-to-kubectl/)
 
 # Local development environment
 * [Running Kubernetes locally on Linux with Minikube](https://kubernetes.io/blog/2019/03/28/running-kubernetes-locally-on-linux-with-minikube-now-with-kubernetes-1.14-support/)
