@@ -39,6 +39,7 @@ description: Autonomous Vehicles
 * [BMW Autonomous Driving](https://www.bmw.com/en/automotive-life/autonomous-driving.html)
 * [Huawei Mobile Automation Engine](https://www.huawei.com/en/press-events/news/2018/11/auto-driving-mobile-network-solution-mae)
 * [Ridecell](https://ridecell.com/)
+* [StreetDrone](https://github.com/streetdrone-home/SD-TwizyModel)
 
 # Drive by Wire
 
