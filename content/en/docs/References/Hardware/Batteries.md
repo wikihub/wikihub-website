@@ -12,3 +12,6 @@ description: Battery resources
 
 * [Vruzend battery kits](https://vruzend.com/product-category/battery-kits/)
 * [18650](https://18650.lt/index.php/shop/)
+
+# Canada
+* [Canadian Energy](https://www.cdnrg.com/locations/branches/Vancouver-Lower-Mainland)
