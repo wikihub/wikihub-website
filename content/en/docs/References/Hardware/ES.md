@@ -87,6 +87,7 @@ description: Resources on embedded systems and single board computers
 # PLC
 * [Open source PLC](https://www.digital-loggers.com/plchw.html)
 * [Industrial Shields](https://www.industrialshields.com/)
+* [Yamaha YHX](https://global.yamaha-motor.com/business/robot/lineup/controller/yhx/)
 
 # Power Supply
 
