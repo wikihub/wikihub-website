@@ -42,4 +42,4 @@ description: News and information about Kubernetes
 * [Linkerd](https://linkerd.io/)
 
 # Edge
-* [k3os](https://k3os.io/)
+* [K3OS](https://k3os.io/)
