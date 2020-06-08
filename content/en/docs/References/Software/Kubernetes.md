@@ -19,6 +19,9 @@ description: News and information about Kubernetes
 * [Devgun](https://www.mailgun.com/blog/creating-development-environments-with-kubernetes-devgun/)
 * [Simplified Kubernetes Development — Visual Studio Code Kubernetes Tools Extension](https://itnext.io/simplified-kubernetes-development-visual-studio-code-kubernetes-tools-extension-95bac450370c)
 
+## Minikube
+* [Minikube cheat sheet](http://www.openkb.info/2018/10/minikube-cheat-sheet.html)
+
 # Tools
 * [Gardener](https://gardener.cloud/)
 * [Garden](https://garden.io/)
