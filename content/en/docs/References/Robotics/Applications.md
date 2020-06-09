@@ -43,7 +43,6 @@ description: Resources for applications of robotics
 * [Nourish](https://www.nourish.ai/)
 
 ## Lawn mowers
-
 * [The mower project](https://mowerproject.com/)
 * [Husqvarna 18V Automower® 310 Robotic Lawn Mower](https://www.canadiantire.ca/en/pdp/husqvarna-18v-automower-310-robotic-lawn-mower-0601799p.0601799.html)
 * [GARDENA 4069 R80Li Robotic Lawnmower](https://www.amazon.ca/Gardena-4069-R80Li-Robotic-Lawnmower/dp/B06XD2X262/ref=pd_sbs_469_7)
@@ -54,6 +53,9 @@ description: Resources for applications of robotics
 * [Alamo Industrial: RidgeRunner](https://www.youtube.com/watch?v=VpnO9zqhgAA)
 * [RoboFlail mini](https://www.kommtek.de/en/products/automation/roboflail-mini/)
 * [EvaTech](https://evatech.net/PRODUCT.php?ID=6)
+
+## Electric lawn tractors
+* [Ryobi 38 inch 100Ah battery electric rear engine riding lawn mower](https://www.homedepot.ca/product/ryobi-38-inch-100-ah-battery-electric-rear-engine-riding-lawn-mower/1001528340)
 
 ## Snow removal
 
