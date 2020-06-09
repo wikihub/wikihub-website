@@ -82,3 +82,9 @@ description: News and information about software development and necessary tools
 
 # Package Management
 * [Homebrew](https://docs.brew.sh/Homebrew-on-Linux)
+
+# Persian
+* [Awesome Persian by rastikar](https://github.com/rastikerdar/awesome-persian)
+* [Made in Iran](https://github.com/mohebifar/made-in-iran)
+* [Awesome Persian by Faraz](https://github.com/fffaraz/awesome-persian)
+* [Persian APIs](https://github.com/sepandhaghighi/APIs-made-in-Iran)
