@@ -9,6 +9,8 @@ description: Resources on CAN networking
 * [UAVCAN](https://uavcan.org/)
 * [CAN vs Ethernet](https://copperhilltech.com/blog/comparison-of-can-bus-and-ethernet-features-for-automotive-networking-applications/)
 * [Bosch CAN modules](https://www.bosch-semiconductors.com/ip-modules/can-ip-modules/)
+* [WiCAN](https://whitebream.com/wican)
+* [CarPC](https://carpc.nl/)
 
 # Software
 
