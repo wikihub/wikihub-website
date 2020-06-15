@@ -49,6 +49,7 @@ description: Resources for robotics
 * [ASi Robots](https://www.asirobots.com/)
 * [Quimesis](http://www.quimesis.be/en/projects/)
 * [Bel Robotics](https://www.belrobotics.com/en/mowers/)
+* [Robotics business review 2020](https://www.roboticsbusinessreview.com/rbr-50-2020-innovations/)
 
 ## Suppliers
 
