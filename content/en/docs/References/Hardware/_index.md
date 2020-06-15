@@ -34,3 +34,6 @@ description: Hardware resources
 # PCB
 
 * [Seeed Fusion PCB & PCB Assembly](https://www.seeedstudio.com/fusion.html)
+
+# DIN Rails
+* [DIN Plate](https://pi-plates.com/dinplate/)
