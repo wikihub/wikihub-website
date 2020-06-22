@@ -21,6 +21,9 @@ description: News and information about software development and necessary tools
 * [Trello](https://trello.com)
 * [Best online whiteboards](https://zapier.com/blog/best-online-whiteboard/)
 
+# IDE
+* [Makefile and Visual Studio Code](https://stackoverflow.com/questions/34937092/why-does-visual-studio-code-insert-spaces-when-editing-a-makefile-and-editor-in)
+
 # Continuous Integration
 
 * [Circle CI](http://circleci.com)
