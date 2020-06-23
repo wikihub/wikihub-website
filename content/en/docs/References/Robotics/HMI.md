@@ -17,6 +17,8 @@ description: Resources on fleet management and web interface for robots
 * [Double Robotics](https://www.doublerobotics.com/fleet-management.html)
 * [Phantom.Auto](https://phantom.auto/)
 * [Rocos](https://www.rocos.io/)
+* [Keeptruckin](https://keeptruckin.com/)
+* [Samsara](https://www.samsara.com/)
 
 # Kubernetes for Robotics
 * [Cloud Robotics Core: Kubernetes, Federation, App Management](https://googlecloudrobotics.github.io/core/how-to/running-ros-node.html)
