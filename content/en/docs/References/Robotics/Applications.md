@@ -81,3 +81,7 @@ description: Resources for applications of robotics
 ## Floor sweeping
 
 * [Tennant S30](https://www.tennantco.com/en_ca/1/machines/sweepers/product.s30.ride-on-sweeper.M-S30.html)
+
+# UVC Robots
+* [Xenex](https://xenex.com/)
+* [Blue Ocean Robotics](https://www.blue-ocean-robotics.com/)
