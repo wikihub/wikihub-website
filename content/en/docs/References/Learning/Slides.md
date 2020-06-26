@@ -11,6 +11,9 @@ description: Resources for learning with slides
 # Recorded Presentations
 * [Slides Live](https://slideslive.com/)
 
+# Presentations with voice
+* [ari](https://www.rdocumentation.org/packages/ari/)
+
 # Web Slides
 * [MDX Deck (React)](https://github.com/jxnblk/mdx-deck)
 * [Eagle js slides (Vue)](https://github.com/zulko/eagle.js/)
