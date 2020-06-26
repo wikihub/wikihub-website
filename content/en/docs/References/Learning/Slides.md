@@ -13,6 +13,7 @@ description: Resources for learning with slides
 
 # Presentations with voice
 * [ari](https://www.rdocumentation.org/packages/ari/)
+* [ari on GitHub](https://github.com/jhudsl/ari)
 
 # Web Slides
 * [MDX Deck (React)](https://github.com/jxnblk/mdx-deck)
