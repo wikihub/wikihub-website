@@ -11,6 +11,9 @@ description: Resources for learning with slides
 # Recorded Presentations
 * [Slides Live](https://slideslive.com/)
 
+# Text to Speech
+* [Speech Markdown](https://www.speechmarkdown.org/)
+
 # Presentations with voice
 * [ari](https://www.rdocumentation.org/packages/ari/)
 * [ari on GitHub](https://github.com/jhudsl/ari)
