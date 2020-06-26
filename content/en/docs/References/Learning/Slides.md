@@ -13,6 +13,7 @@ description: Resources for learning with slides
 
 # Text to Speech
 * [Speech Markdown](https://www.speechmarkdown.org/)
+* [Voice Bot](https://voicebot.ai/)
 
 # Presentations with voice
 * [ari](https://www.rdocumentation.org/packages/ari/)
