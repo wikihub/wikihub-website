@@ -15,6 +15,7 @@ description: Resources for learning with slides
 * [Speech Markdown](https://www.speechmarkdown.org/)
 * [Voice Bot](https://voicebot.ai/)
 * [Jovo](https://www.jovo.tech/)
+* [googleLanguageR](https://github.com/ropensci/googleLanguageR)
 
 # Presentations with voice
 * [ari](https://www.rdocumentation.org/packages/ari/)
