@@ -7,6 +7,7 @@ description: News and information about React development
 ---
 
 # React
+- [Set up a modern web app by running one command.](https://create-react-app.dev/)
 - [Ant Design](https://ant.design/docs/react/introduce) - An enterprise-class UI design language and React-based implementation.
 - [Blueprint](http://blueprintjs.com/) - A React-based UI toolkit for the web. It is optimized for building complex, data-dense web interfaces for desktop applications.
 - [dva](https://github.com/dvajs/dva) - React and Redux based, lightweight and Elm-style framework.
