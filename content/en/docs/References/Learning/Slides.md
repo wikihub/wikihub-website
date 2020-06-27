@@ -20,6 +20,7 @@ description: Resources for learning with slides
 * [ari](https://www.rdocumentation.org/packages/ari/)
 * [ari on GitHub](https://github.com/jhudsl/ari)
 * [ari paper](https://johnmuschelli.com/ari_paper/)
+* [ari on docker](https://github.com/seankross/ari-on-docker)
 * [Markor](https://github.com/gsantner/markor)
 
 # Web Slides
