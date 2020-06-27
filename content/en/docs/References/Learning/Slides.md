@@ -35,3 +35,4 @@ description: Resources for learning with slides
 * [DZSlides](http://paulrouget.com/dzslides/)
 * [Slidy](https://www.w3.org/Talks/Tools/Slidy2/Overview.html#(1))
 * [Slideous](https://goessner.net/articles/slideous/slideous.html)
+* [Fusuma](https://hiroppy.github.io/fusuma/)
