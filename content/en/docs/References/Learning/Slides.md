@@ -14,6 +14,7 @@ description: Resources for learning with slides
 # Text to Speech
 * [Speech Markdown](https://www.speechmarkdown.org/)
 * [Voice Bot](https://voicebot.ai/)
+* [Jovo](https://www.jovo.tech/)
 
 # Presentations with voice
 * [ari](https://www.rdocumentation.org/packages/ari/)
