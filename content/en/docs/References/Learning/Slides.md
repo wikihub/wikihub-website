@@ -19,6 +19,7 @@ description: Resources for learning with slides
 # Presentations with voice
 * [ari](https://www.rdocumentation.org/packages/ari/)
 * [ari on GitHub](https://github.com/jhudsl/ari)
+* [ari paper](https://johnmuschelli.com/ari_paper/)
 * [Markor](https://github.com/gsantner/markor)
 
 # Web Slides
