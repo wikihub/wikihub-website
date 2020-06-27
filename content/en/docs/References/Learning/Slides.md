@@ -23,6 +23,7 @@ description: Resources for learning with slides
 * [ari on docker](https://github.com/seankross/ari-on-docker)
 * [ariExtra on GitHub](https://github.com/jhudsl/ariExtra)
 * [ariExtra](https://jhudatascience.org/ariExtra/)
+* [didactr](https://github.com/jhudsl/didactr)
 * [COVID lessons](https://github.com/jxtx/covid-lessons)
 * [Markor](https://github.com/gsantner/markor)
 
