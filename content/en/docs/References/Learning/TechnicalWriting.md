@@ -7,3 +7,7 @@ description: Resources for technical writing
 
 # Resources
 * [Write the Docs](https://www.writethedocs.org/guide/)
+
+# Markdown
+* [Zettlr](https://www.zettlr.com/features)
+* [Markdown](https://www.markdownguide.org/)
