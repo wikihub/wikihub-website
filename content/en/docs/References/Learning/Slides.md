@@ -49,4 +49,4 @@ description: Resources for learning with slides
 * [Slides](https://kripken.github.io/slides/)
 
 # [RISE](https://rise.readthedocs.io/en/stable/)
-* [RISE customization](https://github.com/damianavila/RISE/blob/master/doc/customize.md)
+* [Customizing RISE](https://github.com/damianavila/RISE/blob/master/doc/customize.md)
