@@ -6,7 +6,6 @@ description: Resources for learning with slides
 ---
 
 # Interactive Slides
-* [RISE](https://rise.readthedocs.io/en/stable/)
 
 # Recorded Presentations
 * [Slides Live](https://slideslive.com/)
@@ -48,3 +47,6 @@ description: Resources for learning with slides
 * [Reveal.js plugins](https://github.com/rajgoel/reveal.js-plugins)
 * [Recording and editing audio](https://silshack.github.io/inls161fall2016/present/2016/11/30/recording-and-editing-audio/)
 * [Slides](https://kripken.github.io/slides/)
+
+# [RISE](https://rise.readthedocs.io/en/stable/)
+* [RISE customization](https://github.com/damianavila/RISE/blob/master/doc/customize.md)
