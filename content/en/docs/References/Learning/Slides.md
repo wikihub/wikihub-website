@@ -47,3 +47,4 @@ description: Resources for learning with slides
 # [Reveal js](https://revealjs.com/#/)
 * [Reveal.js plugins](https://github.com/rajgoel/reveal.js-plugins)
 * [Recording and editing audio](https://silshack.github.io/inls161fall2016/present/2016/11/30/recording-and-editing-audio/)
+* [Slides](https://kripken.github.io/slides/)
