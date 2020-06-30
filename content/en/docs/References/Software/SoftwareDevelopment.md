@@ -59,6 +59,9 @@ description: News and information about software development and necessary tools
 - [Git submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules)
 - Update submodules: `git submodule update --init --recursive`
 
+### Tutorials
+- [Understanding git](https://hackernoon.com/understanding-git-fcffd87c15a3)
+
 # Documentation
 
 - [Docusaurus](https://docusaurus.io/en/)
