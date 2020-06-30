@@ -29,6 +29,6 @@ description: News and information about Internet of Things and its applications
 
 # 5G
 * [TELUS LTE Cat-M1 Offers](https://www.telus.com/en/bc/business/medium-large/enterprise-solutions/internet-of-things/low-power-wide-area)
-* [LTE-M br Rogers](https://about.rogers.com/news-ideas/rogers-launch-national-lte-m-network-power-next-era-iot-canada/)
-* [LTE-M](https://business.bell.ca/shop/medium-large/our-networks/lte-m)
+* [LTE-M by Rogers](https://about.rogers.com/news-ideas/rogers-launch-national-lte-m-network-power-next-era-iot-canada/)
+* [LTE-M by Bell Canada](https://business.bell.ca/shop/medium-large/our-networks/lte-m)
 * [NB-IoT by Rogers](https://www.rogers.com/business/products-and-solutions/internet-of-things/lpwa)
