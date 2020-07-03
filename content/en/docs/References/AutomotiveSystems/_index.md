@@ -29,3 +29,7 @@ description: Automotive Systems
 ## Chassis
 * [Speedway Motors](https://www.speedwaymotors.com/)
 * [Roadster hop](https://roadstershop.com/)
+
+# Security
+
+* [Emerging Issues in Cybersecurity: A Quickstart Guide to ISO/UNECE Standards within Automotive](https://register.gotowebinar.com/register/6193022740269878541?mkt_tok=eyJpIjoiWWpBNE1ETTFOemswWTJGaCIsInQiOiJxdDE0ZXlGUzRCaGVFUm5yMGZ0eGtpZG1jSEFJSXNBR2hPXC96NTh6UUcybWlpYzY2a2RcLzJhbCs5MlBsSFlvV3Q5YjZ2d2hER3NKVWVcLzE5eWRBQ2FLVFZUWnFWVmVFaEdubU5iaDdXeXVMUUhiY09cL0RHaFwvN3VIZk1YdTE4R1ZDIn0%3D)
