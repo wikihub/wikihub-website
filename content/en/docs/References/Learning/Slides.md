@@ -48,6 +48,7 @@ description: Resources for learning with slides
 * [Recording and editing audio](https://silshack.github.io/inls161fall2016/present/2016/11/30/recording-and-editing-audio/)
 * [Slides](https://kripken.github.io/slides/)
 * [revealSlides](https://github.com/mbotsch/revealSlides)
+* [Reveal HTML template](https://gist.github.com/aaronwolen/5017084)
 
 # [RISE](https://rise.readthedocs.io/en/stable/)
 * [Customizing RISE](https://github.com/damianavila/RISE/blob/master/doc/customize.md)
