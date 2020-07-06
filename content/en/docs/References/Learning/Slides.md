@@ -49,6 +49,7 @@ description: Resources for learning with slides
 * [Slides](https://kripken.github.io/slides/)
 * [revealSlides](https://github.com/mbotsch/revealSlides)
 * [Reveal HTML template](https://gist.github.com/aaronwolen/5017084)
+* [Present](https://github.com/anantshri/present)
 
 # [RISE](https://rise.readthedocs.io/en/stable/)
 * [Customizing RISE](https://github.com/damianavila/RISE/blob/master/doc/customize.md)
