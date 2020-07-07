@@ -20,3 +20,7 @@ description: Resources on mobile application development
 *   [Jekyll](https://jekyllrb.com/)
     *   [Jekyll themes](https://jekyllrb.com/docs/themes/)
 *   [Gitbook](https://pages.gitlab.io/gitbook/)
+
+# Search
+
+*   [Algolia](https://www.algolia.com/)
