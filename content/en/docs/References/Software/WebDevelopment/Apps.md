@@ -9,9 +9,10 @@ description: Resources on mobile application development
 
 # PWA
 
-*   [Gatsby](https://www.gatsbyjs.com/get-started)
-    *   [Gatsby Codelab](https://github.com/Neha/gatsbyjs-codelab)
-    *   [GitHub Action for Gatsby](https://github.com/himalay/himalay.github.io/blob/develop/.github/workflows/workflow.yml)
+##   [Gatsby](https://www.gatsbyjs.com/get-started)
+* [Gatsby Codelab](https://github.com/Neha/gatsbyjs-codelab)
+* [GitHub Action for Gatsby](https://github.com/himalay/himalay.github.io/blob/develop/.github/workflows/workflow.yml)
+* [JAMstack CMS](https://www.jamstackcms.io/)
 
 # [Static websites](https://www.staticgen.com/)
 
