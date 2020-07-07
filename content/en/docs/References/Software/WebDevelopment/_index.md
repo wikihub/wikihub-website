@@ -59,14 +59,7 @@ description: News and information about web development technologies
 * [The right way to do global npm install without sudo](http://michaelb.org/the-right-way-to-do-global-npm-install-without-sudo/)
 * [Fix the permission error: sudo npm cache clear --force](https://github.com/Microsoft/WSL/issues/14)
 
-# Web Applications
+# Canada
+* [Province of British Columbia](https://github.com/bcgov)
 
-## Financial Applications
-- [Firefly](https://firefly-iii.org/)
-- [Getpassiv](https://getpassiv.com)
-- [Portfolio Visualizer](https://www.portfoliovisualizer.com)
 
-## Forms
-
-* [Formspree](https://formspree.io/)
-* [Building serverless contact form static website](https://www.smashingmagazine.com/2018/05/building-serverless-contact-form-static-website/)
