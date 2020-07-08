@@ -45,9 +45,14 @@ description: News and information about Markdown
 *   [RStudio](https://www.rstudio.com/)
     *   [Slidify](http://slidify.org/index.html)
 *   [Markdown for Mac](http://mac.appstorm.net/roundups/productivity-roundups/35-markdown-apps-for-the-mac/)
-*   [Firepad](https://firepad.io/)
-*   [Socrates](http://socrates.io)
 *   [Notable](https://notable.app/)
+*   [10 online markdown editors](https://www.webfx.com/blog/web-design/online-markdown-editors/)
+
+# Online Editors
+
+*   [Firepad](https://firepad.io/)
+*   [Hackmd](https://hackmd.io/)
+*   [Socrates](http://socrates.io)
 
 # Blog
 
