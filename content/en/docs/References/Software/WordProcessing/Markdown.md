@@ -31,9 +31,9 @@ description: News and information about Markdown
 
 *   [CuteMarkEd](https://cloose.github.io/CuteMarkEd/)
 *   [Hallo](http://hallojs.org/)
-*   [Strapdownjs](http://strapdownjs.com/) - [Mathjax support with conflict](https://gist.github.com/memeplex/6309540)
+*   [Strapdownjs](http://strapdownjs.com/) 
+    - [Mathjax support with conflict](https://gist.github.com/memeplex/6309540)
 *   [Texts](http://www.texts.io/)
-*   [StackEdit](https://stackedit.io)
 *   [Haroo Pad](http://pad.haroopress.com/)
 *   [Dillinger](http://dillinger.io/)
 *   [Draftin](http://draftin.com)
@@ -49,7 +49,7 @@ description: News and information about Markdown
 *   [10 online markdown editors](https://www.webfx.com/blog/web-design/online-markdown-editors/)
 
 # Online Editors
-
+*   [StackEdit](https://stackedit.io)
 *   [Firepad](https://firepad.io/)
 *   [Hackmd](https://hackmd.io/)
 *   [Socrates](http://socrates.io)
