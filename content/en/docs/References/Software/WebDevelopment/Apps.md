@@ -10,6 +10,9 @@ description: Resources on mobile application development
 # Frontend
 * [Boilerplates](https://boilerplates.js.org/)
 
+# JAMStack
+* [Awesome JAMStack](https://github.com/automata/awesome-jamstack)
+
 # PWA
 
 ##   [Gatsby](https://www.gatsbyjs.com/get-started)
