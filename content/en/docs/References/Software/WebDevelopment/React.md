@@ -6,7 +6,6 @@ weight: 70
 description: News and information about React development
 ---
 
-# React
 - [Set up a modern web app by running one command.](https://create-react-app.dev/)
 - [Ant Design](https://ant.design/docs/react/introduce) - An enterprise-class UI design language and React-based implementation.
 - [Blueprint](http://blueprintjs.com/) - A React-based UI toolkit for the web. It is optimized for building complex, data-dense web interfaces for desktop applications.
@@ -22,3 +21,7 @@ description: News and information about React development
 - [React Toolbox](http://react-toolbox.com) - A set of React components that implement Google's Material Design specification.
 - [ReactXP](https://microsoft.github.io/reactxp/) - A library for cross-platform app development using React and React Native.
 - [Rebass](http://jxnblk.com/rebass/) - Configurable React Stateless Functional UI Components.
+
+# Deploy
+
+* [Single Page Apps for GitHub Pages](https://github.com/rafgraph/spa-github-pages)
