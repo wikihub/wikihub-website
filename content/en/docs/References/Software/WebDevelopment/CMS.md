@@ -11,6 +11,9 @@ description: News and information about CMS
 # Content management
 
 *   [sanity.io](https://www.sanity.io/)
+* [netlifyCMS](https://www.netlifycms.org/)
+* [Strapi](https://strapi.io/)
 
 # Membership
-* [Ghost](https://ghost.org/)
+
+*   [Ghost](https://ghost.org/)
