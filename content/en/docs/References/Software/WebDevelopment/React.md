@@ -25,3 +25,7 @@ description: News and information about React development
 # Deploy
 
 * [Single Page Apps for GitHub Pages](https://github.com/rafgraph/spa-github-pages)
+
+# Next.js
+
+* [Next.js examples](https://github.com/vercel/next.js/tree/master/examples)
