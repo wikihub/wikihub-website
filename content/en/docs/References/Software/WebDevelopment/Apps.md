@@ -10,6 +10,10 @@ description: Resources on mobile application development
 # Frontend
 * [Boilerplates](https://boilerplates.js.org/)
 
+# React
+
+* [Blitz.js](https://blitzjs.com/)
+
 # JAMStack
 * [Awesome JAMStack](https://github.com/automata/awesome-jamstack)
 
