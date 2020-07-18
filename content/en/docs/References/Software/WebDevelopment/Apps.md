@@ -32,6 +32,9 @@ description: Resources on mobile application development
     *   [Jekyll themes](https://jekyllrb.com/docs/themes/)
 *   [Gitbook](https://pages.gitlab.io/gitbook/)
 
+# Authentication
+* [Ooth](https://nmaro.github.io/ooth/)
+
 # Search
 
 *   [Algolia](https://www.algolia.com/)
