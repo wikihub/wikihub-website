@@ -28,6 +28,10 @@ description: Resources for learning
 
 *   [Introduction to databases](https://github.com/ipeirotis/introduction-to-databases/tree/739f25fd9891523bc949f5aeda2c515f5d2b6858)
 
+# Learning Management System
+
+* [Courselit](https://github.com/recurzery/courselit)
+
 # Online course templates
 
 *   [Gatsby, Reveal.js and Binder](https://github.com/ines/course-starter-python)
