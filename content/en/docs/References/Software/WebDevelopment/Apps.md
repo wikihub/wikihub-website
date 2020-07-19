@@ -32,6 +32,10 @@ description: Resources on mobile application development
     *   [Jekyll themes](https://jekyllrb.com/docs/themes/)
 *   [Gitbook](https://pages.gitlab.io/gitbook/)
 
+## Examples
+* [Vercel Examples](https://github.com/vercel/now-examples)
+
+
 # Authentication
 * [Ooth](https://nmaro.github.io/ooth/)
 
