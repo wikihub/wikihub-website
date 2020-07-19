@@ -33,7 +33,7 @@ description: Resources on mobile application development
 *   [Gitbook](https://pages.gitlab.io/gitbook/)
 
 ## Examples
-* [Vercel Examples](https://github.com/vercel/now-examples)
+* [Vercel Examples](https://github.com/vercel/vercel/tree/master/examples)
 
 
 # Authentication
