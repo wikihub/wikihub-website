@@ -21,3 +21,8 @@ description: News and information about Vue.js tools
 - [Quasar Framework](http://quasar-framework.org/) - build responsive websites, hybrid mobile Apps (that look native!) and Electron apps using same code, with VueJs 2.
 - [Vuetify.js](https://vuetifyjs.com/) - a component framework for Vue.js 2.
 - [Vue Material](https://vuematerial.github.io/) - lightweight framework built exactly according to the Material Design specs. It aims to deliver a collection of reusable components and a series of UI Elements to build applications with support to all modern Web Browsers through Vue 2.
+
+# Nuxt
+* [Awesome Nuxt.js (community)](https://github.com/nuxt-community/awesome-nuxt)
+* [Awesome Nuxt.js](https://github.com/Developerayo/awesome-nuxtjs)
+* [Awesome Nuxt.js.org](https://awesome-nuxt.js.org/)
