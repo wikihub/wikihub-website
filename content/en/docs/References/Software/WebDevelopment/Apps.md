@@ -24,6 +24,7 @@ description: Resources on mobile application development
 * [GitHub Action for Gatsby](https://github.com/himalay/himalay.github.io/blob/develop/.github/workflows/workflow.yml)
 * [JAMstack CMS](https://www.jamstackcms.io/)
 * [Gatsby starter portfolio emma](https://github.com/LekoArts/gatsby-starter-portfolio-emma)
+* [Gatsby starters](https://awesomeopensource.com/projects/gatsby-starter)
 
 # [Static websites](https://www.staticgen.com/)
 
