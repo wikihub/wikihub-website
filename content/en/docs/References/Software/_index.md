@@ -105,3 +105,6 @@ description: Software resources
 
 * Remove any external hard drive or flash memory.
 * [Install Windows 10 on Asus ROG](https://rog.asus.com/forum/showthread.php?76993-Guide-How-to-install-windows-8-8-1-10-The-proper-way-(UEFI-based-installation))
+
+## WSL
+* [Convert WSL1 to WSL2](https://ericsysmin.com/2019/07/13/converting-wsl-1-operating-systems-to-wsl-2-on-windows/)
