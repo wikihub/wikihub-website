@@ -105,6 +105,7 @@ description: Software resources
 
 * Remove any external hard drive or flash memory.
 * [Install Windows 10 on Asus ROG](https://rog.asus.com/forum/showthread.php?76993-Guide-How-to-install-windows-8-8-1-10-The-proper-way-(UEFI-based-installation))
+* [Nano text editor for windows](https://files.lhmouse.com/nano-win/)
 
 ## ssh
 * [Set-Service ssh-agent -StartupType Manual](https://github.com/lukesampson/pshazz/issues/70)
