@@ -8,6 +8,7 @@ description: News and information about web development technologies
 
 # Learning resources
 * [web.dev](https://web.dev/)
+* [Egghead](https://egghead.io/)
 
 # Websites
 * [Jamstack](https://jamstack.org/)
