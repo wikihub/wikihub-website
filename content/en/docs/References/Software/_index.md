@@ -108,6 +108,7 @@ description: Software resources
 * [Nano text editor for windows](https://files.lhmouse.com/nano-win/)
 
 ## ssh
+* [Visual Studio Code](https://code.visualstudio.com/docs/remote/troubleshooting)
 * [Set-Service ssh-agent -StartupType Manual](https://github.com/lukesampson/pshazz/issues/70)
 
 ## WSL
