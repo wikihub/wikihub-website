@@ -14,6 +14,9 @@ description: Resources on mobile application development
 
 * [Blitz.js](https://blitzjs.com/)
 
+# React Native
+* [Stegappasaurus](https://gitlab.com/hmajid2301/stegappasaurus/-/tree/master)
+
 # JAMStack
 * [Awesome JAMStack](https://github.com/automata/awesome-jamstack)
 
