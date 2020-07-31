@@ -29,6 +29,7 @@ description: Resources on mobile application development
 * [Gatsby starter portfolio emma](https://github.com/LekoArts/gatsby-starter-portfolio-emma)
 * [Gatsby starters](https://awesomeopensource.com/projects/gatsby-starter)
 * [How to set up Gatsbyjs authentication with Auth0](https://www.freecodecamp.org/news/how-to-set-up-gatsbyjs-authentication-with-auth0-d07abdd5a4f4/)
+* [Gatsby and Docz](https://github.com/doczjs/docz/tree/master/core/gatsby-theme-docz)
 
 # [Static websites](https://www.staticgen.com/)
 
