@@ -11,6 +11,7 @@ description: News and information about web development technologies
 * [Egghead](https://egghead.io/)
 * [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
 * [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
+* [Codepen.io](https://codepen.io/)
 
 # Websites
 * [Jamstack](https://jamstack.org/)
