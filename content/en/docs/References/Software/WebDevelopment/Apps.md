@@ -31,6 +31,11 @@ description: Resources on mobile application development
 * [How to set up Gatsbyjs authentication with Auth0](https://www.freecodecamp.org/news/how-to-set-up-gatsbyjs-authentication-with-auth0-d07abdd5a4f4/)
 * [Gatsby and Docz](https://github.com/doczjs/docz/tree/master/core/gatsby-theme-docz)
 
+### Gatsby.js Learning
+* [Dev.to Gatsby](https://dev.to/t/gatsby)
+* [Hashnode Gatsby](https://hashnode.com/n/gatsby)
+* [Stack overflow](https://stackoverflow.com/questions/tagged/gatsby)
+
 # [Static websites](https://www.staticgen.com/)
 
 *   [Hugo](https://gohugo.io/)
