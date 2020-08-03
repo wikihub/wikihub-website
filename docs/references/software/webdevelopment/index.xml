@@ -312,7 +312,6 @@
         &lt;h1 id=&#34;vuejshttpsvuejsorg&#34;&gt;&lt;a href=&#34;https://vuejs.org/&#34;&gt;Vue.js&lt;/a&gt;&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/vuejs/awesome-vue&#34;&gt;Awesome Vue&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://gridsome.org/&#34;&gt;Gridsome&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://vuepress.vuejs.org/&#34;&gt;VuePress&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.vuescript.com/&#34;&gt;VueScript.com&lt;/a&gt; - Aims to offer latest free Vue.js components for web application developers.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://auth0.com/blog/build-an-app-with-vuejs/&#34;&gt;Build an App with Vue.js: From Authentication to Calling an API&lt;/a&gt;&lt;/li&gt;
@@ -331,7 +330,10 @@
 &lt;li&gt;&lt;a href=&#34;https://github.com/Developerayo/awesome-nuxtjs&#34;&gt;Awesome Nuxt.js&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://awesome-nuxt.js.org/&#34;&gt;Awesome Nuxt.js.org&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id=&#34;gridsomehttpsgridsomeorg&#34;&gt;&lt;a href=&#34;https://gridsome.org/&#34;&gt;Gridsome&lt;/a&gt;&lt;/h1&gt;
+&lt;h1 id=&#34;static-websites&#34;&gt;Static websites&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://gridsome.org/&#34;&gt;Gridsome&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
       </description>
     </item>
