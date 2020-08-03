@@ -7,7 +7,6 @@ weight: 70
 description: News and information about authentication
 
 ---
-
 # React
 
 *   [useAuth](https://github.com/Swizec/useAuth)
