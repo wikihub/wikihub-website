@@ -277,6 +277,10 @@
 &lt;li&gt;&lt;a href=&#34;https://www.gatsbyjs.org/blog/2018-12-17-turning-the-static-dynamic/&#34;&gt;Turning the static dynamic&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/sw-yx/jamstack-hackathon-starter&#34;&gt;Dynamic Gatsby hackaton starter&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h2 id=&#34;headless-cms&#34;&gt;Headless CMS&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://strapi.io/blog/strapi-starter-gatsby-blog-v2&#34;&gt;Strapi Gatsby blog starter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h1 id=&#34;deploy&#34;&gt;Deploy&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/rafgraph/spa-github-pages&#34;&gt;Single Page Apps for GitHub Pages&lt;/a&gt;&lt;/li&gt;
