@@ -43,6 +43,13 @@ description: News and information about React development
 ## Headless CMS
 * [Strapi Gatsby blog starter](https://strapi.io/blog/strapi-starter-gatsby-blog-v2)
 
+# Authentication
+
+*   [useAuth](https://github.com/Swizec/useAuth)
+*   [Netlify Identify](https://github.com/sw-yx/jamstack-hackathon-starter/)
+* [Hasura](https://hasura.io/)
+* [Prisma](https://www.prisma.io/)
+
 # Deploy
 
 * [Single Page Apps for GitHub Pages](https://github.com/rafgraph/spa-github-pages)
