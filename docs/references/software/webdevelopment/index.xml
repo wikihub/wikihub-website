@@ -272,6 +272,10 @@
 &lt;li&gt;&lt;a href=&#34;https://hashnode.com/n/gatsby&#34;&gt;Hashnode Gatsby&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://stackoverflow.com/questions/tagged/gatsby&#34;&gt;Stack overflow&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h2 id=&#34;dynamic-gatsby&#34;&gt;Dynamic Gatsby&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.gatsbyjs.org/blog/2018-12-17-turning-the-static-dynamic/&#34;&gt;Turning the static dynamic&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h1 id=&#34;deploy&#34;&gt;Deploy&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/rafgraph/spa-github-pages&#34;&gt;Single Page Apps for GitHub Pages&lt;/a&gt;&lt;/li&gt;
