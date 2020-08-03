@@ -36,6 +36,9 @@ description: News and information about React development
 * [Hashnode Gatsby](https://hashnode.com/n/gatsby)
 * [Stack overflow](https://stackoverflow.com/questions/tagged/gatsby)
 
+## Dynamic Gatsby
+* [Turning the static dynamic](https://www.gatsbyjs.org/blog/2018-12-17-turning-the-static-dynamic/)
+
 # Deploy
 
 * [Single Page Apps for GitHub Pages](https://github.com/rafgraph/spa-github-pages)
