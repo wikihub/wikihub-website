@@ -285,6 +285,13 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://strapi.io/blog/strapi-starter-gatsby-blog-v2&#34;&gt;Strapi Gatsby blog starter&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h1 id=&#34;authentication&#34;&gt;Authentication&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/Swizec/useAuth&#34;&gt;useAuth&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/sw-yx/jamstack-hackathon-starter/&#34;&gt;Netlify Identify&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://hasura.io/&#34;&gt;Hasura&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.prisma.io/&#34;&gt;Prisma&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h1 id=&#34;deploy&#34;&gt;Deploy&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/rafgraph/spa-github-pages&#34;&gt;Single Page Apps for GitHub Pages&lt;/a&gt;&lt;/li&gt;
