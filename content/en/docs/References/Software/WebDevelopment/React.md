@@ -43,10 +43,16 @@ description: News and information about React development
 ## Headless CMS
 * [Strapi Gatsby blog starter](https://strapi.io/blog/strapi-starter-gatsby-blog-v2)
 
-# Authentication
+## Authentication
 
-*   [useAuth](https://github.com/Swizec/useAuth)
-*   [Netlify Identify](https://github.com/sw-yx/jamstack-hackathon-starter/)
+* [Gatsby authentication tutorial](https://www.gatsbyjs.org/tutorial/authentication-tutorial/)
+* [Building a site with Gatsby with authentication](https://www.gatsbyjs.org/docs/building-a-site-with-authentication/)
+* [Gatsby client only routes and user authentication](https://www.gatsbyjs.org/docs/client-only-routes-and-user-authentication/)
+* [Add Authentication to Your Gatsby Apps With Auth0](https://www.gatsbyjs.org/blog/2019-03-21-add-auth0-to-gatsby-livestream/)
+* [Securing Gatsby with Auth0](https://auth0.com/blog/securing-gatsby-with-auth0/)
+* [How to set up GatsbyJS authentication with Auth0](https://www.freecodecamp.org/news/how-to-set-up-gatsbyjs-authentication-with-auth0-d07abdd5a4f4/)
+* [useAuth](https://github.com/Swizec/useAuth)
+* [Netlify Identify](https://github.com/sw-yx/jamstack-hackathon-starter/)
 * [Hasura](https://hasura.io/)
 * [Prisma](https://www.prisma.io/)
 
