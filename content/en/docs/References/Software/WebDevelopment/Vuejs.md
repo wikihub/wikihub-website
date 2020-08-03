@@ -9,7 +9,6 @@ description: News and information about Vue.js tools
 # [Vue.js](https://vuejs.org/)
 
 - [Awesome Vue](https://github.com/vuejs/awesome-vue)
-- [Gridsome](https://gridsome.org/)
 - [VuePress](https://vuepress.vuejs.org/)
 - [VueScript.com](http://www.vuescript.com/) - Aims to offer latest free Vue.js components for web application developers.
 - [Build an App with Vue.js: From Authentication to Calling an API](https://auth0.com/blog/build-an-app-with-vuejs/)
@@ -27,4 +26,5 @@ description: News and information about Vue.js tools
 * [Awesome Nuxt.js](https://github.com/Developerayo/awesome-nuxtjs)
 * [Awesome Nuxt.js.org](https://awesome-nuxt.js.org/)
 
-# [Gridsome](https://gridsome.org/)
+# Static websites
+* [Gridsome](https://gridsome.org/)
