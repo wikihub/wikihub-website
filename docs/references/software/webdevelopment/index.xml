@@ -285,8 +285,14 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://strapi.io/blog/strapi-starter-gatsby-blog-v2&#34;&gt;Strapi Gatsby blog starter&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id=&#34;authentication&#34;&gt;Authentication&lt;/h1&gt;
+&lt;h2 id=&#34;authentication&#34;&gt;Authentication&lt;/h2&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.gatsbyjs.org/tutorial/authentication-tutorial/&#34;&gt;Gatsby authentication tutorial&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.gatsbyjs.org/docs/building-a-site-with-authentication/&#34;&gt;Building a site with Gatsby with authentication&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.gatsbyjs.org/docs/client-only-routes-and-user-authentication/&#34;&gt;Gatsby client only routes and user authentication&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.gatsbyjs.org/blog/2019-03-21-add-auth0-to-gatsby-livestream/&#34;&gt;Add Authentication to Your Gatsby Apps With Auth0&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://auth0.com/blog/securing-gatsby-with-auth0/&#34;&gt;Securing Gatsby with Auth0&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.freecodecamp.org/news/how-to-set-up-gatsbyjs-authentication-with-auth0-d07abdd5a4f4/&#34;&gt;How to set up GatsbyJS authentication with Auth0&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/Swizec/useAuth&#34;&gt;useAuth&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/sw-yx/jamstack-hackathon-starter/&#34;&gt;Netlify Identify&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://hasura.io/&#34;&gt;Hasura&lt;/a&gt;&lt;/li&gt;
