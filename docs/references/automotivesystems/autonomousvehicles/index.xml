@@ -1,0 +1,644 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WIKIHUB – Autonomous Vehicles</title>
+    <link>https://wikihub.github.io/docs/references/automotivesystems/autonomousvehicles/</link>
+    <description>Recent Hugo news from gohugo.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <image>
+      <url>https://wikihub.github.io/img/hugo.png</url>
+      <title>GoHugo.io</title>
+      <link>https://wikihub.github.io/docs/references/automotivesystems/autonomousvehicles/</link>
+    </image>
+    
+	  <atom:link href="https://wikihub.github.io/docs/references/automotivesystems/autonomousvehicles/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: Autonomous Racing</title>
+      <link>https://wikihub.github.io/docs/references/automotivesystems/autonomousvehicles/autonomousracing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/automotivesystems/autonomousvehicles/autonomousracing/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;races&#34;&gt;Races&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://driverless.amzracing.ch/en/home&#34;&gt;AMZ Deriverless&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;go-karts&#34;&gt;Go Karts&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://polybox.ethz.ch/index.php/s/cs2QXrVWPLyk8up&#34;&gt;Autonomous Go Kart Racing at ETHZ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/idsc-frazzoli/kartsim/tree/master/src&#34;&gt;Kartsim by ETHZ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;rc-cars&#34;&gt;RC cars&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=QWY7sV9sjkA&#34;&gt;ORCA - ETHZ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://linklab-uva.github.io/autonomousracing/&#34;&gt;F1/10 autonomous racing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://aws.amazon.com/deepracer/&#34;&gt;DeepRacer&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Connected Vehicles</title>
+      <link>https://wikihub.github.io/docs/references/automotivesystems/autonomousvehicles/connectedvehicles/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/automotivesystems/autonomousvehicles/connectedvehicles/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;arpa-e&#34;&gt;ARPA-E&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://arpa-e.energy.gov/?q=arpa-e-programs/nextcar&#34;&gt;ARPA-E Next Car&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://news.engin.umich.edu/2017/05/sun-awarded-1-5m-for-nextcar/&#34;&gt;Jing Sun, awarded $1.5M grant for NEXTCAR automated vehicle project&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.bu.edu/codes/2019/05/07/smart-transportation-in-future-cities/&#34;&gt;CODES Lab at Boston University&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Hardware</title>
+      <link>https://wikihub.github.io/docs/references/automotivesystems/autonomousvehicles/hardware-autonomousvehicles/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/automotivesystems/autonomousvehicles/hardware-autonomousvehicles/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;semiconductor-companies&#34;&gt;Semiconductor companies&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.renesas.com/us/en/support/partners/r-car-consortium/partner.html&#34;&gt;Renesas&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;applications&#34;&gt;Applications&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.dibotics.com/&#34;&gt;Dibotics 3D SLAM&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.outsight.tech/&#34;&gt;3D semantic camera&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Machine Learning</title>
+      <link>https://wikihub.github.io/docs/references/automotivesystems/autonomousvehicles/machinelearning-autonomousvehicles/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/automotivesystems/autonomousvehicles/machinelearning-autonomousvehicles/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;nvidia&#34;&gt;NVIDIA&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/NVIDIA-AI-IOT/jetracer&#34;&gt;JetRacer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/NVIDIA-AI-IOT/Foresee-Navigation&#34;&gt;Forsee Navigation&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;end-to-end-driving&#34;&gt;End to End Driving&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/DJTobias/Cherry-Autonomous-Racecar&#34;&gt;Autonomous Race Car&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/NVIDIA-AI-IOT/redtail&#34;&gt;NVIDIA Redtail&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.indiehackers.com/@FutureLearning/318f4b98b9&#34;&gt;Transform your Drone into an Autonomous Drone&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Apex.ai</title>
+      <link>https://wikihub.github.io/docs/references/automotivesystems/autonomousvehicles/apex.ai/</link>
+      <pubDate>Sat, 18 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/automotivesystems/autonomousvehicles/apex.ai/</guid>
+      <description>
+        
+        
+        &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://gitlab.com/ApexAI&#34;&gt;Apex.AI on Gitlab&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/292695688&#34;&gt;ROSCon 2018 Madrid: ROS 2 on Autonomous Driving Vehicles&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: AutoCore</title>
+      <link>https://wikihub.github.io/docs/references/automotivesystems/autonomousvehicles/autocore/</link>
+      <pubDate>Sat, 18 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/automotivesystems/autonomousvehicles/autocore/</guid>
+      <description>
+        
+        
+        &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.autocore.ai/&#34;&gt;AutoCore&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/autocore-ai/autocore_pcu_doc&#34;&gt;AutoCore PCU&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Vehicle Interface</title>
+      <link>https://wikihub.github.io/docs/references/automotivesystems/autonomousvehicles/vehiclecontroller/</link>
+      <pubDate>Sat, 18 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/automotivesystems/autonomousvehicles/vehiclecontroller/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;vehicle-interface&#34;&gt;Vehicle Interface&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/openxc/vi-firmware&#34;&gt;Vehicle Interface Firmware&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;can&#34;&gt;CAN&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.kvaser.com/download/&#34;&gt;KVASER&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.mikroe.com/can-isolator-click&#34;&gt;CAN Isolator Click&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;sockercanhttpsenmwikipediaorgwikisocketcan&#34;&gt;&lt;a href=&#34;https://en.m.wikipedia.org/wiki/SocketCAN&#34;&gt;SockerCAN&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://elinux.org/CAN_Bus&#34;&gt;CAN bus on embedded Linux&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Waymo</title>
+      <link>https://wikihub.github.io/docs/references/automotivesystems/autonomousvehicles/waymo/</link>
+      <pubDate>Sat, 18 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/automotivesystems/autonomousvehicles/waymo/</guid>
+      <description>
+        
+        
+        &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/yonohub/waymo-open-dataset-on-yonohub-part-1-c196b5bd7ed7&#34;&gt;Waymo Dataset— Using Yonohub to develop, evaluate and benchmark over the cloud&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/waymo-research&#34;&gt;Waymo Research&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://yonohub.com/&#34;&gt;Yonohub&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Dataspeed</title>
+      <link>https://wikihub.github.io/docs/references/automotivesystems/autonomousvehicles/dataspeed/</link>
+      <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/automotivesystems/autonomousvehicles/dataspeed/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;dataspeedhttpswwwdataspeedinccom&#34;&gt;&lt;a href=&#34;https://www.dataspeedinc.com/&#34;&gt;Dataspeed&lt;/a&gt;&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://wikihub.github.io/docs/references/automotivesystems/autonomousvehicles/autoware/&#34;&gt;Autoware&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://wikihub.github.io/docs/references/automotivesystems/autonomousvehicles/apollo/&#34;&gt;Apollo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://wikihub.github.io/docs/references/robotics/ros/&#34;&gt;ROS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.mathworks.com/products/automated-driving.html&#34;&gt;MATLAB/Simulink&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;projects&#34;&gt;Projects&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://bitbucket.org/DataspeedInc/profile/projects&#34;&gt;Dataspeed Bitbucket&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;simulation&#34;&gt;Simulation&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://bitbucket.org/DataspeedInc/dataspeed_dbw_simulation/src/master/&#34;&gt;DBW Simulation&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Learning CAV</title>
+      <link>https://wikihub.github.io/docs/references/automotivesystems/autonomousvehicles/learning/</link>
+      <pubDate>Mon, 06 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/automotivesystems/autonomousvehicles/learning/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;udacityhttpswwwudacitycom&#34;&gt;&lt;a href=&#34;https://www.udacity.com/&#34;&gt;Udacity&lt;/a&gt;&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013&#34;&gt;Self-driving Car Engineer Nanodegree Program&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;courserahttpswwwcourseraorg&#34;&gt;&lt;a href=&#34;https://www.coursera.org/&#34;&gt;Coursera&lt;/a&gt;&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.coursera.org/specializations/self-driving-cars&#34;&gt;Self-Driving Cars Specialization&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;edxhttpswwwedxorg&#34;&gt;&lt;a href=&#34;https://www.edx.org&#34;&gt;EdX&lt;/a&gt;&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.edx.org/course/multi-object-tracking-for-automotive-systems&#34;&gt;Multi-Object Tracking for Automotive Systems&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.edx.org/course/sensor-fusion-and-non-linear-filtering-for-automot&#34;&gt;Sensor Fusion and Non-linear Filtering for Automotive Systems&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;udemyhttpswwwudemycom&#34;&gt;&lt;a href=&#34;https://www.udemy.com/&#34;&gt;Udemy&lt;/a&gt;&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.udemy.com/user/daniel-stang-2/&#34;&gt;Daniel Stang&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: LG</title>
+      <link>https://wikihub.github.io/docs/references/automotivesystems/autonomousvehicles/lg/</link>
+      <pubDate>Tue, 31 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/automotivesystems/autonomousvehicles/lg/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;lg-svl-simulatorhttpswwwlgsvlsimulatorcom&#34;&gt;&lt;a href=&#34;https://www.lgsvlsimulator.com/&#34;&gt;LG SVL Simulator&lt;/a&gt;&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/lgsvl/Autoware&#34;&gt;Autoware modified by LG Silicon Valley Lab&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Agriculture</title>
+      <link>https://wikihub.github.io/docs/references/automotivesystems/autonomousvehicles/agriculture/</link>
+      <pubDate>Thu, 06 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/automotivesystems/autonomousvehicles/agriculture/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;agriculture&#34;&gt;Agriculture&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.futurefarming.com/Machinery/Articles/2017/4/Kubota-launches-auto-steering-for-small-tractors-and-UTVs-902WP/&#34;&gt;Kubota&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.futurefarming.com/Machinery/Articles/2019/11/21-autonomous-tractor-projects-around-the-world-501448E/&#34;&gt;21 autonomous tractor projects around the world&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://agriculture.newholland.com/nar/en-us/about-us/whats-up/news-events/2016/new-holland-nh-drive-new-concept-autonomous-tractor&#34;&gt;New Holland Drive&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;agritechnica-2019&#34;&gt;Agritechnica 2019&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.agrointelli.com/&#34;&gt;Agrointelli&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.uml-tech.com/&#34;&gt;Commercial Vehicle Intelligent Control&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.carre.fr/?lang=en&#34;&gt;Carre&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cognitivepilot.com/&#34;&gt;Cognitive Pilot&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.continental.com/en&#34;&gt;Continental&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.seedotrun.com/&#34;&gt;DOT&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.dronesimaging.com/en&#34;&gt;Drones Imaging&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://farmdroid.dk/en/welcome/&#34;&gt;Farmdroid&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://fons.cz/en/&#34;&gt;Fons&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://frontierconnect.me/&#34;&gt;Frontier Connect&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.garford.com/&#34;&gt;Garford&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://general-laser.at/&#34;&gt;General Laser&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.giulianicylinders.com/&#34;&gt;Giuliani S.r.l.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.harxon.com/&#34;&gt;Harxon&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.hiphen-plant.com/&#34;&gt;Hiphen Plant&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.hs-osnabrueck.de/de/kompetenzzentrum-coala/&#34;&gt;Kompetenzzentrum COALA&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.jcaelectronics.ca/&#34;&gt;JCA Electronics&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.kress-landtechnik.eu/en/index.php&#34;&gt;K.U.L.T&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.lykketronic.dk/&#34;&gt;Lykketronic&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://machineryguide.hu/index&#34;&gt;Machinery Guide&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://maskor.fh-aachen.de/projects/ETAROB/&#34;&gt;Aachen ETAROB&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.milar.farm/&#34;&gt;Milar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.mobiletronics.net/&#34;&gt;Mobiletronics&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.naio-technologies.com/en/&#34;&gt;Naïo Technologies&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://optronia.com/&#34;&gt;Optronia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.pool-agri.com/&#34;&gt;Pool agri&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.raussendorf.de/en/index.html&#34;&gt;Raussendorf&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://agrar.uni-hohenheim.de/&#34;&gt;Universität Hohenheim, faculty of agricultural sciences&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://kbs.informatik.uos.de/&#34;&gt;Universität Osnabrück - Embedded Knowledge-Based Systems&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.verticalworks.eu/&#34;&gt;Vertical Works&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.xa.com/&#34;&gt;XAG&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Apollo</title>
+      <link>https://wikihub.github.io/docs/references/automotivesystems/autonomousvehicles/apollo/</link>
+      <pubDate>Thu, 06 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/automotivesystems/autonomousvehicles/apollo/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;apollohttpapolloauto&#34;&gt;&lt;a href=&#34;http://apollo.auto&#34;&gt;Apollo&lt;/a&gt;&lt;/h1&gt;
+&lt;h1 id=&#34;companies&#34;&gt;Companies&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/AuroAi&#34;&gt;Auro&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Autoware</title>
+      <link>https://wikihub.github.io/docs/references/automotivesystems/autonomousvehicles/autoware/</link>
+      <pubDate>Thu, 06 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/automotivesystems/autonomousvehicles/autoware/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;autowareiohttpsgitlabcomautowarefoundationautowareaidrivers&#34;&gt;&lt;a href=&#34;https://gitlab.com/autowarefoundation/autoware.ai/drivers&#34;&gt;Autoware.io&lt;/a&gt;&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Vehicle control&lt;/li&gt;
+&lt;li&gt;Sensor and ECU integration&lt;/li&gt;
+&lt;li&gt;Simulation &amp;amp; Tools&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;autowareai-ros-1httpsgitlabcomautowarefoundationautowareai&#34;&gt;&lt;a href=&#34;https://gitlab.com/autowarefoundation/autoware.ai&#34;&gt;Autoware.ai (ROS 1)&lt;/a&gt;&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://gitlab.com/autowarefoundation/autoware.ai/autoware/-/wikis/home&#34;&gt;Autoware wiki&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/CPFL/Autoware-Manuals/tree/master/en&#34;&gt;Autoware manuals&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/pixmoving-moveit/Autoware_tutorial&#34;&gt;Autoware Tutorial&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/autocore-ai&#34;&gt;Autocore&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://streetdrone.com/&#34;&gt;Streetdrone&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://autoware.readthedocs.io/en/feature-documentation_rtd/index.html&#34;&gt;Autoware feature documentation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.autoware.auto/&#34;&gt;Autoware&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/autowarefoundation&#34;&gt;Autoware Foundation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.tier4.jp/en/news/20181210-awf/&#34;&gt;Autoware Foundation Announcement&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.fujipress.jp/jrm/rb/robot002900040668/&#34;&gt;Open Source Integrated Planner for Autonomous Navigation in Highly Dynamic Environments&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/channel/UCtUkb-IvlrqaNOsgcV3QRhQ&#34;&gt;AMC JP YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/pixmoving&#34;&gt;PIX Moving&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/pixmoving-moveit&#34;&gt;PIX Moving MoveIt&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/pixmoving-moveit/Autoware_tutorial&#34;&gt;Autoware tutorial by PIX Moving&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;repos&#34;&gt;Repos&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/hatem-darweesh/autoware/tree/op-x&#34;&gt;op-x repo by Hatem&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/streetdrone-home/Autoware/&#34;&gt;Old Autoware repo&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;simulation&#34;&gt;Simulation&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://gitlab.com/autowarefoundation/autoware.ai/autoware/-/wikis/Gazebo-Simulation-Start&#34;&gt;Gazebo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/lgsvl/Autoware&#34;&gt;LGSVL GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gitlab.com/autowarefoundation/autoware.ai/autoware/-/wikis/LGSVL-Simulator-Quick-Start-Guide&#34;&gt;LGSVL Start Guide&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;carla-and-autoware&#34;&gt;Carla and Autoware&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/carla-simulator/carla-autoware&#34;&gt;Carla Autoware&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gitlab.com/autowarefoundation/autoware.ai/simulation/-/tree/master/carla_simulator_bridge&#34;&gt;Carla simulation bridge&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;fleet-management&#34;&gt;Fleet Management&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/CPFL/AMS&#34;&gt;Autoware Management System&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;autowareauto-ros-2&#34;&gt;Autoware.auto (ROS 2)&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://autowarefoundation.gitlab.io/autoware.auto/AutowareAuto/index.html&#34;&gt;AutowareAuto wiki&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://autowarefoundation.gitlab.io/autoware.auto/AutowareAuto/howto.html&#34;&gt;AutowareAuto How to&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gitlab.com/autowarefoundation/autoware-foundation/-/wikis/Autonomy-hardware-working-group&#34;&gt;Autonomy hardware workgroup&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gitlab.com/autowarefoundation/autoware-foundation/-/wikis/Autonomy-Software-working-group&#34;&gt;Autonomy software working group&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;vehicle-interface&#34;&gt;Vehicle Interface&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://gitlab.com/autowarefoundation/autoware.auto/AutowareAuto/-/issues/85&#34;&gt;Collect use cases for vehicle interface&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Linux CAN (SocketCAN: can-utils) interface for networking CAN Bus support to the Linux Kernel&lt;/li&gt;
+&lt;li&gt;All platforms use CAN as the low-level communication protocol but each DBW system has its own implementation (DBC).&lt;/li&gt;
+&lt;li&gt;At this time, some vendors provide ROS drivers which can utilize either &amp;lsquo;kvaser_interface&amp;rsquo; or &amp;lsquo;socketcan_interface&amp;rsquo; ROS nodes to communicate with their DBW system while others use their own proprietary hardware and software interface for CAN communication below the ROS layer.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gitlab.com/autowarefoundation/autoware.auto/AutowareAuto/-/blob/master/docs/architecture/reference_implementations/vehicle-interface-reference-implementation.md&#34;&gt;Vehicle interface reference implementation&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;autonomous-valet-parking&#34;&gt;Autonomous Valet Parking&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://gitlab.com/autowarefoundation/autoware.auto/AutowareAuto/-/milestones/29&#34;&gt;Milestone 1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gitlab.com/autowarefoundation/autoware.auto/AutowareAuto/-/milestones/24&#34;&gt;Milestone 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gitlab.com/autowarefoundation/autoware.auto/AutowareAuto/-/milestones/25&#34;&gt;Milestone 3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gitlab.com/autowarefoundation/autoware.auto/AutowareAuto/-/milestones/26&#34;&gt;Milestone 4&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gitlab.com/autowarefoundation/autoware.auto/AutowareAuto/-/milestones/27&#34;&gt;Milestone 5&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://zoom.us/recording/play/6WgbvY-PneV_y0ldeBVEPOs8P35NcWVYHcA3v9QmlXp9UgWXeW_KHQp_rJmRfI2F&#34;&gt;AVP Zoom meeting 3 Dec. 2019&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;maps&#34;&gt;Maps&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/hatem-darweesh/assuremappingtools&#34;&gt;ASSURE MAPS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/fzi-forschungszentrum-informatik/Lanelet2&#34;&gt;Lanelet2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.opendrive.org/&#34;&gt;OpenDRIVE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/autocore-ai/MapToolbox&#34;&gt;Map Toolbox by AutoCore&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://avp-project.uk/downloads&#34;&gt;AVP maps&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.opendrive.org/&#34;&gt;OpenDRIVE&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;simulation-1&#34;&gt;Simulation&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://carla.org/&#34;&gt;Carla&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://autowarefoundation.gitlab.io/autoware.auto/AutowareAuto/lgsvl.html&#34;&gt;LGSVL&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;web-applications&#34;&gt;Web Applications&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/tier4/autoware_web_runtime_manager&#34;&gt;Autoware web runtime manager&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;companies&#34;&gt;Companies&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.pixmoving.com/&#34;&gt;Pix Moving&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/pixmoving-moveit&#34;&gt;Pix Moving Community&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.zmp.co.jp/en/products/robocar-mv?lang=en&#34;&gt;ZMP MV2&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;projects&#34;&gt;Projects&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://avp-project.uk/autoware&#34;&gt;Autonomous Valet Parking&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;people&#34;&gt;People&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/amintahmasbi&#34;&gt;Amin Tahmasbi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gitlab.com/hatem-darweesh&#34;&gt;Hatem Darweesh Gitlab&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/hatem-darweesh&#34;&gt;Hatem Darweesh GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/channel/UCl1UROdErP1m2t_eiLLcl8w&#34;&gt;Hatem Darweesh YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;training&#34;&gt;Training&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://discourse.ros.org/t/autoware-online-class-rfq/13528&#34;&gt;Autoware online class&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;path-planning&#34;&gt;Path Planning&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/cse-468-568-robotic-algorithms/path-planning-on-autoware-a-simulation-tool-715563274a81&#34;&gt;Path Planning on Autoware: A Simulation tool (Part 1/3)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/cse-468-568-robotic-algorithms/path-planning-on-autoware-a-simulation-tool-part-2-3-2c1093c44f0f&#34;&gt;Path Planning on Autoware: A Simulation tool (Part 2/3)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/@rugved42/path-planning-on-autoware-a-simulation-tool-part-3-3-2461343fab07&#34;&gt;Path Planning on Autoware: A Simulation tool (Part 3/3)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: dSpace</title>
+      <link>https://wikihub.github.io/docs/references/automotivesystems/autonomousvehicles/dspace/</link>
+      <pubDate>Thu, 06 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/automotivesystems/autonomousvehicles/dspace/</guid>
+      <description>
+        
+        
+        &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.dspace.com/en/inc/home/products/sw/impsw/rtmaps.cfm&#34;&gt;RTMaps&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Fleet Management System</title>
+      <link>https://wikihub.github.io/docs/references/automotivesystems/autonomousvehicles/fms/</link>
+      <pubDate>Thu, 06 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/automotivesystems/autonomousvehicles/fms/</guid>
+      <description>
+        
+        
+        &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.english.g7.com.cn/&#34;&gt;G7&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Mathworks</title>
+      <link>https://wikihub.github.io/docs/references/automotivesystems/autonomousvehicles/mathworks/</link>
+      <pubDate>Thu, 06 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/automotivesystems/autonomousvehicles/mathworks/</guid>
+      <description>
+        
+        
+        &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.mathworks.com/products/automated-driving.html&#34;&gt;Automated Driving Toolbox&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Microsoft</title>
+      <link>https://wikihub.github.io/docs/references/automotivesystems/autonomousvehicles/microsoft/</link>
+      <pubDate>Thu, 06 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/automotivesystems/autonomousvehicles/microsoft/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;airsimhttpsgithubcommicrosoftairsim&#34;&gt;&lt;a href=&#34;https://github.com/microsoft/AirSim&#34;&gt;AirSim&lt;/a&gt;&lt;/h1&gt;
+&lt;h1 id=&#34;companies&#34;&gt;Companies&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cognata.com/&#34;&gt;Cognata&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: NVIDIA</title>
+      <link>https://wikihub.github.io/docs/references/automotivesystems/autonomousvehicles/nvidia/</link>
+      <pubDate>Thu, 06 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/automotivesystems/autonomousvehicles/nvidia/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;autonomous-driving&#34;&gt;Autonomous Driving&lt;/h1&gt;
+&lt;h2 id=&#34;robots&#34;&gt;Robots&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/NVIDIA-AI-IOT/jetbot&#34;&gt;JetBot&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/NVIDIA-AI-IOT/jetracer&#34;&gt;JetRacer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/datlife/jetson-car&#34;&gt;Jetson Car&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://f1tenth.org/build.html&#34;&gt;F1/10&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;jetson-boards&#34;&gt;Jetson Boards&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-nano/&#34;&gt;Jetson Nano&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-tx2/&#34;&gt;Jetson TX2&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;nvidia-drive&#34;&gt;NVIDIA DRIVE&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.nvidia.com/en-us/self-driving-cars/drive-constellation/&#34;&gt;NVIDIA DRIVE CONSTELLATION&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.nvidia.ca/object/drive-px.html&#34;&gt;NVIDIA DRIVE PX 2&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=RhGFH5jndGY&#34;&gt;How Deep Learning Will Enable Self-Driving Cars &lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;learning&#34;&gt;Learning&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013&#34;&gt;Udacity&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;companies&#34;&gt;Companies&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cognata.com/&#34;&gt;Cognata&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;car-computers&#34;&gt;Car computers&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.syslogic.com/eng/ki-embedded-system-94630.shtml&#34;&gt;Syslogic&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ruggedscience.com/industrial-computers/nvidia-gpu-computers&#34;&gt;Rugged Science&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.aaeon.com/en/p/fanless-embedded-computers-boxer-8110ai&#34;&gt;AAEON BOXER-8110AI&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.aetina.com/products-list.php?t=87&#34;&gt;Aetina&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: OPAL-RT</title>
+      <link>https://wikihub.github.io/docs/references/automotivesystems/autonomousvehicles/opalrt/</link>
+      <pubDate>Thu, 06 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/automotivesystems/autonomousvehicles/opalrt/</guid>
+      <description>
+        
+        
+        &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.opal-rt.com/autonomous-vehicle/&#34;&gt;RT-LAB Orchestra&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Toyota</title>
+      <link>https://wikihub.github.io/docs/references/automotivesystems/autonomousvehicles/toyota/</link>
+      <pubDate>Thu, 06 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/automotivesystems/autonomousvehicles/toyota/</guid>
+      <description>
+        
+        
+        &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.tri.global/research/#Automated%20Driving&#34;&gt;Toyota Research Institute&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;carlahttpcarlaorg&#34;&gt;&lt;a href=&#34;http://carla.org/&#34;&gt;CARLA&lt;/a&gt;&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/carla-simulator/ros-bridge&#34;&gt;Carla ROS-Bridge&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/carla-simulator/carla-autoware&#34;&gt;Carla Autoware&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/wx9698/carlaviz&#34;&gt;CarlaViz&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/hatem-darweesh/autoware/tree/op-x&#34;&gt;A customized version for CARLA challenge 2019&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://carla.readthedocs.io/en/stable/carla_headless/&#34;&gt;Carla hradless&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Uber</title>
+      <link>https://wikihub.github.io/docs/references/automotivesystems/autonomousvehicles/uber/</link>
+      <pubDate>Thu, 06 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/automotivesystems/autonomousvehicles/uber/</guid>
+      <description>
+        
+        
+        &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.uber.com/info/atg/&#34;&gt;Uber Advanced Technologies Group&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;visualization&#34;&gt;Visualization&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://avs.auto/demo/index.html&#34;&gt;Autonomous Visualization System by Uber&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;learning&#34;&gt;Learning&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013&#34;&gt;Udacity&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

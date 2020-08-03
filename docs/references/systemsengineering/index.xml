@@ -1,0 +1,141 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WIKIHUB – Systems Engineering</title>
+    <link>https://wikihub.github.io/docs/references/systemsengineering/</link>
+    <description>Recent Hugo news from gohugo.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <image>
+      <url>https://wikihub.github.io/img/hugo.png</url>
+      <title>GoHugo.io</title>
+      <link>https://wikihub.github.io/docs/references/systemsengineering/</link>
+    </image>
+    
+	  <atom:link href="https://wikihub.github.io/docs/references/systemsengineering/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: Business Procedure Model and Notation</title>
+      <link>https://wikihub.github.io/docs/references/systemsengineering/bpmn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/systemsengineering/bpmn/</guid>
+      <description>
+        
+        
+        &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://bpmn.io/&#34;&gt;BPMN.io&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Cyber-Physical Systems</title>
+      <link>https://wikihub.github.io/docs/references/systemsengineering/cps/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/systemsengineering/cps/</guid>
+      <description>
+        
+        
+        &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/INTO-CPS-Association&#34;&gt;The INTO-CPS Association&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://into-cps.org/training-tutorials/&#34;&gt;INTO-CPS tutorials&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Modelica</title>
+      <link>https://wikihub.github.io/docs/references/systemsengineering/modelica/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/systemsengineering/modelica/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;openmodelica&#34;&gt;OpenModelica&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.openmodelica.org/doc/OpenModelicaUsersGuide/latest/index.html&#34;&gt;OpenModelica&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;jmodelica&#34;&gt;JModelica&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/JModelica&#34;&gt;JModelica&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: SysML</title>
+      <link>https://wikihub.github.io/docs/references/systemsengineering/sysml/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/systemsengineering/sysml/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;references&#34;&gt;References&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.omgsysml.org/&#34;&gt;OMG SysML&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sysml.org/&#34;&gt;SysML&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.nomagic.com/display/SYSMLP190/Glossary+of+SysML+concepts&#34;&gt;Glossary of SysML concepts&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;tutorials&#34;&gt;Tutorials&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.guru99.com/component-diagram-uml-example.html&#34;&gt;Component diagram UML example&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;tools&#34;&gt;Tools&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.eclipse.org/papyrus/&#34;&gt;Papyrus&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;robmosys&#34;&gt;RobMoSys&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://robmosys.eu/&#34;&gt;RoBoMoSys Project&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.eclipse.org/papyrus/components/robotics/&#34;&gt;Papyrus for Robotics&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://wiki.eclipse.org/Papyrus/customizations/robotics&#34;&gt;Papyrus robotics&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;robmosys-simulation&#34;&gt;RobMoSys Simulation&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://robmosys.eu/arosys/&#34;&gt;AROSYS&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;uml&#34;&gt;UML&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://plantuml.com/&#34;&gt;PlantUML&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://plantuml.com/command-line&#34;&gt;PlantUML command line&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://hackmd.io/6H3Wz_TBQuubyeLvlEnBTQ?view&#34;&gt;PlantUML help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.anoff.io/2018-07-31-diagrams-with-plantuml/&#34;&gt;PlantUML and Markdown&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;style&#34;&gt;Style&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://bschwarz.github.io/puml-themes/&#34;&gt;PlantUML Themes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/isaaceindhoven/plantuml-styler&#34;&gt;PlantUML Styler&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;online&#34;&gt;Online&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.planttext.com/&#34;&gt;PlantText&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://liveuml.com/&#34;&gt;LiveUML&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;python&#34;&gt;Python&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/pinetr2e/napkin&#34;&gt;Napkin&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://real-world-plantuml.com/?type=component&#34;&gt;Real world PlantUML diagrams&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

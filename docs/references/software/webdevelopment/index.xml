@@ -1,0 +1,326 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WIKIHUB – Web Development</title>
+    <link>https://wikihub.github.io/docs/references/software/webdevelopment/</link>
+    <description>Recent Hugo news from gohugo.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 22 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://wikihub.github.io/img/hugo.png</url>
+      <title>GoHugo.io</title>
+      <link>https://wikihub.github.io/docs/references/software/webdevelopment/</link>
+    </image>
+    
+	  <atom:link href="https://wikihub.github.io/docs/references/software/webdevelopment/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: Edge Computing</title>
+      <link>https://wikihub.github.io/docs/references/software/webdevelopment/edge/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/software/webdevelopment/edge/</guid>
+      <description>
+        
+        
+        &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/mimikgit/edgeSDK&#34;&gt;Mimik EdgeSDK&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Web Applications</title>
+      <link>https://wikihub.github.io/docs/references/software/webdevelopment/apps/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/software/webdevelopment/apps/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;frontend&#34;&gt;Frontend&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://boilerplates.js.org/&#34;&gt;Boilerplates&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;react&#34;&gt;React&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://blitzjs.com/&#34;&gt;Blitz.js&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;react-native&#34;&gt;React Native&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://gitlab.com/hmajid2301/stegappasaurus/-/tree/master&#34;&gt;Stegappasaurus&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;jamstack&#34;&gt;JAMStack&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/automata/awesome-jamstack&#34;&gt;Awesome JAMStack&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;pwa&#34;&gt;PWA&lt;/h1&gt;
+&lt;h2 id=&#34;gatsbyhttpswwwgatsbyjscomget-started&#34;&gt;&lt;a href=&#34;https://www.gatsbyjs.com/get-started&#34;&gt;Gatsby&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/Neha/gatsbyjs-codelab&#34;&gt;Gatsby Codelab&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/himalay/himalay.github.io/blob/develop/.github/workflows/workflow.yml&#34;&gt;GitHub Action for Gatsby&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.jamstackcms.io/&#34;&gt;JAMstack CMS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/LekoArts/gatsby-starter-portfolio-emma&#34;&gt;Gatsby starter portfolio emma&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://awesomeopensource.com/projects/gatsby-starter&#34;&gt;Gatsby starters&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.freecodecamp.org/news/how-to-set-up-gatsbyjs-authentication-with-auth0-d07abdd5a4f4/&#34;&gt;How to set up Gatsbyjs authentication with Auth0&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/doczjs/docz/tree/master/core/gatsby-theme-docz&#34;&gt;Gatsby and Docz&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;gatsbyjs-learning&#34;&gt;Gatsby.js Learning&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://dev.to/t/gatsby&#34;&gt;Dev.to Gatsby&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://hashnode.com/n/gatsby&#34;&gt;Hashnode Gatsby&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://stackoverflow.com/questions/tagged/gatsby&#34;&gt;Stack overflow&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;static-websiteshttpswwwstaticgencom&#34;&gt;&lt;a href=&#34;https://www.staticgen.com/&#34;&gt;Static websites&lt;/a&gt;&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://gohugo.io/getting-started/quick-start/&#34;&gt;Hugo, getting started&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jekyllrb.com/&#34;&gt;Jekyll&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://jekyllrb.com/docs/themes/&#34;&gt;Jekyll themes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pages.gitlab.io/gitbook/&#34;&gt;Gitbook&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/vercel/vercel/tree/master/examples&#34;&gt;Vercel Examples&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;authentication&#34;&gt;Authentication&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://nmaro.github.io/ooth/&#34;&gt;Ooth&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;search&#34;&gt;Search&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.algolia.com/&#34;&gt;Algolia&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;financial-applications&#34;&gt;Financial Applications&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://firefly-iii.org/&#34;&gt;Firefly&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://getpassiv.com&#34;&gt;Getpassiv&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.portfoliovisualizer.com&#34;&gt;Portfolio Visualizer&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;forms&#34;&gt;Forms&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://formspree.io/&#34;&gt;Formspree&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.smashingmagazine.com/2018/05/building-serverless-contact-form-static-website/&#34;&gt;Building serverless contact form static website&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Authentication</title>
+      <link>https://wikihub.github.io/docs/references/software/webdevelopment/auth/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/software/webdevelopment/auth/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;react&#34;&gt;React&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/Swizec/useAuth&#34;&gt;useAuth&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: CMS</title>
+      <link>https://wikihub.github.io/docs/references/software/webdevelopment/cms/</link>
+      <pubDate>Sun, 12 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/software/webdevelopment/cms/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;content-management&#34;&gt;Content management&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.sanity.io/&#34;&gt;sanity.io&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.netlifycms.org/&#34;&gt;netlifyCMS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://strapi.io/&#34;&gt;Strapi&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;membership&#34;&gt;Membership&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://ghost.org/&#34;&gt;Ghost&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Commerce</title>
+      <link>https://wikihub.github.io/docs/references/software/webdevelopment/commerce/</link>
+      <pubDate>Sun, 12 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/software/webdevelopment/commerce/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;headless&#34;&gt;Headless&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.shopify.co.uk/plus/solutions/headless-commerce&#34;&gt;Shopify headless commerce&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: GraphQL</title>
+      <link>https://wikihub.github.io/docs/references/software/webdevelopment/graphql/</link>
+      <pubDate>Sun, 12 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/software/webdevelopment/graphql/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;tools&#34;&gt;Tools&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.apollographql.com/&#34;&gt;Apollo GraphQL&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;tutorials&#34;&gt;Tutorials&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://hasura.io/learn/&#34;&gt;Hasura&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://nordicapis.com/when-to-use-what-rest-graphql-webhooks-grpc/&#34;&gt;GraphQL vs REST vs gRPC&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: CSS</title>
+      <link>https://wikihub.github.io/docs/references/software/webdevelopment/css/</link>
+      <pubDate>Fri, 26 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/software/webdevelopment/css/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;experts&#34;&gt;Experts&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://jgthms.com/&#34;&gt;Jeremy Thomas&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Angular</title>
+      <link>https://wikihub.github.io/docs/references/software/webdevelopment/angular/</link>
+      <pubDate>Sat, 20 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/software/webdevelopment/angular/</guid>
+      <description>
+        
+        
+        &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://alligator.io/angular/angular-pwa/&#34;&gt;Intro to Progressive Web Apps (PWAs) in Angular&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API</title>
+      <link>https://wikihub.github.io/docs/references/software/webdevelopment/api/</link>
+      <pubDate>Sat, 20 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/software/webdevelopment/api/</guid>
+      <description>
+        
+        
+        &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.prisma.io&#34;&gt;Prisma&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: React</title>
+      <link>https://wikihub.github.io/docs/references/software/webdevelopment/react/</link>
+      <pubDate>Sat, 20 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/software/webdevelopment/react/</guid>
+      <description>
+        
+        
+        &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://create-react-app.dev/&#34;&gt;Set up a modern web app by running one command.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ant.design/docs/react/introduce&#34;&gt;Ant Design&lt;/a&gt; - An enterprise-class UI design language and React-based implementation.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blueprintjs.com/&#34;&gt;Blueprint&lt;/a&gt; - A React-based UI toolkit for the web. It is optimized for building complex, data-dense web interfaces for desktop applications.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/dvajs/dva&#34;&gt;dva&lt;/a&gt; - React and Redux based, lightweight and Elm-style framework.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.electrode.io/&#34;&gt;Electrode&lt;/a&gt; - A platform for building universal React/Node.js applications with standardized structure, best practices, and modern technologies baked in.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://elemental-ui.com/&#34;&gt;Elemental UI&lt;/a&gt; - A UI Toolkit for React.js Websites and Apps.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://getessence.io&#34;&gt;Essence&lt;/a&gt; - The Essential Material Design Framework.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://grommet.github.io/&#34;&gt;Grommet&lt;/a&gt; - The most advanced UX framework for enterprise applications.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/streamich/libreact&#34;&gt;libreact&lt;/a&gt; - a collection of most essential React utilities you will probably need in any project.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.material-ui.com/&#34;&gt;Material-UI&lt;/a&gt; - A Set of React Components that Implement Google&amp;rsquo;s Material Design.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://react-md.mlaursen.com/&#34;&gt;react-md&lt;/a&gt; - A set of React components and sass files for implementing Google&amp;rsquo;s Material Design.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://react-mdl.github.io/react-mdl/&#34;&gt;React-MDL&lt;/a&gt; - A set of React components build on top of Material Design Lite.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://react-toolbox.com&#34;&gt;React Toolbox&lt;/a&gt; - A set of React components that implement Google&amp;rsquo;s Material Design specification.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://microsoft.github.io/reactxp/&#34;&gt;ReactXP&lt;/a&gt; - A library for cross-platform app development using React and React Native.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://jxnblk.com/rebass/&#34;&gt;Rebass&lt;/a&gt; - Configurable React Stateless Functional UI Components.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;deploy&#34;&gt;Deploy&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/rafgraph/spa-github-pages&#34;&gt;Single Page Apps for GitHub Pages&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;nextjs&#34;&gt;Next.js&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/vercel/next.js/tree/master/examples&#34;&gt;Next.js examples&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.netlify.com/blog/2020/05/04/building-a-markdown-blog-with-next-9.4-and-netlify/&#34;&gt;Next.js tutorial&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/unicodeveloper/awesome-nextjs&#34;&gt;Awesome Next.js&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/serverless-nextjs/serverless-next.js&#34;&gt;Serverless Next.js&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Vue.js</title>
+      <link>https://wikihub.github.io/docs/references/software/webdevelopment/vuejs/</link>
+      <pubDate>Sat, 20 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/software/webdevelopment/vuejs/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;vuejshttpsvuejsorg&#34;&gt;&lt;a href=&#34;https://vuejs.org/&#34;&gt;Vue.js&lt;/a&gt;&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/vuejs/awesome-vue&#34;&gt;Awesome Vue&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gridsome.org/&#34;&gt;Gridsome&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vuepress.vuejs.org/&#34;&gt;VuePress&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.vuescript.com/&#34;&gt;VueScript.com&lt;/a&gt; - Aims to offer latest free Vue.js components for web application developers.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://auth0.com/blog/build-an-app-with-vuejs/&#34;&gt;Build an App with Vue.js: From Authentication to Calling an API&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://material.balmjs.com/&#34;&gt;BalmUI&lt;/a&gt; - next generation Material UI for Vue.js.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://element.eleme.io/&#34;&gt;Element&lt;/a&gt; - a Vue.js 2.0 UI Toolkit for Web.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.iviewui.com/&#34;&gt;iView&lt;/a&gt; - a high quality UI Toolkit built on Vue.js.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://josephuspaye.github.io/Keen-UI/&#34;&gt;Keen UI&lt;/a&gt; - a lightweight collection of essential UI components written with Vue.js and inspired by Material Design.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://museui.github.io/&#34;&gt;Muse UI&lt;/a&gt; - a Vue 2.0 and Material Design based UI component library.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://quasar-framework.org/&#34;&gt;Quasar Framework&lt;/a&gt; - build responsive websites, hybrid mobile Apps (that look native!) and Electron apps using same code, with VueJs 2.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vuetifyjs.com/&#34;&gt;Vuetify.js&lt;/a&gt; - a component framework for Vue.js 2.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vuematerial.github.io/&#34;&gt;Vue Material&lt;/a&gt; - lightweight framework built exactly according to the Material Design specs. It aims to deliver a collection of reusable components and a series of UI Elements to build applications with support to all modern Web Browsers through Vue 2.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;nuxt&#34;&gt;Nuxt&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/nuxt-community/awesome-nuxt&#34;&gt;Awesome Nuxt.js (community)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/Developerayo/awesome-nuxtjs&#34;&gt;Awesome Nuxt.js&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://awesome-nuxt.js.org/&#34;&gt;Awesome Nuxt.js.org&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

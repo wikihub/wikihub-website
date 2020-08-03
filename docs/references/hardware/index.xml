@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>WIKIHUB – Hardware</title>
     <link>https://wikihub.github.io/docs/references/hardware/</link>
     <description>Recent Hugo news from gohugo.io</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 22 Feb 2019 16:33:13 -0500</lastBuildDate>
     <image>
       <url>https://wikihub.github.io/img/hugo.png</url>
       <title>GoHugo.io</title>
@@ -21,6 +19,488 @@
     
     
     <item>
+      <title>Docs: Actuators</title>
+      <link>https://wikihub.github.io/docs/references/hardware/actuators/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/hardware/actuators/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;linear-actuators&#34;&gt;Linear Actuators&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.skfmotiontechnologies.com/en/ca/products/high-performance-actuators?from=skf.com&#34;&gt;SKF Motion Technologies&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kar-tech.com/products/additional-devices/12-24v-linear-actuator.html&#34;&gt;Kar Tech Linear Actuators&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ultramotion.com/linear-actuators/&#34;&gt;Ultramotion&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.progressiveautomations.ca/&#34;&gt;Progressive Automations&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.firgelliauto.ca/&#34;&gt;Firgelli Auto&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.actuonix.com/&#34;&gt;Actuonix&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.hiwin.com/linear-actuators.html&#34;&gt;Hiwin&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thomsonlinear.com/micro/smart-actuation_eng/&#34;&gt;Thomson Linear&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Batteries</title>
+      <link>https://wikihub.github.io/docs/references/hardware/batteries/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/hardware/batteries/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;battery-management-systems&#34;&gt;Battery Management Systems&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.csselectronics.com/screen/page/cloud-battery-management-can-bus-bms/language/en&#34;&gt;CSS Electronics&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;18650-batteries&#34;&gt;18650 Batteries&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://vruzend.com/product-category/battery-kits/&#34;&gt;Vruzend battery kits&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://18650.lt/index.php/shop/&#34;&gt;18650&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;canada&#34;&gt;Canada&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cdnrg.com/locations/branches/Vancouver-Lower-Mainland&#34;&gt;Canadian Energy&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: CAN</title>
+      <link>https://wikihub.github.io/docs/references/hardware/can/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/hardware/can/</guid>
+      <description>
+        
+        
+        &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://can-newsletter.org/&#34;&gt;CAN newsletter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.can-wiki.info/doku.php?id=start&#34;&gt;CAN wiki&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://uavcan.org/&#34;&gt;UAVCAN&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://copperhilltech.com/blog/comparison-of-can-bus-and-ethernet-features-for-automotive-networking-applications/&#34;&gt;CAN vs Ethernet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.bosch-semiconductors.com/ip-modules/can-ip-modules/&#34;&gt;Bosch CAN modules&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://whitebream.com/wican&#34;&gt;WiCAN&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://carpc.nl/&#34;&gt;CarPC&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;software&#34;&gt;Software&lt;/h1&gt;
+&lt;h2 id=&#34;python&#34;&gt;Python&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/rscada/libcanopen/&#34;&gt;Python lib CANopen&lt;/a&gt;
+&lt;a href=&#34;https://elinux.org/Python_Can&#34;&gt;PythonCAN&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;arduino&#34;&gt;Arduino&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/McNeight/CAN_Library&#34;&gt;Arduino CAN Library&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;teensy&#34;&gt;Teensy&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/teachop/FlexCAN_Library&#34;&gt;Arduino library for CAN on Teensy 3.1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/collin80/FlexCAN_Library&#34;&gt;Arduino CAN library for Teensy 3.1, 3.2, 3.5, and 3.6&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;android&#34;&gt;Android&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://elinux.org/Android&#34;&gt;eLinux: Android&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;development-boards&#34;&gt;Development boards&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://os.mbed.com/platforms/?q=&amp;amp;Communication=CAN&amp;amp;Interface+Firmware=ST-Link&#34;&gt;Mbed boards with CAN&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://direct.nuvoton.com/en/m483-can-series/&#34;&gt;nuvoTon&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;arduino-1&#34;&gt;Arduino&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.seeedstudio.com/CAN-BUS-Shield-V2.html&#34;&gt;Arduino CAN bus shield V2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.robotshop.com/ca/en/arduino-mkr-can-shield.html&#34;&gt;Arduino MKR CAN shield&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;raspberry-pi&#34;&gt;Raspberry Pi&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.autopi.io/hardware-dongle/compare/&#34;&gt;AutoPi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.seeedstudio.com/2-Channel-CAN-BUS-FD-Shield-for-Raspberry-Pi-p-4072.html&#34;&gt;2 Channel CAN bus (FD) shield&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;teensy-1&#34;&gt;Teensy&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://copperhilltech.com/teensy-4-0-triple-can-bus-board-with-two-can-2-0b-and-one-can-fd-port/&#34;&gt;Teensy 4.0 board with 3 CAN buses&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;can-adapters&#34;&gt;CAN Adapters&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.can-wiki.info/doku.php?id=can_physical_layer:can_transceivers&#34;&gt;CAN tranceivers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.can-wiki.info/doku.php?id=can_interfaces:main&#34;&gt;CAN interfaces&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.kvaser.com/products-services/our-products/#/&#34;&gt;Kvaser&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://copperhilltech.com/cancrocodile-contactless-can-bus-reader/&#34;&gt;CANCrocodile&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cangineberry.com/index.php/en/#Buy&#34;&gt;CANgineBerry&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/isand3r/openOBD&#34;&gt;openOBD&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;ic&#34;&gt;IC&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.obdsol.com/solutions/chips/stn1110/&#34;&gt;STN1110&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://learn.sparkfun.com/tutorials/obd-ii-uart-hookup-guide&#34;&gt;OBD II UART hookup guide&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://nabil.me/?s=obd&#34;&gt;Open source Bluetooth OBD-II Adapter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://ahdesign.us/blog/stn1170-bluetooth-obdii-adapter/bluetooth-obdii-adapter/&#34;&gt;STN1110 Bluetooth OBD-II Adapter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://ww1.microchip.com/downloads/en/DeviceDoc/MCP2515-Stand-Alone-CAN-Controller-with-SPI-20001801J.pdf&#34;&gt;MCP2515&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://ww1.microchip.com/downloads/en/DeviceDoc/20001667G.pdf&#34;&gt;MCP2551&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://ww1.microchip.com/downloads/en/DeviceDoc/20005167C.pdf&#34;&gt;MCP2561/2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.nxp.com/products/interfaces/can-transceivers/legacy-can/stand-alone-can-controller:SJA1000T&#34;&gt;SJA1000T&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ti.com/product/SN65HVD230&#34;&gt;SN65HVD230&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;usb&#34;&gt;USB&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/candle-usb/candleLight_fw&#34;&gt;Candle USB&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://wiki.linklayer.com/index.php/CANtact&#34;&gt;CANtact&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://canable.io/&#34;&gt;CANable&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://python-can.readthedocs.io/en/stable/interfaces.html&#34;&gt;Python CAN interface&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.8devices.com/products/usb2can_korlan&#34;&gt;USB2CAN&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://canusbshop.com/&#34;&gt;CANUSB&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://shop-visionsystems.de/en/140-can-bus&#34;&gt;Vision Systems&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;usb-opto-isolated&#34;&gt;USB Opto-isolated&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.janztec.com/devices/can-interface/can-usb/&#34;&gt;Janztec CAN USB&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;ethernet&#34;&gt;Ethernet&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.can-wiki.info/doku.php?id=can_interfaces:ethernet&#34;&gt;Ethernet CAN interfaces&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amazon.ca/CAN-Bus-Ethernet-Interface-Converter-Industrial/dp/B07V3FPBVK/ref=sr_1_2_sspa&#34;&gt;CANET2CAN&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.microcontrol.net/produkte/steuerungen/&#34;&gt;uMIC.200&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;wifi&#34;&gt;WiFi&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.kvaser.com/product/kvaser-blackbird-v2/&#34;&gt;Kvaser BlackBird v2&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;seeed-technologies&#34;&gt;Seeed Technologies&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.seeedstudio.com/OBD-II-CAN-Bus-GPS-Development-Kit-p-2868.html&#34;&gt;OBD-II CAN Bus GPS Development Kit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.seeedstudio.com/USB-CAN-Analyzer-p-2888.html&#34;&gt;USB CAN Analyzer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amazon.ca/dp/B07KF2R2KS/ref=sspa_dk_detail_0&#34;&gt;CAN Bus Analyzer on Amazon.ca&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;robotics&#34;&gt;Robotics&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://uavcan.org/&#34;&gt;UAVCAN&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/MonashUAS/canros&#34;&gt;CANROS&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Embedded GUI</title>
+      <link>https://wikihub.github.io/docs/references/hardware/embeddedgui/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/hardware/embeddedgui/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;frameworks&#34;&gt;Frameworks&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.guiliani.de/mediawiki/index.php?title=Guiliani:Features&#34;&gt;TES Guiliani&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.mikroe.com/compilers/gui-development-software&#34;&gt;Mikroe GUI development&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;displays&#34;&gt;Displays&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.mikroe.com/smart-displays&#34;&gt;Mikroe smart displays&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Embedded Systems</title>
+      <link>https://wikihub.github.io/docs/references/hardware/es/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/hardware/es/</guid>
+      <description>
+        
+        
+        &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/nhivp/Awesome-Embedded&#34;&gt;Awesome embedded&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.embedded-computing.com/&#34;&gt;Embedded computing news&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;single-board-microcontrollers&#34;&gt;Single Board Microcontrollers&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://os.mbed.com/platforms/&#34;&gt;Mbed platforms&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://platformio.org/boards&#34;&gt;PlatformIO boards&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.pelion.com/docs/device-management/current/connecting/tutorial-pelion-mbedos.html&#34;&gt;Pelion boards&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Comparison_of_single-board_microcontrollers&#34;&gt;Comparison of single board microcontrollers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.mikroe.com/&#34;&gt;Mikroe&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://os.mbed.com/platforms/ublox-EVK-ODIN-W2/&#34;&gt;u-blox&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://beagleboard.org/blue&#34;&gt;BeagleBoard Blue&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.synopsys.com/dw/ipdir.php?ds=arc_em_starter_kit&#34;&gt;DesignWare ARC EM&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;single-board-computers&#34;&gt;Single Board Computers&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.hackerboards.com/home.php&#34;&gt;Hacker boards&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/User:OliverGalvin/Comparison_of_single-board_computers&#34;&gt;Comparison of single board computers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.mickmake.com/post/weekly-roundup-64-new-maker-products&#34;&gt;New SBC computers&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;raspberry-pi&#34;&gt;Raspberry Pi&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.raspberrypi.org/products/raspberry-pi-4-model-b/&#34;&gt;Raspberry Pi 4B&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.raspberrypi.org/forums/viewtopic.php?t=222264&#34;&gt;GLFW&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ubuntu-mate.community/t/tutorial-activate-opengl-driver-for-ubuntu-mate-16-04/7094/4&#34;&gt;OpenGL&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;hat&#34;&gt;HAT&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://pinout.xyz/&#34;&gt;Pinout&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.adafruit.com/product/3953&#34;&gt;PoE&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;tft-display&#34;&gt;TFT Display&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/notro/fbtft/blob/master/fbtft_device.c&#34;&gt;Touchscreen Supported on Raspberry Pi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://learn.watterott.com/rpi-display/fbtft-install/&#34;&gt;RFI display&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;digilent&#34;&gt;Digilent&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://store.digilentinc.com/processors/by-technology/arm/&#34;&gt;Digilent ARM boards&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;up-board&#34;&gt;Up Board&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://up-board.org/&#34;&gt;Up Board&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;nvidia&#34;&gt;NVIDIA&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.nvidia.com/buy-jetson&#34;&gt;Jetson&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/mahendrabairagi/AWS_ML_At_Edge_With_NVIDIA_Jetson_Nano&#34;&gt;AWS ML at Edge with NVIDIA Jetson Nano&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.nvidia.com/embedded/jetson-nano-developer-kit&#34;&gt;Jetson Nano&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.hackster.io/getting-started-with-the-nvidia-jetson-nano-developer-kit-43aa7c298797&#34;&gt;Getting started with Jetson Nano&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://devtalk.nvidia.com/default/topic/1058176/jetson-nano/intel-8265ngw-sluggish-wifi-workaround-/post/5365834/#5365834&#34;&gt;Sluggish WiFi workaround&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;network-adaptor&#34;&gt;Network adaptor&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/cilynx/rtl88x2BU_WiFi_linux_v5.3.1_27678.20180430_COEX20180427-5959&#34;&gt;Realtek RTL8812BU&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;up-board-1&#34;&gt;Up Board&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://up-board.org/upsquared/specifications/&#34;&gt;Up Squared&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;dfi&#34;&gt;DFI&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.dfi.com/&#34;&gt;DFI&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;lattepanda&#34;&gt;LattePanda&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.dfrobot.com/product-1727.html&#34;&gt;LattePanda Alpha 800s&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;machine-learning-on-microcontrollers&#34;&gt;Machine Learning on Microcontrollers&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.st.com/content/st_com/en/stm32-ann.html&#34;&gt;STM32Cube.AI&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=3cD9bpfX9FA&amp;amp;feature=emb_title&#34;&gt;Xnor AI&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/majianjia/nnom&#34;&gt;nnom&lt;/a&gt; - A higher-level Neural Network library for microcontrollers.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/correlllab/nn4mp&#34;&gt;nn4mp&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/Microsoft/ELL&#34;&gt;Embedded Learning Library (ELL)&lt;/a&gt; - Microsoft&amp;rsquo;s library to deploy intelligent machine-learned models onto resource constrained platforms and small single-board computers.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.qualcomm.com/software/qualcomm-neural-processing-sdk&#34;&gt;Qualcomm Neural Processing SDK for AI&lt;/a&gt; - Libraries to developers run NN models on Snapdragon mobile platforms taking advantage of the CPU, GPU and/or DSP.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arm-software.github.io/CMSIS_5/NN/html/index.html&#34;&gt;CMSIS NN&lt;/a&gt; - A collection of efficient neural network kernels developed to maximize the performance and minimize the memory footprint of neural networks on Cortex-M processor cores.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.arm.com/technologies/compute-library&#34;&gt;ARM Compute Library&lt;/a&gt; - Set of optimized functions for image processing, computer vision, and machine learning.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/uTensor/uTensor&#34;&gt;uTensor&lt;/a&gt; - AI inference library based on mbed (an RTOS for ARM chipsets) and TensorFlow.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/boralt/EmbeddedAI&#34;&gt;EmbededAI&lt;/a&gt; - A library that provides elements of AI to C++ applications.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/attractivechaos/kann&#34;&gt;kann&lt;/a&gt; - A lightweight C library for artificial neural networks&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;automotive-computers&#34;&gt;Automotive Computers&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.syslogic.de/eng/fahrerlose-transportsysteme-fts-91156.shtml&#34;&gt;Industrial Computers for AGV (automated guided vehicles)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;plc&#34;&gt;PLC&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.digital-loggers.com/plchw.html&#34;&gt;Open source PLC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.industrialshields.com/&#34;&gt;Industrial Shields&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://global.yamaha-motor.com/business/robot/lineup/controller/yhx/&#34;&gt;Yamaha YHX&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;power-supply&#34;&gt;Power Supply&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amazon.com/SMAKN-Converter-Step-Down-Supply-Module/dp/B00XKL6M8U&#34;&gt;SMAKN DC/DC Converter 36V/48V to 24V 3A 72W Step-Down Power Supply Module&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amazon.ca/Erayco-LM2596-Converter-3-0-40V-1-5-35V/dp/B07JNQFV7F/ref=pd_lutyp_crty_cxhsh_3_3/139-5285681-3002038&#34;&gt;LM2596 DC to DC Buck Converter 3.0-40V to 1.5-35V Power Supply Step Down Module&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amazon.ca/Adjustable-Converter-DROK-Regulator-Transformer/dp/B078Q1624B/ref=sxbs_sxwds-stvp&#34;&gt;Power Supply Module, DROK DC to DC Converter 5.3V-32V to 1.2V-32V Step Down Voltage Regulator 12A LCD Volt Transformer 160W CC CV Buck Converter Reducer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amazon.com/Aideepen-Constant-Current-Adjustable-Converter/dp/B0747QDRW9/ref=pd_sbs_23_img_2/143-0784339-2159158&#34;&gt;DC-DC Buck Converter, Aideepen 20A 300W CC CV Step Down Module DC 6-40V to DC 1.2-36V Adjustable Voltage Constant Current Power Supply Volt Reducer Module with Short Circuit Protection&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Ethernet</title>
+      <link>https://wikihub.github.io/docs/references/hardware/ethernet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/hardware/ethernet/</guid>
+      <description>
+        
+        
+        &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://techwiser.com/how-to-connect-pc-to-pc-lan-cable/&#34;&gt;How to connect PC to PC using a LAN cable&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Run &lt;code&gt;sudo apt install avahi-daemon libnss-mdns&lt;/code&gt; in your VM, and make sure that your networking config is in ‘Bridge Mode’ to get .local addressing working.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;wifi-adapters&#34;&gt;WiFi Adapters&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/cilynx/rtl88x2bu&#34;&gt;rtl88x2bu driver updated for current kernels&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;routers&#34;&gt;Routers&lt;/h1&gt;
+&lt;h2 id=&#34;linksys&#34;&gt;Linksys&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.linksysinfo.org/index.php?threads/asuswrt-merlin-build-384-5-or-later-on-linksys-ea6900-or-ea6700.74209/&#34;&gt;AsusWRT Merlin build 384.5 or later on Linksys EA6900 or EA6700&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.linksysinfo.org/index.php?threads/guide-flash-linksys-ea6300v1-ea6400-ea6500v2-ea6700-ea6900v1-0-1-1-with-tomato.73877/&#34;&gt;How to flash Linksys EA6300v1, EA6400, EA6500v2, EA6700, EA6900v1.0/1.1 with Tomato&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sourceforge.net/projects/officiallinksysfirmware/files/ea6900/v1/&#34;&gt;Linsys EA6900 official firmwares&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cfeditor.feng.si/&#34;&gt;CFEditor&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.asuswrt-merlin.net/&#34;&gt;AsusWRT-Merlin&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;sockets&#34;&gt;Sockets&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/facundofarias/awesome-websockets/blob/master/README.md&#34;&gt;Awesome web sockets&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.gnu.org/software/libc/manual/html_node/Sockets.html&#34;&gt;GNU C language sockets&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://realpython.com/python-sockets/&#34;&gt;Real Python sockets&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.python.org/3/howto/sockets.html&#34;&gt;Python sockets&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;socket-tools&#34;&gt;Socket tools&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://plantain-00.github.io/ws-tool/&#34;&gt;Web socket tool&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;embedded-ethernet&#34;&gt;Embedded Ethernet&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://direct.nuvoton.com/en/m487-ethernet-series/&#34;&gt;nuvoTon&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Makers</title>
+      <link>https://wikihub.github.io/docs/references/hardware/makers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/hardware/makers/</guid>
+      <description>
+        
+        
+        &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://makerwiz.com/&#34;&gt;Makerwiz&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.newmakeit.com/&#34;&gt;NewMakeIt&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://makezilla.com&#34;&gt;MakeZilla&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: STM32</title>
+      <link>https://wikihub.github.io/docs/references/hardware/stm32/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/hardware/stm32/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;programming-frameworks&#34;&gt;Programming frameworks&lt;/h1&gt;
+&lt;h2 id=&#34;stm32duinohttpsgithubcomstm32duinowikiwiki&#34;&gt;&lt;a href=&#34;https://github.com/stm32duino/wiki/wiki&#34;&gt;STM32duino&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.arduinolibraries.info/&#34;&gt;STM32duino libraries&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/stm32duino/STM32Examples/tree/master/examples/Communication&#34;&gt;MQTT&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/stm32duino/STM32Examples/tree/master/examples/Boards/STM32L475VG-DISCOVERY-IOT/WiFi_MQTT_Adafruit.io&#34;&gt;WiFi MQTT&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/stm32duino/STM32Examples/tree/master/examples/Boards/STM32F746NG-DISCOVERY/Ethernet_MQTT_Adafruit.io&#34;&gt;Ethernet MQTT&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/stm32duino/Arduino_Core_STM32/issues/259&#34;&gt;No CAN support&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;mbedhttpsosmbedcom&#34;&gt;&lt;a href=&#34;https://os.mbed.com/&#34;&gt;Mbed&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://os.mbed.com/users/hudakz/code/CAN_Hello//file/3211e88e30a5/main.cpp/&#34;&gt;CAN Hello&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;stm32cubehttpswwwstcomenecosystemsstm32cubehtml&#34;&gt;&lt;a href=&#34;https://www.st.com/en/ecosystems/stm32cube.html&#34;&gt;STM32Cube&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/STMicroelectronics/STM32CubeF4/tree/b5abca20c9676b04f8d2885a668a9b653ee65705/Projects/STM324xG_EVAL/Examples/CAN/CAN_Networking&#34;&gt;CAN networking example&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;zephyrhttpswwwzephyrprojectorg&#34;&gt;&lt;a href=&#34;https://www.zephyrproject.org/&#34;&gt;Zephyr&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.zephyrproject.org/latest/reference/networking/can_api.html&#34;&gt;CAN API&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/platformio/platform-ststm32/tree/develop/examples/zephyr-drivers-can&#34;&gt;CAN driver&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;nuttxhttpsnuttxapacheorg&#34;&gt;&lt;a href=&#34;https://nuttx.apache.org/&#34;&gt;NuttX&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/MotorolaMobilityLLC/nuttx/tree/master/apps/examples/can&#34;&gt;CAN example&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;chibioshttpwwwchibiosorgdokuwikidokuphpidchibiosproductstart&#34;&gt;&lt;a href=&#34;http://www.chibios.org/dokuwiki/doku.php?id=chibios:product:start&#34;&gt;ChibiOS&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.playembedded.org&#34;&gt;Play Embedded&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;tutorials&#34;&gt;Tutorials&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.playembedded.org/blog/from-0-to-stm32/&#34;&gt;From 0 to STM32&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;tools&#34;&gt;Tools&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/stlink-org/stlink&#34;&gt;ST Link&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.st.com/en/development-tools/stm32cubeprog.html&#34;&gt;STM32CubeProgrammer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://my.st.com/content/my_st_com/en/products/development-tools/software-development-tools/stm32-software-development-tools/stm32-programmers/stsw-link004.html&#34;&gt;ST Link Utility&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.st.com/en/development-tools/stsw-stm32102.html&#34;&gt;STM32 Virtual COM Port Driver&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.st.com/en/development-tools/stsw-link009.html&#34;&gt;ST-LINK, ST-LINK/V2, ST-LINK/V2-1 USB driver signed for Windows7, Windows8, Windows10&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.st.com/en/development-tools/stsw-stm32080.html&#34;&gt;DfuSe USB device firmware upgrade STMicroelectronics extension&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://zadig.akeo.ie/&#34;&gt;Zadig&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www2.keil.com/mdk5/selector&#34;&gt;ARM Keil&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;emulators&#34;&gt;Emulators&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://beckus.github.io/qemu_stm32/&#34;&gt;QEMU STM32&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;development-kits&#34;&gt;Development Kits&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://stm32-base.org/boards/&#34;&gt;STM32 base boards&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://stm32-base.org/boards/STM32F103C8T6-Blue-Pill&#34;&gt;STM32F103C8T6 - Blue Pill&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.pjrc.com/teensy-4-0/&#34;&gt;Teensy 4.0&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.sony.com/develop/spresense/&#34;&gt;Spresense&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.adafruit.com/product/4177&#34;&gt;M5Stack Gray Development Kit - ESP32 Dev Board w/ MPU6886+BMM150&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.96boards.org/product/stm32/&#34;&gt;96boards&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;b-l475e-iot01a-discovery-kit-for-iot-nodehttpswwwstcomenevaluation-toolsb-l475e-iot01ahtml&#34;&gt;&lt;a href=&#34;https://www.st.com/en/evaluation-tools/b-l475e-iot01a.html&#34;&gt;B-L475E-IOT01A Discovery kit for IoT node&lt;/a&gt;&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.platformio.org/en/latest/boards/ststm32/disco_l475vg_iot01a.html&#34;&gt;PlatformIO: ST DISCO-L475VG-IOT01A&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/platformio/platform-ststm32/tree/master/examples?utm_source=platformio&amp;amp;utm_medium=docs&#34;&gt;Example projects by PlatformIO&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://os.mbed.com/platforms/ST-Discovery-L475E-IOT01A/&#34;&gt;Mbed for ST Discovery L475E-IOT01A&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://forgge.github.io/B-L475E-IOT01A-thingsboard-read-temperature-and-humidity-using-mbed.html&#34;&gt;Using thingsboard.io, STM32 B-L475E-IOT01A IoT kit and ARM Mbed to monitor temperature&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://innomatic.home.blog/2018/12/24/fixing-b-l475e-iot01a-board-reset-issue/&#34;&gt;Fixing L475E-IOT01A MB1297 C-01 reset issue&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.element14.com/community/roadTestReviews/2543/l/stmicroelectronics-discovery-kit-for-iot-node-review&#34;&gt;Discovery kit for IoT node review&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/nomadpgmr/stm32_blink_vs_code&#34;&gt;B-L475E-IOT01A and Visual Studio&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.edgeimpulse.com/docs/unboxing-the-st-b-l475e-iot01a&#34;&gt;Edge Impulse for B-L475E-IOT01A&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/Vjmorrison/micropython_B_L475E_IOT01A&#34;&gt;MicroPython for L475E IOT01A&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://mongoose-os.com/&#34;&gt;Mongoose OS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://forgge.github.io/B-L475E-IOT01A-thingsboard-read-temperature-and-humidity-using-mbed.html&#34;&gt;ThingsBoard&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.mouser.ca/applications/stm32l4-kit-iot-node-integrating-google-cloud/&#34;&gt;Google Cloud Platform&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;stm32f407g-discoveryhttpswwwstcomenevaluation-toolsstm32f4discoveryhtml&#34;&gt;&lt;a href=&#34;https://www.st.com/en/evaluation-tools/stm32f4discovery.html&#34;&gt;STM32F407G-DISCOVERY&lt;/a&gt;&lt;/h1&gt;
+&lt;h1 id=&#34;stm32f469idiscoveryhttpswwwstcomenevaluation-tools32f469idiscoveryhtml&#34;&gt;&lt;a href=&#34;https://www.st.com/en/evaluation-tools/32f469idiscovery.html&#34;&gt;STM32F469IDISCOVERY&lt;/a&gt;&lt;/h1&gt;
+&lt;h1 id=&#34;dfu&#34;&gt;DFU&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.digikey.com/en/articles/update-firmware-field-using-microcontroller-dfu-mode&#34;&gt;Update firmware field using microcontroller DFU mode&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;ethernet&#34;&gt;Ethernet&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/stm32duino/STM32Ethernet&#34;&gt;STM32 Ethernet&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;mqtt&#34;&gt;MQTT&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/ARMmbed/mbed-mqtt&#34;&gt;Mbed MQTT&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;ota&#34;&gt;OTA&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.gizwits.com/en-us/UserManual/MCUOTA.html&#34;&gt;Gizwits MCU OTA&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;thingsboard&#34;&gt;ThingsBoard&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://thingsboard.io/docs/getting-started-guides/helloworld/&#34;&gt;ThingsBoard&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;ide&#34;&gt;IDE&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://platformio.org/&#34;&gt;Platform IO&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.platformio.org/en/latest/ide/vscode.html&#34;&gt;Platform IO on VS Code&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;frameworks&#34;&gt;Frameworks&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.basicpi.org/documentation/easyipc/&#34;&gt;easyIPC&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Docs: Internet of Things</title>
       <link>https://wikihub.github.io/docs/references/hardware/iot/</link>
       <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
@@ -29,12 +509,35 @@
       <description>
         
         
-        
-
-&lt;h1 id=&#34;edge-computing&#34;&gt;Edge Computing&lt;/h1&gt;
-
+        &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://phodal.github.io/awesome-iot/&#34;&gt;Awesome IoT&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;iot-platforms&#34;&gt;IoT Platforms&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://aiyprojects.withgoogle.com/edge-tpu&#34; target=&#34;_blank&#34;&gt;Edge TPU&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.particle.io/&#34;&gt;Particle&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.sierrawireless.com/&#34;&gt;Sierra Wireless&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://source.sierrawireless.com/legato/&#34;&gt;Legato&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://mangoh.io/&#34;&gt;MangOH&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.libelium.com&#34;&gt;Libelium&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;iot-courses&#34;&gt;IoT Courses&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://iot-open.eu/&#34;&gt;IoT Open Eu&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;google&#34;&gt;Google&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://coral.withgoogle.com/&#34;&gt;Edge TPU&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;wireless-network&#34;&gt;Wireless Network&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://alfa.en.taiwantrade.com/product-list/all-products.html&#34;&gt;ALFA products&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;5g&#34;&gt;5G&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.telus.com/en/bc/business/medium-large/enterprise-solutions/internet-of-things/low-power-wide-area&#34;&gt;TELUS LTE Cat-M1 Offers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://about.rogers.com/news-ideas/rogers-launch-national-lte-m-network-power-next-era-iot-canada/&#34;&gt;LTE-M by Rogers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://business.bell.ca/shop/medium-large/our-networks/lte-m&#34;&gt;LTE-M by Bell Canada&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.rogers.com/business/products-and-solutions/internet-of-things/lpwa&#34;&gt;NB-IoT by Rogers&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
@@ -49,90 +552,199 @@
       <description>
         
         
-        
-
-&lt;h1 id=&#34;3d-design&#34;&gt;3D Design&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.blender.org/&#34; target=&#34;_blank&#34;&gt;Blender 3D&lt;/a&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://blender.stackexchange.com/&#34; target=&#34;_blank&#34;&gt;Blender Questions&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
+        &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ngen.ca/&#34;&gt;NGen&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;h1 id=&#34;3d-models&#34;&gt;3D Models&lt;/h1&gt;
-
+&lt;h1 id=&#34;cad&#34;&gt;CAD&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://grabcad.com/library&#34; target=&#34;_blank&#34;&gt;Popular models | 3D CAD Model Collection | GrabCAD Community Library&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.cgtrader.com/&#34; target=&#34;_blank&#34;&gt;My Hub | CGTrader&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.blendswap.com/&#34; target=&#34;_blank&#34;&gt;Welcome to Blend Swap! | Blend Swap&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://clara.io/library&#34; target=&#34;_blank&#34;&gt;Free 3D Models, Download or Edit Online · Clara.io&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://clara.io/&#34; target=&#34;_blank&#34;&gt;Clara.io: Online 3D Modeling, 3D Rendering, Free 3D Models&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sketchfab.com/&#34; target=&#34;_blank&#34;&gt;Sketchfab - Your 3D content on web, mobile, AR, and VR.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.turbosquid.com/&#34; target=&#34;_blank&#34;&gt;3D Models for Professionals :: TurboSquid&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.thingiverse.com/&#34; target=&#34;_blank&#34;&gt;Thingiverse - Digital Designs for Physical Objects&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://free3d.com/3d-models/library&#34; target=&#34;_blank&#34;&gt;Library Free 3D Models download - Free3D&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://free3d.com/&#34; target=&#34;_blank&#34;&gt;3D Models for Free - Free3D.com&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://all3dp.com/1/free-stl-files-3d-printer-models-3d-print-files-stl-download/&#34; target=&#34;_blank&#34;&gt;33 Best Sites for Free STL Files &amp;amp; 3D Printer Models in 2019 | All3DP&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.myminifactory.com/&#34; target=&#34;_blank&#34;&gt;MyMiniFactory - Guaranteed free and paid 3D Printable Files and Designs&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://cults3d.com/en&#34; target=&#34;_blank&#34;&gt;Cults ・ Download for free 3D models for 3D printers&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://pinshape.com/&#34; target=&#34;_blank&#34;&gt;Free 3D Printable Files and Designs | Pinshape&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://3dsky.org/3dmodels/1?style=all&amp;amp;order=free&#34; target=&#34;_blank&#34;&gt;3d models - download 3dsky.org&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://gallery.autodesk.com/&#34; target=&#34;_blank&#34;&gt;Free 3D models, Rendering images and CAD files | Autodesk Online Gallery&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://archibaseplanet.com/&#34; target=&#34;_blank&#34;&gt;Home Design, Free 3D models, High Quality Textures, Online Interior Design, Largest Architects Database at Archibase Planet&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://archive3d.net/&#34; target=&#34;_blank&#34;&gt;Free 3D Models and Objects Archive. Download: 3ds , obj , gsm , max models&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.cadnav.com/3d-models/&#34; target=&#34;_blank&#34;&gt;3D Models &amp;amp; 3D Objects Free Download - cadnav.com&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://stock.adobe.com/ca/search?filters%5Bcontent_type%3A3d%5D=1&amp;amp;filters%5B3d_type_id%5D%5B0%5D=1&amp;amp;load_type=3d+lp&#34; target=&#34;_blank&#34;&gt;Stock photos, royalty-free images, graphics, vectors &amp;amp; videos | Adobe Stock&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://3dwarehouse.sketchup.com/&#34; target=&#34;_blank&#34;&gt;3D Warehouse&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.sketchup.com/download/all&#34; target=&#34;_blank&#34;&gt;Download All | SketchUp&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.cgtrader.com/3d-models/vehicle/other/argo-j6-atlas-xtr&#34; target=&#34;_blank&#34;&gt;ARGO J6 Atlas XTR 3D | CGTrader&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.argo-xtr.com/&#34; target=&#34;_blank&#34;&gt;ARGO XTR robotic mobility solutions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.autodesk.ca/en/products/fusion-360/features&#34;&gt;Fusion 360&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.onshape.com&#34;&gt;Onshape&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://freecadweb.org&#34;&gt;FreeCAD&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.openscad.org/&#34;&gt;OpenSCAD&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.tinkercad.com/&#34;&gt;Tinkercad&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.blender.org&#34;&gt;Blender&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://all3dp.com/1/best-free-3d-printing-software-3d-printer-program/&#34;&gt;Best 3D software&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;h1 id=&#34;rapid-prototyping&#34;&gt;Rapid Prototyping&lt;/h1&gt;
-
+&lt;h1 id=&#34;products&#34;&gt;Products&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.engineersrule.com/cad-gives-icon-wheelchairs-power/&#34;&gt;Icon Explore&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://ingeniumcanada.org/channel/articles/christian-bagg-and-icon-explore&#34;&gt;Christian Bagg and Icon Explore&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;laser-cutting&#34;&gt;Laser Cutting&lt;/h1&gt;
+&lt;h2 id=&#34;acrylic&#34;&gt;Acrylic&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.plasticworld.ca/&#34;&gt;Plastic World&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;3d-scanning&#34;&gt;3D Scanning&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://3dscanexpert.com/&#34;&gt;3D Scan Expert&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;3d-printing&#34;&gt;3D Printing&lt;/h1&gt;
+&lt;h2 id=&#34;services&#34;&gt;Services&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.3dhubs.com/manufacture/&#34;&gt;3D hub&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;material&#34;&gt;Material&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://colorfabb.com/&#34;&gt;Color Fabb&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;model-gallery&#34;&gt;Model Gallery&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.myminifactory.com/&#34;&gt;My Minifactory&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thingiverse.com/&#34;&gt;Thingiverse&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;printers&#34;&gt;Printers&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://shop.prusa3d.com/en/3d-printers/180-original-prusa-i3-mk3-kit.html&#34;&gt;Prusa i3 MK3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.kickstarter.com/projects/snapmaker/snapmaker-20-modular-3-in-1-3d-printers&#34;&gt;Snapmaker&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;british-columbia&#34;&gt;British Columbia&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.novamachineworks.com/&#34;&gt;Nova Machine Works&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2 id=&#34;ontario&#34;&gt;Ontario&lt;/h2&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://canadamakes.ca/&#34; target=&#34;_blank&#34;&gt;Canada Makes&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.tph.ca/3d-printing&#34; target=&#34;_blank&#34;&gt;The Printing House&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://proto3000.com/&#34; target=&#34;_blank&#34;&gt;Proto3000&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://proto3000.com/&#34;&gt;Proto3000&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://makerwiz.com/&#34;&gt;Makerwiz&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://shop3d.ca/&#34;&gt;Shop3D&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://3dphacktory.com/&#34;&gt;3D Phacktory&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.blogto.com/tech/2017/04/3d-printers-printing-toronto/&#34;&gt;Top 3D printing services in Toronto&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.blogto.com/tech/2017/04/3d-printers-printing-toronto/&#34;&gt;3D Printers Toronto&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.3dhubs.com/3d-printing/location/toronto-canada/&#34;&gt;3D Hub Toronto&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://uoftmedprint.com/&#34;&gt;U of T MedPrint&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://canadamakes.ca/&#34;&gt;Canada Makes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.tph.ca/3d-printing&#34;&gt;The Printing House&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.hotpopfactory.com/&#34;&gt;Hot Pop Factory&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h2 id=&#34;quebec&#34;&gt;Quebec&lt;/h2&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.axisproto.com/&#34; target=&#34;_blank&#34;&gt;AXIS Prototypes&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.genistar.com/&#34; target=&#34;_blank&#34;&gt;Genistar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.axisproto.com/&#34;&gt;AXIS Prototypes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.genistar.com/&#34;&gt;Genistar&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
+&lt;h2 id=&#34;china&#34;&gt;China&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://deed3d.com/&#34;&gt;Deed3D&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2 id=&#34;usa&#34;&gt;USA&lt;/h2&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.protolabs.com/&#34; target=&#34;_blank&#34;&gt;Protolabs&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.3dsystems.com/&#34; target=&#34;_blank&#34;&gt;3d Systems&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.protolabs.com/&#34;&gt;Protolabs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.3dsystems.com/&#34;&gt;3D Systems&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://robo3d.com/&#34;&gt;Robo 3D&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h2 id=&#34;europe&#34;&gt;Europe&lt;/h2&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.prodways.com/en/&#34; target=&#34;_blank&#34;&gt;Prodways&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.materialise.com/en&#34; target=&#34;_blank&#34;&gt;Materlise&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.prodways.com/en/&#34;&gt;Prodways&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.materialise.com/en&#34;&gt;Materlise&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h1 id=&#34;custom-manufacturing&#34;&gt;Custom Manufacturing&lt;/h1&gt;
-
-&lt;h2 id=&#34;ontario-1&#34;&gt;Ontario&lt;/h2&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.odg.com&#34; target=&#34;_blank&#34;&gt;Ontario Drive and Gear&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://app.mfg.com&#34;&gt;MFG&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;ontario-1&#34;&gt;Ontario&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.odg.com&#34;&gt;Ontario Drive and Gear&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cmts.ca/&#34;&gt;Canadian Manufacturing Technology Show&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;usa-1&#34;&gt;USA&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://exomotive.com/&#34;&gt;Exomotive&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;aluminum-extrusions&#34;&gt;Aluminum Extrusions&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.makerbeam.com/&#34;&gt;MakerBeam&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://openbuildspartstore.com/?setCurrencyId=6&#34;&gt;OpenBuilds&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;usa-1&#34;&gt;USA&lt;/h2&gt;
-
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Sensors</title>
+      <link>https://wikihub.github.io/docs/references/hardware/sensors/</link>
+      <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/hardware/sensors/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;odometry&#34;&gt;Odometry&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://exomotive.com/&#34; target=&#34;_blank&#34;&gt;Exomotive&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/@waleedmansoor/how-i-built-ros-odometry-for-differential-drive-vehicle-without-encoder-c9f73fe63d87&#34;&gt;Odometry for differential drive vehicle without encoders&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;cameras&#34;&gt;Cameras&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://rosindustrial.org/3d-camera-survey&#34;&gt;3D cameras with ROS support&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://xtionprolive.com/asus-xtion2&#34;&gt;ASUS Xtion 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://xtionprolive.com/primesense-carmine-1.09&#34;&gt;Primesense Carmine 1.09&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://orbbec3d.com/&#34;&gt;Orbbec 3D&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://structure.io/&#34;&gt;Structure.io&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.e-consystems.com/See3CAM-USB-3-Camera.asp#stereo-vision-camera&#34;&gt;See3CAM (Tara)&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.e-consystems.com/3D-USB-stereo-camera.asp&#34;&gt;3D USB 3.0 e-con Systems&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.intel.ca/content/www/ca/en/architecture-and-technology/realsense-overview.html&#34;&gt;Intel RealSense&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;gps&#34;&gt;GPS&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://deepsouthrobotics.com/2017/04/20/spilling-the-beans-on-rtk/&#34;&gt;Spilling the Beans on RTK&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://navspark.mybigcommerce.com/&#34;&gt;NavSpark&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://ardupilot.org/rover/docs/common-positioning-landing-page.html&#34;&gt;ArduPilot GPS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://rtklib.com/&#34;&gt;RTKLIB&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://store.emlid.com/&#34;&gt;Emlid&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://hemispheregnss.com/Products/Products/Position-Heading/vector-v104e284a2-gps-compass-763&#34;&gt;Hemisphere&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;gps-rtk&#34;&gt;GPS RTK&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.use-snip.com/&#34;&gt;SNIP&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://eos-gnss.com/product/arrow-series/arrow-gold/&#34;&gt;Arrow Gold&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;swift-navigation&#34;&gt;Swift Navigation&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.swiftnav.com/store&#34;&gt;SwiftNav&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://support.swiftnav.com/customer/en/portal/articles/2924342-using-ros-with-swift-navigation-gnss-devices&#34;&gt;Install driver&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;ublox&#34;&gt;ublox&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ardusimple.com/product/simplertk2b-heading-basic-starter-kit-ip67/&#34;&gt;Ardusimple&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.u-blox.com/en/product/neo-m8p-series&#34;&gt;ublox M8P&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.u-blox.com/en/product/c94-m8p&#34;&gt;ublox M8P kit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.u-blox.com/en/product/zed-f9k-module&#34;&gt;ublox F9K with IMU&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.calvert.ch/maurice/2017/08/28/ublox-c94-m8p-rtk-gps-review-performance-evaluation/&#34;&gt;ublox test&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.kickstarter.com/projects/simplertk2b/simplertk2b-the-first-multiband-rtk-shield-based-o&#34;&gt;simpleRTK2B&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://deepsouthrobotics.com/2019/06/03/the-taming-of-the-u-blox-zed-f9p/&#34;&gt;ublox F9P&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;polaris&#34;&gt;Polaris&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.polaris-gnss.com/shop&#34;&gt;Polaris GNSS&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;correction-services&#34;&gt;Correction services&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://eos-gnss.com/can-get-gps-sub-meter-corrections-free/&#34;&gt;How to Get Free GPS Sub-Meter Corrections with SBAS Satellite Systems&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;lidar&#34;&gt;LiDAR&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.robotshop.com/ca/en/slamtec-rplidar-a3-360-laser-scanner-25-m.html&#34;&gt;Slamtec RPLIDAR A3 360° Laser Scanner&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://spectrum.ieee.org/automaton/robotics/robotics-hardware/sweep-lidar-for-robots-and-drones&#34;&gt;ScanSe Sweep&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.doigcorp.com/Product/Sensors-and-Vision/1094472.html&#34;&gt;SICK 1094472&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ouster.io/&#34;&gt;Ouster&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.robotshop.com/ca/en/solid-state-tof-infrared-lidar-ce30-a.html&#34;&gt;Solid-State ToF Infrared LiDAR CE30-A&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.neptectechnologies.com/products/opal/&#34;&gt;Neptec OPAL&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.zmp.co.jp/en/products/rslidar&#34;&gt;RoboSense&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.robotshop.com/ca/en/3d-16-channels-lidar-15-vfod-120m.html&#34;&gt;LeiShen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://buy.garmin.com/en-CA/CA/p/557294&#34;&gt;Garmin LIDAR-Lite v3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.xaxxon.com/xaxxon/openlidar&#34;&gt;OpenLIDAR&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://slacker.ro/2020/01/16/xaxxon-openlidar-install/&#34;&gt;Xaxxon OpenLIDAR install&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;imu&#34;&gt;IMU&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/altineller/fximu2&#34;&gt;FXIMU2&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>

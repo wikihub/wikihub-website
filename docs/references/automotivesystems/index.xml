@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>WIKIHUB – Automotive Systems</title>
     <link>https://wikihub.github.io/docs/references/automotivesystems/</link>
     <description>Recent Hugo news from gohugo.io</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 22 Feb 2019 16:33:13 -0500</lastBuildDate>
     <image>
       <url>https://wikihub.github.io/img/hugo.png</url>
       <title>GoHugo.io</title>
@@ -21,15 +19,238 @@
     
     
     <item>
-      <title>Docs: Autonomous Driving</title>
-      <link>https://wikihub.github.io/docs/references/automotivesystems/autonomousdriving/</link>
-      <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
+      <title>Docs: Autonomous Vehicles</title>
+      <link>https://wikihub.github.io/docs/references/automotivesystems/autonomousvehicles/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://wikihub.github.io/docs/references/automotivesystems/autonomousdriving/</guid>
+      <guid>https://wikihub.github.io/docs/references/automotivesystems/autonomousvehicles/</guid>
       <description>
         
         
+        &lt;h1 id=&#34;software&#34;&gt;Software&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://awesomeopensource.com/projects/autonomous-driving&#34;&gt;Open source autonomous driving&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://awesomeopensource.com/projects/autonomous-vehicles&#34;&gt;Open source autonomous vehicles&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.metacar-project.com/&#34;&gt;Meta car&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;projects&#34;&gt;Projects&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.mrt.kit.edu/annieway/&#34;&gt;AnnieWAY&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/RobotnikAutomation/rbcar_sim&#34;&gt;RBCar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://media.readthedocs.org/pdf/phddocs/latest/phddocs.pdf&#34;&gt;Autonomous Vehicle Control Documentation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://dspace.mit.edu/bitstream/handle/1721.1/98419/IROS15_1943_finalVersion.pdf?sequence=1&#34;&gt;MIT SMART&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;companies&#34;&gt;Companies&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.drive.ai/&#34;&gt;Drive.ai&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://spectrum.ieee.org/video/transportation/self-driving/driveai-deep-learning-first-autonomous-driving&#34;&gt;Drive.ai report&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://selfracingcars.com/&#34;&gt;Self Driving Cars&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://wheego.net/nihao/&#34;&gt;Wheego&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://polysync.io/&#34;&gt;Polysync&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=z9WzHXfYqFI&#34;&gt;Automated Driving with ROS at BMW ROSCon 2015 Hamburg Day 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.nauto.com&#34;&gt;Nauto&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.nutonomy.com/&#34;&gt;nuTonomy&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtu.be/dWSbItd0HEA&#34;&gt;Emilio Frazzoli, CTO, nuTonomy - MIT Self-Driving Cars&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://aimotive.com/&#34;&gt;aimotive&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.getnexar.com/&#34;&gt;nexar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://zoox.com/&#34;&gt;zoox&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.tesla.com/en_CA/autopilot&#34;&gt;Tesla Autopilot&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cadillac.com/world-of-cadillac/innovation/super-cruise&#34;&gt;Cadillac Super Cruise&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://waymo.com/&#34;&gt;Waymo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.volvocars.com/en-kw/own/own-and-enjoy/autonomous-driving&#34;&gt;Volvo Autonomous Driving&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.mercedes-benz.com/en/mercedes-benz/next/automation/&#34;&gt;Mercedes Benz Autonomous Driving&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.bmw.com/en/automotive-life/autonomous-driving.html&#34;&gt;BMW Autonomous Driving&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.huawei.com/en/press-events/news/2018/11/auto-driving-mobile-network-solution-mae&#34;&gt;Huawei Mobile Automation Engine&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ridecell.com/&#34;&gt;Ridecell&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/streetdrone-home/SD-TwizyModel&#34;&gt;StreetDrone&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;drive-by-wire&#34;&gt;Drive by Wire&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.skf.com/binary/79-158102/SKF-Electronic-Steering-Input-Unit---11048_2-EN.pdf&#34;&gt;SKF Electronic Steering Input Unit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cascadedrives.com/cascade-steering/&#34;&gt;Cascade steering&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.bosch-mobility-solutions.com/en/products-and-services/passenger-cars-and-light-commercial-vehicles/steering-systems/electric-power-steering-systems/steering-motors/&#34;&gt;Bosch Mobility Solutions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.nexteer.com/&#34;&gt;Nexteer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.dcemotorsport.com/Home/EPAS&#34;&gt;DCE motorsport&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.dataspeedinc.com/&#34;&gt;Dataspeed&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://autonomoustuff.com/&#34;&gt;Autonomoustuff&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.alliedmotion.com/wp-content/uploads/documents/2-Understanding-Electric-Traction-Steering.pdf&#34;&gt;Understanding Electric Traction and Steering for Robotic Vehicles&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.therangerstation.com/tech/wheels_and_brakes/toyota-electric-power-steering-eps-conversion/&#34;&gt;Electric power assist conversion&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://levelfivesupplies.com/product/dataspeed-adas-kit/&#34;&gt;Level filve supplies&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://web.wpi.edu/Pubs/E-project/Available/E-project-043015-034638/unrestricted/Final_Report.pdf&#34;&gt;Robocart: autonomous ground vehicle&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://digitalcommons.wpi.edu/cgi/viewcontent.cgi?article=4182&amp;amp;context=mqp-all&#34;&gt;Autonomous Ground Vehicle Prototype via Steering-, Throttle-, and Brakeby Wire Modules&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.researchgate.net/profile/Denesh_Sivalingam/publication/337101863_Conversion_of_a_personal_mobility_vehicle_into_a_steer-by-wire_vehicle/links/5dc4f6e3299bf1a47b1fa11c/Conversion-of-a-personal-mobility-vehicle-into-a-steer-by-wire-vehicle.pdf&#34;&gt;Conversion of a personal mobility vehicle into a steer-by-wire vehicle&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://digitalcommons.wpi.edu/cgi/viewcontent.cgi?article=3551&amp;amp;context=mqp-all&#34;&gt;Goat Cart: The Autonomous Golf Cart&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.fka.de/en/competences/prototype-construction.html&#34;&gt;fka steer by wire golf cart&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://repository.lib.fit.edu/bitstream/handle/11141/854/Showcase2016_MAE_Eierle.pdf?sequence=1&amp;amp;isAllowed=y&#34;&gt;Autonomous luggage transportation system&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cecas.clemson.edu/pisugroup/autonomous-golf-cart.html&#34;&gt;Autonomous golf cart testbed&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://neilnie.com/self-driving-golf-cart/&#34;&gt;Self driving golf cart&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://smart.mit.edu/news-events/news/fact-sheet-smart-autonomous-vehicle&#34;&gt;Smart autonomous vehicle&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://edge.rit.edu/edge/P15241/public/Modifications/Mechanical_Modifications&#34;&gt;Autonomous people move - RIT&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.calpolyrobotics.com/autonomous-golf-cart&#34;&gt;Cal Poly Robotics Club - Autonomous golf cart&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;canada&#34;&gt;Canada&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.investinontario.com/tags/autonomous-vehicles&#34;&gt;Invest in Ontario&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cavcoe.com/index.html&#34;&gt;CAVCOE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.avinhub.ca/&#34;&gt;AVIN&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.unmannedsystems.ca/canadian-automated-vehicles-institute-launched/&#34;&gt;CAVI&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ottawaavcluster.com/&#34;&gt;Ottawa Cluster&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cavcanada.ca/&#34;&gt;CAV Canada&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.investottawa.ca/blog/canadas-first-av-technology-and-innovator-directory-announced/&#34;&gt;Canada&amp;rsquo;s First AV Technology Directory&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://betakit.com/blackberry-launches-security-system-for-autonomous-vehicles/&#34;&gt;BLACKBERRY launches security system for autonomous vehicles&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=_0-c5DTxQmU&#34;&gt;Steer by wire golf cart&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.designabilityinc.com/&#34;&gt;Joystick control for gold carts and ATVs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;articles&#34;&gt;Articles&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/communitechpage/videos/342872519899648/UzpfSTEwMDAyOTY4MjQwMzk5MzoxNDQxNTM4NjMyNTA2OTM/&#34;&gt;Successful Autonomous Vehicle Design Through Simulation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thetruthaboutcars.com/2018/10/more-evidence-that-self-driving-cars-are-on-a-road-to-nowhere/&#34;&gt;More Evidence That Self-driving Cars Are on a Road to Nowhere&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.forbes.com/sites/chunkamui/2018/02/28/driverless-cars-90-percent-done-90-percent-left-to-go/&#34;&gt;Driverless Cars: 90 Percent Done, 90 Percent Left To Go?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/pulse/why-driverless-cars-might-hit-road-so-fast-scott-nyquist/&#34;&gt;Why driverless cars might not hit the road so fast&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;projects-1&#34;&gt;Projects&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://deepdrive.io/&#34;&gt;Deep Drive&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://driving.stanford.edu&#34;&gt;Stanford&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://autorally.github.io/&#34;&gt;AutoRally&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/PolySync/OSCC&#34;&gt;OSCC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://gm.web.cmu.edu/research/index.php&#34;&gt;GM-CMU&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www6.in.tum.de/Main/SoftwareOnlineVehicleVerification&#34;&gt;Software for online vehicle verification&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://repository.upenn.edu/cgi/viewcontent.cgi?article=1098&amp;amp;context=mlab_papers&#34;&gt;APEX&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.barc-project.com/&#34;&gt;BARC - Berkeley&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://automatedcars.space/&#34;&gt;Automated Driving&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;rc-car&#34;&gt;RC Car&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/DJTobias/Cherry-Autonomous-Racecar&#34;&gt;Cherry Autonomous Racecar&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;udacity-self-driving-car-nano-degree&#34;&gt;Udacity Self Driving Car Nano Degree&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/ndrplz/self-driving-car&#34;&gt;Udacity Self-Driving Car Engineer Nanodegree projects by Andrea Palazzi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/phamngoclinh96/SemanticSegmentationModel&#34;&gt;Semantic segmentation&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;open-source&#34;&gt;Open Source&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/idsc-frazzoli&#34;&gt;idsc-frazzoli&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/sigmaai/self-driving-golf-cart&#34;&gt;Self driving golf cart&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/ossdc&#34;&gt;Open Source Self Driving Car Initiative&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/PolySync/OSCC&#34;&gt;OSCC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/udacity/self-driving-car&#34;&gt;Self driving car by Udacity&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/philbort/udacity_self_driving_car&#34;&gt;Udacity Projects&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/udacity/challenge-2-using-deep-learning-to-predict-steering-angles-f42004a36ff3&#34;&gt;Udacity Challenge 2&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/commaai&#34;&gt;comma.ai&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/se-research/OpenDaVINCI&#34;&gt;OpenDaVINCI&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.opendlv.org/&#34;&gt;OpenDLV&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sites.google.com/site/mohammadrezabonyadi/standarddatabases/simulated-car-racing&#34;&gt;Ahura&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;simulators&#34;&gt;Simulators&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.appliedintuition.com/&#34;&gt;Applied Intuition&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.metamoto.com/&#34;&gt;Metamoto&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://righthook.io/&#34;&gt;RightHook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.theatlantic.com/technology/archive/2017/08/inside-waymos-secret-testing-and-simulation-facilities/537648/&#34;&gt;Carcraft by Waymo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.rfpro.com/&#34;&gt;rFpro&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.its.leeds.ac.uk/projects/smartest/append3d.html&#34;&gt;Micro-Simulation Models&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;people&#34;&gt;People&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=Hxoke1lDJ9w&#34;&gt;George Hotz on Comma.AI and the state of self-driving cars&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;research&#34;&gt;Research&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://selfdrivingcars.mit.edu/&#34;&gt;Self-driving cars - MIT&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://deepdriving.cs.princeton.edu/&#34;&gt;DeepDriving&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu&#34;&gt;Deep Learning at Oxford 2015&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;formal-verification&#34;&gt;Formal verification&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/edgecase&#34;&gt;Edge Case Research&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://wordpress.csc.liv.ac.uk/va/&#34;&gt;Verifiable Autonomy&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;experiments&#34;&gt;Experiments&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.socialledge.com/sjsu/index.php?title=Self-driving_Car&#34;&gt;Self-driving Car&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://moped.sics.se/wordpress/&#34;&gt;MOPED&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;talks&#34;&gt;Talks&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://soundcloud.com/ecorner/chris-gerdes-ingenuity-derived-from-self-driving-cars&#34;&gt;Chris Gerdes - Ingenuity Derived from Self-Driving Cars&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtu.be/dWSbItd0HEA&#34;&gt;Emilio Frazzoli, CTO, nuTonomy - MIT Self-Driving Cars&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;videos&#34;&gt;Videos&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=VWfdt0oCsJg&#34;&gt;Footage of Ford Fusion Hybrid vehicles undergoing various tests as part of the company&amp;rsquo;s goal to produce fully-autonomous vehicles by 2021.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=9-oS0iqo7X0&#34;&gt;Kia has introduced the launch of a new sub-brand, ‘DRIVE WISE’, to encompass its future Advanced Driver Assistance Systems (ADAS). DRIVE WISE embodies Kia’s philosophy to realize intelligently safe vehicles featuring Kia’s latest and forthcoming ADAS technologies. Kia recently announced plans to manufacturer partially-autonomous cars by 2020, and aims to bring its first fully-autonomous vehicle to market by 2030.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=tomJxZ5Rb2E&#34;&gt;Self Racing Cars, May 28-29 2016&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;autonomy-kits&#34;&gt;Autonomy Kits&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://gvsets.ndia-mich.org/documents/AGS/2018/AUTONOMOUS%20GROUND%20RESUPPLY%20AUTONOMY%20KIT.pdf&#34;&gt;AUTONOMOUS GROUND RESUPPLY AUTONOMY KIT&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;perception&#34;&gt;Perception&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5134582/&#34;&gt;3D Scene Reconstruction Using Omnidirectional Vision and LiDAR: A Hybrid Approach&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cvlibs.net/datasets/kitti/&#34;&gt;Kitti Vision Benchmark&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://masc.cs.gmu.edu/wiki/MapGMU&#34;&gt;MapGMU&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://navoshta.com/kitti-lidar/&#34;&gt;Kitti LiDAR&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;cameras&#34;&gt;Cameras&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ptgrey.com/ladybug5-360-degree-usb3-spherical-camera-systems&#34;&gt;Ladybug&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;lidar&#34;&gt;LiDAR&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://3dinsider.com/lidar-sensors/&#34;&gt;LiDAR sensors&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Personal Mobility</title>
+      <link>https://wikihub.github.io/docs/references/automotivesystems/personalmobility/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/automotivesystems/personalmobility/</guid>
+      <description>
         
+        
+        &lt;h1 id=&#34;velomobiles&#34;&gt;Velomobiles&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.podbike.com/en/&#34;&gt;Podbike&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Engine Control</title>
+      <link>https://wikihub.github.io/docs/references/automotivesystems/enginecontrol/</link>
+      <pubDate>Thu, 06 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/automotivesystems/enginecontrol/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;companies&#34;&gt;Companies&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://neweagle.net/&#34;&gt;New Eagle&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;open-source-ecu&#34;&gt;Open Source ECU&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.pi-innovo.com/&#34;&gt;Pi Innovo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/rusefi/rusefi/wiki/Hardware&#34;&gt;rusEFI&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
       </description>
     </item>
     
@@ -42,27 +263,67 @@
       <description>
         
         
-        
-
-&lt;h1 id=&#34;platforms&#34;&gt;Platforms&lt;/h1&gt;
-
+        &lt;h1 id=&#34;platforms&#34;&gt;Platforms&lt;/h1&gt;
+&lt;h2 id=&#34;auto&#34;&gt;AUTO&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.adrianchernoff.com/&#34;&gt;The GM AUTOnomy&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;golf-carts&#34;&gt;Golf Carts&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://nicksgolfcarts.com/&#34;&gt;Nick Golf Carts&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://plumquick.com/&#34;&gt;Plum Quick Motors&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2 id=&#34;industrial-tow-tractors&#34;&gt;Industrial Tow Tractors&lt;/h2&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.taylor-dunn.com/en-us/tow-tractor/#specs&#34; target=&#34;_blank&#34;&gt;Taylor Dunn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.taylor-dunn.com/en-us/tow-tractor/#specs&#34;&gt;Taylor Dunn&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
+&lt;h2 id=&#34;electric-tractors&#34;&gt;Electric tractors&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.theverge.com/2016/12/7/13874576/john-deere-sesam-electric-tractor-150kw-battery&#34;&gt;John Deere Sesam 2016&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ivtinternational.com/news/agriculture/john-deere-develops-fully-electric-autonomous-tractor.html&#34;&gt;John Deere GridON 2019&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.solectrac.com/eutility&#34;&gt;Soletrac eUtility&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.rigitrac.ch/produkte-1/rigitrac-ske-50-electric/&#34;&gt;Rigitrac SKE50&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.fendt.com/int/fendt-e100-vario&#34;&gt;Fendt e100varioe&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.escortsgroup.com/agri-machinery/products/farmtrac/31-to-40-hp.html&#34;&gt;Farmtrac Champion 37&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.allelectricvehicles.com.au/blog/the-incredible-benefits-of-switching-to-electric-farm-utility-vehicles/&#34;&gt;T-EV&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.autoevolution.com/news/meet-the-kulan-your-next-lightweight-electric-tractor-85343.html&#34;&gt;KULAN&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;electric-wheel-loaders&#34;&gt;Electric wheel loaders&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=fJNydCCVXeQ&#34;&gt;Kramer 5055e&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.kramer-online.com/en/discover-kramer/zero-emission/the-kramer-5055e/&#34;&gt;Kramer 5055e, zero emission&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.multione.com/ez-7/&#34;&gt;MultiOne EZ 7&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h1 id=&#34;drivetrain&#34;&gt;Drivetrain&lt;/h1&gt;
-
 &lt;h1 id=&#34;motors&#34;&gt;Motors&lt;/h1&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.metricmind.com/&#34; target=&#34;_blank&#34;&gt;Metric Mind&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.metricmind.com/&#34;&gt;Metric Mind&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.hpevs.com/&#34;&gt;High PErformance Electric Vehicle Systems&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h1 id=&#34;controllers&#34;&gt;Controllers&lt;/h1&gt;
-
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.curtisinstruments.com/&#34;&gt;Curtis Instruments&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sme-group.com/&#34;&gt;SME&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://accelerated-systems.com&#34;&gt;Accelerated Systems&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h1 id=&#34;batteries&#34;&gt;Batteries&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.orionbms.com/&#34;&gt;Orion BMS&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;personal-mobility&#34;&gt;Personal mobility&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.swincar.fr/&#34;&gt;Swincar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.ev4.pl/en/off-road-quad.html&#34;&gt;Quad&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;conversion&#34;&gt;Conversion&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://evwest.com/catalog/&#34;&gt;EV West&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://canev.com/&#34;&gt;Canadian Electric Vehicles&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;lawn-tractor&#34;&gt;Lawn tractor&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://electriclawntractor.com/&#34;&gt;DIY Electric Lawn Mower Conversions&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
       </description>
     </item>

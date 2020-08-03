@@ -1,0 +1,74 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WIKIHUB – Small Business</title>
+    <link>https://wikihub.github.io/docs/references/smallbusiness/</link>
+    <description>Recent Hugo news from gohugo.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <image>
+      <url>https://wikihub.github.io/img/hugo.png</url>
+      <title>GoHugo.io</title>
+      <link>https://wikihub.github.io/docs/references/smallbusiness/</link>
+    </image>
+    
+	  <atom:link href="https://wikihub.github.io/docs/references/smallbusiness/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: Project Management</title>
+      <link>https://wikihub.github.io/docs/references/smallbusiness/projectmanagement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/smallbusiness/projectmanagement/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;agile-project-management&#34;&gt;Agile project management&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://trello.com/b/m7LowhmZ/template-agile-team-training-v10&#34;&gt;Trello agile management training&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;project-timeline&#34;&gt;Project Timeline&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/azu/mdline&#34;&gt;mdline&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://mermaidjs.github.io/&#34;&gt;mermaid&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Startups</title>
+      <link>https://wikihub.github.io/docs/references/smallbusiness/startups/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/smallbusiness/startups/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;ontario&#34;&gt;Ontario&lt;/h1&gt;
+&lt;h2 id=&#34;services&#34;&gt;Services&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.growthpartners.ca/&#34;&gt;Growth Partners&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;campus-linked-accelerators&#34;&gt;Campus-Linked Accelerators&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://dfz.ryerson.ca/&#34;&gt;Design Fabrication Zone&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://dfz.ryerson.ca/portfolio/taiga-robotics/&#34;&gt;Taiga Robotics&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;china&#34;&gt;China&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cc-angels.com/wp/&#34;&gt;China Canada Angels Alliance&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

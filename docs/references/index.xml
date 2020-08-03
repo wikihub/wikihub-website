@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>WIKIHUB – References</title>
     <link>https://wikihub.github.io/docs/references/</link>
     <description>Recent Hugo news from gohugo.io</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 22 Feb 2019 15:51:45 -0500</lastBuildDate>
     <image>
       <url>https://wikihub.github.io/img/hugo.png</url>
       <title>GoHugo.io</title>
@@ -19,6 +17,658 @@
         
       
     
+    
+    <item>
+      <title>Docs: Agritech</title>
+      <link>https://wikihub.github.io/docs/references/agritech/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/agritech/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;exhibitions&#34;&gt;Exhibitions&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.simaonline.com/&#34;&gt;SIMA&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cultivate19.org/&#34;&gt;Cultivate 2019&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;robots&#34;&gt;Robots&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.augeanrobotics.com&#34;&gt;Augean Robotics&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.freshplaza.com/article/9131522/canadian-firm-receives-funds-to-develop-mushroom-picking-robot/&#34;&gt;Mushroom picking&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;machines&#34;&gt;Machines&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.weterings.nl/en/machines-and-accessories/electric-tow-trucks/donkey-te-20-electric-tractor&#34;&gt;Donkey&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=f_1E1UpM8_I&#34;&gt;Cushman® Tug™ in a Greenhouse Facility&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=Bl3XzBWpZbY&#34;&gt;Machine Learning: Using Algorithms to Sort Fruit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=ZFgd-d18UvQ&#34;&gt;FRUITRON - India&amp;rsquo;s First High-Speed Optical Fruit Sorting System&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;tools&#34;&gt;Tools&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.yara.com/crop-nutrition/products-and-solutions/precision-farming/&#34;&gt;Yara Precision Farming&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;urban-farming&#34;&gt;Urban Farming&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.localsprout.com/&#34;&gt;Local Sprouts&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Automotive Systems</title>
+      <link>https://wikihub.github.io/docs/references/automotivesystems/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/automotivesystems/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;open-source-vehicles&#34;&gt;Open Source Vehicles&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.andredavidbrown.com/reynard&#34;&gt;World&amp;rsquo;s 1st Open Source Racecar&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;electric-atv&#34;&gt;Electric ATV&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://ironbaltic.com/ca&#34;&gt;ATV attachments&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;automotive-control-systems&#34;&gt;Automotive Control Systems&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.clearmotion.com/&#34;&gt;Clear Motion (Bose technology)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;automotive-test-equipments&#34;&gt;Automotive Test Equipments&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=5JR_9GVVt0I&#34;&gt;Robots Promo - AB Dynamics&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.abdynamics.com/en/products/track-testing/driving-robots/steering-robots&#34;&gt;Steering Robot - AB Dynamics&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.vehico.com/index.php/en/products/co-act/steering-robot&#34;&gt;Steering Robot - VEHICO&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;parts&#34;&gt;Parts&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.omgextras.com/default.asp#&amp;amp;panel1-1&#34;&gt;OMG Extras&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;chassis&#34;&gt;Chassis&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.speedwaymotors.com/&#34;&gt;Speedway Motors&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://roadstershop.com/&#34;&gt;Roadster hop&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;security&#34;&gt;Security&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://register.gotowebinar.com/register/6193022740269878541?mkt_tok=eyJpIjoiWWpBNE1ETTFOemswWTJGaCIsInQiOiJxdDE0ZXlGUzRCaGVFUm5yMGZ0eGtpZG1jSEFJSXNBR2hPXC96NTh6UUcybWlpYzY2a2RcLzJhbCs5MlBsSFlvV3Q5YjZ2d2hER3NKVWVcLzE5eWRBQ2FLVFZUWnFWVmVFaEdubU5iaDdXeXVMUUhiY09cL0RHaFwvN3VIZk1YdTE4R1ZDIn0%3D&#34;&gt;Emerging Issues in Cybersecurity: A Quickstart Guide to ISO/UNECE Standards within Automotive&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Academia</title>
+      <link>https://wikihub.github.io/docs/references/academia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/academia/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;ontario&#34;&gt;Ontario&lt;/h1&gt;
+&lt;h2 id=&#34;university-of-toronto&#34;&gt;University of Toronto&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://tspace.library.utoronto.ca/&#34;&gt;TSpace&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;university-of-waterloo&#34;&gt;University of Waterloo&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://uwspace.uwaterloo.ca/&#34;&gt;UWSpace&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;ontario-college-of-art-and-design&#34;&gt;Ontario College of Art and Design&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/in/lindy-wilkins-7644b948/&#34;&gt;Lindy Wilkins&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Systems Engineering</title>
+      <link>https://wikihub.github.io/docs/references/systemsengineering/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/systemsengineering/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;MagicDraw (SysML, No Magic)&lt;/li&gt;
+&lt;li&gt;Rhapsody (SysML, IBM Rational)&lt;/li&gt;
+&lt;li&gt;Simulink (Simulation, The MathWorks)&lt;/li&gt;
+&lt;li&gt;GitHub (ALM, GitHub)&lt;/li&gt;
+&lt;li&gt;JIRA (Project Management, Atlassian)&lt;/li&gt;
+&lt;li&gt;Jama Connect (Requirements, Jama Software)&lt;/li&gt;
+&lt;li&gt;DOORS NG (Requirements, IBM)&lt;/li&gt;
+&lt;li&gt;Teamcenter (PLM, Siemens)&lt;/li&gt;
+&lt;li&gt;TestRail (Test Management, Gurock)&lt;/li&gt;
+&lt;li&gt;OpenMBEE (Open Model Based Engineering Environment)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://mbse.gfse.de/documents/faq.html&#34;&gt;OpenSE Cookbook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;SYSMOD&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;uml-diagrams&#34;&gt;UML Diagrams&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.uml-diagrams.org/component-diagrams-reference.html&#34;&gt;Component Diagram&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;tools&#34;&gt;Tools&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.valispace.com/hardware-engineering-ddse/&#34;&gt;Data Driven Systems Engineering (DDSE)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.eclipse.org/papyrus/&#34;&gt;Papyrus&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.modelio.org/&#34;&gt;Modelio&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/webgme&#34;&gt;WebGME&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://mbse4u.com/sysml-tools/&#34;&gt;MBSE Tools&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://neo4j.com/developer/get-started/&#34;&gt;Neo4j&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;syndeia&#34;&gt;Syndeia&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://intercax.com/products/syndeia/&#34;&gt;Syndeia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://intercax.com/2018/01/11/model-based-systems-engineering-autonomous-vehicles-part-1/&#34;&gt;Model based systems engineering autonomous vehicles&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;capella&#34;&gt;Capella&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.eclipse.org/capella/&#34;&gt;Capella&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Capella on Ubuntu works with Java 1.8 (not 1.11). Change the Java version with: &lt;code&gt;sudo update-alternatives --config java&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;tutorials&#34;&gt;Tutorials&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://esd.sutd.edu.sg/40014-capella-tutorial/&#34;&gt;Capella tutorials&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtu.be/K4eU8nj1nok&#34;&gt;Introduction to Arcadia Capella with a toy catapult project&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;team&#34;&gt;Team&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.servicerobotik-ulm.de/wpr/projects/&#34;&gt;Service Robotics - Ulm&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;requirement-management&#34;&gt;Requirement Management&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.jamasoftware.com/&#34;&gt;Jama&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;visualization&#34;&gt;Visualization&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://sourceforge.net/projects/matrixbrowser/&#34;&gt;MatrixBrowser&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Hardware</title>
+      <link>https://wikihub.github.io/docs/references/hardware/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/hardware/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;shopping&#34;&gt;Shopping&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.arrow.com/&#34;&gt;Arrow&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.sparkfun.com/&#34;&gt;Sparkfun&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.adafruit.com/&#34;&gt;Adafruit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.seeedstudio.com/&#34;&gt;Seeed Studio&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.ca.diigiit.com/&#34;&gt;Diigiit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.jameco.com&#34;&gt;JAMECO&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://picocanada.com/en/&#34;&gt;Pico Canada&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.tindie.com/&#34;&gt;tindie&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.revrobotics.com/&#34;&gt;Rev Robotics&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;canada&#34;&gt;Canada&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.mouser.ca&#34;&gt;Mouser&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://canada.newark.com/?COM=element14_store_Home&#34;&gt;Newark (Element14)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.digikey.ca&#34;&gt;Digikey&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.robotshop.com/ca/en/&#34;&gt;Robotshop&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://solarbotics.com/&#34;&gt;Solarbotics&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;ontario&#34;&gt;Ontario&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://elmwoodelectronics.ca/&#34;&gt;Elmwood Electronics&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://shop.sayal.com/&#34;&gt;Sayal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://corpshadow.biz/&#34;&gt;Corpshadow&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;pcb&#34;&gt;PCB&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.seeedstudio.com/fusion.html&#34;&gt;Seeed Fusion PCB &amp;amp; PCB Assembly&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;din-rails&#34;&gt;DIN Rails&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://pi-plates.com/dinplate/&#34;&gt;DIN Plate&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Skills</title>
+      <link>https://wikihub.github.io/docs/references/skills/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/skills/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;presentation&#34;&gt;Presentation&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://products.office.com/en-ca/powerpoint&#34;&gt;Microsoft Powerpoint&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.apple.com/ca/keynote/&#34;&gt;Keynote&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://prezi.com/&#34;&gt;Prezi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sway.office.com/my&#34;&gt;Microsoft Sway&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.haikudeck.com/&#34;&gt;Haiku Deck&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ingage.io/&#34;&gt;Ingage&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.educreations.com/&#34;&gt;Educreations&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Robotics</title>
+      <link>https://wikihub.github.io/docs/references/robotics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/robotics/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;networking&#34;&gt;Networking&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.roboticssummit.com/&#34;&gt;Robotics Summit&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;robotics-news&#34;&gt;Robotics News&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.therobotreport.com/&#34;&gt;Robotics Report&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://robohub.org/&#34;&gt;Robohub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://weeklyrobotics.com/&#34;&gt;Robotics Weekly&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;shopping&#34;&gt;Shopping&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.superdroidrobots.com/&#34;&gt;Superdroid Robots&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.robotshop.com/ca/en/&#34;&gt;Robotshop&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://solarbotics.com/&#34;&gt;Solarbotics&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.servocity.com/&#34;&gt;Servocity&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://maytech.aliexpress.com/store/1630416&#34;&gt;Maytech&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.robotmarketplace.com/&#34;&gt;Robot Marketplace&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;vc&#34;&gt;VC&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.grishinrobotics.com/&#34;&gt;Grishin Robotics&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://eclipse.vc&#34;&gt;Eclipse&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;teams&#34;&gt;Teams&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.athenian-robotics.org/&#34;&gt;Athenian FRC Robotics&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;software&#34;&gt;Software&lt;/h1&gt;
+&lt;h2 id=&#34;multi-agent-reinforcement-learning&#34;&gt;Multi-Agent Reinforcement Learning&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/deepmind/lab&#34;&gt;DeepMind Lab&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.microsoft.com/en-us/research/project/project-malmo/&#34;&gt;Project Malmo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vizdoom.cs.put.edu.pl/&#34;&gt;ViZDoom&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;game-engine&#34;&gt;Game Engine&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.panda3d.org/&#34;&gt;Panda3D&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;robotics-companies&#34;&gt;Robotics Companies&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.sony.net/SonyInfo/CorporateInfo/newbusiness/AI_Robotics/&#34;&gt;Sony AI Robotics&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.roboticresearch.com/&#34;&gt;Robotic Research&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.asirobots.com/&#34;&gt;ASi Robots&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.quimesis.be/en/projects/&#34;&gt;Quimesis&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.belrobotics.com/en/mowers/&#34;&gt;Bel Robotics&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.roboticsbusinessreview.com/rbr-50-2020-innovations/&#34;&gt;Robotics business review 2020&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;suppliers&#34;&gt;Suppliers&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.unmannedsystemstechnology.com/&#34;&gt;Unmanned Systems Technology&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;robotics-projects&#34;&gt;Robotics Projects&lt;/h1&gt;
+&lt;h2 id=&#34;europe&#34;&gt;Europe&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://ec.europa.eu/programmes/horizon2020/en/h2020-section/robotics&#34;&gt;H2020 Robotics&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.centauro-project.eu/&#34;&gt;H2020 Project CENTAURO&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ec.europa.eu/programmes/horizon2020/en/news/new-horizon-2020-robotics-projects-2016&#34;&gt;H2020 Robotics Projects 2016&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.eu-robotics.net/&#34;&gt;EU Robotics&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://robmosys.eu/wiki/start&#34;&gt;RobMoSys&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://eu-robotics.net/sparc/&#34;&gt;SPARC&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://rodin-robotics.eu/&#34;&gt;RODIN Robotics&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://master-emaro.ec-nantes.fr/&#34;&gt;EMARO&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;crowdfunding&#34;&gt;Crowdfunding&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.indiegogo.com/explore/all?project_type=all&amp;amp;project_timing=all&amp;amp;sort=trending&amp;amp;q=robot&#34;&gt;Indiegogo Robotics Projects&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.indiegogo.com/projects/treerover-a-tree-planting-robot#/&#34;&gt;Tree Rover&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;robot-controllers&#34;&gt;Robot Controllers&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://acutronicrobotics.com/&#34;&gt;Acutronic&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://erlerobotics.com&#34;&gt;Erle Robotics&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.dexterindustries.com/brickpi/&#34;&gt;BrickPi&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;edge-computing&#34;&gt;Edge Computing&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.renesas.com/us/en/solutions/industrial-automation/e-ai.html&#34;&gt;embedded Artificial Intelligence (e-AI)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://microsoft.github.io/ELL/&#34;&gt;ELL&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;predictive-analytics&#34;&gt;Predictive Analytics&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cio.com/article/3273114/predictive-analytics/what-is-predictive-analytics-transforming-data-into-future-insights.html&#34;&gt;What is predictive analytics? Transforming data into future insights&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=TGWB1hbHLMw&#34;&gt;General Motors Drives Innovation With APIs to Perfect the Connected Car Ecosystem&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;predictive-maintenance&#34;&gt;Predictive Maintenance&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://resources.ema-eda.com/blog/predictive-maintenance-for-automobiles&#34;&gt;Predictive Maintenance for Automobiles&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;x-in-the-loop-simulation&#34;&gt;X in the Loop Simulation&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.iem.fraunhofer.de/en/kompetenzen/unsereforschungsabteilungen/regelungstechnik/leistungsangebot/X-in-the-LoopEntwicklungs-undTestumgebungen.html&#34;&gt;X-in-the-Loop (XiL)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;mbse&#34;&gt;MBSE&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://sysml.org&#34;&gt;SysML&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sysmltools.com/&#34;&gt;SysML Tools&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Software</title>
+      <link>https://wikihub.github.io/docs/references/software/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/software/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;open-source&#34;&gt;Open Source&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://awesomeopensource.com/&#34;&gt;Awesome Open Source&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;cross-platform&#34;&gt;Cross Platform&lt;/h1&gt;
+&lt;h2 id=&#34;file-sharing&#34;&gt;File Sharing&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.seafile.com/en/home/&#34;&gt;Seafile&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.sparkleshare.org/&#34;&gt;Spark Share&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://askubuntu.com/questions/285539/detect-and-mount-devices&#34;&gt;Mount drives&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ubuntu.com/tutorials/install-and-configure-samba#4-setting-up-user-accounts-and-connecting-to-share&#34;&gt;Samba does not use the system account user and password&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;The /var/lib/samba/usershares folder should belong to the sambashare group. The user should also belong to the sambashare group.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;grub&#34;&gt;Grub&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://help.ubuntu.com/community/Grub2/Troubleshooting&#34;&gt;Grub2 troubleshooting&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;regular-expressions&#34;&gt;Regular Expressions&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://regexr.com/&#34;&gt;regexr.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=rhzKDrUiJVk&#34;&gt;Learn Regular Expressions In 20 Minutes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sed.js.org/&#34;&gt;sed&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;linux&#34;&gt;Linux&lt;/h1&gt;
+&lt;h2 id=&#34;ubuntu&#34;&gt;Ubuntu&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://discourse.ubuntubudgie.org/t/main-menu-disappeared/2378&#34;&gt;Fix the Budgie panel&lt;/a&gt;: &lt;code&gt;nohup budgie-panel --reset --replace &amp;amp;&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;tutorials&#34;&gt;Tutorials&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://bash.cyberciti.biz/guide/Main_Page&#34;&gt;Linux Shell Scripting Tutorial (LSST) v2.0&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://linuxhint.com/&#34;&gt;Linux Hint&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;bash&#34;&gt;bash&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://linuxhint.com/30_bash_script_examples/&#34;&gt;30 bash script examples&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;packages&#34;&gt;Packages&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Search: apt-cache search keyword&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;commands&#34;&gt;Commands&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://chmod-calculator.com/&#34;&gt;chmod calculator&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://stedolan.github.io/jq/&#34;&gt;jq&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thomas-krenn.com/en/wiki/Configure_Locales_in_Ubuntu&#34;&gt;locale&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://linuxhint.com/create_symbolic_link_ubuntu/&#34;&gt;Symbolic link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;sshhttpswwwsshcom&#34;&gt;&lt;a href=&#34;https://www.ssh.com&#34;&gt;ssh&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ssh.com/ssh/keygen&#34;&gt;Generate ssh key for a remote computer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://help.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent&#34;&gt;Generating a new SSH key and adding it to the ssh-agent&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;log&#34;&gt;log&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;less /var/log/syslog&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;dd&#34;&gt;dd&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.howtoforge.com/tutorial/linux-dd-command-clone-disk-practical-example/&#34;&gt;Cloning disks&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;remote-desktop&#34;&gt;Remote desktop&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.linode.com/docs/applications/remote-desktop/install-vnc-on-ubuntu-16-04/&#34;&gt;Starting VNC server on boot&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/CDAT/cdat/wiki/Remote-server-setup-for-VNC&#34;&gt;Remote server setup for VNC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-vnc-on-ubuntu-18-04&#34;&gt;How to install and configure VNC on Ubuntu 18.04&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://askubuntu.com/questions/1068370/vnc-grey-screen-16-04-tightvnc-xfce4-solved&#34;&gt;VNC server on EC2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://askubuntu.com/questions/800302/vncserver-grey-screen-ubuntu-16-04-lts&#34;&gt;It would be good if this worked&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cloudcone.com/docs/article/install-desktop-vnc-ubuntu-16-04/&#34;&gt;Gnome VNC&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;folder-sync&#34;&gt;Folder Sync&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://computingforgeeks.com/how-to-install-and-use-syncthing-on-ubuntu-18-04/&#34;&gt;Syncthing&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;libraries&#34;&gt;Libraries&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Find different versions of libraries in a file: strings /usr/lib/x86_64-linux-gnu/libstdc++.so.6 | grep CXXABI&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;distribution&#34;&gt;Distribution&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.hostingadvice.com/how-to/ubuntu-show-version/&#34;&gt;Ubuntu — Show Version Number (Command Line and Unity)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cyberciti.biz/faq/find-ubuntu-linux-kernel-version-command/&#34;&gt;HowTo: Ubuntu Linux Kernel Version Command&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://itsfoss.com/find-which-kernel-version-is-running-in-ubuntu/&#34;&gt;3 Ways to Check Linux Kernel Version in Command Line&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://unetbootin.github.io/&#34;&gt;Installing persistent Ubuntu on USB flash drive&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;dual-boot&#34;&gt;Dual Boot&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.howtogeek.com/116569/htg-explains-how-windows-8s-secure-boot-feature-works-what-it-means-for-linux/&#34;&gt;How Secure Boot Works on Windows 8 and 10, and What It Means for Linux&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;vpn&#34;&gt;VPN&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cyberciti.biz/faq/howto-setup-openvpn-server-on-ubuntu-linux-14-04-or-16-04-lts/&#34;&gt;How To Set up OpenVPN Server In 5 Minutes on Ubuntu Linux&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;macos&#34;&gt;MacOS&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://macappstore.org/&#34;&gt;Mac App Store&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.usboverdrive.com/&#34;&gt;USB Overdrive&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://nodesource.com/blog/installing-node-js-tutorial-using-nvm-on-mac-os-x-and-ubuntu/&#34;&gt;Install nvm&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;windows&#34;&gt;Windows&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Remove any external hard drive or flash memory.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://rog.asus.com/forum/showthread.php?76993-Guide-How-to-install-windows-8-8-1-10-The-proper-way-(UEFI-based-installation)&#34;&gt;Install Windows 10 on Asus ROG&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://files.lhmouse.com/nano-win/&#34;&gt;Nano text editor for windows&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;ssh&#34;&gt;ssh&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://code.visualstudio.com/docs/remote/troubleshooting&#34;&gt;Visual Studio Code&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/lukesampson/pshazz/issues/70&#34;&gt;Set-Service ssh-agent -StartupType Manual&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;wsl&#34;&gt;WSL&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://ericsysmin.com/2019/07/13/converting-wsl-1-operating-systems-to-wsl-2-on-windows/&#34;&gt;Convert WSL1 to WSL2&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Building</title>
+      <link>https://wikihub.github.io/docs/references/building/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/building/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;building-automation&#34;&gt;Building Automation&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://beic.ca/&#34;&gt;Building Energy Innovators Council&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.brainboxai.com/&#34;&gt;Brain Box AI&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.paritygo.com/&#34;&gt;Parity&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://carleton.ca/dbom/&#34;&gt;Data-driven building operation and maintenance research group&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://buildingenergychallenge.ca/&#34;&gt;Building energy challenge&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://projectstasio.com/&#34;&gt;Project STASIO&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://simulate.energy/&#34;&gt;Simulate Energy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://betterbuildingsbc.ca/new-construction/net-zero-energy-ready-challenge/&#34;&gt;Clean BC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.bomatoronto.org/&#34;&gt;BOMA Toronto&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://buildingsimulation2019.org/competitions/&#34;&gt;Buildings Simulation 2019&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;government-funds&#34;&gt;Government Funds&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.sdtc.ca/en/&#34;&gt;SDTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.nrcan.gc.ca/science-data/research-centres-labs/energy-offices-labs/office-energy-research-development-oerd/5711&#34;&gt;OERD&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;startups&#34;&gt;Startups&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.bluwave-ai.com/&#34;&gt;Bluwave AI&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;academic-research&#34;&gt;Academic Research&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://simulationresearch.lbl.gov/&#34;&gt;Simulation Research&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;net-zero-energy-buildings&#34;&gt;Net Zero Energy Buildings&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.huffingtonpost.ca/entry/net-zero-energy-homes-in-ontario-that-produce-as-much-power-as-they-consume_ca_5cd540fae4b07bc729764592&#34;&gt;Net-Zero Energy Homes In Ontario&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.terra-view.com/guelphs-new-net-zero-carbon-emission-home/&#34;&gt;Terra View&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;tiny-houses&#34;&gt;Tiny Houses&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=E7D9_r8rjgE&#34;&gt;15 Modern Tiny Homes and Prefab Modular Housing&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Learning</title>
+      <link>https://wikihub.github.io/docs/references/learning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/learning/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;elearning&#34;&gt;eLearning&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://computinged.wordpress.com/&#34;&gt;Computing Education Research Blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.walkingrandomly.com/&#34;&gt;Walking Randomly&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;tutorials&#34;&gt;Tutorials&lt;/h1&gt;
+&lt;h2 id=&#34;codelab&#34;&gt;Codelab&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/googlecodelabs/tools&#34;&gt;claat&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/deepakshrma/googles-codelabs&#34;&gt;claat in Node.js&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/ucl-casa-ce/claat-snippets-atom&#34;&gt;Atom extension for claat&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;katacode&#34;&gt;Katacode&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://katacoda.com&#34;&gt;Katacode&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;databases&#34;&gt;Databases&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/ipeirotis/introduction-to-databases/tree/739f25fd9891523bc949f5aeda2c515f5d2b6858&#34;&gt;Introduction to databases&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;learning-management-system&#34;&gt;Learning Management System&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/recurzery/courselit&#34;&gt;Courselit&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;online-course-templates&#34;&gt;Online course templates&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/ines/course-starter-python&#34;&gt;Gatsby, Reveal.js and Binder&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;tools&#34;&gt;Tools&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.electronjs.org/&#34;&gt;Electron&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;project-documentation&#34;&gt;Project documentation&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/doczjs/docz/tree/master/core/gatsby-theme-docz&#34;&gt;Docz and Gatsby&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.sphinx-doc.org/en/master/&#34;&gt;Sphinx&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;terminal&#34;&gt;Terminal&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://linoxide.com/linux-how-to/linux-terminal-recording-tools/&#34;&gt;8 Popular and Lesser Know Linux Terminal Recording Tools&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;open-source-projects&#34;&gt;Open Source Projects&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://numfocus.org/&#34;&gt;NumFOCUS&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;programming&#34;&gt;Programming&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/TechDotIO&#34;&gt;Tech.io&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.houseofbots.com/news-detail/4166-4-60-amazing-resources-&amp;amp;-tools-to-learn-programming-language-coding&#34;&gt;60 amazing resources to learn coding&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.freecodecamp.org/&#34;&gt;freeCodeCamp&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;node-js&#34;&gt;Node JS&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://nodeschool.io/&#34;&gt;Node School&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;html&#34;&gt;HTML&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://marksheet.io/&#34;&gt;MarkSheet&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;julia&#34;&gt;Julia&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://julialang.org/learning/&#34;&gt;Julia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/QuantEcon/quantecon-notebooks-julia&#34;&gt;Quantecon Notebooks Julia&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Small Business</title>
+      <link>https://wikihub.github.io/docs/references/smallbusiness/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/smallbusiness/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;accounting&#34;&gt;Accounting&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://bench.co/&#34;&gt;Online Bookkeeping Services for Your Small Business | Bench Accounting&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cloudbookkeepingservices.ca/bookkeeping-plans&#34;&gt;cloudbookkeeping | Bookkeeping &amp;amp; Payroll Plans&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jetstreamadmin.com/&#34;&gt;Jetstream Administration + Bookkeeping - Jetstream Administration&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.firmofthefuture.com/content/intuit-announces-2017-top-four-global-firms-of-the-future/&#34;&gt;Intuit Announces 2017 Top Four Global Firms Of The Future&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.hubdoc.com/how-it-works&#34;&gt;How It Works | Hubdoc&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.icas.com/ca-today-news/the-top-30-accountancy-firms-in-2018-revealed&#34;&gt;2018: the Top 30 accountancy firms revealed | News | CA Today | ICAS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.grantthornton.ca/en/&#34;&gt;Audit, Tax, Advisory Consulting | Grant Thornton LLP Canada&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.pwc.com/ca/en.html&#34;&gt;PwC Canada, English&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www2.deloitte.com/ca/en.html&#34;&gt;Audit, Consulting, Financial Advisory, Risk Management &amp;amp; Tax services and reports | Deloitte Canada&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ey.com/ca/en/home&#34;&gt;EY - Canada - Advisory, Assurance, Tax, Transaction Services - EY - Canada&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://home.kpmg/ca/en/home/about/offices/toronto-1.html&#34;&gt;Toronto | KPMG | CA&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.bdo.ca/en-ca/home/&#34;&gt;Assurance and Accounting, Tax, and Advisory Services CPA Firm | BDO Canada&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;phone&#34;&gt;Phone&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.voip.ms&#34;&gt;VOIP.ms&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.flowroute.com&#34;&gt;Flowroute&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.anveo.com&#34;&gt;Anveo&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;printing&#34;&gt;Printing&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.printcloud.ca/&#34;&gt;High Quality Business Card Printing Services Toronto | Printcloud Inc.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.moo.com/ca/&#34;&gt;Custom Online Business Printing &amp;amp; Design | MOO CA&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.tph.ca/&#34;&gt;TPH® The Printing House - Business Printing Solutions&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
     
   </channel>
 </rss>

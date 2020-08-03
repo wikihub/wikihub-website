@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>WIKIHUB – Software</title>
     <link>https://wikihub.github.io/docs/references/software/</link>
     <description>Recent Hugo news from gohugo.io</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 22 Feb 2019 16:33:13 -0500</lastBuildDate>
     <image>
       <url>https://wikihub.github.io/img/hugo.png</url>
       <title>GoHugo.io</title>
@@ -21,6 +19,57 @@
     
     
     <item>
+      <title>Docs: 3D Graphics</title>
+      <link>https://wikihub.github.io/docs/references/software/3dgraphics/</link>
+      <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/software/3dgraphics/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;cad&#34;&gt;CAD&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.freecadweb.org/&#34;&gt;FreeCAD (3D)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://librecad.org/&#34;&gt;LibreCAD (2D)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.openscad.org/&#34;&gt;OpenSCAD&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.qcad.org/en/&#34;&gt;QCAD&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.sweethome3d.com/&#34;&gt;Sweet Home 3D&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;vulkan&#34;&gt;Vulkan&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/VirtualGL/virtualgl/issues/37&#34;&gt;VirtualGL issue&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;point-clouds&#34;&gt;Point Clouds&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://potree.org/index.html&#34;&gt;Potree&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/potree/PotreeConverter&#34;&gt;Potree Converter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Edge Computing</title>
+      <link>https://wikihub.github.io/docs/references/software/edgecomputing/</link>
+      <pubDate>Sat, 13 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/software/edgecomputing/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;stm32&#34;&gt;STM32&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://hbfsrobotics.com/blog/configuring-vs-code-arm-development-stm32cubemx&#34;&gt;Using Visual Studio Code with STM32CubeMX for ARM Development&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;blogs&#34;&gt;Blogs&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://hbfsrobotics.com/blog&#34;&gt;HBFS Robotics&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Docs: Cloud Computing</title>
       <link>https://wikihub.github.io/docs/references/software/cloudcomputing/</link>
       <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
@@ -29,74 +78,337 @@
       <description>
         
         
-        
-
+        &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/open-guides/og-aws&#34;&gt;Open Guides&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;gpu-computing&#34;&gt;GPU Computing&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://lambdalabs.com/&#34;&gt;Lambda Labs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h1 id=&#34;self-hosted-web-applications&#34;&gt;Self-Hosted Web Applications&lt;/h1&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/Kickball/awesome-selfhosted&#34; target=&#34;_blank&#34;&gt;Awesome selfhosted&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://apps.sandstorm.io/&#34; target=&#34;_blank&#34;&gt;Sandstorm&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.softaculous.com/apps/&#34; target=&#34;_blank&#34;&gt;Softaculous&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.ampps.com/apps&#34; target=&#34;_blank&#34;&gt;AMPPS&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://yunohost.org/#/apps&#34; target=&#34;_blank&#34;&gt;Yunohost&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/Kickball/awesome-selfhosted&#34;&gt;Awesome selfhosted&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://apps.sandstorm.io/&#34;&gt;Sandstorm&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.softaculous.com/apps/&#34;&gt;Softaculous&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ampps.com/apps&#34;&gt;AMPPS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://yunohost.org/#/apps&#34;&gt;Yunohost&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
+&lt;h1 id=&#34;development-operations&#34;&gt;Development Operations&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://opctl.io/docs/&#34;&gt;opctl&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h1 id=&#34;amazon-web-services&#34;&gt;Amazon Web Services&lt;/h1&gt;
-
 &lt;h1 id=&#34;lambda-functions&#34;&gt;Lambda functions&lt;/h1&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://arc.codes/&#34; target=&#34;_blank&#34;&gt;Architect&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arc.codes/&#34;&gt;Architect&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
+&lt;h1 id=&#34;ec2&#34;&gt;EC2&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Change shell for user: &lt;code&gt;$ sudo usermod -s /bin/bash username&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/hlupaco/aws-ec2-cmd/blob/master/ec2-cmd.sh&#34;&gt;EC2 script with for loops&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;remote-access-to-ec2&#34;&gt;Remote access to EC2&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/akittana/aws-virtual-bastion&#34;&gt;AWS virtual bastion&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;nvidia-on-ec2&#34;&gt;NVIDIA on EC2&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/install-nvidia-driver.html&#34;&gt;Install NVIDIA driver&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;opengl-on-ec2&#34;&gt;OpenGL on EC2&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://wiki.archlinux.org/index.php/Benchmarking#Graphics&#34;&gt;GPU Benchmarks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://towardsdatascience.com/how-to-run-unity-on-amazon-cloud-or-without-monitor-3c10ce022639&#34;&gt;How to run Unity on Amazon Cloud or without Monitor&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.scm.com/doc/Installation/Remote_GUI.html#&#34;&gt;Using the GUI on a remote machine&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://carla.readthedocs.io/en/latest/carla_headless/&#34;&gt;Running CARLA without Display and Selecting GPUs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/rncry/Cookbook/blob/master/Running%20OpenGL%20GUI%20Apps%20on%20AWS%20GPU%20EC2%20instances&#34;&gt;Running OpenGL GUI Apps on AWS GPU EC2 instances&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gist.github.com/cyberang3l/422a77a47bdc15a0824d5cca47e64ba2&#34;&gt;How to setup VirtualGL and TurboVNC on Ubuntu&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://aws.amazon.com/blogs/compute/deploying-4k-gpu-backed-linux-desktop-instance-on-aws/&#34;&gt;Deploying a 4x4K, GPU-backed Linux desktop instance on AWS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/@pigiuz/setting-up-a-hw-accelerated-desktop-on-aws-g2-instances-4b58718a4541&#34;&gt;Setting up a HW accelerated desktop on AWS G2 instances&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/plumbee/nvidia-hw-accelerated-box&#34;&gt;NVIDIA hardware accelerated box&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/agisoft-llc/cloud-scripts&#34;&gt;Cloud Scripts&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gist.github.com/dgoguerra/0f92115664571ca2553754068be8f5c0&#34;&gt;Set up OpenGL on a Ubuntu 16.04&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://aws.amazon.com/blogs/compute/deploying-4k-gpu-backed-linux-desktop-instance-on-aws/&#34;&gt;Deploying a 4x4K, GPU-backed Linux desktop instance on AWS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/rncry/gpu-desktop&#34;&gt;GPU desktop&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://towardsdatascience.com/how-to-run-unity-on-amazon-cloud-or-without-monitor-3c10ce022639&#34;&gt;How to run Unity on Amazon Cloud or without Monitor&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://summerofhpc.prace-ri.eu/remote-accelerated-graphics-with-virtualgl-and-turbovnc/&#34;&gt;Remote accelerated graphics with VirtualGL and TurboVNC&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h1 id=&#34;google-cloud-platform&#34;&gt;Google Cloud Platform&lt;/h1&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/GoogleCloudPlatform/awesome-google-cloud&#34; target=&#34;_blank&#34;&gt;Awesome Google Cloud&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/tmrts/awesome-google-cloud&#34; target=&#34;_blank&#34;&gt;Awesome Google Cloud Platform&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/user/googlecloudplatform&#34; target=&#34;_blank&#34;&gt;GCP YouTube Channel&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/GoogleCloudPlatform&#34; target=&#34;_blank&#34;&gt;GCP on GitHub&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://codelabs.developers.google.com/cloud&#34; target=&#34;_blank&#34;&gt;Google Cloud Codelabs and Challenges&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/src-d/jgscm&#34; target=&#34;_blank&#34;&gt;Jupyter FS in Google Cloud Storage&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/GoogleCloudPlatform/awesome-google-cloud&#34;&gt;Awesome Google Cloud&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/tmrts/awesome-google-cloud&#34;&gt;Awesome Google Cloud Platform&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/user/googlecloudplatform&#34;&gt;GCP YouTube Channel&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/GoogleCloudPlatform&#34;&gt;GCP on GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://codelabs.developers.google.com/cloud&#34;&gt;Google Cloud Codelabs and Challenges&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/src-d/jgscm&#34;&gt;Jupyter FS in Google Cloud Storage&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h2 id=&#34;analytics-and-machine-learning&#34;&gt;Analytics and Machine Learning&lt;/h2&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://cloud.google.com/ml-engine/docs/tensorflow/getting-started-training-prediction&#34; target=&#34;_blank&#34;&gt;Getting Started&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://cloud.google.com/sdk/gcloud/reference/ml-engine/&#34; target=&#34;_blank&#34;&gt;gcloud ml-engine documentation&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://cloud.google.com/automl/&#34; target=&#34;_blank&#34;&gt;Cloud AutoML&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cloud.google.com/ml-engine/docs/tensorflow/getting-started-training-prediction&#34;&gt;Getting Started&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cloud.google.com/sdk/gcloud/reference/ml-engine/&#34;&gt;gcloud ml-engine documentation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cloud.google.com/automl/&#34;&gt;Cloud AutoML&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h3 id=&#34;natural-language-processing&#34;&gt;Natural Language Processing&lt;/h3&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://cloud.google.com/natural-language/?hl=en_US&amp;amp;_ga=2.250591430.-1790910342.1536084171&#34; target=&#34;_blank&#34;&gt;Google Cloud Natural Language&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://console.cloud.google.com/apis/library/language.googleapis.com&#34; target=&#34;_blank&#34;&gt;Cloud Natural Language API&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cloud.google.com/natural-language/?hl=en_US&amp;amp;_ga=2.250591430.-1790910342.1536084171&#34;&gt;Google Cloud Natural Language&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://console.cloud.google.com/apis/library/language.googleapis.com&#34;&gt;Cloud Natural Language API&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h2 id=&#34;bigquery&#34;&gt;BigQuery&lt;/h2&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://googlecloudplatform.github.io/google-cloud-python/latest/bigquery/usage.html&#34; target=&#34;_blank&#34;&gt;Python Reference&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.kaggle.com/rtatman/sql-scavenger-hunt-handbook&#34; target=&#34;_blank&#34;&gt;Kaggle SQL Scavenger Hunt&lt;/a&gt;
-
+&lt;li&gt;&lt;a href=&#34;https://googlecloudplatform.github.io/google-cloud-python/latest/bigquery/usage.html&#34;&gt;Python Reference&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.kaggle.com/rtatman/sql-scavenger-hunt-handbook&#34;&gt;Kaggle SQL Scavenger Hunt&lt;/a&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/eh2699/Kaggle-SQL-Scavenger-Hunt/blob/9b365697ddfdf911e25d70185c81eb2849b5fb03/kaggle_day5_github_repos.ipynb&#34; target=&#34;_blank&#34;&gt;github_repo example&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/SohierDane/BigQuery_Helper&#34; target=&#34;_blank&#34;&gt;bq_helper&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.kaggle.com/sohier/introduction-to-the-bq-helper-package&#34; target=&#34;_blank&#34;&gt;Introduction to bq_helper&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://lugassy.net/how-moving-from-pub-sub-to-avro-saved-us-38-976-year-ec6c33ea7d08&#34; target=&#34;_blank&#34;&gt;How moving from Pub/Sub to AVRO saved us $38,976/year&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/eh2699/Kaggle-SQL-Scavenger-Hunt/blob/9b365697ddfdf911e25d70185c81eb2849b5fb03/kaggle_day5_github_repos.ipynb&#34;&gt;github_repo example&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/SohierDane/BigQuery_Helper&#34;&gt;bq_helper&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.kaggle.com/sohier/introduction-to-the-bq-helper-package&#34;&gt;Introduction to bq_helper&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://lugassy.net/how-moving-from-pub-sub-to-avro-saved-us-38-976-year-ec6c33ea7d08&#34;&gt;How moving from Pub/Sub to AVRO saved us $38,976/year&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;google-dataproc&#34;&gt;Google Dataproc&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://cloud.google.com/dataproc/docs/concepts/configuring-clusters/optional-components&#34;&gt;Optional Components&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/google-cloud/moving-data-with-apache-sqoop-in-google-cloud-dataproc-4056b8fa2600&#34;&gt;Moving Data with Apache Sqoop in Google Cloud Dataproc&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://tech.travelaudience.com/from-kafka-to-bigquery-with-spark-on-dataproc-in-scala-49c81756e291&#34;&gt;From Kafka to BigQuery with Spark (on Dataproc) in Scala&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cloud.google.com/dataproc/docs/concepts/versioning/dataproc-versions&#34;&gt;Dataproc Versions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://stackoverflow.com/questions/46104668/how-can-i-include-additional-jars-when-starting-a-google-dataproc-cluster-to-use&#34;&gt;How can I include additional jars when starting a Google DataProc cluster to use with Jupyter notebooks?&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;google-dataproc&#34;&gt;Google Dataproc&lt;/h2&gt;
-
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Kubernetes</title>
+      <link>https://wikihub.github.io/docs/references/software/kubernetes/</link>
+      <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/software/kubernetes/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;kubernetes&#34;&gt;Kubernetes&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://cloud.google.com/dataproc/docs/concepts/configuring-clusters/optional-components&#34; target=&#34;_blank&#34;&gt;Optional Components&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://medium.com/google-cloud/moving-data-with-apache-sqoop-in-google-cloud-dataproc-4056b8fa2600&#34; target=&#34;_blank&#34;&gt;Moving Data with Apache Sqoop in Google Cloud Dataproc&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://tech.travelaudience.com/from-kafka-to-bigquery-with-spark-on-dataproc-in-scala-49c81756e291&#34; target=&#34;_blank&#34;&gt;From Kafka to BigQuery with Spark (on Dataproc) in Scala&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://cloud.google.com/dataproc/docs/concepts/versioning/dataproc-versions&#34; target=&#34;_blank&#34;&gt;Dataproc Versions&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://stackoverflow.com/questions/46104668/how-can-i-include-additional-jars-when-starting-a-google-dataproc-cluster-to-use&#34; target=&#34;_blank&#34;&gt;How can I include additional jars when starting a Google DataProc cluster to use with Jupyter notebooks?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.kubeflow.org/docs/started/getting-started/&#34;&gt;Getting started&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.kubeflow.org/docs/started/workstation/minikube-linux/&#34;&gt;Deploy using MiniKube on Linux&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://kind.sigs.k8s.io/&#34;&gt;kind&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/NVIDIA/k8s-device-plugin&#34;&gt;K8s device plugin by NVIDIA&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://kubernetes.io/docs/reference/kubectl/cheatsheet/&#34;&gt;Kubernetes cheat sheet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://kubernetes.io/docs/reference/kubectl/docker-cli-to-kubectl/&#34;&gt;kubectl for Docker users&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;local-development-environment&#34;&gt;Local development environment&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://kubernetes.io/blog/2019/03/28/running-kubernetes-locally-on-linux-with-minikube-now-with-kubernetes-1.14-support/&#34;&gt;Running Kubernetes locally on Linux with Minikube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.mailgun.com/blog/creating-development-environments-with-kubernetes-devgun/&#34;&gt;Devgun&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://itnext.io/simplified-kubernetes-development-visual-studio-code-kubernetes-tools-extension-95bac450370c&#34;&gt;Simplified Kubernetes Development — Visual Studio Code Kubernetes Tools Extension&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;minikube&#34;&gt;Minikube&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.openkb.info/2018/10/minikube-cheat-sheet.html&#34;&gt;Minikube cheat sheet&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;tools&#34;&gt;Tools&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://gardener.cloud/&#34;&gt;Gardener&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://garden.io/&#34;&gt;Garden&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://draft.sh/&#34;&gt;Draft&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://skaffold.dev/&#34;&gt;Skaffold&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://squash.solo.io/&#34;&gt;Squash&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.telepresence.io/&#34;&gt;Telepresence&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ksync.github.io/ksync/&#34;&gt;ksync&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gitkube.sh/&#34;&gt;Gitkube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/MinikubeAddon/watchpod&#34;&gt;Watchpod&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/Mirantis/k8s-devbox&#34;&gt;k8s-devbox&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://kompose.io/&#34;&gt;Kompose&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;kubeflow&#34;&gt;Kubeflow&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.kubeflow.org/docs/started/workstation/minikube-linux/&#34;&gt;Install Kubeflow on Minikube&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;linkerd&#34;&gt;Linkerd&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://linkerd.io/&#34;&gt;Linkerd&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;edge&#34;&gt;Edge&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://k3os.io/&#34;&gt;K3OS&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Packages</title>
+      <link>https://wikihub.github.io/docs/references/software/packages/</link>
+      <pubDate>Sun, 28 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/software/packages/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;nix&#34;&gt;Nix&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://nixos.org/nixos/packages.html&#34;&gt;Search NixOS packages&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ariya.io/2016/06/isolated-development-environment-using-nix&#34;&gt;Isolated development environment using Nix&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Search for Hugo: &lt;code&gt;nix-env -qaP | grep hugo&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Installing Hugo: &lt;code&gt;nix-env -iA nixpkgs.hugo&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/costrouc/nix-binder-example&#34;&gt;Nix binder example&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://kalbas.it/2019/02/26/manage-a-static-website-with-hugo-and-nix/&#34;&gt;Working with hugo using nix&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://nixos.wiki/wiki/FAQ/Pinning_Nixpkgs&#34;&gt;Pinning nix packages&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Containers</title>
+      <link>https://wikihub.github.io/docs/references/software/containers/</link>
+      <pubDate>Thu, 11 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/software/containers/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;reproducible-development-environments&#34;&gt;Reproducible Development Environments&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://garbas.si/2015/reproducible-development-environments.html&#34;&gt;Reproducible Development Environments&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;develop-environments&#34;&gt;Develop Environments&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/lando/lando&#34;&gt;Lando&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/phase2&#34;&gt;Phase2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/docksal/docksal&#34;&gt;Docksal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/digitalpulp/ballast&#34;&gt;Ballast&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.docker.com/products/developer-tools&#34;&gt;Docker development tools&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/swlh/create-a-reproducible-dev-environment-with-vs-code-fd89285644da&#34;&gt;Create a reproducible dev environment with VS Code&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://code.visualstudio.com/docs/remote/containers&#34;&gt;Visual Studio: developing inside a Container&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;adehttpsade-clireadthedocsioenlatest&#34;&gt;&lt;a href=&#34;https://ade-cli.readthedocs.io/en/latest/#&#34;&gt;ADE&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixing an error: &lt;code&gt;sudo apt-get install musl&lt;/code&gt; and &lt;code&gt;sudo ln -s /lib/ld-musl-x86_64.so.1 /lib/libc.musl-x86_64.so.1&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;docker&#34;&gt;Docker&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.docker.com/engine/install/ubuntu/&#34;&gt;Install Docker on Ubuntu&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.docker.com/engine/reference/builder/&#34;&gt;Dockerfile reference&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.docker.com/develop/&#34;&gt;Develop with Docker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cnvrg.io/how-to-setup-docker-and-nvidia-docker-2-0-on-ubuntu-18-04/&#34;&gt;How to setup Docker and Nvidia-Docker 2.0 on Ubuntu 18.04&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Docker permission denied fix: &lt;code&gt;sudo chmod 666 /var/run/docker.sock&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://odewahn.github.io/docker-jumpstart/&#34;&gt;An Introduction to Docker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://shanavasv.com/running-linux-apps-in-macos-using-docker/&#34;&gt;Running Linux apps in MacOS using docker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/@mreichelt/how-to-show-x11-windows-within-docker-on-mac-50759f4b65cb&#34;&gt;How to show X11 windows with Docker on Mac&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://nelkinda.com/blog/xeyes-in-docker/&#34;&gt;Running xeyes in Docker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Remove all the images without a tag: &lt;code&gt;docker rmi $(docker images -f dangling=true -q)&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Remove &lt;!-- raw HTML omitted --&gt; images: &lt;code&gt;docker rmi $(docker images |grep &amp;quot;&amp;lt;none&amp;gt;&amp;quot;|awk &#39;$1==&amp;quot;&amp;lt;none&amp;gt;&amp;quot; {print $3}&#39;)&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Prune the system: &lt;code&gt;docker system prune&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Remove all the containers: &lt;code&gt;docker rm $(docker ps -a -q)&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://phusion.github.io/baseimage-docker/&#34;&gt;Base image Docker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Restart Docker: &lt;code&gt;service docker restart&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;docker-tools&#34;&gt;Docker tools&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.elttam.com/blog/kubler/&#34;&gt;Kubler&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://nautilusdev.com/&#34;&gt;Nautilus&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;tools&#34;&gt;Tools&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://puppetlabs.github.io/bolt/&#34;&gt;Bolt&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;containerd&#34;&gt;Containerd&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://containerd.io/&#34;&gt;Containerd&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;registries&#34;&gt;Registries&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.portainer.io/&#34;&gt;Portainer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.instana.com/&#34;&gt;Instana&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://katacontainers.io/&#34;&gt;Kata containers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://firecracker-microvm.github.io/&#34;&gt;Firecracker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.balena.io/&#34;&gt;Balena&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.eliot.run/&#34;&gt;Eliot&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pouchcontainer.io/&#34;&gt;Pouch container&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://containerd.io/&#34;&gt;Containerd&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;singularity&#34;&gt;Singularity&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.sylabs.io/docs/&#34;&gt;Singularity Documentation&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;virtualization&#34;&gt;Virtualization&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://xenproject.org/&#34;&gt;Xen project&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://elinux.org/R-Car/Virtualization#Virtualization_with_QEMU&#34;&gt;QEMU&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Graphic Design</title>
+      <link>https://wikihub.github.io/docs/references/software/graphicdesign/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/software/graphicdesign/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;fonts&#34;&gt;Fonts&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://fonts.google.com&#34;&gt;Google Fonts&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.fonts.com/&#34;&gt;Fonts.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://skyfonts.com/&#34;&gt;Skyfonts&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.etondigital.com/online-tools-to-identify-fonts/&#34;&gt;Online tools to identify fonts&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://fonts.adobe.com/fonts&#34;&gt;Adobe Fonts&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.fonts.com/font/microsoft-corporation/mangal&#34;&gt;Mangal font&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;preview-fonts&#34;&gt;Preview fonts&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://wordmark.it/&#34;&gt;Wordmark&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://typecast.com&#34;&gt;Typecast&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;vector-graphics&#34;&gt;Vector Graphics&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://vecta.io/&#34;&gt;Vecta.io&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Tools_for_SVG&#34;&gt;Tools for SVG&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://snapsvg.io/&#34;&gt;Snap.svg&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.janvas.com&#34;&gt;Janvas&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;inkscape&#34;&gt;Inkscape&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://eastmanreference.com/fix-missing-fonts-in-inkscape-on-mac&#34;&gt;Fix missing fonts in Inkscape on MacOS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://forum.inkscapecommunity.com/index.php?topic=1205.0&#34;&gt;Inkscape does not allow access to anything outside of ~/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Python</title>
+      <link>https://wikihub.github.io/docs/references/software/python/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/software/python/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;installing-python&#34;&gt;Installing Python&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://phoenixnap.com/kb/how-to-install-python-3-ubuntu&#34;&gt;Install Python3.8&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://askubuntu.com/questions/1025793/running-pip3-importerror-cannot-import-name-main&#34;&gt;Use python -m pip install instead of pip install&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: R</title>
+      <link>https://wikihub.github.io/docs/references/software/r/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/software/r/</guid>
+      <description>
+        
+        
+        &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/rstudio/plumber&#34;&gt;Plumber&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/rstudio/rticles&#34;&gt;rticle&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
@@ -111,326 +423,270 @@
       <description>
         
         
-        
-
-&lt;h1 id=&#34;awesome-machine-learning&#34;&gt;Awesome Machine Learning&lt;/h1&gt;
-
+        &lt;h1 id=&#34;awesome-machine-learning&#34;&gt;Awesome Machine Learning&lt;/h1&gt;
 &lt;p&gt;A collection of awesome machine learning goodies&lt;/p&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://blog.oursky.com/2018/02/14/tensorflow-business-applications-ai-hong-kong/&#34; target=&#34;_blank&#34;&gt;What can TensorFlow really do?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://montrealartificialintelligence.com/academy/#The-First-World-Class-Overview-of-AI-for-the-General-Public&#34; target=&#34;_blank&#34;&gt;The First World Class Overview of AI for the General Public&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://wiki.fast.ai/index.php/Main_Page&#34; target=&#34;_blank&#34;&gt;Fast.ai&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.deepideas.net/deep-learning-from-scratch-theory-and-implementation/&#34; target=&#34;_blank&#34;&gt;Deep Learning From Scratch: Theory and Implementation&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463&#34; target=&#34;_blank&#34;&gt;Cheat sheets for AI, neural networks, machine learning, deep learning and big data&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sgfin.github.io/learning-resources/&#34; target=&#34;_blank&#34;&gt;Resources for learning statistics and machine learning&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/dformoso/machine-learning-mindmap&#34; target=&#34;_blank&#34;&gt;Machine Learning Mind Map&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.oursky.com/2018/02/14/tensorflow-business-applications-ai-hong-kong/&#34;&gt;What can TensorFlow really do?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://montrealartificialintelligence.com/academy/#The-First-World-Class-Overview-of-AI-for-the-General-Public&#34;&gt;The First World Class Overview of AI for the General Public&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://wiki.fast.ai/index.php/Main_Page&#34;&gt;Fast.ai&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.deepideas.net/deep-learning-from-scratch-theory-and-implementation/&#34;&gt;Deep Learning From Scratch: Theory and Implementation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463&#34;&gt;Cheat sheets for AI, neural networks, machine learning, deep learning and big data&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sgfin.github.io/learning-resources/&#34;&gt;Resources for learning statistics and machine learning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/dformoso/machine-learning-mindmap&#34;&gt;Machine Learning Mind Map&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://deep-learning-drizzle.github.io/&#34;&gt;Deep Learning Drizzle&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/abs/1710.09553&#34;&gt;Rethinking generalization requires revisiting old ideas: statistical mechanics approaches and complex learning behavior&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h1 id=&#34;podcast&#34;&gt;Podcast&lt;/h1&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://behindthetech.libsynpro.com/003-andrew-ng-influential-leader-in-artificial-intelligence&#34; target=&#34;_blank&#34;&gt;Andrew Ng: Influential leader in artificial intelligence&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.integrate.ai/podcast/&#34; target=&#34;_blank&#34;&gt;Integrate.ai&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://behindthetech.libsynpro.com/003-andrew-ng-influential-leader-in-artificial-intelligence&#34;&gt;Andrew Ng: Influential leader in artificial intelligence&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.integrate.ai/podcast/&#34;&gt;Integrate.ai&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h1 id=&#34;elearning&#34;&gt;eLearning&lt;/h1&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/playlist?list=PLAwxTw4SYaPkQXg8TkVdIvYv4HfLG7SiH&#34; target=&#34;_blank&#34;&gt;Introduction to Machine Learning&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=qeHZOdmJvFU&amp;amp;list=PLZ9qNFMHZ-A4rycgrgOYma6zxF4BZGGPW&#34; target=&#34;_blank&#34;&gt;Coursera: Machine Learning by Andrew Ng&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599&#34; target=&#34;_blank&#34;&gt;Stanford CS229: Machine Learning by Andrew Ng&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://cs231n.stanford.edu/&#34; target=&#34;_blank&#34;&gt;CS231n: Convolutional Neural Networks for Visual Recognition&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://medium.com/analytics-vidhya/python-implementation-of-andrew-ngs-machine-learning-course-part-2-1-1a666f049ad6&#34; target=&#34;_blank&#34;&gt;Python Implementation of Andrew Ng’s Machine Learning Course&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://colah.github.io/&#34; target=&#34;_blank&#34;&gt;Colah&amp;rsquo;s Blog&lt;/a&gt;: Christopher Olah writes about machine learning&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://pythonprogramming.net/introduction-deep-learning-python-tensorflow-keras/&#34; target=&#34;_blank&#34;&gt;Introduction to Deep Learning - Deep Learning basics with Python, TensorFlow and Keras&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://pythonprogramming.net/machine-learning-tutorials/&#34; target=&#34;_blank&#34;&gt;Machine Learning Tutorials&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/channel/UC5zx8Owijmv-bbhAK6Z9apg&#34; target=&#34;_blank&#34;&gt;Artificial Intelligence - All in One&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://ai.google/education/&#34; target=&#34;_blank&#34;&gt;Google AI Education&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.diveintodeeplearning.org/&#34; target=&#34;_blank&#34;&gt;Dive into Deep Learning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/playlist?list=PLAwxTw4SYaPkQXg8TkVdIvYv4HfLG7SiH&#34;&gt;Introduction to Machine Learning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=qeHZOdmJvFU&amp;amp;list=PLZ9qNFMHZ-A4rycgrgOYma6zxF4BZGGPW&#34;&gt;Coursera: Machine Learning by Andrew Ng&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599&#34;&gt;Stanford CS229: Machine Learning by Andrew Ng&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://cs231n.stanford.edu/&#34;&gt;CS231n: Convolutional Neural Networks for Visual Recognition&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/analytics-vidhya/python-implementation-of-andrew-ngs-machine-learning-course-part-2-1-1a666f049ad6&#34;&gt;Python Implementation of Andrew Ng’s Machine Learning Course&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://colah.github.io/&#34;&gt;Colah&amp;rsquo;s Blog&lt;/a&gt;: Christopher Olah writes about machine learning&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pythonprogramming.net/introduction-deep-learning-python-tensorflow-keras/&#34;&gt;Introduction to Deep Learning - Deep Learning basics with Python, TensorFlow and Keras&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pythonprogramming.net/machine-learning-tutorials/&#34;&gt;Machine Learning Tutorials&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/channel/UC5zx8Owijmv-bbhAK6Z9apg&#34;&gt;Artificial Intelligence - All in One&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ai.google/education/&#34;&gt;Google AI Education&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.diveintodeeplearning.org/&#34;&gt;Dive into Deep Learning&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h1 id=&#34;books&#34;&gt;Books&lt;/h1&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://shop.oreilly.com/product/0636920052289.do&#34; target=&#34;_blank&#34;&gt;Hands-On Machine Learning with Scikit-Learn and TensorFlow&lt;/a&gt;
-
+&lt;li&gt;&lt;a href=&#34;http://shop.oreilly.com/product/0636920052289.do&#34;&gt;Hands-On Machine Learning with Scikit-Learn and TensorFlow&lt;/a&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/ageron/handson-ml&#34; target=&#34;_blank&#34;&gt;A series of Jupyter notebooks&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.deeplearningbook.org/&#34; target=&#34;_blank&#34;&gt;Deep Learning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/ageron/handson-ml&#34;&gt;A series of Jupyter notebooks&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.deeplearningbook.org/&#34;&gt;Deep Learning&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h1 id=&#34;platforms&#34;&gt;Platforms&lt;/h1&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://deepcognition.ai/features/deep-learning-studio/&#34; target=&#34;_blank&#34;&gt;Deep Learning Studio&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://cloud.google.com/ai-hub/&#34; target=&#34;_blank&#34;&gt;Google Cloud AI Hub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://deepcognition.ai/features/deep-learning-studio/&#34;&gt;Deep Learning Studio&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cloud.google.com/ai-hub/&#34;&gt;Google Cloud AI Hub&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h1 id=&#34;applications&#34;&gt;Applications&lt;/h1&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/NirantK/awesome-project-ideas&#34; target=&#34;_blank&#34;&gt;Project ideas&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/NirantK/awesome-project-ideas&#34;&gt;Project ideas&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;h2 id=&#34;natural-language-processing-https-github-com-connected-bsamadi-awesome-wiki-blob-master-awesome-natural-language-processing-md&#34;&gt;&lt;a href=&#34;https://github.com/connected-bsamadi/awesome-wiki/blob/master/awesome-natural-language-processing.md&#34; target=&#34;_blank&#34;&gt;Natural Language Processing&lt;/a&gt;&lt;/h2&gt;
-
+&lt;h2 id=&#34;autonomous-driving&#34;&gt;Autonomous driving&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/phamngoclinh96/SemanticSegmentationModel&#34;&gt;Semantic segmentation&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;natural-language-processinghttpswikihubgithubiodocsreferencessoftwarenlp&#34;&gt;&lt;a href=&#34;https://wikihub.github.io/docs/references/software/nlp/&#34;&gt;Natural Language Processing&lt;/a&gt;&lt;/h2&gt;
 &lt;h1 id=&#34;tools&#34;&gt;Tools&lt;/h1&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.opendeep.org&#34; target=&#34;_blank&#34;&gt;OpenDeep&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/szilard/survey-ml-tools&#34; target=&#34;_blank&#34;&gt;Small survey on ML tools&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.opendeep.org&#34;&gt;OpenDeep&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/szilard/survey-ml-tools&#34;&gt;Small survey on ML tools&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;p&gt;## &lt;a href=&#34;https://www.tensorflow.org/&#34; target=&#34;_blank&#34;&gt;TensorFlow&lt;/a&gt;
- - &lt;a href=&#34;https://github.com/Hvass-Labs/TensorFlow-Tutorials&#34; target=&#34;_blank&#34;&gt;TensorFlow Tutorials&lt;/a&gt;
- - &lt;a href=&#34;https://github.com/jtoy/awesome-tensorflow&#34; target=&#34;_blank&#34;&gt;Awesome TensorFlow&lt;/a&gt;
- - &lt;a href=&#34;https://www.tensorflow.org/hub/&#34; target=&#34;_blank&#34;&gt;TensorFlow Hub&lt;/a&gt;
- - &lt;a href=&#34;https://www.tensorflow.org/tfx/&#34; target=&#34;_blank&#34;&gt;TFX&lt;/a&gt;
- - &lt;a href=&#34;https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib&#34; target=&#34;_blank&#34;&gt;TensorFlow User Contributions&lt;/a&gt;
- - &lt;a href=&#34;https://playground.tensorflow.org/&#34; target=&#34;_blank&#34;&gt;TensorFlow Playground&lt;/a&gt;: Tinker With a Neural Network Right Here in Your Browser.
-Don’t Worry, You Can’t Break It. We Promise.
- - &lt;a href=&#34;https://www.kdnuggets.com/2018/02/google-colab-free-gpu-tutorial-tensorflow-keras-pytorch.html&#34; target=&#34;_blank&#34;&gt;Deep Learning Development with Google Colab, TensorFlow, Keras &amp;amp; PyTorch&lt;/a&gt;
- - &lt;a href=&#34;https://cloud.google.com/ml-engine/docs/tensorflow/flowers-tutorial&#34; target=&#34;_blank&#34;&gt;Image Classification using Flowers dataset&lt;/a&gt;
- - &lt;a href=&#34;https://www.weave.works/blog/troubleshooting-a-tensorflow-predictive-model-microservice-with-weave-cloud&#34; target=&#34;_blank&#34;&gt;Troubleshooting a TensorFlow Predictive Model Microservice with Weave Cloud&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;## &lt;a href=&#34;https://keras.io/&#34; target=&#34;_blank&#34;&gt;Keras&lt;/a&gt;
- - &lt;a href=&#34;https://github.com/soumendra/awesome-keras&#34; target=&#34;_blank&#34;&gt;Awesome Keras&lt;/a&gt;
- - &lt;a href=&#34;https://github.com/fchollet/keras-resources&#34; target=&#34;_blank&#34;&gt;Keras Resources&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;google-colab-https-colab-research-google-com&#34;&gt;&lt;a href=&#34;https://colab.research.google.com/&#34; target=&#34;_blank&#34;&gt;Google Colab&lt;/a&gt;&lt;/h2&gt;
-
+&lt;h2 id=&#34;tensorflowhttpswwwtensorfloworg&#34;&gt;&lt;a href=&#34;https://www.tensorflow.org/&#34;&gt;TensorFlow&lt;/a&gt;&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.dlology.com/blog/how-to-run-object-detection-and-segmentation-on-video-fast-for-free/&#34; target=&#34;_blank&#34;&gt;How to run object detection and segmentation on video fast for free&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.dlology.com/blog/quick-guide-to-run-tensorboard-in-google-colab/&#34; target=&#34;_blank&#34;&gt;Quick guide to run TensorBoard in Google Colab&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/Hvass-Labs/TensorFlow-Tutorials&#34;&gt;TensorFlow Tutorials&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/jtoy/awesome-tensorflow&#34;&gt;Awesome TensorFlow&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.tensorflow.org/hub/&#34;&gt;TensorFlow Hub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.tensorflow.org/tfx/&#34;&gt;TFX&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib&#34;&gt;TensorFlow User Contributions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://playground.tensorflow.org/&#34;&gt;TensorFlow Playground&lt;/a&gt;: Tinker With a Neural Network Right Here in Your Browser.
+Don’t Worry, You Can’t Break It. We Promise.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.kdnuggets.com/2018/02/google-colab-free-gpu-tutorial-tensorflow-keras-pytorch.html&#34;&gt;Deep Learning Development with Google Colab, TensorFlow, Keras &amp;amp; PyTorch&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cloud.google.com/ml-engine/docs/tensorflow/flowers-tutorial&#34;&gt;Image Classification using Flowers dataset&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.weave.works/blog/troubleshooting-a-tensorflow-predictive-model-microservice-with-weave-cloud&#34;&gt;Troubleshooting a TensorFlow Predictive Model Microservice with Weave Cloud&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
+&lt;h2 id=&#34;kerashttpskerasio&#34;&gt;&lt;a href=&#34;https://keras.io/&#34;&gt;Keras&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/soumendra/awesome-keras&#34;&gt;Awesome Keras&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/fchollet/keras-resources&#34;&gt;Keras Resources&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;google-colabhttpscolabresearchgooglecom&#34;&gt;&lt;a href=&#34;https://colab.research.google.com/&#34;&gt;Google Colab&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.dlology.com/blog/how-to-run-object-detection-and-segmentation-on-video-fast-for-free/&#34;&gt;How to run object detection and segmentation on video fast for free&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.dlology.com/blog/quick-guide-to-run-tensorboard-in-google-colab/&#34;&gt;Quick guide to run TensorBoard in Google Colab&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2 id=&#34;jupyter&#34;&gt;Jupyter&lt;/h2&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/GoogleCloudPlatform/gke-jupyter-classroom&#34; target=&#34;_blank&#34;&gt;JupyterHub in Classrooms&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://datadrivendesign.wordpress.com/2017/10/16/dockerized-jupyterhub-deep-learning-notebooks-with-gpu-access-tensorflow-1-3-cudnn-6-0-cuda-8-0/&#34; target=&#34;_blank&#34;&gt;Dockerized Jupyterhub Deep Learning Notebooks with GPU Access&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/jupyterhub/nbgitpuller&#34; target=&#34;_blank&#34;&gt;Jupyter ServerExtension to sync a git repository one-way to a local path&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://data.berkeley.edu/education/jupyterhub-ecosystem&#34; target=&#34;_blank&#34;&gt;JupyterHub Ecosystem&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/GoogleCloudPlatform/gke-jupyter-classroom&#34;&gt;JupyterHub in Classrooms&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://datadrivendesign.wordpress.com/2017/10/16/dockerized-jupyterhub-deep-learning-notebooks-with-gpu-access-tensorflow-1-3-cudnn-6-0-cuda-8-0/&#34;&gt;Dockerized Jupyterhub Deep Learning Notebooks with GPU Access&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/jupyterhub/nbgitpuller&#34;&gt;Jupyter ServerExtension to sync a git repository one-way to a local path&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://data.berkeley.edu/education/jupyterhub-ecosystem&#34;&gt;JupyterHub Ecosystem&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;h2 id=&#34;xgboost-https-xgboost-ai&#34;&gt;&lt;a href=&#34;https://xgboost.ai/&#34; target=&#34;_blank&#34;&gt;XGBoost&lt;/a&gt;&lt;/h2&gt;
-
+&lt;h2 id=&#34;xgboosthttpsxgboostai&#34;&gt;&lt;a href=&#34;https://xgboost.ai/&#34;&gt;XGBoost&lt;/a&gt;&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.analyticsvidhya.com/blog/2018/09/an-end-to-end-guide-to-understand-the-math-behind-xgboost/&#34; target=&#34;_blank&#34;&gt;An End-to-End Guide to Understand the Math behind XGBoost&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.analyticsvidhya.com/blog/2018/09/an-end-to-end-guide-to-understand-the-math-behind-xgboost/&#34;&gt;An End-to-End Guide to Understand the Math behind XGBoost&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;h2 id=&#34;scala-https-www-scala-lang-org&#34;&gt;&lt;a href=&#34;https://www.scala-lang.org/&#34; target=&#34;_blank&#34;&gt;Scala&lt;/a&gt;&lt;/h2&gt;
-
+&lt;h2 id=&#34;scalahttpswwwscala-langorg&#34;&gt;&lt;a href=&#34;https://www.scala-lang.org/&#34;&gt;Scala&lt;/a&gt;&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://medium.com/activewizards-machine-learning-company/top-15-scala-libraries-for-data-science-in-2018-4b2cb5c5367e&#34; target=&#34;_blank&#34;&gt;Top 15 Scala Libraries for Data Science in 2018&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=v8IQ-X2HkGE&#34; target=&#34;_blank&#34;&gt;Keynote: The Last Hope for Scala&amp;rsquo;s Infinity War - John A. De Goes&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://docs.google.com/document/d/1yz9xtABfyRei2wTj--HMeV9DUOgx_BMw6kLgIBjgDME/edit&#34; target=&#34;_blank&#34;&gt;Sean Glover&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/activewizards-machine-learning-company/top-15-scala-libraries-for-data-science-in-2018-4b2cb5c5367e&#34;&gt;Top 15 Scala Libraries for Data Science in 2018&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=v8IQ-X2HkGE&#34;&gt;Keynote: The Last Hope for Scala&amp;rsquo;s Infinity War - John A. De Goes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.google.com/document/d/1yz9xtABfyRei2wTj--HMeV9DUOgx_BMw6kLgIBjgDME/edit&#34;&gt;Sean Glover&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;h2 id=&#34;apache-spark-mllib-https-spark-apache-org-mllib&#34;&gt;&lt;a href=&#34;https://spark.apache.org/mllib/&#34; target=&#34;_blank&#34;&gt;Apache Spark MLlib&lt;/a&gt;&lt;/h2&gt;
-
+&lt;h2 id=&#34;apache-spark-mllibhttpssparkapacheorgmllib&#34;&gt;&lt;a href=&#34;https://spark.apache.org/mllib/&#34;&gt;Apache Spark MLlib&lt;/a&gt;&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://academy.databricks.com/&#34; target=&#34;_blank&#34;&gt;Databricks courses&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/scottcode/pyspark-uploader&#34; target=&#34;_blank&#34;&gt;PySpark Uploader&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://console.bluemix.net/docs/services/AnalyticsforApacheSpark&#34; target=&#34;_blank&#34;&gt;Analytics for Apache Spark&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://medium.com/ibm-watson-data-lab/real-time-sentiment-analysis-of-twitter-hashtags-with-spark-7ee6ca5c1585&#34; target=&#34;_blank&#34;&gt;Real time sentiment analysis of twitter hashtags with Spark&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=h-B0VCkoRkE&#34; target=&#34;_blank&#34;&gt;Productionizing Spark ML pipelines with the portable format for analytics&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://codait.github.io/spark-bench/&#34; target=&#34;_blank&#34;&gt;Spark Bench&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://medium.com/ibm-watson-data-lab/real-time-sentiment-analysis-of-twitter-hashtags-with-spark-7ee6ca5c1585&#34; target=&#34;_blank&#34;&gt;Sentiment Analysis of Twitter Hashtags With Spark&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://towardsdatascience.com/building-a-linear-regression-with-pyspark-and-mllib-d065c3ba246a&#34; target=&#34;_blank&#34;&gt;Building A Linear Regression with PySpark and MLlib&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/GoogleCloudPlatform/cloud-dataproc/tree/master/spark-tensorflow&#34; target=&#34;_blank&#34;&gt;Spark TensorFlow Example&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/tensorflow/ecosystem/tree/master/spark/spark-tensorflow-connector&#34; target=&#34;_blank&#34;&gt;spark-tensorflow-connector&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://towardsdatascience.com/python-pandas-vs-scala-how-to-handle-dataframes-part-ii-d3e5efe8287d&#34; target=&#34;_blank&#34;&gt;Pandas vs Spark&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://blog.sicara.com/get-started-pyspark-jupyter-guide-tutorial-ae2fe84f594f&#34; target=&#34;_blank&#34;&gt;Get Started with PySpark and Jupyter Notebook in 3 Minutes&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://codelabs.developers.google.com/codelabs/cpb102-dataproc-with-gcp&#34; target=&#34;_blank&#34;&gt;Dataproc cluster with Datalab and the Google Python Client API&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://s3.amazonaws.com/assets.datacamp.com/blog_assets/PySpark_Cheat_Sheet_Python.pdf&#34; target=&#34;_blank&#34;&gt;Spark Cheat Sheet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://academy.databricks.com/&#34;&gt;Databricks courses&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/scottcode/pyspark-uploader&#34;&gt;PySpark Uploader&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://console.bluemix.net/docs/services/AnalyticsforApacheSpark&#34;&gt;Analytics for Apache Spark&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/ibm-watson-data-lab/real-time-sentiment-analysis-of-twitter-hashtags-with-spark-7ee6ca5c1585&#34;&gt;Real time sentiment analysis of twitter hashtags with Spark&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=h-B0VCkoRkE&#34;&gt;Productionizing Spark ML pipelines with the portable format for analytics&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://codait.github.io/spark-bench/&#34;&gt;Spark Bench&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/ibm-watson-data-lab/real-time-sentiment-analysis-of-twitter-hashtags-with-spark-7ee6ca5c1585&#34;&gt;Sentiment Analysis of Twitter Hashtags With Spark&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://towardsdatascience.com/building-a-linear-regression-with-pyspark-and-mllib-d065c3ba246a&#34;&gt;Building A Linear Regression with PySpark and MLlib&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/GoogleCloudPlatform/cloud-dataproc/tree/master/spark-tensorflow&#34;&gt;Spark TensorFlow Example&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/tensorflow/ecosystem/tree/master/spark/spark-tensorflow-connector&#34;&gt;spark-tensorflow-connector&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://towardsdatascience.com/python-pandas-vs-scala-how-to-handle-dataframes-part-ii-d3e5efe8287d&#34;&gt;Pandas vs Spark&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.sicara.com/get-started-pyspark-jupyter-guide-tutorial-ae2fe84f594f&#34;&gt;Get Started with PySpark and Jupyter Notebook in 3 Minutes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://codelabs.developers.google.com/codelabs/cpb102-dataproc-with-gcp&#34;&gt;Dataproc cluster with Datalab and the Google Python Client API&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://s3.amazonaws.com/assets.datacamp.com/blog_assets/PySpark_Cheat_Sheet_Python.pdf&#34;&gt;Spark Cheat Sheet&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;h3 id=&#34;databricks-https-databricks-com&#34;&gt;&lt;a href=&#34;https://databricks.com/&#34; target=&#34;_blank&#34;&gt;Databricks&lt;/a&gt;&lt;/h3&gt;
-
+&lt;h3 id=&#34;databrickshttpsdatabrickscom&#34;&gt;&lt;a href=&#34;https://databricks.com/&#34;&gt;Databricks&lt;/a&gt;&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=WaxMj5_SLUI&#34; target=&#34;_blank&#34;&gt;Introduction to Databricks&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=gg-lEJ4sBaA&#34; target=&#34;_blank&#34;&gt;Databricks Delta: A Unified Management System for Real-time Big Data&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=wQfm4P23Hew&#34; target=&#34;_blank&#34;&gt;Real-Time Data Pipelines Made Easy with Structured Streaming in Apache Spark&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://community.cloud.databricks.com&#34; target=&#34;_blank&#34;&gt;Databricks Community&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=WaxMj5_SLUI&#34;&gt;Introduction to Databricks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=gg-lEJ4sBaA&#34;&gt;Databricks Delta: A Unified Management System for Real-time Big Data&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=wQfm4P23Hew&#34;&gt;Real-Time Data Pipelines Made Easy with Structured Streaming in Apache Spark&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://community.cloud.databricks.com&#34;&gt;Databricks Community&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h3 id=&#34;java&#34;&gt;Java&lt;/h3&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://search.maven.org&#34; target=&#34;_blank&#34;&gt;Search Maven packages&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/elgalu/jupyter-spark-117&#34; target=&#34;_blank&#34;&gt;Jupyter Spark 117 - jar files&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://search.maven.org&#34;&gt;Search Maven packages&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/elgalu/jupyter-spark-117&#34;&gt;Jupyter Spark 117 - jar files&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h3 id=&#34;mleap&#34;&gt;MLeap&lt;/h3&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://mleap-docs.combust.ml/&#34; target=&#34;_blank&#34;&gt;MLeap documentation&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/combust/mleap/tree/master/mleap-benchmark&#34; target=&#34;_blank&#34;&gt;MLeap Benchmark&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/combust/mleap-demo&#34; target=&#34;_blank&#34;&gt;MLeap demo&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.slideshare.net/Hadoop_Summit/mleap-deploy-spark-ml-pipelines-to-production-api-servers&#34; target=&#34;_blank&#34;&gt;MLeap deploy Spark ML pipelines to production API servers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://mleap-docs.combust.ml/&#34;&gt;MLeap documentation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/combust/mleap/tree/master/mleap-benchmark&#34;&gt;MLeap Benchmark&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/combust/mleap-demo&#34;&gt;MLeap demo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.slideshare.net/Hadoop_Summit/mleap-deploy-spark-ml-pipelines-to-production-api-servers&#34;&gt;MLeap deploy Spark ML pipelines to production API servers&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h3 id=&#34;courses&#34;&gt;Courses&lt;/h3&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/learning/extending-hadoop-for-data-science-streaming-spark-storm-and-kafka/advanced-spark-streaming-with-mleap&#34; target=&#34;_blank&#34;&gt;Advanced Spark streaming with MLeap&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/learning/extending-hadoop-for-data-science-streaming-spark-storm-and-kafka/advanced-spark-streaming-with-mleap&#34;&gt;Advanced Spark streaming with MLeap&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;h2 id=&#34;kubernetes-https-kubernetes-io&#34;&gt;&lt;a href=&#34;https://kubernetes.io/&#34; target=&#34;_blank&#34;&gt;Kubernetes&lt;/a&gt;&lt;/h2&gt;
-
+&lt;h2 id=&#34;kuberneteshttpskubernetesio&#34;&gt;&lt;a href=&#34;https://kubernetes.io/&#34;&gt;Kubernetes&lt;/a&gt;&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://cloud.google.com/kubernetes-engine/kubernetes-comic/&#34; target=&#34;_blank&#34;&gt;Start from here!&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.kubeflow.org/&#34; target=&#34;_blank&#34;&gt;Kubeflow&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://codelabs.developers.google.com/codelabs/kubeflow-introduction/#0&#34; target=&#34;_blank&#34;&gt;Introduction to Kubeflow on Google Kubernetes Engine&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://cloud.google.com/kubernetes-engine/docs/tutorials/hello-app&#34; target=&#34;_blank&#34;&gt;Deploying a containerized web application&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://danielfrg.com/blog/2018/10/model-management-polyaxon-argo-seldon/&#34; target=&#34;_blank&#34;&gt;Polyaxon, Argo and Seldon for model training, package and deployment in Kubernetes&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.cncf.io/&#34; target=&#34;_blank&#34;&gt;Cloud Native Computing Foundation&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://jujucharms.com/u/cmars/k8s-tf-demo/&#34; target=&#34;_blank&#34;&gt;Juju k8s-tf-demo&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://ksonnet.io/&#34; target=&#34;_blank&#34;&gt;ksonnet&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=swiPWUxBvSc&#34; target=&#34;_blank&#34;&gt;Continuously Train &amp;amp; Deploy Spark ML and Tensorflow AI Models from Jupyter Notebook to Production&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://aws.amazon.com/blogs/opensource/kubeflow-amazon-eks/&#34; target=&#34;_blank&#34;&gt;Kubeflow on EKS&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/Azure/kubeflow-labs&#34; target=&#34;_blank&#34;&gt;Kubeflow labs on Azure&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://deploy.kubeflow.cloud&#34; target=&#34;_blank&#34;&gt;Deploy Kubeflow on GCP&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/gojektech/feast&#34; target=&#34;_blank&#34;&gt;Feast&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cloud.google.com/kubernetes-engine/kubernetes-comic/&#34;&gt;Start from here!&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.kubeflow.org/&#34;&gt;Kubeflow&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://codelabs.developers.google.com/codelabs/kubeflow-introduction/#0&#34;&gt;Introduction to Kubeflow on Google Kubernetes Engine&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cloud.google.com/kubernetes-engine/docs/tutorials/hello-app&#34;&gt;Deploying a containerized web application&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://danielfrg.com/blog/2018/10/model-management-polyaxon-argo-seldon/&#34;&gt;Polyaxon, Argo and Seldon for model training, package and deployment in Kubernetes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cncf.io/&#34;&gt;Cloud Native Computing Foundation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jujucharms.com/u/cmars/k8s-tf-demo/&#34;&gt;Juju k8s-tf-demo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ksonnet.io/&#34;&gt;ksonnet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=swiPWUxBvSc&#34;&gt;Continuously Train &amp;amp; Deploy Spark ML and Tensorflow AI Models from Jupyter Notebook to Production&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://aws.amazon.com/blogs/opensource/kubeflow-amazon-eks/&#34;&gt;Kubeflow on EKS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/Azure/kubeflow-labs&#34;&gt;Kubeflow labs on Azure&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://deploy.kubeflow.cloud&#34;&gt;Deploy Kubeflow on GCP&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/gojektech/feast&#34;&gt;Feast&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;h2 id=&#34;ffdl-https-github-com-ibm-ffdl&#34;&gt;&lt;a href=&#34;https://github.com/IBM/FfDL&#34; target=&#34;_blank&#34;&gt;FfDL&lt;/a&gt;&lt;/h2&gt;
-
+&lt;h2 id=&#34;ffdlhttpsgithubcomibmffdl&#34;&gt;&lt;a href=&#34;https://github.com/IBM/FfDL&#34;&gt;FfDL&lt;/a&gt;&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://developer.ibm.com/patterns/deploy-and-use-a-multi-framework-deep-learning-platform-on-kubernetes/&#34; target=&#34;_blank&#34;&gt;Deploy and use a multi-framework deep learning platform on Kubernetes&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://developer.ibm.com/code/2018/06/12/serve-it-hot-deploy-your-ffdl-trained-models-using-seldon/&#34; target=&#34;_blank&#34;&gt;Serve it hot! Deploy your FfDL trained models using Seldon&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/CODAIT&#34; target=&#34;_blank&#34;&gt;IBM CODAIT - Center for Open-source Data &amp;amp; AI Technologies&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.ibm.com/patterns/deploy-and-use-a-multi-framework-deep-learning-platform-on-kubernetes/&#34;&gt;Deploy and use a multi-framework deep learning platform on Kubernetes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.ibm.com/code/2018/06/12/serve-it-hot-deploy-your-ffdl-trained-models-using-seldon/&#34;&gt;Serve it hot! Deploy your FfDL trained models using Seldon&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/CODAIT&#34;&gt;IBM CODAIT - Center for Open-source Data &amp;amp; AI Technologies&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h2 id=&#34;jupyter-1&#34;&gt;Jupyter&lt;/h2&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://z2jh.jupyter.org/en/stable/&#34; target=&#34;_blank&#34;&gt;Zero to JupyterHub with Kubernetes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://z2jh.jupyter.org/en/stable/&#34;&gt;Zero to JupyterHub with Kubernetes&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h2 id=&#34;cloud-foundry&#34;&gt;Cloud Foundry&lt;/h2&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://datascienceoncloudfoundry.com/&#34; target=&#34;_blank&#34;&gt;Data Science on Cloud Foundry&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://content.pivotal.io/blog/data-science-how-to-text-analytics-as-a-service&#34; target=&#34;_blank&#34;&gt;Data Science How-To: Text Analytics-as-a-Service&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.cloudfoundry.org/the-foundry/car-diagnostic-api/&#34; target=&#34;_blank&#34;&gt;Car diagnostic API&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.cloudfoundry.org/the-foundry/portfolio-optimization/&#34; target=&#34;_blank&#34;&gt;Portfolio Optimization&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://content.pivotal.io/blog/operationalizing-pyspark-data-science-models-on-pivotal-cloud-foundry&#34; target=&#34;_blank&#34;&gt;Operationalizing PySpark Data Science Models on Pivotal Cloud Foundry&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/datitran/PySpark-App-CF/blob/master/linear_regression.ipynb&#34; target=&#34;_blank&#34;&gt;Linear Regression&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/datitran/PySpark-App-CF&#34; target=&#34;_blank&#34;&gt;PySpark App CF&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/andreasf/pyspark-buildpack&#34; target=&#34;_blank&#34;&gt;PySpark buildpack&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/cloudfoundry/python-buildpack&#34; target=&#34;_blank&#34;&gt;Python buildpack&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://datascienceoncloudfoundry.com/&#34;&gt;Data Science on Cloud Foundry&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://content.pivotal.io/blog/data-science-how-to-text-analytics-as-a-service&#34;&gt;Data Science How-To: Text Analytics-as-a-Service&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cloudfoundry.org/the-foundry/car-diagnostic-api/&#34;&gt;Car diagnostic API&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cloudfoundry.org/the-foundry/portfolio-optimization/&#34;&gt;Portfolio Optimization&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://content.pivotal.io/blog/operationalizing-pyspark-data-science-models-on-pivotal-cloud-foundry&#34;&gt;Operationalizing PySpark Data Science Models on Pivotal Cloud Foundry&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/datitran/PySpark-App-CF/blob/master/linear_regression.ipynb&#34;&gt;Linear Regression&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/datitran/PySpark-App-CF&#34;&gt;PySpark App CF&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/andreasf/pyspark-buildpack&#34;&gt;PySpark buildpack&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/cloudfoundry/python-buildpack&#34;&gt;Python buildpack&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;h2 id=&#34;dask-https-dask-org&#34;&gt;&lt;a href=&#34;https://dask.org/&#34; target=&#34;_blank&#34;&gt;Dask&lt;/a&gt;&lt;/h2&gt;
-
-&lt;h2 id=&#34;graphistry-https-www-graphistry-com&#34;&gt;&lt;a href=&#34;https://www.graphistry.com/&#34; target=&#34;_blank&#34;&gt;Graphistry&lt;/a&gt;&lt;/h2&gt;
-
+&lt;h2 id=&#34;daskhttpsdaskorg&#34;&gt;&lt;a href=&#34;https://dask.org/&#34;&gt;Dask&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;graphistryhttpswwwgraphistrycom&#34;&gt;&lt;a href=&#34;https://www.graphistry.com/&#34;&gt;Graphistry&lt;/a&gt;&lt;/h2&gt;
 &lt;h1 id=&#34;machine-learning-algorithms&#34;&gt;Machine Learning Algorithms&lt;/h1&gt;
-
 &lt;h2 id=&#34;recursive-neural-networks&#34;&gt;Recursive Neural Networks&lt;/h2&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/&#34; target=&#34;_blank&#34;&gt;Time Series Prediction with LSTM Recurrent Neural Networks in Python with Keras&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://medium.com/google-cloud/how-to-do-time-series-prediction-using-rnns-and-tensorflow-and-cloud-ml-engine-2ad2eeb189e8&#34; target=&#34;_blank&#34;&gt;How to do time series prediction using RNNs, TensorFlow and Cloud ML Engine&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/&#34;&gt;Time Series Prediction with LSTM Recurrent Neural Networks in Python with Keras&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/google-cloud/how-to-do-time-series-prediction-using-rnns-and-tensorflow-and-cloud-ml-engine-2ad2eeb189e8&#34;&gt;How to do time series prediction using RNNs, TensorFlow and Cloud ML Engine&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h2 id=&#34;reinforcement-learning&#34;&gt;Reinforcement Learning&lt;/h2&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/google/dopamine&#34; target=&#34;_blank&#34;&gt;Dopamine&lt;/a&gt;: a research framework for fast prototyping of reinforcement learning algorithms&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/rll/rllab&#34; target=&#34;_blank&#34;&gt;RL Lab&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://web.mit.edu/dimitrib/www/RLbook.html&#34; target=&#34;_blank&#34;&gt;Reinforcement Learning and Optimal Control&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/google/dopamine&#34;&gt;Dopamine&lt;/a&gt;: a research framework for fast prototyping of reinforcement learning algorithms&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/rll/rllab&#34;&gt;RL Lab&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://web.mit.edu/dimitrib/www/RLbook.html&#34;&gt;Reinforcement Learning and Optimal Control&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h2 id=&#34;automl&#34;&gt;AutoML&lt;/h2&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/hibayesian/awesome-automl-papers&#34; target=&#34;_blank&#34;&gt;Awesome AutoML&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.kdnuggets.com/2016/08/winning-automl-challenge-auto-sklearn.html&#34; target=&#34;_blank&#34;&gt;Auto-sklearn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/hibayesian/awesome-automl-papers&#34;&gt;Awesome AutoML&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.kdnuggets.com/2016/08/winning-automl-challenge-auto-sklearn.html&#34;&gt;Auto-sklearn&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h1 id=&#34;machine-learning-in-production&#34;&gt;Machine Learning in Production&lt;/h1&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=-eZkegBnyMU&#34; target=&#34;_blank&#34;&gt;Databricks Delta: A Unified Management System for Real-time Big Data&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://databricks.com/glossary/what-is-databricks-runtime&#34; target=&#34;_blank&#34;&gt;Databricks runtime&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://azure.microsoft.com/en-ca/services/databricks/&#34; target=&#34;_blank&#34;&gt;Azure Databricks&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://databricks.com/session/mleap-productionize-data-science-workflows-using-spark&#34; target=&#34;_blank&#34;&gt;MLeap: Productionize Data Science Workflows Using Spark&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/combust&#34; target=&#34;_blank&#34;&gt;Combust&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://rapids.ai/&#34; target=&#34;_blank&#34;&gt;Rapids.ai&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.h2o.ai/&#34; target=&#34;_blank&#34;&gt;H2O&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://algorithmia.com/&#34; target=&#34;_blank&#34;&gt;Algorithmia&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.seldon.io/&#34; target=&#34;_blank&#34;&gt;Seldon&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.anaconda.com/enterprise/&#34; target=&#34;_blank&#34;&gt;Anaconda Enterprise&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://aws.amazon.com/sagemaker/&#34; target=&#34;_blank&#34;&gt;Amazon SageMaker&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://azure.microsoft.com/en-ca/overview/machine-learning/&#34; target=&#34;_blank&#34;&gt;Azure Machine Learning&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.ibm.com/cloud/machine-learning&#34; target=&#34;_blank&#34;&gt;IBM Watson Machine Learning&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://pytorch.org/blog/the-road-to-1_0/&#34; target=&#34;_blank&#34;&gt;The road to 1.0: production ready PyTorch&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://chainer.org/&#34; target=&#34;_blank&#34;&gt;Chainer&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://mapr.com/products/analytics-ml/&#34; target=&#34;_blank&#34;&gt;MapR Analytics and ML&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.omni.sc/&#34; target=&#34;_blank&#34;&gt;Omniscience&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://ursalabs.org/&#34; target=&#34;_blank&#34;&gt;URSA LABS&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.altexsoft.com/blog/datascience/comparing-machine-learning-as-a-service-amazon-microsoft-azure-google-cloud-ai-ibm-watson/&#34; target=&#34;_blank&#34;&gt;Comparing Machine Learning as a Service: Amazon, Microsoft Azure, Google Cloud AI, IBM Watson&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=-eZkegBnyMU&#34;&gt;Databricks Delta: A Unified Management System for Real-time Big Data&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://databricks.com/glossary/what-is-databricks-runtime&#34;&gt;Databricks runtime&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://azure.microsoft.com/en-ca/services/databricks/&#34;&gt;Azure Databricks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://databricks.com/session/mleap-productionize-data-science-workflows-using-spark&#34;&gt;MLeap: Productionize Data Science Workflows Using Spark&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/combust&#34;&gt;Combust&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://rapids.ai/&#34;&gt;Rapids.ai&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.h2o.ai/&#34;&gt;H2O&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://algorithmia.com/&#34;&gt;Algorithmia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.seldon.io/&#34;&gt;Seldon&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.anaconda.com/enterprise/&#34;&gt;Anaconda Enterprise&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://aws.amazon.com/sagemaker/&#34;&gt;Amazon SageMaker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://azure.microsoft.com/en-ca/overview/machine-learning/&#34;&gt;Azure Machine Learning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ibm.com/cloud/machine-learning&#34;&gt;IBM Watson Machine Learning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pytorch.org/blog/the-road-to-1_0/&#34;&gt;The road to 1.0: production ready PyTorch&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://chainer.org/&#34;&gt;Chainer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://mapr.com/products/analytics-ml/&#34;&gt;MapR Analytics and ML&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.omni.sc/&#34;&gt;Omniscience&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ursalabs.org/&#34;&gt;URSA LABS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.altexsoft.com/blog/datascience/comparing-machine-learning-as-a-service-amazon-microsoft-azure-google-cloud-ai-ibm-watson/&#34;&gt;Comparing Machine Learning as a Service: Amazon, Microsoft Azure, Google Cloud AI, IBM Watson&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
+&lt;h1 id=&#34;edge-computing&#34;&gt;Edge Computing&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://sylabs.io/&#34;&gt;Sylabs (Singularity)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2 id=&#34;tensorflow&#34;&gt;TensorFlow&lt;/h2&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://stevenwhang.com/tfx_paper.pdf&#34; target=&#34;_blank&#34;&gt;TFX: A TensorFlow-Based Production-Scale Machine Learning Platform&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://stevenwhang.com/tfx_paper.pdf&#34;&gt;TFX: A TensorFlow-Based Production-Scale Machine Learning Platform&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h1 id=&#34;benchmarks&#34;&gt;Benchmarks&lt;/h1&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/szilard/benchm-ml&#34; target=&#34;_blank&#34;&gt;Simple/limited/incomplete benchmark for scalability, speed and accuracy of machine learning libraries for classification&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/szilard/benchm-ml&#34;&gt;Simple/limited/incomplete benchmark for scalability, speed and accuracy of machine learning libraries for classification&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h1 id=&#34;model-exchange&#34;&gt;Model exchange&lt;/h1&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://dmg.org/pmml/v4-3/GeneralStructure.html&#34; target=&#34;_blank&#34;&gt;PMML&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://dmg.org/pfa/index.html&#34; target=&#34;_blank&#34;&gt;PFA&lt;/a&gt;
-
+&lt;li&gt;&lt;a href=&#34;http://dmg.org/pmml/v4-3/GeneralStructure.html&#34;&gt;PMML&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://dmg.org/pfa/index.html&#34;&gt;PFA&lt;/a&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.kdnuggets.com/2016/01/portable-format-analytics-models-production.html&#34; target=&#34;_blank&#34;&gt;Portable Format for Analytics: moving models to production&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/CODAIT/aardpfark&#34; target=&#34;_blank&#34;&gt;Aardpfark&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://onnx.ai/&#34; target=&#34;_blank&#34;&gt;ONNX&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/documentation/coreml&#34; target=&#34;_blank&#34;&gt;CoreML&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.kdnuggets.com/2016/01/portable-format-analytics-models-production.html&#34;&gt;Portable Format for Analytics: moving models to production&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/CODAIT/aardpfark&#34;&gt;Aardpfark&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://onnx.ai/&#34;&gt;ONNX&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/documentation/coreml&#34;&gt;CoreML&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h1 id=&#34;platforms-1&#34;&gt;Platforms&lt;/h1&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.floydhub.com/&#34; target=&#34;_blank&#34;&gt;FloydHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.floydhub.com/&#34;&gt;FloydHub&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h1 id=&#34;datasets&#34;&gt;Datasets&lt;/h1&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://cloud.google.com/bigquery/public-data/&#34; target=&#34;_blank&#34;&gt;Google BigQuery Public Datasets&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.reddit.com/r/bigquery/wiki/datasets&#34; target=&#34;_blank&#34;&gt;Datasets publicly available on Google BigQuery&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/awesomedata/awesome-public-datasets&#34; target=&#34;_blank&#34;&gt;Awesome Public Datasets&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://catalog.data.gov/dataset/fleet-maintenance&#34; target=&#34;_blank&#34;&gt;Fleet maintenance&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://cloud.google.com/genomics/docs/public-datasets/&#34; target=&#34;_blank&#34;&gt;Google Genomics Public Dataset&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://cloud.google.com/bigquery/sample-tables&#34; target=&#34;_blank&#34;&gt;Google Sample Datasets&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://archive.ics.uci.edu/ml/index.php&#34; target=&#34;_blank&#34;&gt;UC Irvine Machine Learning Repository&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cloud.google.com/bigquery/public-data/&#34;&gt;Google BigQuery Public Datasets&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.reddit.com/r/bigquery/wiki/datasets&#34;&gt;Datasets publicly available on Google BigQuery&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/awesomedata/awesome-public-datasets&#34;&gt;Awesome Public Datasets&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://catalog.data.gov/dataset/fleet-maintenance&#34;&gt;Fleet maintenance&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cloud.google.com/genomics/docs/public-datasets/&#34;&gt;Google Genomics Public Dataset&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cloud.google.com/bigquery/sample-tables&#34;&gt;Google Sample Datasets&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://archive.ics.uci.edu/ml/index.php&#34;&gt;UC Irvine Machine Learning Repository&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h1 id=&#34;research&#34;&gt;Research&lt;/h1&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://bair.berkeley.edu/&#34; target=&#34;_blank&#34;&gt;BAIR&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://bair.berkeley.edu/&#34;&gt;BAIR&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h1 id=&#34;companies&#34;&gt;Companies&lt;/h1&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.dka.global/ai-in-uk-report&#34; target=&#34;_blank&#34;&gt;AI in UK Report 2018&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.dka.global/ai-in-uk-report&#34;&gt;AI in UK Report 2018&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
@@ -445,124 +701,221 @@ Don’t Worry, You Can’t Break It. We Promise.
       <description>
         
         
-        
-
-&lt;h1 id=&#34;natural-language-processing&#34;&gt;Natural Language Processing&lt;/h1&gt;
-
+        &lt;h1 id=&#34;natural-language-processing&#34;&gt;Natural Language Processing&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://medium.com/dair-ai/deep-learning-for-nlp-an-overview-of-recent-trends-d0d8f40a776d&#34; target=&#34;_blank&#34;&gt;Deep Learning for NLP: An Overview of Recent Trends&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/tensorflow/models/tree/master/research/textsum&#34; target=&#34;_blank&#34;&gt;Sequence-to-Sequence with Attention Model for Text Summarization&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://pythonprogramming.net/tokenizing-words-sentences-nltk-tutorial/&#34; target=&#34;_blank&#34;&gt;Natural Language Processing with Python&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/dair-ai/deep-learning-for-nlp-an-overview-of-recent-trends-d0d8f40a776d&#34;&gt;Deep Learning for NLP: An Overview of Recent Trends&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/tensorflow/models/tree/master/research/textsum&#34;&gt;Sequence-to-Sequence with Attention Model for Text Summarization&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pythonprogramming.net/tokenizing-words-sentences-nltk-tutorial/&#34;&gt;Natural Language Processing with Python&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h2 id=&#34;sequence-to-sequence&#34;&gt;Sequence to sequence&lt;/h2&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://blog.keras.io/a-ten-minute-introduction-to-sequence-to-sequence-learning-in-keras.html&#34; target=&#34;_blank&#34;&gt;A ten-minute introduction to sequence-to-sequence learning in Keras&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.keras.io/a-ten-minute-introduction-to-sequence-to-sequence-learning-in-keras.html&#34;&gt;A ten-minute introduction to sequence-to-sequence learning in Keras&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h2 id=&#34;tools&#34;&gt;Tools&lt;/h2&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.nltk.org/&#34; target=&#34;_blank&#34;&gt;Natural Language Toolkit&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://keras.io/preprocessing/text/&#34; target=&#34;_blank&#34;&gt;Keras Text Preprocessing&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://spacy.io/&#34; target=&#34;_blank&#34;&gt;spaCy&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/hamelsmu/ktext&#34; target=&#34;_blank&#34;&gt;ktext&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://dialogflow.com/&#34; target=&#34;_blank&#34;&gt;DialogFlow&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.nltk.org/&#34;&gt;Natural Language Toolkit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://keras.io/preprocessing/text/&#34;&gt;Keras Text Preprocessing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://spacy.io/&#34;&gt;spaCy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/hamelsmu/ktext&#34;&gt;ktext&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dialogflow.com/&#34;&gt;DialogFlow&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h1 id=&#34;source-code-processing&#34;&gt;Source Code Processing&lt;/h1&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.gharchive.org/#resources&#34; target=&#34;_blank&#34;&gt;GitHub research, visualization and talks&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/src-d/awesome-machine-learning-on-source-code&#34; target=&#34;_blank&#34;&gt;awesome machine learning on sourcecode&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/mast-group/&#34; target=&#34;_blank&#34;&gt;MAST&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.darpa.mil/program/mining-and-understanding-software-enclaves&#34; target=&#34;_blank&#34;&gt;MUSE&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=M_hOn-Ren1M&#34; target=&#34;_blank&#34;&gt;Machine learning for source code analysis&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sourced.tech/&#34; target=&#34;_blank&#34;&gt;Machine Learning for Large Scale Code Analysis&lt;/a&gt;
-
+&lt;li&gt;&lt;a href=&#34;https://www.gharchive.org/#resources&#34;&gt;GitHub research, visualization and talks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/src-d/awesome-machine-learning-on-source-code&#34;&gt;awesome machine learning on sourcecode&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/mast-group/&#34;&gt;MAST&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.darpa.mil/program/mining-and-understanding-software-enclaves&#34;&gt;MUSE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=M_hOn-Ren1M&#34;&gt;Machine learning for source code analysis&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sourced.tech/&#34;&gt;Machine Learning for Large Scale Code Analysis&lt;/a&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://sourced.tech/engine/&#34; target=&#34;_blank&#34;&gt;Source{d} Engine&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.msrconf.org/&#34; target=&#34;_blank&#34;&gt;Mining software repositories&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://medium.com/@jrodthoughts/using-deep-learning-to-understand-your-source-code-28e5c284bfda&#34; target=&#34;_blank&#34;&gt;Using Deep Learning to Understand Your Source Code&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://hackernoon.com/catalog-of-references-to-stackoverflow-questions-found-in-github-sources-134415b97ecb&#34; target=&#34;_blank&#34;&gt;One More Analysis of GitHub and StackOverflow Data with Google BigQuery&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://medium.freecodecamp.org/always-end-your-questions-with-a-stack-overflow-bigquery-and-other-stories-2470ebcda7f&#34; target=&#34;_blank&#34;&gt;Want people to actually answer your Stack Overflow question? Add a question mark.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/sAbakumoff/SoCiting2&#34; target=&#34;_blank&#34;&gt;Catalog of references to StackOverflow questions found in GitHub sources &lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.primaryobjects.com/2013/01/27/using-artificial-intelligence-to-write-self-modifying-improving-programs/&#34; target=&#34;_blank&#34;&gt;Using Artificial Intelligence to Write Self-Modifying/Improving Programs&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sites.google.com/view/mlplse-sp18/&#34; target=&#34;_blank&#34;&gt;Seminars on Applications of Deep Learning in Software Engineering and Programming Languages&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://experiments.github.com/&#34; target=&#34;_blank&#34;&gt;GitHub experiments&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://towardsdatascience.com/semantic-code-search-3cd6d244a39c&#34; target=&#34;_blank&#34;&gt;How To Create Natural Language Semantic Search For Arbitrary Objects With Deep Learning&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://web.cs.ucla.edu/~tianyi.zhang/examplecheck.html&#34; target=&#34;_blank&#34;&gt;Example Check&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://towardsdatascience.com/how-to-create-data-products-that-are-magical-using-sequence-to-sequence-models-703f86a231f8&#34; target=&#34;_blank&#34;&gt;How To Create Data Products That Are Magical Using Sequence-to-Sequence Models&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sourced.tech/engine/&#34;&gt;Source{d} Engine&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.msrconf.org/&#34;&gt;Mining software repositories&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/@jrodthoughts/using-deep-learning-to-understand-your-source-code-28e5c284bfda&#34;&gt;Using Deep Learning to Understand Your Source Code&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://hackernoon.com/catalog-of-references-to-stackoverflow-questions-found-in-github-sources-134415b97ecb&#34;&gt;One More Analysis of GitHub and StackOverflow Data with Google BigQuery&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.freecodecamp.org/always-end-your-questions-with-a-stack-overflow-bigquery-and-other-stories-2470ebcda7f&#34;&gt;Want people to actually answer your Stack Overflow question? Add a question mark.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/sAbakumoff/SoCiting2&#34;&gt;Catalog of references to StackOverflow questions found in GitHub sources &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.primaryobjects.com/2013/01/27/using-artificial-intelligence-to-write-self-modifying-improving-programs/&#34;&gt;Using Artificial Intelligence to Write Self-Modifying/Improving Programs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sites.google.com/view/mlplse-sp18/&#34;&gt;Seminars on Applications of Deep Learning in Software Engineering and Programming Languages&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://experiments.github.com/&#34;&gt;GitHub experiments&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://towardsdatascience.com/semantic-code-search-3cd6d244a39c&#34;&gt;How To Create Natural Language Semantic Search For Arbitrary Objects With Deep Learning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://web.cs.ucla.edu/~tianyi.zhang/examplecheck.html&#34;&gt;Example Check&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://towardsdatascience.com/how-to-create-data-products-that-are-magical-using-sequence-to-sequence-models-703f86a231f8&#34;&gt;How To Create Data Products That Are Magical Using Sequence-to-Sequence Models&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2 id=&#34;tools-1&#34;&gt;Tools&lt;/h2&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://docs.python.org/3/library/ast.html#module-ast&#34; target=&#34;_blank&#34;&gt;ast&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.python.org/3/library/ast.html#module-ast&#34;&gt;ast&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h2 id=&#34;datasets&#34;&gt;Datasets&lt;/h2&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://bigquery.cloud.google.com/dataset/bigquery-public-data:github_repos&#34; target=&#34;_blank&#34;&gt;github_repos on Google BigQuery&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.gharchive.org/&#34; target=&#34;_blank&#34;&gt;GH Archive&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://bigquery.cloud.google.com/dataset/bigquery-public-data:github_repos&#34;&gt;github_repos on Google BigQuery&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.gharchive.org/&#34;&gt;GH Archive&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h2 id=&#34;software-metrics&#34;&gt;Software Metrics&lt;/h2&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Halstead_complexity_measures&#34; target=&#34;_blank&#34;&gt;Halstead complexity measures&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Halstead_complexity_measures&#34;&gt;Halstead complexity measures&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;h2 id=&#34;abstract-syntax-tree-https-docs-python-org-2-library-ast-html&#34;&gt;&lt;a href=&#34;https://docs.python.org/2/library/ast.html&#34; target=&#34;_blank&#34;&gt;Abstract Syntax Tree&lt;/a&gt;&lt;/h2&gt;
-
+&lt;h2 id=&#34;abstract-syntax-treehttpsdocspythonorg2libraryasthtml&#34;&gt;&lt;a href=&#34;https://docs.python.org/2/library/ast.html&#34;&gt;Abstract Syntax Tree&lt;/a&gt;&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://slides.com/kentcdodds/asts-workshop#/&#34; target=&#34;_blank&#34;&gt;Introduction to AST&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/chadbrewbaker/awesome-ast&#34; target=&#34;_blank&#34;&gt;Awesome AST&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/topics/abstract-syntax-tree&#34; target=&#34;_blank&#34;&gt;AST on GitHub&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/lihaoyi/macropy&#34; target=&#34;_blank&#34;&gt;MacroPy&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/python/typeshed&#34; target=&#34;_blank&#34;&gt;typeshed&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/lukehorvat/github-ast-viewer&#34; target=&#34;_blank&#34;&gt;GitHub AST Viewer&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/shobrook/saplings&#34; target=&#34;_blank&#34;&gt;saplings&lt;/a&gt;: library of algorithms and data structures for working with abstract syntax trees&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/ishansaksena/Conflerge&#34; target=&#34;_blank&#34;&gt;Conflerge&lt;/a&gt;: resolving conflict merges with ASTs&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/perey/deast&#34; target=&#34;_blank&#34;&gt;deast&lt;/a&gt;: a Python 3 module to convert an abstract syntax tree (AST) into Python code&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/mbdevpl/horast&#34; target=&#34;_blank&#34;&gt;horast&lt;/a&gt;: human-oriented abstract syntax tree for Python 3&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://slides.com/kentcdodds/asts-workshop#/&#34;&gt;Introduction to AST&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/chadbrewbaker/awesome-ast&#34;&gt;Awesome AST&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/topics/abstract-syntax-tree&#34;&gt;AST on GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/lihaoyi/macropy&#34;&gt;MacroPy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/python/typeshed&#34;&gt;typeshed&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/lukehorvat/github-ast-viewer&#34;&gt;GitHub AST Viewer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/shobrook/saplings&#34;&gt;saplings&lt;/a&gt;: library of algorithms and data structures for working with abstract syntax trees&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/ishansaksena/Conflerge&#34;&gt;Conflerge&lt;/a&gt;: resolving conflict merges with ASTs&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/perey/deast&#34;&gt;deast&lt;/a&gt;: a Python 3 module to convert an abstract syntax tree (AST) into Python code&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/mbdevpl/horast&#34;&gt;horast&lt;/a&gt;: human-oriented abstract syntax tree for Python 3&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h2 id=&#34;lint&#34;&gt;lint&lt;/h2&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://pypi.org/project/pyflakes/&#34; target=&#34;_blank&#34;&gt;pyflakes&lt;/a&gt;: checks Python source files for errors&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/hchasestevens/bellybutton&#34; target=&#34;_blank&#34;&gt;bellybutton&lt;/a&gt;: custom Python linting through AST expressions&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/netromdk/vermin&#34; target=&#34;_blank&#34;&gt;vermin&lt;/a&gt;: concurrently detect the minimum Python versions needed to run code&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pypi.org/project/pyflakes/&#34;&gt;pyflakes&lt;/a&gt;: checks Python source files for errors&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/hchasestevens/bellybutton&#34;&gt;bellybutton&lt;/a&gt;: custom Python linting through AST expressions&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/netromdk/vermin&#34;&gt;vermin&lt;/a&gt;: concurrently detect the minimum Python versions needed to run code&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h2 id=&#34;code-recommendation&#34;&gt;Code Recommendation&lt;/h2&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=bF50YPyUKTQ&#34; target=&#34;_blank&#34;&gt;Kite&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://craft.co/codota/competitors&#34; target=&#34;_blank&#34;&gt;Codot competitors&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://guxd.github.io/&#34; target=&#34;_blank&#34;&gt;Software data mining and code recommendation&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.ai.codes/&#34; target=&#34;_blank&#34;&gt;ai.codes&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/kootenpv/neural_complete&#34; target=&#34;_blank&#34;&gt;neural_complete&lt;/a&gt;: a neural network trained to help writing neural network code using autocomplete&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://mast-group.github.io/clams/&#34; target=&#34;_blank&#34;&gt;CLAMS&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://experiments.github.com/semantic-code-search&#34; target=&#34;_blank&#34;&gt;Semantic code search&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=bF50YPyUKTQ&#34;&gt;Kite&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://craft.co/codota/competitors&#34;&gt;Codot competitors&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://guxd.github.io/&#34;&gt;Software data mining and code recommendation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ai.codes/&#34;&gt;ai.codes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/kootenpv/neural_complete&#34;&gt;neural_complete&lt;/a&gt;: a neural network trained to help writing neural network code using autocomplete&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://mast-group.github.io/clams/&#34;&gt;CLAMS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://experiments.github.com/semantic-code-search&#34;&gt;Semantic code search&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h2 id=&#34;sentiment-analysis&#34;&gt;Sentiment Analysis&lt;/h2&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://dl.acm.org/citation.cfm?id=2597118&#34; target=&#34;_blank&#34;&gt;Sentiment analysis of commit comments in GitHub: an empirical study&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.dsf.unica.it/~roberto/pubb11_Tonelli_Roberto_rtdaMR_1016_01B1.pdf&#34; target=&#34;_blank&#34;&gt;The Emotional Side of Software Developers in JIRA&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://vmarkovtsev.github.io/gophercon-2018-moscow/?utm_content=buffer92ce0&amp;amp;utm_medium=social&amp;amp;utm_source=twitter.com&amp;amp;utm_campaign=buffer#cover&#34; target=&#34;_blank&#34;&gt;Measuring code sentiment in a GitHub repository&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dl.acm.org/citation.cfm?id=2597118&#34;&gt;Sentiment analysis of commit comments in GitHub: an empirical study&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.dsf.unica.it/~roberto/pubb11_Tonelli_Roberto_rtdaMR_1016_01B1.pdf&#34;&gt;The Emotional Side of Software Developers in JIRA&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vmarkovtsev.github.io/gophercon-2018-moscow/?utm_content=buffer92ce0&amp;amp;utm_medium=social&amp;amp;utm_source=twitter.com&amp;amp;utm_campaign=buffer#cover&#34;&gt;Measuring code sentiment in a GitHub repository&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;finding-similar-source-codes-or-programming-styles&#34;&gt;Finding similar source codes or programming styles&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/alapha23/source_code_plagiarism_detector&#34;&gt;source code plagiarism detector&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;finding-similar-source-codes-or-programming-styles&#34;&gt;Finding similar source codes or programming styles&lt;/h2&gt;
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Serverless</title>
+      <link>https://wikihub.github.io/docs/references/software/serverless/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/software/serverless/</guid>
+      <description>
+        
+        
+        &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.openfaas.com/&#34;&gt;OpenFaaS&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Simulation</title>
+      <link>https://wikihub.github.io/docs/references/software/simulation/</link>
+      <pubDate>Thu, 07 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/software/simulation/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;opengl&#34;&gt;OpenGL&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/alapha23/source_code_plagiarism_detector&#34; target=&#34;_blank&#34;&gt;source code plagiarism detector&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.howtoforge.com/tutorial/linux-gpu-benchmark/&#34;&gt;Linux GPU Benchmark&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;web&#34;&gt;Web&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://creative-connections.github.io/bodylight.js/&#34;&gt;Bodylight.js&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.visualcomponents.com/&#34;&gt;Visual Components&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;3d-design&#34;&gt;3D Design&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.blender.org/&#34;&gt;Blender 3D&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://blender.stackexchange.com/&#34;&gt;Blender Questions&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.tinkercad.com/&#34;&gt;Tinkercad&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;3d-models&#34;&gt;3D Models&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://grabcad.com/library&#34;&gt;Popular models | 3D CAD Model Collection | GrabCAD Community Library&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cgtrader.com/&#34;&gt;My Hub | CGTrader&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.blendswap.com/&#34;&gt;Welcome to Blend Swap! | Blend Swap&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://clara.io/library&#34;&gt;Free 3D Models, Download or Edit Online · Clara.io&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://clara.io/&#34;&gt;Clara.io: Online 3D Modeling, 3D Rendering, Free 3D Models&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sketchfab.com/&#34;&gt;Sketchfab - Your 3D content on web, mobile, AR, and VR.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.turbosquid.com/&#34;&gt;3D Models for Professionals :: TurboSquid&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thingiverse.com/&#34;&gt;Thingiverse - Digital Designs for Physical Objects&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://free3d.com/3d-models/library&#34;&gt;Library Free 3D Models download - Free3D&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://free3d.com/&#34;&gt;3D Models for Free - Free3D.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://all3dp.com/1/free-stl-files-3d-printer-models-3d-print-files-stl-download/&#34;&gt;33 Best Sites for Free STL Files &amp;amp; 3D Printer Models in 2019 | All3DP&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.myminifactory.com/&#34;&gt;MyMiniFactory - Guaranteed free and paid 3D Printable Files and Designs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cults3d.com/en&#34;&gt;Cults ・ Download for free 3D models for 3D printers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pinshape.com/&#34;&gt;Free 3D Printable Files and Designs | Pinshape&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://3dsky.org/3dmodels/1?style=all&amp;amp;order=free&#34;&gt;3d models - download 3dsky.org&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gallery.autodesk.com/&#34;&gt;Free 3D models, Rendering images and CAD files | Autodesk Online Gallery&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://archibaseplanet.com/&#34;&gt;Home Design, Free 3D models, High Quality Textures, Online Interior Design, Largest Architects Database at Archibase Planet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://archive3d.net/&#34;&gt;Free 3D Models and Objects Archive. Download: 3ds , obj , gsm , max models&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cadnav.com/3d-models/&#34;&gt;3D Models &amp;amp; 3D Objects Free Download - cadnav.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://stock.adobe.com/ca/search?filters%5Bcontent_type%3A3d%5D=1&amp;amp;filters%5B3d_type_id%5D%5B0%5D=1&amp;amp;load_type=3d+lp&#34;&gt;Stock photos, royalty-free images, graphics, vectors &amp;amp; videos | Adobe Stock&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://3dwarehouse.sketchup.com/&#34;&gt;3D Warehouse&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.sketchup.com/download/all&#34;&gt;Download All | SketchUp&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cgtrader.com/3d-models/vehicle/other/argo-j6-atlas-xtr&#34;&gt;ARGO J6 Atlas XTR 3D | CGTrader&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.argo-xtr.com/&#34;&gt;ARGO XTR robotic mobility solutions&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;industry-40&#34;&gt;Industry 4.0&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ibm.com/industries/manufacturing/smart-manufacturing-technology&#34;&gt;IBM Smart Manufacturing Technology&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://octopuz.com/&#34;&gt;Octopuz&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;3d-modeling&#34;&gt;3D Modeling&lt;/h1&gt;
+&lt;h2 id=&#34;3d-reconstruction&#34;&gt;3D Reconstruction&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.capturingreality.com&#34;&gt;Capturing Reality&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;lidar&#34;&gt;LiDAR&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://3dinsider.com/lidar-sensors/&#34;&gt;LiDAR Sensors&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;gopro-3d&#34;&gt;GoPro 3D&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thevisorshop.com/en/GoPro-3D-Hero-System/m-16073.aspx&#34;&gt;GoPro 3D Hero System&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amazon.ca/GoPro-System-HERO3-Camera-included/dp/B00J9RO4U2&#34;&gt;GoPro Dual HERO System for HERO3+&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amazon.ca/GoPro-Japanese-Regular-Premium-Accessory/dp/B004VQAZ54&#34;&gt;GoPro Nippon Japanese Regular Edition&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;3d-scanning-service&#34;&gt;3D Scanning Service&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.ellisdon.com/subservice/3d-scanning/&#34;&gt;EllisDon&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.pix4d.com/industry/real-estate&#34;&gt;PIX4D&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://matterport.com/&#34;&gt;Matter Port: 3D Capture for All&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.xmeasures.com&#34;&gt;Extreme Measures&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;vancouver&#34;&gt;Vancouver&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://scanlab.ca/&#34;&gt;Scanlab&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.wsp.com/en-CA/services/3d-laser-scanning&#34;&gt;WSP&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.underhill.ca/land-surveying-service/4/3d-laser-scanning&#34;&gt;Underhill&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.3dreveng.com/&#34;&gt;3D RevEng&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://corbel3d.com/&#34;&gt;Corel3D&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;drone-mapping-services&#34;&gt;Drone Mapping Services&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://theskyguys.ca/&#34;&gt;The Sky Guys&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.precisionhawk.com/blog/media/topic/drone-based-lidar-know&#34;&gt;Drone based LiDAR&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;computational-3d-object-manipulation&#34;&gt;Computational 3D Object Manipulation&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/JuliaPlots/Makie.jl&#34;&gt;Makie&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;heat&#34;&gt;Heat&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://documentation.cenos-platform.com/docs/getting-started/cenos-overview&#34;&gt;CENOS&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
@@ -577,73 +930,143 @@ Don’t Worry, You Can’t Break It. We Promise.
       <description>
         
         
-        
-
-&lt;h1 id=&#34;continuous-integration&#34;&gt;Continuous Integration&lt;/h1&gt;
-
+        &lt;h1 id=&#34;software-project-management&#34;&gt;Software Project Management&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://drone.io/&#34; target=&#34;_blank&#34;&gt;https://drone.io/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.aha.io/&#34;&gt;Aha!&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.agilebusiness.org/page/ProjectFramework_15_RequirementsandUserStories&#34;&gt;User story cards&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://miro.com/&#34;&gt;Miro&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.gloomaps.com/&#34;&gt;Gloomaps&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;h1 id=&#34;version-control-system&#34;&gt;Version Control System&lt;/h1&gt;
-
-&lt;h2 id=&#34;git&#34;&gt;git&lt;/h2&gt;
-
+&lt;h1 id=&#34;diagrams-and-charts&#34;&gt;Diagrams and charts&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://help.github.com/articles/setting-your-username-in-git/&#34; target=&#34;_blank&#34;&gt;Setting your username in Git&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://help.github.com/articles/setting-your-commit-email-address-in-git/&#34; target=&#34;_blank&#34;&gt;Setting your commit email address in Git&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://mermaid-js.github.io/mermaid/#/&#34;&gt;Gantt chart using Mermaid&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;whiteboards&#34;&gt;Whiteboards&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://trello.com&#34;&gt;Trello&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://zapier.com/blog/best-online-whiteboard/&#34;&gt;Best online whiteboards&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;ide&#34;&gt;IDE&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://stackoverflow.com/questions/34937092/why-does-visual-studio-code-insert-spaces-when-editing-a-makefile-and-editor-in&#34;&gt;Makefile and Visual Studio Code&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;online-ide&#34;&gt;Online IDE&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://codesandbox.io/&#34;&gt;CodeSandbox&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;continuous-integration&#34;&gt;Continuous Integration&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://circleci.com&#34;&gt;Circle CI&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://drone.io/&#34;&gt;Drone.io&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;GitHub Actions
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/sdras/awesome-actions#github-pages&#34;&gt;Awesome actions&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Bitbucket pipelines
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/mserranom/bbrun&#34;&gt;Test your Bitbucket pipeline locally&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Gitlab pipelines
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.gitlab.com/ee/ci/variables/predefined_variables.html&#34;&gt;Predefined variables&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.gitlab.com/runner/install/linux-repository.html&#34;&gt;Install Gitlab Runner on Linux&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;code-review&#34;&gt;Code review&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.atlassian.com/software/fisheye&#34;&gt;Fisheye&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;version-control-system&#34;&gt;Version Control System&lt;/h1&gt;
+&lt;h2 id=&#34;git&#34;&gt;git&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://itsfoss.com/install-git-ubuntu/&#34;&gt;Install the latest git&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://help.github.com/articles/setting-your-username-in-git/&#34;&gt;Setting your username in Git&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://help.github.com/articles/setting-your-commit-email-address-in-git/&#34;&gt;Setting your commit email address in Git&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;git add .&lt;/li&gt;
 &lt;li&gt;git add myfolder/.&lt;/li&gt;
 &lt;li&gt;Change the username:
-
 &lt;ul&gt;
 &lt;li&gt;git config &amp;ndash;global user.name &amp;ldquo;Behzad Samadi&amp;rdquo;&lt;/li&gt;
-&lt;li&gt;git config &amp;ndash;global user.email &amp;ldquo;name@mail.com&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;git config &amp;ndash;global user.email &amp;ldquo;&lt;a href=&#34;mailto:name@mail.com&#34;&gt;name@mail.com&lt;/a&gt;&amp;rdquo;&lt;/li&gt;
 &lt;li&gt;git remote -v&lt;/li&gt;
-&lt;li&gt;git remote set-url origin &lt;a href=&#34;https://username@github.com/ros-agriculture/ros-a.git&#34; target=&#34;_blank&#34;&gt;https://username@github.com/ros-agriculture/ros-a.git&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://devhints.io/travis-gh-pages&#34; target=&#34;_blank&#34;&gt;Git push to GitHub Pages&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;git remote set-url origin &lt;a href=&#34;https://username@github.com/ros-agriculture/ros-a.git&#34;&gt;https://username@github.com/ros-agriculture/ros-a.git&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;h1 id=&#34;file-sharing&#34;&gt;File Sharing&lt;/h1&gt;
-
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://devhints.io/travis-gh-pages&#34;&gt;Git push to GitHub Pages&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://help.github.com/en/github/authenticating-to-github/testing-your-ssh-connection&#34;&gt;Testing your SSH connection&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://code.tutsplus.com/tutorials/quick-tip-how-to-work-with-github-and-multiple-accounts--net-22574&#34;&gt;Work with multiple SSH connections&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.freecodecamp.org/news/manage-multiple-github-accounts-the-ssh-way-2dadc30ccaca/&#34;&gt;How to manage multiple GitHub accounts on a single machine with SSH keys&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;submodules&#34;&gt;Submodules&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://askubuntu.com/questions/285539/detect-and-mount-devices&#34; target=&#34;_blank&#34;&gt;Mount drives&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://git-scm.com/book/en/v2/Git-Tools-Submodules&#34;&gt;Git submodules&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Update submodules: &lt;code&gt;git submodule update --init --recursive&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
+&lt;h3 id=&#34;tutorials&#34;&gt;Tutorials&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://hackernoon.com/understanding-git-fcffd87c15a3&#34;&gt;Understanding git&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h1 id=&#34;documentation&#34;&gt;Documentation&lt;/h1&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://docusaurus.io/en/&#34; target=&#34;_blank&#34;&gt;Docusaurus&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://forestry.io/&#34; target=&#34;_blank&#34;&gt;Forestry&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt;
-
+&lt;li&gt;&lt;a href=&#34;https://docusaurus.io/en/&#34;&gt;Docusaurus&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://forestry.io/&#34;&gt;Forestry&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;
 &lt;ul&gt;
-&lt;li&gt;Add a submodule: git submodule add &lt;a href=&#34;https://github.com/hbpasti/heather-hugo&#34; target=&#34;_blank&#34;&gt;https://github.com/hbpasti/heather-hugo&lt;/a&gt; themes/heather-hugo&lt;/li&gt;
+&lt;li&gt;Add a submodule: git submodule add &lt;a href=&#34;https://github.com/hbpasti/heather-hugo&#34;&gt;https://github.com/hbpasti/heather-hugo&lt;/a&gt; themes/heather-hugo&lt;/li&gt;
 &lt;li&gt;Update a submodule: git submodule update &amp;ndash;init &amp;ndash;recursive&lt;/li&gt;
 &lt;li&gt;List submodules: git config &amp;ndash;file .gitmodules &amp;ndash;name-only &amp;ndash;get-regexp path&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://vuepress.vuejs.org/&#34; target=&#34;_blank&#34;&gt;VuePress&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/RelaxedJS/ReLaXed&#34; target=&#34;_blank&#34;&gt;ReLaXed&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vuepress.vuejs.org/&#34;&gt;VuePress&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/RelaxedJS/ReLaXed&#34;&gt;ReLaXed&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2 id=&#34;private-static-websites&#34;&gt;Private static websites&lt;/h2&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/TehShrike/private-static-website&#34; target=&#34;_blank&#34;&gt;Private static website&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://justlogin.xyz/&#34; target=&#34;_blank&#34;&gt;Just Login&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/TehShrike/private-static-website&#34;&gt;Private static website&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://justlogin.xyz/&#34;&gt;Just Login&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h1 id=&#34;design&#34;&gt;Design&lt;/h1&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.haiku.ai/&#34; target=&#34;_blank&#34;&gt;Haiko&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.haiku.ai/&#34;&gt;Haiko&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;tools&#34;&gt;Tools&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://stackshare.io/posts/top-developer-tools-2018&#34;&gt;Top developer tools 2018&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;development-environments&#34;&gt;Development Environments&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.koding.com/&#34;&gt;Koding&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;package-management&#34;&gt;Package Management&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.brew.sh/Homebrew-on-Linux&#34;&gt;Homebrew&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;persian&#34;&gt;Persian&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/rastikerdar/awesome-persian&#34;&gt;Awesome Persian by rastikar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/mohebifar/made-in-iran&#34;&gt;Made in Iran&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/fffaraz/awesome-persian&#34;&gt;Awesome Persian by Faraz&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/sepandhaghighi/APIs-made-in-Iran&#34;&gt;Persian APIs&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&#34;tools&#34;&gt;Tools&lt;/h1&gt;
-
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Unit Testing</title>
+      <link>https://wikihub.github.io/docs/references/software/unittesting/</link>
+      <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/software/unittesting/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;hardware-unit-testing&#34;&gt;Hardware Unit Testing&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://stackshare.io/posts/top-developer-tools-2018&#34; target=&#34;_blank&#34;&gt;Top developer tools 2018&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pragprog.com/titles/jgade/test-driven-development-for-embedded-c&#34;&gt;Test driven development for embedded C&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
@@ -658,65 +1081,238 @@ Don’t Worry, You Can’t Break It. We Promise.
       <description>
         
         
-        
-
+        &lt;h1 id=&#34;learning-resources&#34;&gt;Learning resources&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://web.dev/&#34;&gt;web.dev&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://egghead.io/&#34;&gt;Egghead&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg&#34;&gt;The Net Ninja&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA&#34;&gt;Traversy Media&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://codepen.io/&#34;&gt;Codepen.io&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;websites&#34;&gt;Websites&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://jamstack.org/&#34;&gt;Jamstack&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;build&#34;&gt;Build&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.snowpack.dev/#what-is-snowpack%3F&#34;&gt;Snowpack&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;hardware&#34;&gt;Hardware&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://developers.google.com/web/updates/2016/03/access-usb-devices-on-the-web&#34;&gt;Access USB devices on the web&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h1 id=&#34;frontend&#34;&gt;Frontend&lt;/h1&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/gamtiq/frontend-tools/blob/master/README.md&#34; target=&#34;_blank&#34;&gt;Frontend development tools&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/gamtiq/frontend-tools/blob/master/README.md&#34;&gt;Frontend development tools&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;h2 id=&#34;vue-js-https-vuejs-org&#34;&gt;&lt;a href=&#34;https://vuejs.org/&#34; target=&#34;_blank&#34;&gt;Vue.js&lt;/a&gt;&lt;/h2&gt;
-
+&lt;h1 id=&#34;graphical-design&#34;&gt;Graphical Design&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.vuescript.com/&#34; target=&#34;_blank&#34;&gt;VueScript.com&lt;/a&gt; - Aims to offer latest free Vue.js components for web application developers.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://auth0.com/blog/build-an-app-with-vuejs/&#34; target=&#34;_blank&#34;&gt;Build an App with Vue.js: From Authentication to Calling an API&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://material.balmjs.com/&#34; target=&#34;_blank&#34;&gt;BalmUI&lt;/a&gt; - next generation Material UI for Vue.js.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://element.eleme.io/&#34; target=&#34;_blank&#34;&gt;Element&lt;/a&gt; - a Vue.js 2.0 UI Toolkit for Web.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.iviewui.com/&#34; target=&#34;_blank&#34;&gt;iView&lt;/a&gt; - a high quality UI Toolkit built on Vue.js.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://josephuspaye.github.io/Keen-UI/&#34; target=&#34;_blank&#34;&gt;Keen UI&lt;/a&gt; - a lightweight collection of essential UI components written with Vue.js and inspired by Material Design.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://museui.github.io/&#34; target=&#34;_blank&#34;&gt;Muse UI&lt;/a&gt; - a Vue 2.0 and Material Design based UI component library.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://quasar-framework.org/&#34; target=&#34;_blank&#34;&gt;Quasar Framework&lt;/a&gt; - build responsive websites, hybrid mobile Apps (that look native!) and Electron apps using same code, with VueJs 2.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://vuetifyjs.com/&#34; target=&#34;_blank&#34;&gt;Vuetify.js&lt;/a&gt; - a component framework for Vue.js 2.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://vuematerial.github.io/&#34; target=&#34;_blank&#34;&gt;Vue Material&lt;/a&gt; - lightweight framework built exactly according to the Material Design specs. It aims to deliver a collection of reusable components and a series of UI Elements to build applications with support to all modern Web Browsers through Vue 2.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.adobe.com/ca/products/xd.html&#34;&gt;Adobe XD&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.figma.com/&#34;&gt;Figma&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pencil.evolus.vn/&#34;&gt;Pencil&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.sketch.com/&#34;&gt;Sketch&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;h2 id=&#34;react&#34;&gt;React&lt;/h2&gt;
-
+&lt;h2 id=&#34;css&#34;&gt;CSS&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://ant.design/docs/react/introduce&#34; target=&#34;_blank&#34;&gt;Ant Design&lt;/a&gt; - An enterprise-class UI design language and React-based implementation.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://blueprintjs.com/&#34; target=&#34;_blank&#34;&gt;Blueprint&lt;/a&gt; - A React-based UI toolkit for the web. It is optimized for building complex, data-dense web interfaces for desktop applications.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/dvajs/dva&#34; target=&#34;_blank&#34;&gt;dva&lt;/a&gt; - React and Redux based, lightweight and Elm-style framework.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.electrode.io/&#34; target=&#34;_blank&#34;&gt;Electrode&lt;/a&gt; - A platform for building universal React/Node.js applications with standardized structure, best practices, and modern technologies baked in.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://elemental-ui.com/&#34; target=&#34;_blank&#34;&gt;Elemental UI&lt;/a&gt; - A UI Toolkit for React.js Websites and Apps.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://getessence.io&#34; target=&#34;_blank&#34;&gt;Essence&lt;/a&gt; - The Essential Material Design Framework.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://grommet.github.io/&#34; target=&#34;_blank&#34;&gt;Grommet&lt;/a&gt; - The most advanced UX framework for enterprise applications.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/streamich/libreact&#34; target=&#34;_blank&#34;&gt;libreact&lt;/a&gt; - a collection of most essential React utilities you will probably need in any project.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.material-ui.com/&#34; target=&#34;_blank&#34;&gt;Material-UI&lt;/a&gt; - A Set of React Components that Implement Google&amp;rsquo;s Material Design.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://react-md.mlaursen.com/&#34; target=&#34;_blank&#34;&gt;react-md&lt;/a&gt; - A set of React components and sass files for implementing Google&amp;rsquo;s Material Design.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://react-mdl.github.io/react-mdl/&#34; target=&#34;_blank&#34;&gt;React-MDL&lt;/a&gt; - A set of React components build on top of Material Design Lite.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://react-toolbox.com&#34; target=&#34;_blank&#34;&gt;React Toolbox&lt;/a&gt; - A set of React components that implement Google&amp;rsquo;s Material Design specification.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://microsoft.github.io/reactxp/&#34; target=&#34;_blank&#34;&gt;ReactXP&lt;/a&gt; - A library for cross-platform app development using React and React Native.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://jxnblk.com/rebass/&#34; target=&#34;_blank&#34;&gt;Rebass&lt;/a&gt; - Configurable React Stateless Functional UI Components.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://tachyons.io/docs/&#34;&gt;Create fast loading, highly readable, and 100% responsive interfaces with as little css as possible&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;h2 id=&#34;angular&#34;&gt;Angular&lt;/h2&gt;
-
+&lt;h2 id=&#34;illustrations&#34;&gt;Illustrations&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://undraw.co/&#34;&gt;Undraw&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;photos&#34;&gt;Photos&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://unsplash.com/&#34;&gt;Unsplash&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.darktable.org/&#34;&gt;Dark Table&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;vector-graphics&#34;&gt;Vector Graphics&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://vectr.com&#34;&gt;Vectr&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h1 id=&#34;tools&#34;&gt;Tools&lt;/h1&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://stacker.app&#34; target=&#34;_blank&#34;&gt;Stacker&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://convox.com&#34; target=&#34;_blank&#34;&gt;Convox&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://stacker.app&#34;&gt;Stacker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://convox.com&#34;&gt;Convox&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.gloomaps.com/&#34;&gt;Gloomaps&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;npm&#34;&gt;NPM&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/xtuple/nvm&#34;&gt;Install Node.js with NVM&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://tecadmin.net/install-nodejs-with-nvm/&#34;&gt;Install Node.js with NVM&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/nvm-sh/nvm/issues/43&#34;&gt;Run node as sudo: &lt;code&gt;alias sudo=&#39;sudo env PATH=$PATH:$NVM_BIN&#39;&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/tj/n&#34;&gt;n – Interactively Manage Your Node.js Versions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://michaelb.org/the-right-way-to-do-global-npm-install-without-sudo/&#34;&gt;The right way to do global npm install without sudo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/Microsoft/WSL/issues/14&#34;&gt;Fix the permission error: sudo npm cache clear &amp;ndash;force&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;canada&#34;&gt;Canada&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/bcgov&#34;&gt;Province of British Columbia&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&#34;web-applications&#34;&gt;Web Applications&lt;/h1&gt;
-
-&lt;h2 id=&#34;financial-applications&#34;&gt;Financial Applications&lt;/h2&gt;
-
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Word Processing</title>
+      <link>https://wikihub.github.io/docs/references/software/wordprocessing/</link>
+      <pubDate>Thu, 07 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/software/wordprocessing/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;writing-guides&#34;&gt;Writing Guides&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://firefly-iii.org/&#34; target=&#34;_blank&#34;&gt;Firefly&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://getpassiv.com&#34; target=&#34;_blank&#34;&gt;Getpassiv&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.portfoliovisualizer.com&#34; target=&#34;_blank&#34;&gt;Portfolio Visualizer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.ece.ucsb.edu/~hespanha/published/writingpapers.pdf&#34;&gt;Writing a Control Paper&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www-mech.eng.cam.ac.uk/mmd/ashby-paper-V6.pdf&#34;&gt;How to Write a Paper&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://faculty.chicagobooth.edu/john.cochrane/research/papers/phd_paper_writing.pdf&#34;&gt;Writing Tips for PhD Students&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://infolab.stanford.edu/~widom/paper-writing.html&#34;&gt;Tips for Writing Technical Papers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://homepages.rpi.edu/~holguj2/CIVL2030/How_to_write_search/How_to_write_a_good_technical_report.pdf&#34;&gt;How to Write a Good Technical Report&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.fke.utm.my/blog/wp-content/uploads/2011/03/How-to-Write-Good-Technical-Papers-Prof-Marzuki.pdf&#34;&gt;How to Write Good Technical Papers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.ics.uci.edu/~rickl/courses/ics-h197/technical-write-slitex.pdf&#34;&gt;How to Write a Successful Technical Paper&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://inside.mines.edu/~mmyoung/phgn471/WrttnPsntatn.pdf&#34;&gt;How to Write a Technical Paper&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.mhhe.com/mayfieldpub/tsw/home.htm&#34;&gt;Mayfield Handbook of Technical and Scientific Writing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cas.mcmaster.ca/~nedialk/COURSES/3I03/node6.html&#34;&gt;Communication Skills&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.youtube.com/playlist?list=PLe2tiLL2q02KGAb7IW5-u2zeJnX3wr4S3&#34;&gt;How to publish your research&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;reproducible-research&#34;&gt;Reproducible Research&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://ivory.idyll.org/blog/replication-i.html&#34;&gt;Replication&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://207.245.165.89/applied-research/ncsa/8-an-overview-of-3d-data-content-file-formats-and-viewers.pdf&#34;&gt;3D Data&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://orgmode.org/worg/org-contrib/babel/uses.html#sec-6&#34;&gt;Reproducible Research Examples in Org Mode&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://reproducibleresearch.net/index.php/RR_links&#34;&gt;Reproducible Research&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.emacswiki.org/cgi-bin/wiki/OrgMode&#34;&gt;Emacs Org Mode&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/christophergandrud/Rep-Res-Book&#34;&gt;Reproducible Research with R/RStudio&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;coding-standards&#34;&gt;Coding Standards&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.gnu.org/prep/standards/standards.html&#34;&gt;GNU C&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://gcc.gnu.org/wiki/CppConventions&#34;&gt;GCC C++&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://google-styleguide.googlecode.com/svn/trunk/cppguide.xml&#34;&gt;Google C++&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.dmoz.org/Computers/Programming/Languages/Java/Coding_Standards/&#34;&gt;Java&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.python.org/dev/peps/pep-0008/&#34;&gt;Python&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;tools&#34;&gt;Tools&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Word Processing
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/hplgit/doconce&#34;&gt;DocOnce&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://docutils.sourceforge.net/&#34;&gt;Docutils&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://sphinx-doc.org/&#34;&gt;Sphinx&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://jemdoc.jaboc.net/&#34;&gt;jemdoc&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/wsshin/jemdoc_mathjax&#34;&gt;jemdoc mathjax&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Wiki
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.connectedtext.com/&#34;&gt;ConnectedText&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Mind Maps
+* &lt;a href=&#34;http://www.mind-mapping.org/&#34;&gt;Mind Mapping&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;Grammar
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.stylewriter-usa.com/stylewriter-free-download.php&#34;&gt;StyleWriter: Plain English Manuscript Editing Software for
+MS-WORD&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.whitesmoke.com/&#34;&gt;WhiteSmoke - English Grammar Checker
+Software&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.mywritertools.com/&#34;&gt;myWriterTools - Essential writing and editing
+software&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.englishsoftware.org/&#34;&gt;Professional Grammar Check &amp;amp; Writing Tool - English
+Software&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://phdtools.blogspot.ca/&#34;&gt;PhDTools&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;pandoc&#34;&gt;Pandoc&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://johnmacfarlane.net/pandoc/&#34;&gt;Pandoc&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.dexy.it/docs/what-is-dexy.html&#34;&gt;Dexy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/jgm/pandocfilters&#34;&gt;Pandoc filters&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;reference-management&#34;&gt;Reference Management&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.qiqqa.com/&#34;&gt;Qiqqa&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.mendeley.com/&#34;&gt;Mendeley&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.bibsonomy.org/&#34;&gt;Bibsonomy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.citeulike.org&#34;&gt;CiteULike&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://calibre-ebook.com/&#34;&gt;Calibre - ebook manager&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;markdown&#34;&gt;Markdown&lt;/h1&gt;
+&lt;h2 id=&#34;papers&#34;&gt;Papers&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://kieranhealy.org/blog/archives/2014/01/23/plain-text/&#34;&gt;Plain Text Papers Pandoc&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://noone.org/blog/English/Computer/Web/Rendering%20Markdown,%20Asciidoc%20and%20Friends%20automatically%20while%20Editing.futile&#34;&gt;Rendering Markdown, Asciidoc and Friends automatically while Editing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/smathot/academicmarkdown&#34;&gt;Academic Markdown&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://bookdown.org&#34;&gt;Bookdown&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;documentations&#34;&gt;Documentations&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://documentup.com/&#34;&gt;DocumentUp&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.mkdocs.org/&#34;&gt;MkDocs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://readthedocs.org/&#34;&gt;Read the Docs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;editors&#34;&gt;Editors&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://cloose.github.io/CuteMarkEd/&#34;&gt;CuteMarkEd&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://hallojs.org/&#34;&gt;Hallo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://strapdownjs.com/&#34;&gt;Strapdownjs&lt;/a&gt; - &lt;a href=&#34;https://gist.github.com/memeplex/6309540&#34;&gt;Mathjax support with conflict&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.texts.io/&#34;&gt;Texts&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://stackedit.io&#34;&gt;StackEdit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://pad.haroopress.com/&#34;&gt;Haroo Pad&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://dillinger.io/&#34;&gt;Dillinger&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://draftin.com&#34;&gt;Draftin&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://notex.ch/&#34;&gt;NoTeX&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://jaxedit.com/mark/&#34;&gt;jaxedit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://markable.in/&#34;&gt;Markable&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://markdownpad.com/&#34;&gt;MarkdownPad&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://npmjs.org/package/atavist&#34;&gt;atavist, markdown site generator&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.rstudio.com/&#34;&gt;RStudio&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://slidify.org/index.html&#34;&gt;Slidify&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://mac.appstorm.net/roundups/productivity-roundups/35-markdown-apps-for-the-mac/&#34;&gt;Markdown for Mac&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;blog&#34;&gt;Blog&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://thedustytome.blogspot.ca/2014/02/getting-jekyll-up-and-running-on-windows.html&#34;&gt;Installing Jekyll on Windows&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://haghish.com/statistics/stata-blog/reproducible-research/dynamic_documents/markdown.php&#34;&gt;Writing with Markdown in Stata&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;web&#34;&gt;Web&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://bitbucket.org/obensonne/poole&#34;&gt;Poole&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://jemdoc.jaboc.net/index.html&#34;&gt;jemdoc&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/jasonm23/markdown-css-themes&#34;&gt;Markdown CSS themes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;templates&#34;&gt;Templates&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/jgm/pandoc-templates&#34;&gt;Pandoc templates&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://cmwelsh.com/beautiful-resumes-with-markdown-and-latex&#34;&gt;Resume&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;tools-1&#34;&gt;Tools&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://johnmacfarlane.net/pandoc/try/&#34;&gt;Try Pandoc&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://pythonhosted.org//Markdown/index.html&#34;&gt;Python-Markdown&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://mashable.com/2013/06/24/markdown-tools/&#34;&gt;78 Tools for writing and previewing Markdown&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/Dashed/pandoc-seed-project&#34;&gt;Pandoc seed project&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://documentup.com/egonschiele/mdpress/&#34;&gt;mdpress&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.unexpected-vortices.com/sw/rippledoc/index.html&#34;&gt;Rippledoc&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://wkhtmltopdf.org/&#34;&gt;wkhtmltopdf&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;resources&#34;&gt;Resources&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://whatismarkdown.com/&#34;&gt;What is Markdown&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/bbest/rmarkdown-example&#34;&gt;RMarkdown example&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>

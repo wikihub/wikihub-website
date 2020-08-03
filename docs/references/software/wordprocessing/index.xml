@@ -1,0 +1,378 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WIKIHUB – Word Processing</title>
+    <link>https://wikihub.github.io/docs/references/software/wordprocessing/</link>
+    <description>Recent Hugo news from gohugo.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 07 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://wikihub.github.io/img/hugo.png</url>
+      <title>GoHugo.io</title>
+      <link>https://wikihub.github.io/docs/references/software/wordprocessing/</link>
+    </image>
+    
+	  <atom:link href="https://wikihub.github.io/docs/references/software/wordprocessing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: Emacs</title>
+      <link>https://wikihub.github.io/docs/references/software/wordprocessing/emacs/</link>
+      <pubDate>Thu, 07 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/software/wordprocessing/emacs/</guid>
+      <description>
+        
+        
+        &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.emacswiki.org/&#34;&gt;Emacs wiki&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://bzg.fr/learn-emacs-lisp-in-15-minutes.html&#34;&gt;Learn Emacs lisp in 15
+minutes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://dr.barik.net/kb/Emacs&#34;&gt;Barik&amp;rsquo;s guide to Emacs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://clojure.jr0cket.co.uk/perfect-environment/emacs-leiningen-swank&#34;&gt;Installing emacs-goodies-el including the Maple mode on
+Emacs 24&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://nakkaya.com/2009/11/06/remote-file-editing-using-emacs/&#34;&gt;remote file editing using
+emacs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;auctex&#34;&gt;AUCTeX&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://kieranhealy.org/esk/starter-kit-latex.html&#34;&gt;Starter kit&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;org-mode&#34;&gt;Org Mode&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.emacswiki.org/cgi-bin/wiki/OrgMode&#34;&gt;Emacs Org Mode&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://nakkaya.com/2010/09/07/writing-papers-using-org-mode/&#34;&gt;Writing papers using org
+mode&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www-public.it-sudparis.eu/~berger_o/weblog/2012/03/23/how-to-manage-and-export-bibliographic-notesrefs-in-org-mode/&#34;&gt;How to manage and export bibliographic notesrefs in org
+mode&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blog.karssen.org/2013/08/22/using-bibtex-from-org-mode/&#34;&gt;Using bibtex from org
+mode&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://tincman.wordpress.com/2011/01/04/research-paper-management-with-emacs-org-mode-and-reftex/&#34;&gt;Research paper management with emacs org mode and
+reftex&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.seas.upenn.edu/~heqin/academic/sitecreation.html&#34;&gt;Site creation with org
+mode&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://praveen.kumar.in/2012/03/10/org-mode-latex-and-minted-syntax-highlighting/&#34;&gt;Syntax highlighting in
+org-mode&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: HTML5</title>
+      <link>https://wikihub.github.io/docs/references/software/wordprocessing/html5/</link>
+      <pubDate>Thu, 07 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/software/wordprocessing/html5/</guid>
+      <description>
+        
+        
+        &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://collapsehtml5.wordpress.com/2013/09/23/html5-is-the-future-of-book-authorship/&#34;&gt;HTML5 is the future of book authorship&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://bootswatch.com/&#34;&gt;Bootswatch&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://builtwithbootstrap.com/&#34;&gt;Build with bootstrap&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.initializr.com/&#34;&gt;Initializr&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://foundation.zurb.com/&#34;&gt;Foundation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://getbootstrap.com/2.3.2/&#34;&gt;Bootstrap&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://jqueryboilerplate.com/&#34;&gt;jQuery Boilerplate&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://html5boilerplate.com/&#34;&gt;HTML5 Boilerplate&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://mashable.com/2013/04/26/css-boilerplates-frameworks/&#34;&gt;CSS frameworks&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;tools&#34;&gt;Tools&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://brackets.io/&#34;&gt;Brackets&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://community.adaptlearning.org/&#34;&gt;Adapt Learning&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;css&#34;&gt;CSS&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://csszengarden.com/&#34;&gt;CSS Zen Garden&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://jschr.github.io/textillate/&#34;&gt;CSS text animation&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;math&#34;&gt;Math&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/Dashed/mathjax-lazyload&#34;&gt;Mathjax lazyload&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;books&#34;&gt;Books&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/oreillymedia/HTMLBook&#34;&gt;HTMLBook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://leanpub.com/&#34;&gt;Lean Pub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.suntecdigital.com/ebook-conversion-services/animated-interactive-ebooks-html5-css3.html&#34;&gt;SunTec Digital&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=fISMFlRSdJs&#34;&gt;Sidubara&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://loudcrow.com/&#34;&gt;Loud Crow&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://theappslab.com/2011/07/12/interactive-childrens-books-for-tablets/&#34;&gt;Interactive children&amp;rsquo;s books for tablets&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://eboundcanada.org/&#34;&gt;eBOUND Canada&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://alefba.us/&#34;&gt;Alefba&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://ebookninjas.com/&#34;&gt;eBook Ninjas&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://epubweekly.wordpress.com/&#34;&gt;ePub Weekly&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.kotobee.com/&#34;&gt;Kotobee&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.softcover.io/&#34;&gt;Soft Cover&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://getdpd.com/&#34;&gt;Digital Publishing&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;games&#34;&gt;Games&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://codecanyon.net/item/coloring-book-html5-game/6163303&#34;&gt;Coloring game&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;rtl-support&#34;&gt;RTL Support&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://tech.pro/tutorial/1738/readying-your-site-for-rtl&#34;&gt;Readying your site for RTL&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://mozillians.org/en-US/u/amir.farsi/&#34;&gt;Amir Farsi&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Languages</title>
+      <link>https://wikihub.github.io/docs/references/software/wordprocessing/languages/</link>
+      <pubDate>Thu, 07 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/software/wordprocessing/languages/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;persian&#34;&gt;Persian&lt;/h1&gt;
+&lt;h2 id=&#34;python&#34;&gt;Python&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/sobhe/hazm&#34;&gt;Hazm&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;people&#34;&gt;People&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/ahangarha&#34;&gt;Mostafa Ahangarha&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: LaTeX</title>
+      <link>https://wikihub.github.io/docs/references/software/wordprocessing/latex/</link>
+      <pubDate>Thu, 07 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/software/wordprocessing/latex/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;tex-distributions&#34;&gt;TeX Distributions&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://miktex.org/&#34;&gt;MikTeX&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://wiki.contextgarden.net/Main_Page&#34;&gt;ConTeXt&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://tug.org/protext/&#34;&gt;proTeXt&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;user-guide&#34;&gt;User Guide&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.ctan.org/tex-archive/info/lshort/english/lshort.pdf&#34;&gt;The not so short
+introduction&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://amath.colorado.edu/documentation/LaTeX/Symbols.pdf&#34;&gt;LaTeX
+symbols&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;editors&#34;&gt;Editors&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Emacs
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.emacswiki.org/emacs/CategoryTex&#34;&gt;Emacs and TeX&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vgoulet.act.ulaval.ca/en/emacs/windows&#34;&gt;Emacs for
+Windows&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.barik.net/archive/2012/07/18/154432/&#34;&gt;GNU Emacs and
+SumatraPDF&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://texlipse.sourceforge.net/&#34;&gt;LaTeX for Eclipse&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.xm1math.net/texmaker/&#34;&gt;TeXMaker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.bakoma-tex.com/&#34;&gt;BaKoMa&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.texmacs.org/tmweb/home/welcome.en.html&#34;&gt;TeXmacs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.latexeditor.org/&#34;&gt;LEd&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.texniccenter.org/&#34;&gt;TeXnicCenter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.textpad.com/&#34;&gt;Textpad&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://code.google.com/p/texworks/&#34;&gt;TeXworks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.winedt.com/&#34;&gt;WinEdit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.lyx.org/&#34;&gt;LyX&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;online&#34;&gt;Online&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://docs.latexlab.org/&#34;&gt;LaTeX Lab&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.texify.com/&#34;&gt;Texify&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;resources&#34;&gt;Resources&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.ctan.org/&#34;&gt;CTAN&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://tug.org/&#34;&gt;TeX Users Group&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.latextemplates.com/&#34;&gt;LaTeX Templates&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://texblog.net/&#34;&gt;TeXblog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.mitchr.me/SS/refc/media/refc_latex.pdf&#34;&gt;LaTeX reference
+card&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://science.thilucmic.fr/spip.php?article5&#34;&gt;Documentation en ligne sur
+LaTeX&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://faculty.washington.edu/gyollin/docs/Latex.pdf&#34;&gt;LaTeX, Lyx and
+knitr&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;How make a LaTeX document look like a Word document:
+&lt;ul&gt;
+&lt;li&gt;Use XeLaTeX&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://tex.stackexchange.com/questions/10138/change-section-fonts&#34;&gt;Change the
+fonts&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://tex.stackexchange.com/questions/106964/could-not-insert-pdf-graphics&#34;&gt;Fix PDF
+figures&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;How to include PDF pages in
+LaTeX
+&lt;ul&gt;
+&lt;li&gt;{\includepdf[pages={1-6},height=\textheight,frame=false,offset=-5
+0,trim=70 100 70
+60,pagecommand={\thispagestyle{myheadings}}]{fig/figure.pdf}}&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;collaborative-writing&#34;&gt;Collaborative Writing&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.writelatex.com/&#34;&gt;writeLaTeX&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.scribtex.com/&#34;&gt;ScribTeX&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://docs.latexlab.org/&#34;&gt;LaTeX Lab&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://tex.uncg.edu/login.php&#34;&gt;SpartanTeX&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://sciencesoft.at/latex/flatex.gsp?lang=en&#34;&gt;ScienceSoft&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.sharelatex.com/&#34;&gt;ShareLaTeX&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;packages&#34;&gt;Packages&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://bitbucket.org/rivanvx/beamer/wiki/Home&#34;&gt;Beamer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.texample.net/tikz/examples&#34;&gt;Tikz&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://xepersian.berlios.de/&#34;&gt;XePersian&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://fa.parsilatex.wikia.com/wiki/%D8%B5%D9%81%D8%AD%D9%87%D9%94_%D8%A7%D8%B5%D9%84%DB%8C&#34;&gt;ParsiLaTeX&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cs.cornell.edu/info/people/raman/aster/demo.html&#34;&gt;ASTER&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://texblog.net/latex-archive/latex-general/pdfcomment/&#34;&gt;pdfcomment: a user-friendly way to insert comments/ annotations
+into pdf
+files&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.ctan.org/pkg/media9&#34;&gt;Media9 - Multimedia inclusion
+package&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;bibliography&#34;&gt;Bibliography&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.qiqqa.com/&#34;&gt;Qiqqa&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://jabref.sourceforge.net/&#34;&gt;JabRef&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.mendeley.com/&#34;&gt;Mendeley&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.zotero.org/&#34;&gt;Zotero&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;showcases&#34;&gt;Showcases&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;[&lt;a href=&#34;http://www.tug.org/texshowcase/&#34;&gt;http://www.tug.org/texshowcase/&lt;/a&gt; TeX Show&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Markdown</title>
+      <link>https://wikihub.github.io/docs/references/software/wordprocessing/markdown/</link>
+      <pubDate>Thu, 07 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/software/wordprocessing/markdown/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;papers&#34;&gt;Papers&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://kieranhealy.org/blog/archives/2014/01/23/plain-text/&#34;&gt;Plain Text Papers Pandoc&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://noone.org/blog/English/Computer/Web/Rendering%20Markdown,%20Asciidoc%20and%20Friends%20automatically%20while%20Editing.futile&#34;&gt;Rendering Markdown, Asciidoc and Friends automatically while Editing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/smathot/academicmarkdown&#34;&gt;Academic Markdown&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://bookdown.org&#34;&gt;Bookdown&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;documentations&#34;&gt;Documentations&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://documentup.com/&#34;&gt;DocumentUp&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.mkdocs.org/&#34;&gt;MkDocs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://readthedocs.org/&#34;&gt;Read the Docs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;markdown-servers&#34;&gt;Markdown Servers&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://hackmd.io/&#34;&gt;HackMD&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://render.com/&#34;&gt;Render&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.gitbook.com/&#34;&gt;Gitbook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://allmark.io/&#34;&gt;Allmark&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;editors&#34;&gt;Editors&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://cloose.github.io/CuteMarkEd/&#34;&gt;CuteMarkEd&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://hallojs.org/&#34;&gt;Hallo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://strapdownjs.com/&#34;&gt;Strapdownjs&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://gist.github.com/memeplex/6309540&#34;&gt;Mathjax support with conflict&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.texts.io/&#34;&gt;Texts&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://pad.haroopress.com/&#34;&gt;Haroo Pad&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://dillinger.io/&#34;&gt;Dillinger&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://draftin.com&#34;&gt;Draftin&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://notex.ch/&#34;&gt;NoTeX&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://jaxedit.com/mark/&#34;&gt;jaxedit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://markable.in/&#34;&gt;Markable&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://markdownpad.com/&#34;&gt;MarkdownPad&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://npmjs.org/package/atavist&#34;&gt;atavist, markdown site generator&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.rstudio.com/&#34;&gt;RStudio&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://slidify.org/index.html&#34;&gt;Slidify&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://mac.appstorm.net/roundups/productivity-roundups/35-markdown-apps-for-the-mac/&#34;&gt;Markdown for Mac&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://notable.app/&#34;&gt;Notable&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.webfx.com/blog/web-design/online-markdown-editors/&#34;&gt;10 online markdown editors&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;online-editors&#34;&gt;Online Editors&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://stackedit.io&#34;&gt;StackEdit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://firepad.io/&#34;&gt;Firepad&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://hackmd.io/&#34;&gt;Hackmd&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://socrates.io&#34;&gt;Socrates&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/remarkjs/remark&#34;&gt;Remark&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;blog&#34;&gt;Blog&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://thedustytome.blogspot.ca/2014/02/getting-jekyll-up-and-running-on-windows.html&#34;&gt;Installing Jekyll on Windows&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://haghish.com/statistics/stata-blog/reproducible-research/dynamic_documents/markdown.php&#34;&gt;Writing with Markdown in Stata&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;web&#34;&gt;Web&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://bitbucket.org/obensonne/poole&#34;&gt;Poole&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://jemdoc.jaboc.net/index.html&#34;&gt;jemdoc&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.mkdocs.org/&#34;&gt;MkDocs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;themes&#34;&gt;Themes&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/jasonm23/markdown-css-themes&#34;&gt;Markdown CSS themes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;templates&#34;&gt;Templates&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/jgm/pandoc-templates&#34;&gt;Pandoc templates&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://cmwelsh.com/beautiful-resumes-with-markdown-and-latex&#34;&gt;Resume&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;tools&#34;&gt;Tools&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://johnmacfarlane.net/pandoc/try/&#34;&gt;Try Pandoc&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://pythonhosted.org//Markdown/index.html&#34;&gt;Python-Markdown&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://mashable.com/2013/06/24/markdown-tools/&#34;&gt;78 Tools for writing and previewing Markdown&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/Dashed/pandoc-seed-project&#34;&gt;Pandoc seed project&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://documentup.com/egonschiele/mdpress/&#34;&gt;mdpress&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.unexpected-vortices.com/sw/rippledoc/index.html&#34;&gt;Rippledoc&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://wkhtmltopdf.org/&#34;&gt;wkhtmltopdf&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;resources&#34;&gt;Resources&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://whatismarkdown.com/&#34;&gt;What is Markdown&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;examples&#34;&gt;Examples&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/bbest/rmarkdown-example&#34;&gt;RMarkdown example&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;rtl&#34;&gt;RTL&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/dariubs/rtlmd&#34;&gt;RTL Markdown&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://rtlmd.codecast.ir/&#34;&gt;RTL Markdown Codecast&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
