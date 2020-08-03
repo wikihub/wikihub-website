@@ -12,6 +12,8 @@ description: News and information about web development technologies
 * [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
 * [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
 * [Codepen.io](https://codepen.io/)
+* [FrontendMasters](https://frontendmasters.com/)
+* [Pluralsight](https://www.pluralsight.com/)
 
 # Websites
 * [Jamstack](https://jamstack.org/)
