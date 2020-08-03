@@ -14,6 +14,7 @@ description: News and information about web development technologies
 * [Codepen.io](https://codepen.io/)
 * [FrontendMasters](https://frontendmasters.com/)
 * [Pluralsight](https://www.pluralsight.com/)
+* [Scrimba](https://scrimba.com/)
 
 ## Netlify
 * [Netlify Tutorial - How to build and deploy websites using Netlify](https://www.youtube.com/watch?v=mT5siI19gtc)
