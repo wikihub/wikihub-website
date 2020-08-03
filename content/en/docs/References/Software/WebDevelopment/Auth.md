@@ -12,3 +12,7 @@ description: News and information about authentication
 
 *   [useAuth](https://github.com/Swizec/useAuth)
 *   [Netlify Identify](https://github.com/sw-yx/jamstack-hackathon-starter/)
+
+# Static Websites
+
+*   [Authenticated static websites on GCS](https://medium.com/@robwitoff/authenticated-static-sites-on-gcs-2013bf549679)
