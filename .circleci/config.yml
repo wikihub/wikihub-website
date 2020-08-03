@@ -9,6 +9,9 @@ general:
      - gh-pages
      
 jobs:
+  branches:
+    ignore:
+     - gh-pages
   build:
     docker:
       - image: nubonetics/hugo-node
