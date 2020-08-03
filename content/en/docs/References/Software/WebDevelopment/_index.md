@@ -15,6 +15,10 @@ description: News and information about web development technologies
 * [FrontendMasters](https://frontendmasters.com/)
 * [Pluralsight](https://www.pluralsight.com/)
 
+## Netlify
+* [Netlify Tutorial - How to build and deploy websites using Netlify](https://www.youtube.com/watch?v=mT5siI19gtc)
+* [Netlify + FreeCodeCamp Notes and Helpful Links](https://gist.github.com/sw-yx/167250684bb3c47edc40ad97b63d1cfb)
+
 # Websites
 * [Jamstack](https://jamstack.org/)
 
