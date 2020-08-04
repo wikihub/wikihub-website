@@ -15,6 +15,7 @@ description: News and information about web development technologies
 * [FrontendMasters](https://frontendmasters.com/)
 * [Pluralsight](https://www.pluralsight.com/)
 * [Scrimba](https://scrimba.com/)
+* [freeCodeCamp](https://www.youtube.com/c/Freecodecamp/videos)
 
 ## Netlify
 * [Netlify Tutorial - How to build and deploy websites using Netlify](https://www.youtube.com/watch?v=mT5siI19gtc)
