@@ -39,6 +39,7 @@ description: News and information about React development
 ## Dynamic Gatsby
 * [Turning the static dynamic](https://www.gatsbyjs.org/blog/2018-12-17-turning-the-static-dynamic/)
 * [Dynamic Gatsby hackaton starter](https://github.com/sw-yx/jamstack-hackathon-starter)
+* [Beyond static](https://www.youtube.com/watch?v=zeVC-gD3u7M)
 
 ## Headless CMS
 * [Strapi Gatsby blog starter](https://strapi.io/blog/strapi-starter-gatsby-blog-v2)
