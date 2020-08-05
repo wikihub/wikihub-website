@@ -16,6 +16,7 @@ description: News and information about learning ROS
 * [ROS command-line interface](https://wiki.ros.org/ROS/CommandLineTools)
 * [ROS Index](https://index.ros.org/)
 * [Awesome robotic tools](https://github.com/Ly0n/awesome-robotic-tooling)
+* [ROS best practices](https://github.com/leggedrobotics/ros_best_practices/wiki)
 
 ## Graphs
 * [rqt graph – visualize and debug your ROS graph](https://roboticsbackend.com/rqt-graph-visualize-and-debug-your-ros-graph/)
