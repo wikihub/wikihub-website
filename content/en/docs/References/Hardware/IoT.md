@@ -32,3 +32,6 @@ description: News and information about Internet of Things and its applications
 * [LTE-M by Rogers](https://about.rogers.com/news-ideas/rogers-launch-national-lte-m-network-power-next-era-iot-canada/)
 * [LTE-M by Bell Canada](https://business.bell.ca/shop/medium-large/our-networks/lte-m)
 * [NB-IoT by Rogers](https://www.rogers.com/business/products-and-solutions/internet-of-things/lpwa)
+
+# Asset Tracking
+* [How I built a tiny real time telematics application on AWS](https://towardsdatascience.com/how-i-built-a-tiny-real-time-telematics-application-on-aws-a9956f5afe65)
