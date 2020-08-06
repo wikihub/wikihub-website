@@ -35,3 +35,4 @@ description: News and information about Internet of Things and its applications
 
 # Asset Tracking
 * [How I built a tiny real time telematics application on AWS](https://towardsdatascience.com/how-i-built-a-tiny-real-time-telematics-application-on-aws-a9956f5afe65)
+* [GSM Tracker](https://github.com/daveake/GSMTracker)
