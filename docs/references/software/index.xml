@@ -303,6 +303,10 @@
 &lt;li&gt;&lt;a href=&#34;https://phusion.github.io/baseimage-docker/&#34;&gt;Base image Docker&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Restart Docker: &lt;code&gt;service docker restart&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h2 id=&#34;docker-on-wsl2&#34;&gt;Docker on WSL2&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://ubuntu.com/blog/getting-started-with-cuda-on-ubuntu-on-wsl-2&#34;&gt;Getting started with CUDA on Ubuntu on WSL2&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2 id=&#34;docker-tools&#34;&gt;Docker tools&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.elttam.com/blog/kubler/&#34;&gt;Kubler&lt;/a&gt;&lt;/li&gt;
