@@ -1137,6 +1137,7 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://ubuntu.com/blog/getting-started-with-cuda-on-ubuntu-on-wsl-2&#34;&gt;Getting started with CUDA on Ubuntu on WSL2&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://docs.nvidia.com/cuda/wsl-user-guide/index.html&#34;&gt;WSL user guide&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.microsoft.com/en-us/windows/win32/direct3d12/gpu-accelerated-training&#34;&gt;GPU acceleration on WSL&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;docker-tools&#34;&gt;Docker tools&lt;/h2&gt;
 &lt;ul&gt;
