@@ -37,6 +37,9 @@ description: News and information about containers
 * [Base image Docker](https://phusion.github.io/baseimage-docker/)
 * Restart Docker: `service docker restart`
 
+## Docker on WSL2
+* [Getting started with CUDA on Ubuntu on WSL2](https://ubuntu.com/blog/getting-started-with-cuda-on-ubuntu-on-wsl-2)
+
 ## Docker tools
 * [Kubler](https://www.elttam.com/blog/kubler/)
 * [Nautilus](https://nautilusdev.com/)
