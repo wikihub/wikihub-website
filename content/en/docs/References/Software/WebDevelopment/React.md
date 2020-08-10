@@ -58,6 +58,7 @@ description: News and information about React development
 * [Netlify Identify](https://github.com/sw-yx/jamstack-hackathon-starter/)
 * [Hasura](https://hasura.io/)
 * [Prisma](https://www.prisma.io/)
+* [Nyxo website](https://github.com/hello-nyxo/nyxo-website)
 
 # Deploy
 
