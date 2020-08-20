@@ -1652,9 +1652,15 @@ Don’t Worry, You Can’t Break It. We Promise.&lt;/li&gt;
       <description>
         
         
-        &lt;ul&gt;
+        &lt;h1 id=&#34;gps-trackers&#34;&gt;GPS Trackers&lt;/h1&gt;
+&lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.ardusimple.com/simplertk2b/&#34;&gt;simpleRTK2B&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.ardusimple.com/store/&#34;&gt;ArduSimple store&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;gps-web-applications&#34;&gt;GPS web applications&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.openhab.org/addons/bindings/gpstracker/&#34;&gt;OpenHAB GPSTracker Binding&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.followmee.com/&#34;&gt;Followmee&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
