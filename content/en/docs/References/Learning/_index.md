@@ -34,6 +34,7 @@ description: Resources for learning
 *   [Notion](https://www.notion.so/)
 *   [Fibery](https://fibery.io/)
 *   [Roam](https://roamresearch.com/)
+*   [Capiche](https://capiche.com/)
 
 # Learning Management System
 
