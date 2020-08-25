@@ -29,9 +29,11 @@ description: Resources for learning
 *   [Introduction to databases](https://github.com/ipeirotis/introduction-to-databases/tree/739f25fd9891523bc949f5aeda2c515f5d2b6858)
 
 # Knowledge Management System
-* [Notion](https://www.notion.so/)
-* [Fibery](https://fibery.io/)
-* [Roam](https://roamresearch.com/)
+
+*   [Awesome knowledge management](https://github.com/brettkromkamp/awesome-knowledge-management)
+*   [Notion](https://www.notion.so/)
+*   [Fibery](https://fibery.io/)
+*   [Roam](https://roamresearch.com/)
 
 # Learning Management System
 
