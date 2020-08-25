@@ -31,6 +31,7 @@ description: Resources for learning
 # Knowledge Management System
 
 *   [Awesome knowledge management](https://github.com/brettkromkamp/awesome-knowledge-management)
+*   [Gardening Tools](https://github.com/MaggieAppleton/digital-gardeners)
 *   [Notion](https://www.notion.so/)
 *   [Fibery](https://fibery.io/)
 *   [Roam](https://roamresearch.com/)
