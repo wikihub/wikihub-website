@@ -35,6 +35,7 @@ description: Resources for learning
 *   [Fibery](https://fibery.io/)
 *   [Roam](https://roamresearch.com/)
 *   [Capiche](https://capiche.com/)
+*   [Gatsby theme brain](https://github.com/aengusmcmillin/gatsby-theme-brain)
 *   [Tiddlywiki](https://tiddlywiki.com/)
 
 # Learning Management System
