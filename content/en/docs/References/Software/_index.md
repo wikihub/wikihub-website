@@ -106,6 +106,7 @@ description: Software resources
 * Remove any external hard drive or flash memory.
 * [Install Windows 10 on Asus ROG](https://rog.asus.com/forum/showthread.php?76993-Guide-How-to-install-windows-8-8-1-10-The-proper-way-(UEFI-based-installation))
 * [Nano text editor for windows](https://files.lhmouse.com/nano-win/)
+* [Fix the Windows 10 time](https://technastic.com/fix-time-between-windows-10-and-ubuntu-in-dual-boot/)
 
 ## ssh
 * [Visual Studio Code](https://code.visualstudio.com/docs/remote/troubleshooting)
