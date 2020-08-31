@@ -7,4 +7,4 @@ description: Resources for writing eBooks
 
 ---
 
-* [Builder book](https://builderbook.org/)
+*   [Builder book](https://builderbook.org/)
