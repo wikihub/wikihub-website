@@ -41,8 +41,3 @@ description: News and information about web development technologies
 * [n – Interactively Manage Your Node.js Versions](https://github.com/tj/n)
 * [The right way to do global npm install without sudo](http://michaelb.org/the-right-way-to-do-global-npm-install-without-sudo/)
 * [Fix the permission error: sudo npm cache clear --force](https://github.com/Microsoft/WSL/issues/14)
-
-# Canada
-* [Province of British Columbia](https://github.com/bcgov)
-
-
