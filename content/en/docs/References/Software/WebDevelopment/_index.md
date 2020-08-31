@@ -21,40 +21,11 @@ description: News and information about web development technologies
 * [Netlify Tutorial - How to build and deploy websites using Netlify](https://www.youtube.com/watch?v=mT5siI19gtc)
 * [Netlify + FreeCodeCamp Notes and Helpful Links](https://gist.github.com/sw-yx/167250684bb3c47edc40ad97b63d1cfb)
 
-# Websites
-* [Jamstack](https://jamstack.org/)
-
 # Build
 * [Snowpack](https://www.snowpack.dev/#what-is-snowpack%3F)
 
 # Hardware
 * [Access USB devices on the web](https://developers.google.com/web/updates/2016/03/access-usb-devices-on-the-web)
-
-# Frontend
-* [Frontend development tools](https://github.com/gamtiq/frontend-tools/blob/master/README.md)
-
-# Graphical Design
-* [Adobe XD](https://www.adobe.com/ca/products/xd.html)
-* [Figma](https://www.figma.com/)
-* [Pencil](https://pencil.evolus.vn/)
-* [Sketch](https://www.sketch.com/)
-
-## CSS
-
-* [Create fast loading, highly readable, and 100% responsive interfaces with as little css as possible](http://tachyons.io/docs/)
-
-## Illustrations
-
-* [Undraw](https://undraw.co/)
-
-## Photos
-
-* [Unsplash](https://unsplash.com/)
-* [Dark Table](https://www.darktable.org/)
-
-## Vector Graphics
-
-* [Vectr](https://vectr.com)
 
 # Tools
 
