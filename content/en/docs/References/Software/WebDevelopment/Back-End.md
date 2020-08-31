@@ -1,6 +1,6 @@
 ---
 
-title: "Back-End"  
+title: "Back-End Development"  
 linkTitle: "Back-End"  
 date: 2020-07-12  
 weight: 70  
@@ -10,7 +10,7 @@ description: News and information about back-end technologies
 
 # API Server
 
-* [Daptin](https://daptin.github.io/daptin/)
+*   [Daptin](https://daptin.github.io/daptin/)
 
 # Content Management Systems
 
