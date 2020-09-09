@@ -52,13 +52,16 @@ description: News and information about React development
 * [Securing Gatsby with Auth0](https://auth0.com/blog/securing-gatsby-with-auth0/)
 * [How to set up GatsbyJS authentication with Auth0](https://www.freecodecamp.org/news/how-to-set-up-gatsbyjs-authentication-with-auth0-d07abdd5a4f4/)
 * [Gatsby authentication with Strapi.io](https://hashinteractive.com/blog/gatsby-authentication-with-strapi-io/)
-* [Gatsby auth with AWS Amplify](https://dev.to/olegchursin/gatsby-auth-with-aws-amplify-pfa)
-* [Gatsby, Netlify and AWS Amplify](https://nyxo.app/gatsby-netlify-amplify-part-1)
 * [useAuth](https://github.com/Swizec/useAuth)
 * [Netlify Identify](https://github.com/sw-yx/jamstack-hackathon-starter/)
 * [Hasura](https://hasura.io/)
 * [Prisma](https://www.prisma.io/)
 * [Nyxo website](https://github.com/hello-nyxo/nyxo-website)
+
+# AWS
+* [Building serverless web applications with react AWS amplify](https://egghead.io/courses/building-serverless-web-applications-with-react-aws-amplify)
+* [Gatsby auth with AWS Amplify](https://dev.to/olegchursin/gatsby-auth-with-aws-amplify-pfa)
+* [Gatsby, Netlify and AWS Amplify](https://nyxo.app/gatsby-netlify-amplify-part-1)
 
 # Deploy
 
