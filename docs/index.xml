@@ -489,7 +489,7 @@
 &lt;/ul&gt;
 &lt;h1 id=&#34;software&#34;&gt;Software&lt;/h1&gt;
 &lt;h2 id=&#34;python&#34;&gt;Python&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/rscada/libcanopen/&#34;&gt;Python lib CANopen&lt;/a&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/rscada/libcanopen/&#34;&gt;Python lib CANopen&lt;/a&gt;&lt;br&gt;
 &lt;a href=&#34;https://elinux.org/Python_Can&#34;&gt;PythonCAN&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;arduino&#34;&gt;Arduino&lt;/h2&gt;
 &lt;ul&gt;
@@ -576,6 +576,10 @@
 &lt;li&gt;&lt;a href=&#34;https://www.seeedstudio.com/OBD-II-CAN-Bus-GPS-Development-Kit-p-2868.html&#34;&gt;OBD-II CAN Bus GPS Development Kit&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.seeedstudio.com/USB-CAN-Analyzer-p-2888.html&#34;&gt;USB CAN Analyzer&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.amazon.ca/dp/B07KF2R2KS/ref=sspa_dk_detail_0&#34;&gt;CAN Bus Analyzer on Amazon.ca&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;agriculture&#34;&gt;Agriculture&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://tractorhacking.github.io/polycan/&#34;&gt;PolyCAN&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;robotics&#34;&gt;Robotics&lt;/h1&gt;
 &lt;ul&gt;
