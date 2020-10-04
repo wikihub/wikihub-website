@@ -29,7 +29,8 @@ description: News and information about software development and necessary tools
 *   [Makefile and Visual Studio Code](https://stackoverflow.com/questions/34937092/why-does-visual-studio-code-insert-spaces-when-editing-a-makefile-and-editor-in)
 
 # Online IDE
-* [CodeSandbox](https://codesandbox.io/)
+
+*   [CodeSandbox](https://codesandbox.io/)
 
 # Continuous Integration
 
@@ -47,9 +48,7 @@ description: News and information about software development and necessary tools
 
 *   [Fisheye](https://www.atlassian.com/software/fisheye)
 
-# Version Control System
-
-## git
+# git
 
 *   [Install the latest git](https://itsfoss.com/install-git-ubuntu/)
 *   [Setting your username in Git](https://help.github.com/articles/setting-your-username-in-git/)
@@ -66,14 +65,17 @@ description: News and information about software development and necessary tools
 *   [Work with multiple SSH connections](https://code.tutsplus.com/tutorials/quick-tip-how-to-work-with-github-and-multiple-accounts--net-22574)
 *   [How to manage multiple GitHub accounts on a single machine with SSH keys](https://www.freecodecamp.org/news/manage-multiple-github-accounts-the-ssh-way-2dadc30ccaca/)
 
-### Submodules
+## Submodules
 
 *   [Git submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules)
 *   Update submodules: `git submodule update --init --recursive`
 
-### Tutorials
+## Tutorials
 
 *   [Understanding git](https://hackernoon.com/understanding-git-fcffd87c15a3)
+
+## Bitbucket
+* [Bitbucket Authentication, 2FA and OAuth](https://github.com/microsoft/Git-Credential-Manager-for-Windows/blob/master/Docs/Bitbucket.md)
 
 # Documentation
 
