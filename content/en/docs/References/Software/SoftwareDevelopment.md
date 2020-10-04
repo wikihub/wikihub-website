@@ -31,6 +31,9 @@ description: News and information about software development and necessary tools
 # Online IDE
 
 *   [CodeSandbox](https://codesandbox.io/)
+*   [Theia](https://github.com/theia-ide/theia-apps)
+*   [StackBlitz](https://stackblitz.com/)
+*   [GitPod](https://www.gitpod.io/)
 
 # Continuous Integration
 
@@ -75,7 +78,8 @@ description: News and information about software development and necessary tools
 *   [Understanding git](https://hackernoon.com/understanding-git-fcffd87c15a3)
 
 ## Bitbucket
-* [Bitbucket Authentication, 2FA and OAuth](https://github.com/microsoft/Git-Credential-Manager-for-Windows/blob/master/Docs/Bitbucket.md)
+
+*   [Bitbucket Authentication, 2FA and OAuth](https://github.com/microsoft/Git-Credential-Manager-for-Windows/blob/master/Docs/Bitbucket.md)
 
 # Documentation
 
