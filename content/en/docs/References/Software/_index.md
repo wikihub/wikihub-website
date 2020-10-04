@@ -124,6 +124,6 @@ description: Software resources
 
 *   [Convert WSL1 to WSL2](https://ericsysmin.com/2019/07/13/converting-wsl-1-operating-systems-to-wsl-2-on-windows/)
 
-## Commands
+## PowerShell
 
-* Get-Command ssh
+*   Get-Command ssh
