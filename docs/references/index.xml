@@ -502,7 +502,7 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://ericsysmin.com/2019/07/13/converting-wsl-1-operating-systems-to-wsl-2-on-windows/&#34;&gt;Convert WSL1 to WSL2&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;commands-1&#34;&gt;Commands&lt;/h2&gt;
+&lt;h2 id=&#34;powershell&#34;&gt;PowerShell&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Get-Command ssh&lt;/li&gt;
 &lt;/ul&gt;
