@@ -1134,6 +1134,7 @@ Don’t Worry, You Can’t Break It. We Promise.&lt;/li&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/xtuple/nvm&#34;&gt;Install Node.js with NVM&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://tecadmin.net/install-nodejs-with-nvm/&#34;&gt;Install Node.js with NVM&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://phoenixnap.com/kb/update-node-js-version&#34;&gt;Upgrade Node.js with NVM&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/nvm-sh/nvm/issues/43&#34;&gt;Run node as sudo: &lt;code&gt;alias sudo=&#39;sudo env PATH=$PATH:$NVM_BIN&#39;&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/tj/n&#34;&gt;n – Interactively Manage Your Node.js Versions&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://michaelb.org/the-right-way-to-do-global-npm-install-without-sudo/&#34;&gt;The right way to do global npm install without sudo&lt;/a&gt;&lt;/li&gt;
