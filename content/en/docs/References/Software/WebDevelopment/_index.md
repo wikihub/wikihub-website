@@ -43,6 +43,7 @@ description: News and information about web development technologies
 
 * [Install Node.js with NVM](https://github.com/xtuple/nvm)
 * [Install Node.js with NVM](https://tecadmin.net/install-nodejs-with-nvm/)
+* [Upgrade Node.js with NVM](https://phoenixnap.com/kb/update-node-js-version)
 * [Run node as sudo: `alias sudo='sudo env PATH=$PATH:$NVM_BIN'`](https://github.com/nvm-sh/nvm/issues/43)
 * [n – Interactively Manage Your Node.js Versions](https://github.com/tj/n)
 * [The right way to do global npm install without sudo](http://michaelb.org/the-right-way-to-do-global-npm-install-without-sudo/)
