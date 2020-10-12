@@ -2300,22 +2300,6 @@ Don’t Worry, You Can’t Break It. We Promise.&lt;/li&gt;
     </item>
     
     <item>
-      <title>Docs: Serverless</title>
-      <link>https://wikihub.github.io/docs/references/software/serverless/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://wikihub.github.io/docs/references/software/serverless/</guid>
-      <description>
-        
-        
-        &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.openfaas.com/&#34;&gt;OpenFaaS&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
       <title>Docs: Web Applications</title>
       <link>https://wikihub.github.io/docs/references/software/webdevelopment/apps/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -2660,6 +2644,56 @@ Don’t Worry, You Can’t Break It. We Promise.&lt;/li&gt;
 &lt;h1 id=&#34;sms&#34;&gt;SMS&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://aws.amazon.com/blogs/compute/building-a-serverless-weather-bot-with-two-way-sms-aws-sam-and-aws-lambda/&#34;&gt;Building a serverless weather bot with two-way SMS, AWS SAM, and AWS Lambda&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Front-End Development</title>
+      <link>https://wikihub.github.io/docs/references/software/webdevelopment/front-end/</link>
+      <pubDate>Mon, 31 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/software/webdevelopment/front-end/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;frontend&#34;&gt;Frontend&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/gamtiq/frontend-tools/blob/master/README.md&#34;&gt;Frontend development tools&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/BuilderIO/builder&#34;&gt;BuilderIO&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;graphical-design&#34;&gt;Graphical Design&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.adobe.com/ca/products/xd.html&#34;&gt;Adobe XD&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.figma.com/&#34;&gt;Figma&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pencil.evolus.vn/&#34;&gt;Pencil&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.sketch.com/&#34;&gt;Sketch&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;css&#34;&gt;CSS&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://tachyons.io/docs/&#34;&gt;Create fast loading, highly readable, and 100% responsive interfaces with as little css as possible&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;experts&#34;&gt;Experts&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://jgthms.com/&#34;&gt;Jeremy Thomas&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;illustrations&#34;&gt;Illustrations&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://undraw.co/&#34;&gt;Undraw&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;photos&#34;&gt;Photos&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://unsplash.com/&#34;&gt;Unsplash&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.darktable.org/&#34;&gt;Dark Table&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;vector-graphics&#34;&gt;Vector Graphics&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://vectr.com&#34;&gt;Vectr&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;canada&#34;&gt;Canada&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/bcgov&#34;&gt;Province of British Columbia&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
