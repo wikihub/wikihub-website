@@ -117,6 +117,7 @@
 &lt;h1 id=&#34;sms&#34;&gt;SMS&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://aws.amazon.com/blogs/compute/building-a-serverless-weather-bot-with-two-way-sms-aws-sam-and-aws-lambda/&#34;&gt;Building a serverless weather bot with two-way SMS, AWS SAM, and AWS Lambda&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/think-serverless/building-a-serverless-sms-sender-in-10-minutes-44e1c9ce326e&#34;&gt;Building a serverless SMS sender in 10 minutes&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
