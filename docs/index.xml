@@ -2653,7 +2653,11 @@ Don’t Worry, You Can’t Break It. We Promise.&lt;/li&gt;
       <description>
         
         
-        &lt;h1 id=&#34;sms&#34;&gt;SMS&lt;/h1&gt;
+        &lt;h1 id=&#34;infrastructure&#34;&gt;Infrastructure&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.openfaas.com/&#34;&gt;OpenFaaS&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;sms&#34;&gt;SMS&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://aws.amazon.com/blogs/compute/building-a-serverless-weather-bot-with-two-way-sms-aws-sam-and-aws-lambda/&#34;&gt;Building a serverless weather bot with two-way SMS, AWS SAM, and AWS Lambda&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
