@@ -115,12 +115,6 @@ description: Software resources
 *   [Nano text editor for windows](https://files.lhmouse.com/nano-win/)
 *   [Fix the Windows 10 time](https://technastic.com/fix-time-between-windows-10-and-ubuntu-in-dual-boot/)
 
-## ssh
-
-*   [Visual Studio Code](https://code.visualstudio.com/docs/remote/troubleshooting)
-*   [Set-Service ssh-agent -StartupType Manual](https://github.com/lukesampson/pshazz/issues/70)
-*   [OpenSSH key management](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_keymanagement)
-*   [ssh-copy-id](https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys-on-ubuntu-1804)
 ## WSL
 
 *   [Convert WSL1 to WSL2](https://ericsysmin.com/2019/07/13/converting-wsl-1-operating-systems-to-wsl-2-on-windows/)
