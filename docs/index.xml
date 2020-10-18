@@ -2308,8 +2308,10 @@ Don’t Worry, You Can’t Break It. We Promise.&lt;/li&gt;
       <description>
         
         
-        &lt;h1 id=&#34;ssh&#34;&gt;ssh&lt;/h1&gt;
+        &lt;h1 id=&#34;sshhttpswwwsshcom&#34;&gt;&lt;a href=&#34;https://www.ssh.com&#34;&gt;ssh&lt;/a&gt;&lt;/h1&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ssh.com/ssh/keygen&#34;&gt;Generate ssh key for a remote computer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://help.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent&#34;&gt;Generating a new SSH key and adding it to the ssh-agent&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://code.visualstudio.com/docs/remote/troubleshooting&#34;&gt;Visual Studio Code&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/lukesampson/pshazz/issues/70&#34;&gt;Set-Service ssh-agent -StartupType Manual&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_keymanagement&#34;&gt;OpenSSH key management&lt;/a&gt;&lt;/li&gt;
