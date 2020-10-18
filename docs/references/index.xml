@@ -435,11 +435,6 @@
 &lt;li&gt;&lt;a href=&#34;https://www.thomas-krenn.com/en/wiki/Configure_Locales_in_Ubuntu&#34;&gt;locale&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://linuxhint.com/create_symbolic_link_ubuntu/&#34;&gt;Symbolic link&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;sshhttpswwwsshcom&#34;&gt;&lt;a href=&#34;https://www.ssh.com&#34;&gt;ssh&lt;/a&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.ssh.com/ssh/keygen&#34;&gt;Generate ssh key for a remote computer&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://help.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent&#34;&gt;Generating a new SSH key and adding it to the ssh-agent&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
 &lt;h2 id=&#34;log&#34;&gt;log&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;less /var/log/syslog&lt;/li&gt;
