@@ -34,11 +34,14 @@ description: Resources about development environments
 
 *   [Fisheye](https://www.atlassian.com/software/fisheye)
 
-# Development Environments
+# Cloud Development Environments
 
 *   [Koding](https://www.koding.com/)
+
+# Local Development Environments
+
+*   [ADE](https://readthedocs.org/projects/ade-cli/)
 
 # Package Management
 
 *   [Homebrew](https://docs.brew.sh/Homebrew-on-Linux)
-
