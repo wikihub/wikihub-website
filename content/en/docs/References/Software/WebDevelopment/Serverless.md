@@ -12,6 +12,10 @@ description: News and information about serverless technologies
 
 *   [OpenFaaS](https://www.openfaas.com/)
 
+# Python
+
+*   [Zappa](https://github.com/Miserlou/Zappa)
+
 # SMS
 
 *   [Building a serverless weather bot with two-way SMS, AWS SAM, and AWS Lambda](https://aws.amazon.com/blogs/compute/building-a-serverless-weather-bot-with-two-way-sms-aws-sam-and-aws-lambda/)
@@ -19,8 +23,8 @@ description: News and information about serverless technologies
 
 # GPS
 
-* [Creating a serverless GPS monitoring and alerting solution](https://aws.amazon.com/blogs/publicsector/creating-a-serverless-gps-monitoring-and-alerting-solution/)
-* [Serverless GPS monitoring and alerting multi device](https://github.com/DanGOTO100/Serverless-GPS-monitoring-and-alerting-Multi-device)
-* [How I built a (tiny) real-time Telematics application on AWS](https://towardsdatascience.com/how-i-built-a-tiny-real-time-telematics-application-on-aws-a9956f5afe65)
-* [GPS tracking with LoRaWAN and AWS](https://theiotmagazine.com/gps-tracking-with-lorawan-and-aws-153cb03b13f6)
-* [How to Build Your Personal Serverless Location Tracking System with AWS Lambda](https://www.missioncloud.com/blog/how-to-build-your-personal-serverless-location-tracking-system-with-aws-lambda)
+*   [Creating a serverless GPS monitoring and alerting solution](https://aws.amazon.com/blogs/publicsector/creating-a-serverless-gps-monitoring-and-alerting-solution/)
+*   [Serverless GPS monitoring and alerting multi device](https://github.com/DanGOTO100/Serverless-GPS-monitoring-and-alerting-Multi-device)
+*   [How I built a (tiny) real-time Telematics application on AWS](https://towardsdatascience.com/how-i-built-a-tiny-real-time-telematics-application-on-aws-a9956f5afe65)
+*   [GPS tracking with LoRaWAN and AWS](https://theiotmagazine.com/gps-tracking-with-lorawan-and-aws-153cb03b13f6)
+*   [How to Build Your Personal Serverless Location Tracking System with AWS Lambda](https://www.missioncloud.com/blog/how-to-build-your-personal-serverless-location-tracking-system-with-aws-lambda)
