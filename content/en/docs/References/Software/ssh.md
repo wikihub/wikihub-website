@@ -7,8 +7,10 @@ description: Resources about ssh connections
 
 ---
 
-# ssh
+# [ssh](https://www.ssh.com)
 
+*   [Generate ssh key for a remote computer](https://www.ssh.com/ssh/keygen)
+*   [Generating a new SSH key and adding it to the ssh-agent](https://help.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
 *   [Visual Studio Code](https://code.visualstudio.com/docs/remote/troubleshooting)
 *   [Set-Service ssh-agent -StartupType Manual](https://github.com/lukesampson/pshazz/issues/70)
 *   [OpenSSH key management](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_keymanagement)
