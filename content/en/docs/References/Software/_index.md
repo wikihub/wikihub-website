@@ -57,11 +57,6 @@ description: Software resources
 *   [locale](https://www.thomas-krenn.com/en/wiki/Configure_Locales_in_Ubuntu)
 *   [Symbolic link](https://linuxhint.com/create_symbolic_link_ubuntu/)
 
-### [ssh](https://www.ssh.com)
-
-*   [Generate ssh key for a remote computer](https://www.ssh.com/ssh/keygen)
-*   [Generating a new SSH key and adding it to the ssh-agent](https://help.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
-
 ## log
 
 *   less /var/log/syslog
