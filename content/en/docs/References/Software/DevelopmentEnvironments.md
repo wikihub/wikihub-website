@@ -45,6 +45,7 @@ description: Resources about development environments
 # Development Containers
 
 *   [Binder](https://mybinder.readthedocs.io/en/latest/index.html)
+*   [Use a Dockerfile for your Binder repository](https://mybinder.readthedocs.io/en/latest/tutorials/dockerfile.html)
 
 # Package Management
 
