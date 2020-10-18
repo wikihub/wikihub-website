@@ -498,6 +498,7 @@
 &lt;li&gt;&lt;a href=&#34;https://code.visualstudio.com/docs/remote/troubleshooting&#34;&gt;Visual Studio Code&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/lukesampson/pshazz/issues/70&#34;&gt;Set-Service ssh-agent -StartupType Manual&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_keymanagement&#34;&gt;OpenSSH key management&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys-on-ubuntu-1804&#34;&gt;ssh-copy-id&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;wsl&#34;&gt;WSL&lt;/h2&gt;
 &lt;ul&gt;
