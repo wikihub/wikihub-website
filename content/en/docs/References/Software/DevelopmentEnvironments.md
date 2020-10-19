@@ -35,9 +35,20 @@ description: Resources about development environments
 
 *   [Fisheye](https://www.atlassian.com/software/fisheye)
 
+# Develop Environments
+* [Lando](https://github.com/lando/lando)
+* [Phase2](https://github.com/phase2)
+* [Docksal](https://github.com/docksal/docksal)
+* [Ballast](https://github.com/digitalpulp/ballast)
+* [Docker development tools](https://www.docker.com/products/developer-tools)
+* [Create a reproducible dev environment with VS Code](https://medium.com/swlh/create-a-reproducible-dev-environment-with-vs-code-fd89285644da)
+* [Visual Studio: developing inside a Container](https://code.visualstudio.com/docs/remote/containers)
+
+## [ADE](https://ade-cli.readthedocs.io/en/latest/#)
+* Fixing an error: `sudo apt-get install musl` and `sudo ln -s /lib/ld-musl-x86_64.so.1 /lib/libc.musl-x86_64.so.1`
+
 # Local Development Environments
 
-*   [ADE](https://readthedocs.org/projects/ade-cli/)
 *   [Nanobox](https://nanobox.io/app-development-environment)
 *   [Koding](https://www.koding.com/)
 *   [MLHUB](https://mlhub.ai/)
