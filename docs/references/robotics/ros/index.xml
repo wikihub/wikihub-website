@@ -85,6 +85,7 @@
 &lt;li&gt;&lt;a href=&#34;https://github.com/aws-robotics/aws-robomaker-sample-application-deepracer&#34;&gt;Deep Racer&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/colcon/colcon-bundle/blob/master/BUNDLE_FORMAT.md&#34;&gt;Colcon Bundle Format&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/jerwallace/aws-robomaker-sample-apps-gzweb&#34;&gt;AWS RoboMaker sample applications Gzweb&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pages.awscloud.com/Deploying-Robotic-Applications-Using-Machine-Learning-with-Nvidia-JetBot-and-AWS-RoboMaker_2019_0711-RBT_OD.html&#34;&gt;Deploying Robotic Applications Using Machine Learning with Nvidia JetBot and AWS RoboMaker&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;build-and-bundle-ros1-projects-locally-using-colcon&#34;&gt;Build and bundle ROS1 projects locally using colcon&lt;/h2&gt;
 &lt;p&gt;In this example, we will build and bundle the hello world simulation workspace from AWS RoboMaker:&lt;/p&gt;
