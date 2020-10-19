@@ -47,6 +47,10 @@ description: Resources about development environments
 *   [Binder](https://mybinder.readthedocs.io/en/latest/index.html)
 *   [Use a Dockerfile for your Binder repository](https://mybinder.readthedocs.io/en/latest/tutorials/dockerfile.html)
 
+# Development Platform
+
+*   [Building a Platform for Duct Tape](https://www.zymergen.com/blog/technology/building-a-platform-for-duct-tape/)
+
 # Package Management
 
 *   [Homebrew](https://docs.brew.sh/Homebrew-on-Linux)
