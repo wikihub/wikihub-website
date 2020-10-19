@@ -35,6 +35,10 @@ description: Resources about development environments
 
 *   [Fisheye](https://www.atlassian.com/software/fisheye)
 
+
+# Reproducible Development Environments
+* [Reproducible Development Environments](https://garbas.si/2015/reproducible-development-environments.html)
+
 # Develop Environments
 * [Lando](https://github.com/lando/lando)
 * [Phase2](https://github.com/phase2)
