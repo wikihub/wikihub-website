@@ -21,6 +21,7 @@ description: News and information about containers
 * Fixing an error: `sudo apt-get install musl` and `sudo ln -s /lib/ld-musl-x86_64.so.1 /lib/libc.musl-x86_64.so.1`
 
 # Docker
+* [Play with Docker](https://labs.play-with-docker.com/)
 * [Install Docker on Ubuntu](https://docs.docker.com/engine/install/ubuntu/)
 * [Dockerfile reference](https://docs.docker.com/engine/reference/builder/)
 * [Develop with Docker](https://docs.docker.com/develop/)
