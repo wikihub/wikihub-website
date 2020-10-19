@@ -270,25 +270,7 @@
       <description>
         
         
-        &lt;h1 id=&#34;reproducible-development-environments&#34;&gt;Reproducible Development Environments&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://garbas.si/2015/reproducible-development-environments.html&#34;&gt;Reproducible Development Environments&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;develop-environments&#34;&gt;Develop Environments&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/lando/lando&#34;&gt;Lando&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/phase2&#34;&gt;Phase2&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/docksal/docksal&#34;&gt;Docksal&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/digitalpulp/ballast&#34;&gt;Ballast&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.docker.com/products/developer-tools&#34;&gt;Docker development tools&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://medium.com/swlh/create-a-reproducible-dev-environment-with-vs-code-fd89285644da&#34;&gt;Create a reproducible dev environment with VS Code&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://code.visualstudio.com/docs/remote/containers&#34;&gt;Visual Studio: developing inside a Container&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;adehttpsade-clireadthedocsioenlatest&#34;&gt;&lt;a href=&#34;https://ade-cli.readthedocs.io/en/latest/#&#34;&gt;ADE&lt;/a&gt;&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Fixing an error: &lt;code&gt;sudo apt-get install musl&lt;/code&gt; and &lt;code&gt;sudo ln -s /lib/ld-musl-x86_64.so.1 /lib/libc.musl-x86_64.so.1&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;docker&#34;&gt;Docker&lt;/h1&gt;
+        &lt;h1 id=&#34;docker&#34;&gt;Docker&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://labs.play-with-docker.com/&#34;&gt;Play with Docker&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://docs.docker.com/engine/install/ubuntu/&#34;&gt;Install Docker on Ubuntu&lt;/a&gt;&lt;/li&gt;
