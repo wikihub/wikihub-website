@@ -42,6 +42,7 @@ description: News and information about web applications for ROS-based robots
 *   [Deep Racer](https://github.com/aws-robotics/aws-robomaker-sample-application-deepracer)
 *   [Colcon Bundle Format](https://github.com/colcon/colcon-bundle/blob/master/BUNDLE_FORMAT.md)
 *   [AWS RoboMaker sample applications Gzweb](https://github.com/jerwallace/aws-robomaker-sample-apps-gzweb)
+*   [Deploying Robotic Applications Using Machine Learning with Nvidia JetBot and AWS RoboMaker](https://pages.awscloud.com/Deploying-Robotic-Applications-Using-Machine-Learning-with-Nvidia-JetBot-and-AWS-RoboMaker_2019_0711-RBT_OD.html)
 
 ## Build and bundle ROS1 projects locally using colcon
 
