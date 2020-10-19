@@ -40,6 +40,7 @@ description: Resources about development environments
 *   [ADE](https://readthedocs.org/projects/ade-cli/)
 *   [Nanobox](https://nanobox.io/app-development-environment)
 *   [Koding](https://www.koding.com/)
+*   [MLHUB](https://mlhub.ai/)
 
 # Development Containers
 
