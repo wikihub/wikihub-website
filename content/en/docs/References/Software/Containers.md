@@ -5,20 +5,6 @@ date: 2019-04-11
 weight: 25
 description: News and information about containers
 ---
-# Reproducible Development Environments
-* [Reproducible Development Environments](https://garbas.si/2015/reproducible-development-environments.html)
-
-# Develop Environments
-* [Lando](https://github.com/lando/lando)
-* [Phase2](https://github.com/phase2)
-* [Docksal](https://github.com/docksal/docksal)
-* [Ballast](https://github.com/digitalpulp/ballast)
-* [Docker development tools](https://www.docker.com/products/developer-tools)
-* [Create a reproducible dev environment with VS Code](https://medium.com/swlh/create-a-reproducible-dev-environment-with-vs-code-fd89285644da)
-* [Visual Studio: developing inside a Container](https://code.visualstudio.com/docs/remote/containers)
-
-## [ADE](https://ade-cli.readthedocs.io/en/latest/#)
-* Fixing an error: `sudo apt-get install musl` and `sudo ln -s /lib/ld-musl-x86_64.so.1 /lib/libc.musl-x86_64.so.1`
 
 # Docker
 * [Play with Docker](https://labs.play-with-docker.com/)
