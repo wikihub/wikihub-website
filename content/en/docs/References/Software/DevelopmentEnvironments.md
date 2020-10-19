@@ -46,6 +46,7 @@ description: Resources about development environments
 
 *   [Binder](https://mybinder.readthedocs.io/en/latest/index.html)
 *   [Use a Dockerfile for your Binder repository](https://mybinder.readthedocs.io/en/latest/tutorials/dockerfile.html)
+*   [repo2docker](https://repo2docker.readthedocs.io/en/latest/)
 
 # Development Platform
 
