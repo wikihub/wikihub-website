@@ -29,6 +29,7 @@ description: Resources about development environments
 *   Gitlab pipelines
     *   [Predefined variables](https://docs.gitlab.com/ee/ci/variables/predefined_variables.html)
     *   [Install Gitlab Runner on Linux](https://docs.gitlab.com/runner/install/linux-repository.html)
+*   [Toast](https://github.com/stepchowfun/toast)
 
 # Code review
 
