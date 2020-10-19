@@ -16,6 +16,7 @@ description: News and information about web applications for ROS-based robots
 *   [Streamlit](https://www.streamlit.io/)
 *   [Robot Web Tools](http://robotwebtools.org/)
 *   [Webviz](https://github.com/cruise-automation/webviz)
+*   [Gzweb](http://gazebosim.org/gzweb.html)
 *   [ros-rviz](https://github.com/jstnhuang/ros-rviz)
 *   [Zethus](https://github.com/rapyuta-robotics/zethus)
 *   [Deck.gl](https://deck.gl/#/)
