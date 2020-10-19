@@ -34,13 +34,11 @@ description: Resources about development environments
 
 *   [Fisheye](https://www.atlassian.com/software/fisheye)
 
-# Cloud Development Environments
-
-*   [Koding](https://www.koding.com/)
-
 # Local Development Environments
 
 *   [ADE](https://readthedocs.org/projects/ade-cli/)
+*   [Nanobox](https://nanobox.io/app-development-environment)
+*   [Koding](https://www.koding.com/)
 
 # Development Containers
 
