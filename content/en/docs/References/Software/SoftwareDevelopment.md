@@ -54,6 +54,10 @@ description: News and information about software development and necessary tools
 
 *   [Bitbucket Authentication, 2FA and OAuth](https://github.com/microsoft/Git-Credential-Manager-for-Windows/blob/master/Docs/Bitbucket.md)
 
+# Makefile
+
+* [Makefile for lazy developers](https://localheinz.com/blog/2018/01/24/makefile-for-lazy-developers/)
+
 # Documentation
 
 *   [Docusaurus](https://docusaurus.io/en/)
