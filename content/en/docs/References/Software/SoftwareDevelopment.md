@@ -56,7 +56,8 @@ description: News and information about software development and necessary tools
 
 # Makefile
 
-* [Makefile for lazy developers](https://localheinz.com/blog/2018/01/24/makefile-for-lazy-developers/)
+*   [Makefile for lazy developers](https://localheinz.com/blog/2018/01/24/makefile-for-lazy-developers/)
+*   [Make Makefile](https://wilsonmar.github.io/make-makefile/)
 
 # Documentation
 
