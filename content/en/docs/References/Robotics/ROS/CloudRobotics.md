@@ -17,6 +17,7 @@ description: News and information about web applications for ROS-based robots
 *   [Robot Web Tools](http://robotwebtools.org/)
 *   [Webviz](https://github.com/cruise-automation/webviz)
 *   [Gzweb](http://gazebosim.org/gzweb.html)
+*   [Jupyter-ROS](https://jupyter-ros.readthedocs.io/en/latest/)
 *   [ros-rviz](https://github.com/jstnhuang/ros-rviz)
 *   [Zethus](https://github.com/rapyuta-robotics/zethus)
 *   [Deck.gl](https://deck.gl/#/)
