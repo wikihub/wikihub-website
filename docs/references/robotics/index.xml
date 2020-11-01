@@ -1065,6 +1065,7 @@
 &lt;li&gt;&lt;a href=&#34;https://medium.com/@beta_b0t/how-to-setup-ros-with-python-3-44a69ca36674&#34;&gt;How to setup ROS with Python 3&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.miguelalonsojr.com/blog/robotics/ros/python3/2019/08/20/ros-melodic-python-3-build.html&#34;&gt;ROS Melodic Python 3&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/iansoliv/Docker/tree/master/ubuntu-ros-melodic-python3&#34;&gt;Docker ROS Melodic Python 3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/disorn-inc/ROS-melodic-python3-Opencv-4.1.1-CUDA&#34;&gt;ROS melodic with python3&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;ros2&#34;&gt;ROS2&lt;/h1&gt;
 &lt;ul&gt;
