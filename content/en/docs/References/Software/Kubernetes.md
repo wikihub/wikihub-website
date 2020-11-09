@@ -32,6 +32,11 @@ description: News and information about Kubernetes
 
 # Tools
 
+*   [kubectl](https://kubernetes.io/docs/reference/kubectl/overview/)
+*   [Inlets](https://docs.inlets.dev/)
+*   [kubefwd](https://kubefwd.com/)
+*   [Okteto](https://okteto.com/)
+*   [Forge](https://forge.sh/)
 *   [Gardener](https://gardener.cloud/)
 *   [Garden](https://garden.io/)
 *   [Draft](https://draft.sh/)
