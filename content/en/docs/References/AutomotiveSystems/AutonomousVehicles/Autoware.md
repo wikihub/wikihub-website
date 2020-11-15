@@ -45,6 +45,8 @@ description: News and resources on Autoware
 * [AutowareAuto How to](https://autowarefoundation.gitlab.io/autoware.auto/AutowareAuto/howto.html)
 * [Autonomy hardware workgroup](https://gitlab.com/autowarefoundation/autoware-foundation/-/wikis/Autonomy-hardware-working-group)
 * [Autonomy software working group](https://gitlab.com/autowarefoundation/autoware-foundation/-/wikis/Autonomy-Software-working-group)
+* [Autonomous valet parking 2020](https://www.autoware.org/post/autonomous-valet-parking-2020)
+* [Autoware.auto on Gitlab](https://gitlab.com/autowarefoundation/autoware.auto/AutowareAuto)
 
 ## Vehicle Interface
 * [Collect use cases for vehicle interface](https://gitlab.com/autowarefoundation/autoware.auto/AutowareAuto/-/issues/85)
