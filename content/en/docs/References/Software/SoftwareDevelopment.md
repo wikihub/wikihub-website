@@ -74,11 +74,6 @@ description: News and information about software development and necessary tools
 *   [VuePress](https://vuepress.vuejs.org/)
 *   [ReLaXed](https://github.com/RelaxedJS/ReLaXed)
 
-## Private static websites
-
-*   [Private static website](https://github.com/TehShrike/private-static-website)
-*   [Just Login](http://justlogin.xyz/)
-
 # Design
 
 *   [Haiko](https://www.haiku.ai/)
