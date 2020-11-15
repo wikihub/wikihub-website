@@ -7,6 +7,9 @@ weight: 70
 description: News and information about authentication
 
 ---
+
+* [Ooth](https://nmaro.github.io/ooth/)
+
 # React
 
 *   [useAuth](https://github.com/Swizec/useAuth)
