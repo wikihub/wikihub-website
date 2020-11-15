@@ -190,10 +190,7 @@
       <description>
         
         
-        &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://nmaro.github.io/ooth/&#34;&gt;Ooth&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;react&#34;&gt;React&lt;/h1&gt;
+        &lt;h1 id=&#34;react&#34;&gt;React&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/Swizec/useAuth&#34;&gt;useAuth&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/sw-yx/jamstack-hackathon-starter/&#34;&gt;Netlify Identify&lt;/a&gt;&lt;/li&gt;
