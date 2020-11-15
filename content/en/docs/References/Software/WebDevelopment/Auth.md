@@ -16,3 +16,5 @@ description: News and information about authentication
 # Static Websites
 
 *   [Authenticated static websites on GCS](https://medium.com/@robwitoff/authenticated-static-sites-on-gcs-2013bf549679)
+*   [Private static website](https://github.com/TehShrike/private-static-website)
+*   [Just Login](http://justlogin.xyz/)
