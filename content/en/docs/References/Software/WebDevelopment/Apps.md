@@ -31,10 +31,6 @@ description: Resources on mobile application development
 ## Examples
 * [Vercel Examples](https://github.com/vercel/vercel/tree/master/examples)
 
-
-# Authentication
-* [Ooth](https://nmaro.github.io/ooth/)
-
 # Search
 
 *   [Algolia](https://www.algolia.com/)
