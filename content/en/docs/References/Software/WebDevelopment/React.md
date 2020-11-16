@@ -25,6 +25,10 @@ description: News and information about React development
 *   [Rebass](http://jxnblk.com/rebass/) - Configurable React Stateless Functional UI Components.
 *   [Blitz.js](https://blitzjs.com/)
 
+
+# Documentation
+* [React: Getting Started](https://reactjs.org/docs/getting-started.html)
+
 # React Native
 
 *   [Stegappasaurus](https://gitlab.com/hmajid2301/stegappasaurus/-/tree/master)
