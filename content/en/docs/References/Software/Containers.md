@@ -24,6 +24,7 @@ description: News and information about containers
 * [Base image Docker](https://phusion.github.io/baseimage-docker/)
 * Restart Docker: `service docker restart`
 * [How to keep docker containers running](http://bigdatums.net/2017/11/07/how-to-keep-docker-containers-running/)
+* [Changing the entrypoint](https://docs.docker.com/engine/reference/run/#entrypoint-default-command-to-execute-at-runtime)
 
 ## Docker on WSL2
 * [Getting started with CUDA on Ubuntu on WSL2](https://ubuntu.com/blog/getting-started-with-cuda-on-ubuntu-on-wsl-2)
