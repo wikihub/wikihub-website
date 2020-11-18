@@ -11,6 +11,10 @@ description: News and information about ROS and its applications
 - [Robot Cal Tools](https://github.com/Jmeyer1292/robot_cal_tools)
 - [Roboacademy](https://robocademy.com/)
 
+# IoT
+
+* [Pyros: Distributed Python Framework](http://www.pyros.info/)
+
 # ROS Packages
 
 * [Autonomous patrolling](https://github.com/strands-project/autonomous_patrolling)
