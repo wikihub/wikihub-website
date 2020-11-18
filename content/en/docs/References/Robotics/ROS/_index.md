@@ -99,6 +99,7 @@ description: News and information about ROS and its applications
 # ROS Projects
 
 * [Iliad](https://github.com/LCAS/iliad)
+* [SecurBot](https://github.com/introlab/securbot)
 
 # Install 
 
