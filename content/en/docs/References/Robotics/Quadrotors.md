@@ -9,9 +9,12 @@ description: Resources for quadrotors
 * [PX4](https://github.com/PX4)
 * [Ardupilot](https://ardupilot.org/dev/index.html)
 * [ProfiCNC](http://www.proficnc.com/)
-* [CubePilot](https://docs.cubepilot.org/user-guides/)
 * [Hex](http://www.hex.aero/)
 * [RobotShop drone flight controller](https://www.robotshop.com/ca/en/uav-drone-flight-controllers.html) 
+
+# Pixhawk
+* [CubePilot](https://www.cubepilot.org/#/home)
+   * [CubePilot user guides](https://docs.cubepilot.org/user-guides/)
 
 # Drones
 * [DJI Mavic Pro with 4k camera](https://www.bestbuy.ca/en-ca/product/dji-mavic-pro-quadcopter-drone-with-4k-uhd-camera-controller-fly-more-bundle-platinum-bilingual/11624405)
