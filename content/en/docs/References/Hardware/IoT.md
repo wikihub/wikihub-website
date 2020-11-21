@@ -15,6 +15,10 @@ description: News and information about Internet of Things and its applications
 * [MangOH](https://mangoh.io/)
 * [Libelium](http://www.libelium.com)
 
+# Open Source
+
+* [Legato](https://legato.io/)
+
 # IoT Courses
 
 * [IoT Open Eu](http://iot-open.eu/)
