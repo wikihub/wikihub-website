@@ -726,51 +726,6 @@
     </item>
     
     <item>
-      <title>Docs: Ethernet</title>
-      <link>https://wikihub.github.io/docs/references/hardware/ethernet/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://wikihub.github.io/docs/references/hardware/ethernet/</guid>
-      <description>
-        
-        
-        &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://techwiser.com/how-to-connect-pc-to-pc-lan-cable/&#34;&gt;How to connect PC to PC using a LAN cable&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Run &lt;code&gt;sudo apt install avahi-daemon libnss-mdns&lt;/code&gt; in your VM, and make sure that your networking config is in ‘Bridge Mode’ to get .local addressing working.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;wifi-adapters&#34;&gt;WiFi Adapters&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/cilynx/rtl88x2bu&#34;&gt;rtl88x2bu driver updated for current kernels&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;routers&#34;&gt;Routers&lt;/h1&gt;
-&lt;h2 id=&#34;linksys&#34;&gt;Linksys&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.linksysinfo.org/index.php?threads/asuswrt-merlin-build-384-5-or-later-on-linksys-ea6900-or-ea6700.74209/&#34;&gt;AsusWRT Merlin build 384.5 or later on Linksys EA6900 or EA6700&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.linksysinfo.org/index.php?threads/guide-flash-linksys-ea6300v1-ea6400-ea6500v2-ea6700-ea6900v1-0-1-1-with-tomato.73877/&#34;&gt;How to flash Linksys EA6300v1, EA6400, EA6500v2, EA6700, EA6900v1.0/1.1 with Tomato&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sourceforge.net/projects/officiallinksysfirmware/files/ea6900/v1/&#34;&gt;Linsys EA6900 official firmwares&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://cfeditor.feng.si/&#34;&gt;CFEditor&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.asuswrt-merlin.net/&#34;&gt;AsusWRT-Merlin&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;sockets&#34;&gt;Sockets&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/facundofarias/awesome-websockets/blob/master/README.md&#34;&gt;Awesome web sockets&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.gnu.org/software/libc/manual/html_node/Sockets.html&#34;&gt;GNU C language sockets&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://realpython.com/python-sockets/&#34;&gt;Real Python sockets&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://docs.python.org/3/howto/sockets.html&#34;&gt;Python sockets&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;socket-tools&#34;&gt;Socket tools&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://plantain-00.github.io/ws-tool/&#34;&gt;Web socket tool&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;embedded-ethernet&#34;&gt;Embedded Ethernet&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://direct.nuvoton.com/en/m487-ethernet-series/&#34;&gt;nuvoTon&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
       <title>Docs: Fleet Management</title>
       <link>https://wikihub.github.io/docs/references/robotics/hmi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -889,6 +844,51 @@
 &lt;h1 id=&#34;automotive&#34;&gt;Automotive&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.omgextras.com/rickshaw-king-motor-60V-800W-p/600-sa400-370-24-01.htm&#34;&gt;Rickshaw King motor&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Network</title>
+      <link>https://wikihub.github.io/docs/references/hardware/ethernet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/hardware/ethernet/</guid>
+      <description>
+        
+        
+        &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://techwiser.com/how-to-connect-pc-to-pc-lan-cable/&#34;&gt;How to connect PC to PC using a LAN cable&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Run &lt;code&gt;sudo apt install avahi-daemon libnss-mdns&lt;/code&gt; in your VM, and make sure that your networking config is in ‘Bridge Mode’ to get .local addressing working.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;wifi-adapters&#34;&gt;WiFi Adapters&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/cilynx/rtl88x2bu&#34;&gt;rtl88x2bu driver updated for current kernels&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;routers&#34;&gt;Routers&lt;/h1&gt;
+&lt;h2 id=&#34;linksys&#34;&gt;Linksys&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.linksysinfo.org/index.php?threads/asuswrt-merlin-build-384-5-or-later-on-linksys-ea6900-or-ea6700.74209/&#34;&gt;AsusWRT Merlin build 384.5 or later on Linksys EA6900 or EA6700&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.linksysinfo.org/index.php?threads/guide-flash-linksys-ea6300v1-ea6400-ea6500v2-ea6700-ea6900v1-0-1-1-with-tomato.73877/&#34;&gt;How to flash Linksys EA6300v1, EA6400, EA6500v2, EA6700, EA6900v1.0/1.1 with Tomato&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sourceforge.net/projects/officiallinksysfirmware/files/ea6900/v1/&#34;&gt;Linsys EA6900 official firmwares&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cfeditor.feng.si/&#34;&gt;CFEditor&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.asuswrt-merlin.net/&#34;&gt;AsusWRT-Merlin&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;sockets&#34;&gt;Sockets&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/facundofarias/awesome-websockets/blob/master/README.md&#34;&gt;Awesome web sockets&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.gnu.org/software/libc/manual/html_node/Sockets.html&#34;&gt;GNU C language sockets&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://realpython.com/python-sockets/&#34;&gt;Real Python sockets&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.python.org/3/howto/sockets.html&#34;&gt;Python sockets&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;socket-tools&#34;&gt;Socket tools&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://plantain-00.github.io/ws-tool/&#34;&gt;Web socket tool&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;embedded-ethernet&#34;&gt;Embedded Ethernet&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://direct.nuvoton.com/en/m487-ethernet-series/&#34;&gt;nuvoTon&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
