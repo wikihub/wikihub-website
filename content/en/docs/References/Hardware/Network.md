@@ -13,6 +13,9 @@ description: Network and Internet resources
 
 # Routers
 
+## LTE Routers
+* [Outdoor Router](https://www.outdoorrouter.com/product/usa-outdoor-cellular-4g-router-cat6-double-sim/?alg_currency=CAD)
+
 ## Linksys
 
 * [AsusWRT Merlin build 384.5 or later on Linksys EA6900 or EA6700](https://www.linksysinfo.org/index.php?threads/asuswrt-merlin-build-384-5-or-later-on-linksys-ea6900-or-ea6700.74209/)
