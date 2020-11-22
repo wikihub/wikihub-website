@@ -11,13 +11,12 @@ description: News and information about Internet of Things and its applications
 
 * [Particle](https://www.particle.io/)
 * [Sierra Wireless](https://www.sierrawireless.com/)
-* [Legato](https://source.sierrawireless.com/legato/)
-* [MangOH](https://mangoh.io/)
 * [Libelium](http://www.libelium.com)
 
 # Open Source
 
 * [Legato](https://legato.io/)
+* [MangOH](https://mangoh.io/)
 
 # IoT Courses
 
