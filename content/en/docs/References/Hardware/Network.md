@@ -15,6 +15,7 @@ description: Network and Internet resources
 
 ## LTE Routers
 * [Outdoor Router](https://www.outdoorrouter.com/product/usa-outdoor-cellular-4g-router-cat6-double-sim/?alg_currency=CAD)
+* [Sentrius IG60-SERIAL-LTE](https://www.mouser.ca/ProductDetail/Laird-Connectivity/455-00084?qs=GedFDFLaBXFIV8qdttPR1A%3D%3D)
 
 ## Linksys
 
