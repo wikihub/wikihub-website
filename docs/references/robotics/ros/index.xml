@@ -33,6 +33,10 @@
 &lt;li&gt;&lt;a href=&#34;https://index.ros.org/doc/ros2/&#34;&gt;ROS2 documentation&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://index.ros.org/packages/&#34;&gt;ROS2 packages&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h1 id=&#34;ubuntu&#34;&gt;Ubuntu&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://ubuntu.com/blog/exploring-ros-2-with-kubernetes&#34;&gt;Exploring ROS2 with Kubernetes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h1 id=&#34;security&#34;&gt;Security&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://design.ros2.org/articles/ros2_access_control_policies.html&#34;&gt;ROS2 access control policies&lt;/a&gt;&lt;/li&gt;
