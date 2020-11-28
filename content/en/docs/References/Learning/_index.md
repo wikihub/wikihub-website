@@ -7,6 +7,8 @@ description: Resources for learning
 
 ---
 
+*   [Digital Promise](https://digitalpromise.org/initiative/instructional-coaching/instructional-coaching-playbook/about-this-playbook/)
+
 # eLearning
 
 *   [Computing Education Research Blog](https://computinged.wordpress.com/)
