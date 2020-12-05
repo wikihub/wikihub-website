@@ -12,7 +12,7 @@ description: News and information about containers
 * [Dockerfile reference](https://docs.docker.com/engine/reference/builder/)
 * [Develop with Docker](https://docs.docker.com/develop/)
 * [How to setup Docker and Nvidia-Docker 2.0 on Ubuntu 18.04](https://cnvrg.io/how-to-setup-docker-and-nvidia-docker-2-0-on-ubuntu-18-04/)
-* Docker permission denied fix: `sudo chmod 666 /var/run/docker.sock`
+* Docker permission denied fix: `sudo usermod -aG docker ${USER}` or `sudo chmod 666 /var/run/docker.sock`
 * [An Introduction to Docker](http://odewahn.github.io/docker-jumpstart/)
 * [Running Linux apps in MacOS using docker](http://shanavasv.com/running-linux-apps-in-macos-using-docker/)
 * [How to show X11 windows with Docker on Mac](https://medium.com/@mreichelt/how-to-show-x11-windows-within-docker-on-mac-50759f4b65cb)
