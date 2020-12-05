@@ -1123,7 +1123,7 @@
 &lt;li&gt;&lt;a href=&#34;https://docs.docker.com/engine/reference/builder/&#34;&gt;Dockerfile reference&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://docs.docker.com/develop/&#34;&gt;Develop with Docker&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://cnvrg.io/how-to-setup-docker-and-nvidia-docker-2-0-on-ubuntu-18-04/&#34;&gt;How to setup Docker and Nvidia-Docker 2.0 on Ubuntu 18.04&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Docker permission denied fix: &lt;code&gt;sudo chmod 666 /var/run/docker.sock&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Docker permission denied fix: &lt;code&gt;sudo usermod -aG docker ${USER}&lt;/code&gt; or &lt;code&gt;sudo chmod 666 /var/run/docker.sock&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://odewahn.github.io/docker-jumpstart/&#34;&gt;An Introduction to Docker&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://shanavasv.com/running-linux-apps-in-macos-using-docker/&#34;&gt;Running Linux apps in MacOS using docker&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://medium.com/@mreichelt/how-to-show-x11-windows-within-docker-on-mac-50759f4b65cb&#34;&gt;How to show X11 windows with Docker on Mac&lt;/a&gt;&lt;/li&gt;
