@@ -858,9 +858,11 @@
       <description>
         
         
-        &lt;ul&gt;
+        &lt;h1 id=&#34;network-setup&#34;&gt;Network setup&lt;/h1&gt;
+&lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://techwiser.com/how-to-connect-pc-to-pc-lan-cable/&#34;&gt;How to connect PC to PC using a LAN cable&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Run &lt;code&gt;sudo apt install avahi-daemon libnss-mdns&lt;/code&gt; in your VM, and make sure that your networking config is in ‘Bridge Mode’ to get .local addressing working.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://ubuntuhandbook.org/index.php/2020/07/share-folder-smb-ubuntu-20-04/&#34;&gt;How to Share A Folder via SMB/CIFS Protocol in Ubuntu 20.04&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;wifi-adapters&#34;&gt;WiFi Adapters&lt;/h1&gt;
 &lt;ul&gt;
