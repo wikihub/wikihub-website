@@ -1,14 +1,19 @@
 ---
-title: "Fintech"
-linkTitle: "Fintech"
-weight: 70
+
+title: "Fintech"  
+linkTitle: "Fintech"  
+weight: 70  
 description: Resources for fintech ideas
+
 ---
 
 # Open banking
-* [Community Trust](https://www.communitytrust.com/)
-* [Plaid](https://plaid.com/)
-* [Flinks](https://flinks.io/)
+
+*   [Community Trust](https://www.communitytrust.com/)
+*   [Plaid](https://plaid.com/)
+*   [Flinks](https://flinks.io/)
+*   [Questrade API](https://www.questrade.com/api)
 
 # Stocks market
-* [Sharesight](https://www.sharesight.com/ca/)
+
+*   [Sharesight](https://www.sharesight.com/ca/)
