@@ -1040,6 +1040,10 @@
 &lt;li&gt;&lt;a href=&#34;https://kubernetes.io/docs/reference/kubectl/cheatsheet/&#34;&gt;Kubernetes cheat sheet&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://kubernetes.io/docs/reference/kubectl/docker-cli-to-kubectl/&#34;&gt;kubectl for Docker users&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h1 id=&#34;ubuntu&#34;&gt;Ubuntu&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://microk8s.io/&#34;&gt;Microk8s&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h1 id=&#34;local-development-environment&#34;&gt;Local development environment&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://kubernetes.io/blog/2019/03/28/running-kubernetes-locally-on-linux-with-minikube-now-with-kubernetes-1.14-support/&#34;&gt;Running Kubernetes locally on Linux with Minikube&lt;/a&gt;&lt;/li&gt;
