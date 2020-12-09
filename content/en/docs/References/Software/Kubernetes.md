@@ -13,7 +13,6 @@ description: News and information about Kubernetes
 # Kubernetes
 
 *   [Getting started](https://www.kubeflow.org/docs/started/getting-started/)
-*   [Deploy using MiniKube on Linux](https://www.kubeflow.org/docs/started/workstation/minikube-linux/)
 *   [kind](https://kind.sigs.k8s.io/)
 *   [K8s device plugin by NVIDIA](https://github.com/NVIDIA/k8s-device-plugin)
 *   [Kubernetes cheat sheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
@@ -26,6 +25,9 @@ description: News and information about Kubernetes
 * microk8s stop
 * microk8s status
 * microk8s enable dns dashboard gpu helm3 metallb host-access storage
+
+## Minikube
+*   [Deploy using MiniKube on Linux](https://www.kubeflow.org/docs/started/workstation/minikube-linux/)
 
 # Local development environment
 
