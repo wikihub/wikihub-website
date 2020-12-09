@@ -23,7 +23,7 @@ description: News and information about Kubernetes
 
 ## [Microk8s](https://microk8s.io/)
 * microk8s status
-* microk8s enable dns gpu helm3 metallb host-access storage
+* microk8s enable dns dashboard gpu helm3 metallb host-access storage
 
 # Local development environment
 
