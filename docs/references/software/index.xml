@@ -192,7 +192,6 @@
 &lt;h1 id=&#34;kubernetes&#34;&gt;Kubernetes&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.kubeflow.org/docs/started/getting-started/&#34;&gt;Getting started&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.kubeflow.org/docs/started/workstation/minikube-linux/&#34;&gt;Deploy using MiniKube on Linux&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://kind.sigs.k8s.io/&#34;&gt;kind&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/NVIDIA/k8s-device-plugin&#34;&gt;K8s device plugin by NVIDIA&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://kubernetes.io/docs/reference/kubectl/cheatsheet/&#34;&gt;Kubernetes cheat sheet&lt;/a&gt;&lt;/li&gt;
@@ -206,6 +205,10 @@
 &lt;li&gt;microk8s status&lt;/li&gt;
 &lt;li&gt;microk8s enable dns dashboard gpu helm3 metallb host-access storage&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h2 id=&#34;minikube&#34;&gt;Minikube&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.kubeflow.org/docs/started/workstation/minikube-linux/&#34;&gt;Deploy using MiniKube on Linux&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h1 id=&#34;local-development-environment&#34;&gt;Local development environment&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://kubernetes.io/blog/2019/03/28/running-kubernetes-locally-on-linux-with-minikube-now-with-kubernetes-1.14-support/&#34;&gt;Running Kubernetes locally on Linux with Minikube&lt;/a&gt;&lt;/li&gt;
@@ -213,7 +216,7 @@
 &lt;li&gt;&lt;a href=&#34;https://itnext.io/simplified-kubernetes-development-visual-studio-code-kubernetes-tools-extension-95bac450370c&#34;&gt;Simplified Kubernetes Development — Visual Studio Code Kubernetes Tools Extension&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com.cnpmjs.org/tilt-dev/tilt&#34;&gt;Tilt&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;minikube&#34;&gt;Minikube&lt;/h2&gt;
+&lt;h2 id=&#34;minikube-1&#34;&gt;Minikube&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.openkb.info/2018/10/minikube-cheat-sheet.html&#34;&gt;Minikube cheat sheet&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
