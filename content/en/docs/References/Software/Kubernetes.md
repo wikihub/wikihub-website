@@ -21,7 +21,9 @@ description: News and information about Kubernetes
 
 # Ubuntu
 
-* [Microk8s](https://microk8s.io/)
+## [Microk8s](https://microk8s.io/)
+* microk8s status
+* microk8s enable dns gpu helm3 metallb host-access storage
 
 # Local development environment
 
