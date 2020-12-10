@@ -2454,8 +2454,8 @@ Don’t Worry, You Can’t Break It. We Promise.&lt;/li&gt;
       <description>
         
         
-        &lt;h1 id=&#34;sshhttpswwwsshcom&#34;&gt;&lt;a href=&#34;https://www.ssh.com&#34;&gt;ssh&lt;/a&gt;&lt;/h1&gt;
-&lt;ul&gt;
+        &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ssh.com&#34;&gt;Official ssh website&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.ssh.com/ssh/keygen&#34;&gt;Generate ssh key for a remote computer&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://help.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent&#34;&gt;Generating a new SSH key and adding it to the ssh-agent&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://code.visualstudio.com/docs/remote/troubleshooting&#34;&gt;Visual Studio Code&lt;/a&gt;&lt;/li&gt;
@@ -2465,6 +2465,13 @@ Don’t Worry, You Can’t Break It. We Promise.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys-on-ubuntu-1804&#34;&gt;How to set up ssh keys&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://nerderati.com/2011/03/17/simplify-your-life-with-an-ssh-config-file/&#34;&gt;Simplify Your Life With an SSH Config File&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://linux.die.net/man/5/ssh_config&#34;&gt;ssh config&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;display&#34;&gt;Display&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;ssh -X user@server&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;sudo apt install x11-apps&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;xeyes&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;xclock&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
