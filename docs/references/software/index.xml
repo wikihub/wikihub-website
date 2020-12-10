@@ -205,6 +205,7 @@
 &lt;li&gt;microk8s stop&lt;/li&gt;
 &lt;li&gt;microk8s status&lt;/li&gt;
 &lt;li&gt;microk8s enable dns dashboard gpu helm3 metallb host-access storage&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://microk8s.io/docs/working-with-kubectl&#34;&gt;Working with kubectl&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;minikube&#34;&gt;Minikube&lt;/h2&gt;
 &lt;ul&gt;
