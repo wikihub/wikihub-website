@@ -51,6 +51,7 @@ description: News and information about software development and necessary tools
 
 ## Visual Studio Code
 
+* [Visual Studio Code is unable to watch for file changes in this large workspace](https://code.visualstudio.com/docs/setup/linux#_visual-studio-code-is-unable-to-watch-for-file-changes-in-this-large-workspace-error-enospc)
 
 ## Tutorials
 
