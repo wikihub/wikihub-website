@@ -201,6 +201,7 @@
 &lt;h2 id=&#34;microk8shttpsmicrok8sio&#34;&gt;&lt;a href=&#34;https://microk8s.io/&#34;&gt;Microk8s&lt;/a&gt;&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://ubuntu.com/tutorials/install-a-local-kubernetes-with-microk8s#1-overview&#34;&gt;Install a local kubernetes with microk8s&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ubuntu.com/kubernetes/install&#34;&gt;Install Microk8s&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;microk8s start&lt;/li&gt;
 &lt;li&gt;microk8s stop&lt;/li&gt;
 &lt;li&gt;microk8s status&lt;/li&gt;
