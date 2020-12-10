@@ -7,8 +7,7 @@ description: Resources about ssh connections
 
 ---
 
-# [ssh](https://www.ssh.com)
-
+* [Official ssh website](https://www.ssh.com)
 *   [Generate ssh key for a remote computer](https://www.ssh.com/ssh/keygen)
 *   [Generating a new SSH key and adding it to the ssh-agent](https://help.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
 *   [Visual Studio Code](https://code.visualstudio.com/docs/remote/troubleshooting)
@@ -18,3 +17,10 @@ description: Resources about ssh connections
 *   [How to set up ssh keys](https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys-on-ubuntu-1804)
 *   [Simplify Your Life With an SSH Config File](https://nerderati.com/2011/03/17/simplify-your-life-with-an-ssh-config-file/)
 *   [ssh config](https://linux.die.net/man/5/ssh_config)
+
+# Display
+
+* `ssh -X user@server`
+* `sudo apt install x11-apps`
+* `xeyes`
+* `xclock`
