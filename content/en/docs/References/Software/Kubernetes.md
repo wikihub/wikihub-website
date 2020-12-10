@@ -22,6 +22,7 @@ description: News and information about Kubernetes
 
 ## [Microk8s](https://microk8s.io/)
 * [Install a local kubernetes with microk8s](https://ubuntu.com/tutorials/install-a-local-kubernetes-with-microk8s#1-overview)
+* [Install Microk8s](https://ubuntu.com/kubernetes/install)
 * microk8s start
 * microk8s stop
 * microk8s status
