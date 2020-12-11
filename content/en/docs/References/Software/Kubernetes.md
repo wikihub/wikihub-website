@@ -36,6 +36,7 @@ description: News and information about Kubernetes
 
 ## Minikube
 *   [Deploy using MiniKube on Linux](https://www.kubeflow.org/docs/started/workstation/minikube-linux/)
+*   [Minikube cheat sheet](http://www.openkb.info/2018/10/minikube-cheat-sheet.html)
 
 # Kubectl
 * `kubectl get all --all-namespaces`
@@ -46,16 +47,16 @@ description: News and information about Kubernetes
 
 * [Installing Kubeflow on a laptop](https://yann-leguilly.gitlab.io/post/2020-03-04-kubeflow-on-laptop/)
 
+# Helm
+
+* [ArtifactHUB](https://artifacthub.io/)
+
 # Local development environment
 
 *   [Running Kubernetes locally on Linux with Minikube](https://kubernetes.io/blog/2019/03/28/running-kubernetes-locally-on-linux-with-minikube-now-with-kubernetes-1.14-support/)
 *   [Devgun](https://www.mailgun.com/blog/creating-development-environments-with-kubernetes-devgun/)
 *   [Simplified Kubernetes Development — Visual Studio Code Kubernetes Tools Extension](https://itnext.io/simplified-kubernetes-development-visual-studio-code-kubernetes-tools-extension-95bac450370c)
 *   [Tilt](https://github.com.cnpmjs.org/tilt-dev/tilt)
-
-## Minikube
-
-*   [Minikube cheat sheet](http://www.openkb.info/2018/10/minikube-cheat-sheet.html)
 
 # Tools
 
