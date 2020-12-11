@@ -21,6 +21,7 @@ description: News and information about Kubernetes
 # Ubuntu
 
 ## [Microk8s](https://microk8s.io/)
+* There is an [issue](https://github.com/ubuntu/microk8s/issues/1754) with the November 2020 version of Microk8s. For now, you need to his command: `sudo snap install microk8s --classic --channel=latest/edge`
 * [Install a local kubernetes with microk8s](https://ubuntu.com/tutorials/install-a-local-kubernetes-with-microk8s#1-overview)
 * [Install Microk8s](https://ubuntu.com/kubernetes/install)
 * microk8s start
