@@ -41,6 +41,10 @@ description: News and information about Kubernetes
 * `kubectl -n kube-system get secret`
 * `kubectl -n kube-system describe secret kubernetes-dashboard-token-xxxx`
 
+# Kubeflow
+
+* [Installing Kubeflow on a laptop](https://yann-leguilly.gitlab.io/post/2020-03-04-kubeflow-on-laptop/)
+
 # Local development environment
 
 *   [Running Kubernetes locally on Linux with Minikube](https://kubernetes.io/blog/2019/03/28/running-kubernetes-locally-on-linux-with-minikube-now-with-kubernetes-1.14-support/)
