@@ -216,6 +216,7 @@
 &lt;h2 id=&#34;minikube&#34;&gt;Minikube&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.kubeflow.org/docs/started/workstation/minikube-linux/&#34;&gt;Deploy using MiniKube on Linux&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.openkb.info/2018/10/minikube-cheat-sheet.html&#34;&gt;Minikube cheat sheet&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;kubectl&#34;&gt;Kubectl&lt;/h1&gt;
 &lt;ul&gt;
@@ -227,16 +228,16 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://yann-leguilly.gitlab.io/post/2020-03-04-kubeflow-on-laptop/&#34;&gt;Installing Kubeflow on a laptop&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h1 id=&#34;helm&#34;&gt;Helm&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://artifacthub.io/&#34;&gt;ArtifactHUB&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h1 id=&#34;local-development-environment&#34;&gt;Local development environment&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://kubernetes.io/blog/2019/03/28/running-kubernetes-locally-on-linux-with-minikube-now-with-kubernetes-1.14-support/&#34;&gt;Running Kubernetes locally on Linux with Minikube&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.mailgun.com/blog/creating-development-environments-with-kubernetes-devgun/&#34;&gt;Devgun&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://itnext.io/simplified-kubernetes-development-visual-studio-code-kubernetes-tools-extension-95bac450370c&#34;&gt;Simplified Kubernetes Development — Visual Studio Code Kubernetes Tools Extension&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com.cnpmjs.org/tilt-dev/tilt&#34;&gt;Tilt&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;minikube-1&#34;&gt;Minikube&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.openkb.info/2018/10/minikube-cheat-sheet.html&#34;&gt;Minikube cheat sheet&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;tools&#34;&gt;Tools&lt;/h1&gt;
 &lt;ul&gt;
