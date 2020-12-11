@@ -50,6 +50,7 @@ description: News and information about Kubernetes
 # Helm
 
 * [ArtifactHUB](https://artifacthub.io/)
+* [Kubernetes distribution guide](https://helm.sh/docs/topics/kubernetes_distros/)
 
 # Local development environment
 
