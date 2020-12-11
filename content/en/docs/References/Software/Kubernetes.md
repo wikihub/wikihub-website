@@ -32,6 +32,7 @@ description: News and information about Kubernetes
 * `microk8s enable kubeflow`
 * `microk8s juju config dex-auth static-username`
 * `microk8s juju config dex-auth static-password`
+* You can also change the username and password. For example: `microk8s juju config dex-auth static-username=admin`
 
 ## Minikube
 *   [Deploy using MiniKube on Linux](https://www.kubeflow.org/docs/started/workstation/minikube-linux/)
