@@ -29,6 +29,9 @@ description: News and information about Kubernetes
 * microk8s status
 * microk8s enable dns dashboard gpu helm3 metallb host-access storage
 * [Working with kubectl](https://microk8s.io/docs/working-with-kubectl)
+* `microk8s enable kubeflow`
+* `microk8s juju config dex-auth static-username`
+* `microk8s juju config dex-auth static-password`
 
 ## Minikube
 *   [Deploy using MiniKube on Linux](https://www.kubeflow.org/docs/started/workstation/minikube-linux/)
