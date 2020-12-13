@@ -55,6 +55,7 @@ description: News and information about Kubernetes
 
 * [ArtifactHUB](https://artifacthub.io/)
 * [Kubernetes distribution guide](https://helm.sh/docs/topics/kubernetes_distros/)
+* `helm delete $(helm ls --short)`
 
 # Local development environment
 
