@@ -1078,6 +1078,7 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://artifacthub.io/&#34;&gt;ArtifactHUB&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://helm.sh/docs/topics/kubernetes_distros/&#34;&gt;Kubernetes distribution guide&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;helm delete $(helm ls --short)&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;local-development-environment&#34;&gt;Local development environment&lt;/h1&gt;
 &lt;ul&gt;
