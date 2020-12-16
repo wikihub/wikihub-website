@@ -58,6 +58,8 @@ description: News and information about Kubernetes
 * `helm delete $(helm ls --short)`
 * [Chart Center](https://chartcenter.io/#)
 
+# [Kustomize](https://kustomize.io/)
+
 # GitOps
 
 * [GitOps](https://www.gitops.tech/)
