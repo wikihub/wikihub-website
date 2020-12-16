@@ -62,6 +62,7 @@ description: News and information about Kubernetes
 
 * [GitOps](https://www.gitops.tech/)
 * [GitOps awesome](https://github.com/weaveworks/awesome-gitops)
+* [Kubestack](https://www.kubestack.com/)
 
 # Local development environment
 
