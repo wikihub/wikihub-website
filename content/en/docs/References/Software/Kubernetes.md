@@ -58,6 +58,10 @@ description: News and information about Kubernetes
 * `helm delete $(helm ls --short)`
 * [Chart Center](https://chartcenter.io/#)
 
+# GitOps
+
+* [GitOps](https://www.gitops.tech/)
+
 # Local development environment
 
 *   [Running Kubernetes locally on Linux with Minikube](https://kubernetes.io/blog/2019/03/28/running-kubernetes-locally-on-linux-with-minikube-now-with-kubernetes-1.14-support/)
