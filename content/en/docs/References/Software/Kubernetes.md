@@ -63,6 +63,7 @@ description: News and information about Kubernetes
 * [GitOps](https://www.gitops.tech/)
 * [GitOps awesome](https://github.com/weaveworks/awesome-gitops)
 * [Kubestack](https://www.kubestack.com/)
+* [Flux v2](https://toolkit.fluxcd.io/)
 
 # Local development environment
 
