@@ -239,6 +239,7 @@
 &lt;li&gt;&lt;code&gt;helm delete $(helm ls --short)&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://chartcenter.io/#&#34;&gt;Chart Center&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h1 id=&#34;kustomizehttpskustomizeio&#34;&gt;&lt;a href=&#34;https://kustomize.io/&#34;&gt;Kustomize&lt;/a&gt;&lt;/h1&gt;
 &lt;h1 id=&#34;gitops&#34;&gt;GitOps&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.gitops.tech/&#34;&gt;GitOps&lt;/a&gt;&lt;/li&gt;
