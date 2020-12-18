@@ -1146,6 +1146,7 @@ Don’t Worry, You Can’t Break It. We Promise.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.freecodecamp.org/news/manage-multiple-github-accounts-the-ssh-way-2dadc30ccaca/&#34;&gt;How to manage multiple GitHub accounts on a single machine with SSH keys&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/working-with-forks&#34;&gt;Working with forks&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://git-scm.com/book/en/v2/Git-Basics-Tagging#:~:text=Sharing%20Tags&amp;amp;text=You%20will%20have%20to%20explicitly,git%20push%20origin%20.&amp;amp;text=If%20you%20have%20a%20lot,to%20the%20git%20push%20command.&#34;&gt;git push &amp;ndash;tags&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://stackoverflow.com/questions/4850717/how-to-cancel-a-local-git-commit&#34;&gt;Removing a local commit&lt;/a&gt;: &lt;code&gt;git reset HEAD~1&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;submodules&#34;&gt;Submodules&lt;/h2&gt;
 &lt;ul&gt;
