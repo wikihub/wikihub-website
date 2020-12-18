@@ -42,6 +42,7 @@ description: News and information about software development and necessary tools
 *   [How to manage multiple GitHub accounts on a single machine with SSH keys](https://www.freecodecamp.org/news/manage-multiple-github-accounts-the-ssh-way-2dadc30ccaca/)
 *   [Working with forks](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/working-with-forks)
 *   [git push --tags](https://git-scm.com/book/en/v2/Git-Basics-Tagging#:~:text=Sharing%20Tags&text=You%20will%20have%20to%20explicitly,git%20push%20origin%20.&text=If%20you%20have%20a%20lot,to%20the%20git%20push%20command.)
+* [Removing a local commit](https://stackoverflow.com/questions/4850717/how-to-cancel-a-local-git-commit): `git reset HEAD~1`
 
 
 ## Submodules
