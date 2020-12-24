@@ -21,6 +21,7 @@ description: News and information about web applications for ROS-based robots
 *   [ros-rviz](https://github.com/jstnhuang/ros-rviz)
 *   [Zethus](https://github.com/rapyuta-robotics/zethus)
 *   [Deck.gl](https://deck.gl/#/)
+*   [Robonomics](https://wiki.robonomics.network/docs/)
 
 # 2D Navigation
 
