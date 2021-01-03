@@ -70,6 +70,8 @@ description: News and information about Kubernetes
 
 # Local development environment
 
+* [Developing Kubernetes](https://kubernetes.io/blog/2018/05/01/developing-on-kubernetes/)
+* [ksync](https://ksync.github.io/ksync/)
 *   [Running Kubernetes locally on Linux with Minikube](https://kubernetes.io/blog/2019/03/28/running-kubernetes-locally-on-linux-with-minikube-now-with-kubernetes-1.14-support/)
 *   [Devgun](https://www.mailgun.com/blog/creating-development-environments-with-kubernetes-devgun/)
 *   [Simplified Kubernetes Development — Visual Studio Code Kubernetes Tools Extension](https://itnext.io/simplified-kubernetes-development-visual-studio-code-kubernetes-tools-extension-95bac450370c)
