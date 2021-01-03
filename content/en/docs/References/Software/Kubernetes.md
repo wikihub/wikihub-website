@@ -62,6 +62,10 @@ description: News and information about Kubernetes
 
 # [Kustomize](https://kustomize.io/)
 
+# Kubespray
+
+* [Kubespray](https://kubespray.io/#/)
+
 # GitOps
 
 * [GitOps](https://www.gitops.tech/)
