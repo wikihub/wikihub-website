@@ -66,6 +66,10 @@ description: News and information about Kubernetes
 
 * [Kubespray](https://kubespray.io/#/)
 
+# Kops
+
+* [Kops](https://github.com/kubernetes/kops)
+
 # Bare Metal
 
 * [Packet](https://www.packet.com/)
