@@ -66,6 +66,10 @@ description: News and information about Kubernetes
 
 * [Kubespray](https://kubespray.io/#/)
 
+# Bare Metal
+
+* [Packet](https://www.packet.com/)
+
 # GitOps
 
 * [GitOps](https://www.gitops.tech/)
