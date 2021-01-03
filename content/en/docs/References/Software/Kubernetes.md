@@ -78,6 +78,10 @@ description: News and information about Kubernetes
 *   [Simplified Kubernetes Development — Visual Studio Code Kubernetes Tools Extension](https://itnext.io/simplified-kubernetes-development-visual-studio-code-kubernetes-tools-extension-95bac450370c)
 *   [Tilt](https://github.com.cnpmjs.org/tilt-dev/tilt)
 
+## OpenShift
+
+* [CodeReady](https://developers.redhat.com/products/codeready-containers/overview)
+
 # Tools
 
 *   [kubectl](https://kubernetes.io/docs/reference/kubectl/overview/)
