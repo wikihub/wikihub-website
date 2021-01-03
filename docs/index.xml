@@ -1092,6 +1092,10 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://kubespray.io/#/&#34;&gt;Kubespray&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h1 id=&#34;kops&#34;&gt;Kops&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/kubernetes/kops&#34;&gt;Kops&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h1 id=&#34;bare-metal&#34;&gt;Bare Metal&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.packet.com/&#34;&gt;Packet&lt;/a&gt;&lt;/li&gt;
