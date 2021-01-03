@@ -1047,6 +1047,7 @@
 &lt;h2 id=&#34;kind&#34;&gt;Kind&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://medium.com/@munza/local-kubernetes-with-kind-helm-dashboard-41152e4b3b3d&#34;&gt;Local Kubernetes with kind, Helm &amp;amp; Dashboard&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.eclipse.org/che/docs/che-7/installation-guide/installing-che-on-kind/&#34;&gt;Installing Che on kind&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;microk8shttpsmicrok8sio&#34;&gt;&lt;a href=&#34;https://microk8s.io/&#34;&gt;Microk8s&lt;/a&gt;&lt;/h2&gt;
 &lt;ul&gt;
