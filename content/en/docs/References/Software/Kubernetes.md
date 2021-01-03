@@ -23,6 +23,7 @@ description: News and information about Kubernetes
 ## Kind
 
 * [Local Kubernetes with kind, Helm & Dashboard](https://medium.com/@munza/local-kubernetes-with-kind-helm-dashboard-41152e4b3b3d)
+* [Installing Che on kind](https://www.eclipse.org/che/docs/che-7/installation-guide/installing-che-on-kind/)
 
 ## [Microk8s](https://microk8s.io/)
 * There is an [issue](https://github.com/ubuntu/microk8s/issues/1754) with the November 2020 version of Microk8s. For now, you need to his command: `sudo snap install microk8s --classic --channel=latest/edge`
