@@ -363,7 +363,7 @@
 &lt;/ul&gt;
 &lt;h1 id=&#34;ip-address&#34;&gt;IP Address&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;IP address of the WiFi adapter: &lt;code&gt;ifconfig wifi0 | awk &#39;/inet / {print $2}&#39;&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://unix.stackexchange.com/questions/58825/assigning-ip-address-to-environment-variable&#34;&gt;IP address of the WiFi adapter&lt;/a&gt;: &lt;code&gt;ifconfig wifi0 | awk &#39;/inet / {print $2}&#39;&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;wifi-adapters&#34;&gt;WiFi Adapters&lt;/h1&gt;
 &lt;ul&gt;
