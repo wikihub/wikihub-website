@@ -868,6 +868,10 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;code&gt;sudo nmap -sn 192.168.0.1/24&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h1 id=&#34;ip-address&#34;&gt;IP Address&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;IP address of the WiFi adapter: &lt;code&gt;ifconfig wifi0 | awk &#39;/inet / {print $2}&#39;&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h1 id=&#34;wifi-adapters&#34;&gt;WiFi Adapters&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/cilynx/rtl88x2bu&#34;&gt;rtl88x2bu driver updated for current kernels&lt;/a&gt;&lt;/li&gt;
