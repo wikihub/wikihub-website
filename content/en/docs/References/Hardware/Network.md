@@ -14,6 +14,9 @@ description: Network and Internet resources
 # Scan network
 * `sudo nmap -sn 192.168.0.1/24`
 
+# IP Address
+* IP address of the WiFi adapter: `ifconfig wifi0 | awk '/inet / {print $2}'`
+
 # WiFi Adapters
 * [rtl88x2bu driver updated for current kernels](https://github.com/cilynx/rtl88x2bu)
 
