@@ -15,7 +15,7 @@ description: Network and Internet resources
 * `sudo nmap -sn 192.168.0.1/24`
 
 # IP Address
-* IP address of the WiFi adapter: `ifconfig wifi0 | awk '/inet / {print $2}'`
+* [IP address of the WiFi adapter](https://unix.stackexchange.com/questions/58825/assigning-ip-address-to-environment-variable): `ifconfig wifi0 | awk '/inet / {print $2}'`
 
 # WiFi Adapters
 * [rtl88x2bu driver updated for current kernels](https://github.com/cilynx/rtl88x2bu)
