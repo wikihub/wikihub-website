@@ -17,6 +17,7 @@ description: Resources about ssh connections
 *   [How to set up ssh keys](https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys-on-ubuntu-1804)
 *   [Simplify Your Life With an SSH Config File](https://nerderati.com/2011/03/17/simplify-your-life-with-an-ssh-config-file/)
 *   [ssh config](https://linux.die.net/man/5/ssh_config)
+*   [ssh jump host](https://wiki.gentoo.org/wiki/SSH_jump_host)
 
 # Display
 
