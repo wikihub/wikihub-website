@@ -2523,8 +2523,13 @@ Don’t Worry, You Can’t Break It. We Promise.&lt;/li&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;code&gt;ssh -X user@server&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;sudo apt install x11-apps&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;gedit&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;xeyes&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;xclock&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;file-transfer&#34;&gt;File transfer&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://linuxize.com/post/how-to-use-scp-command-to-securely-transfer-files/&#34;&gt;How to use scp command to securely transfer files&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
