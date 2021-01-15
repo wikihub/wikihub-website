@@ -22,5 +22,9 @@ description: Resources about ssh connections
 
 * `ssh -X user@server`
 * `sudo apt install x11-apps`
+* `gedit`
 * `xeyes`
 * `xclock`
+
+# File transfer
+* [How to use scp command to securely transfer files](https://linuxize.com/post/how-to-use-scp-command-to-securely-transfer-files/)
