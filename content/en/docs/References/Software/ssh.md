@@ -29,3 +29,6 @@ description: Resources about ssh connections
 
 # File transfer
 * [How to use scp command to securely transfer files](https://linuxize.com/post/how-to-use-scp-command-to-securely-transfer-files/)
+
+# ssh tunnels
+* [Reverse ssh](http://newprior.com/blog_reverse_ssh.html)
