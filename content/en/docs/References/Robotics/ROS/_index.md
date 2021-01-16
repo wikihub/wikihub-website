@@ -32,12 +32,13 @@ description: News and information about ROS and its applications
 * [Xacro](http://wiki.ros.org/xacro)
 * [Robot Model (URDF editor)](https://github.com/AdoHaha/modelrobot)
 
-# Recording
+# Recording and processing data
 
 * [Recording and playing back data](http://wiki.ros.org/ROS/Tutorials/Recording%20and%20playing%20back%20data)
 * [ROSbag cookbook](http://wiki.ros.org/rosbag/Cookbook)
 * [ROS Bag Python Controller](https://github.com/masasin/pyrosbag)
 * [rosbag examples](https://www.programcreek.com/python/example/89952/rosbag.Bag)
+* [PlotJuggler](https://github.com/facontidavide/PlotJuggler)
 
 # Multiple computers
 
