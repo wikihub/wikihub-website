@@ -1044,12 +1044,13 @@
 &lt;li&gt;&lt;a href=&#34;http://wiki.ros.org/xacro&#34;&gt;Xacro&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/AdoHaha/modelrobot&#34;&gt;Robot Model (URDF editor)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id=&#34;recording&#34;&gt;Recording&lt;/h1&gt;
+&lt;h1 id=&#34;recording-and-processing-data&#34;&gt;Recording and processing data&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://wiki.ros.org/ROS/Tutorials/Recording%20and%20playing%20back%20data&#34;&gt;Recording and playing back data&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://wiki.ros.org/rosbag/Cookbook&#34;&gt;ROSbag cookbook&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/masasin/pyrosbag&#34;&gt;ROS Bag Python Controller&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.programcreek.com/python/example/89952/rosbag.Bag&#34;&gt;rosbag examples&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/facontidavide/PlotJuggler&#34;&gt;PlotJuggler&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;multiple-computers&#34;&gt;Multiple computers&lt;/h1&gt;
 &lt;ul&gt;
