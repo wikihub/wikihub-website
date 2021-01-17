@@ -26,6 +26,9 @@ description: News and information about containers
 * [How to keep docker containers running](http://bigdatums.net/2017/11/07/how-to-keep-docker-containers-running/)
 * [Changing the entrypoint](https://docs.docker.com/engine/reference/run/#entrypoint-default-command-to-execute-at-runtime)
 
+## Distroless containers
+* [Google Distroless Containers](https://github.com/GoogleContainerTools/distroless)
+
 ## Docker on WSL2
 * [Getting started with CUDA on Ubuntu on WSL2](https://ubuntu.com/blog/getting-started-with-cuda-on-ubuntu-on-wsl-2)
 * [WSL user guide](https://docs.nvidia.com/cuda/wsl-user-guide/index.html)
