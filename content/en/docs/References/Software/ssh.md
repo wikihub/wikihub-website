@@ -19,6 +19,9 @@ description: Resources about ssh connections
 *   [ssh config](https://linux.die.net/man/5/ssh_config)
 *   [ssh jump host](https://wiki.gentoo.org/wiki/SSH_jump_host)
 
+# macOS
+* [macOS keeps asking my ssh passphrase](https://superuser.com/questions/1127067/macos-keeps-asking-my-ssh-passphrase-since-i-updated-to-sierra)
+
 # Display
 
 * `ssh -X user@server`
