@@ -27,6 +27,7 @@ description: Hardware resources
 
 ## Ontario
 
+* [Electromaker](https://www.electromaker.io)
 * [Elmwood Electronics](https://elmwoodelectronics.ca/)
 * [Sayal](https://shop.sayal.com/)
 * [Corpshadow](https://corpshadow.biz/)
