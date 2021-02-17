@@ -543,6 +543,10 @@
 &lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.intel.ca/content/www/ca/en/architecture-and-technology/realsense-overview.html&#34;&gt;Intel RealSense&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h1 id=&#34;zed-cameras&#34;&gt;Zed Cameras&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://gitlab.com/bot-stereolabs/docker-zed&#34;&gt;Zed Docker images&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
       </description>
     </item>
