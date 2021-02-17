@@ -521,6 +521,33 @@
     </item>
     
     <item>
+      <title>Docs: Cameras</title>
+      <link>https://wikihub.github.io/docs/references/hardware/cameras/</link>
+      <pubDate>Tue, 18 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/hardware/cameras/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;cameras&#34;&gt;Cameras&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://rosindustrial.org/3d-camera-survey&#34;&gt;3D cameras with ROS support&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://xtionprolive.com/asus-xtion2&#34;&gt;ASUS Xtion 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://xtionprolive.com/primesense-carmine-1.09&#34;&gt;Primesense Carmine 1.09&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://orbbec3d.com/&#34;&gt;Orbbec 3D&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://structure.io/&#34;&gt;Structure.io&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.e-consystems.com/See3CAM-USB-3-Camera.asp#stereo-vision-camera&#34;&gt;See3CAM (Tara)&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.e-consystems.com/3D-USB-stereo-camera.asp&#34;&gt;3D USB 3.0 e-con Systems&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.intel.ca/content/www/ca/en/architecture-and-technology/realsense-overview.html&#34;&gt;Intel RealSense&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Docs: Internet of Things</title>
       <link>https://wikihub.github.io/docs/references/hardware/iot/</link>
       <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
