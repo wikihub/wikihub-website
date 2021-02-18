@@ -11,6 +11,9 @@ description: Resources for NVIDIA robotics and the Isaac framework
 
 # Jetson
 
+## Jet Pack
+* [Upgrade to a new minor release](https://docs.nvidia.com/jetson/l4t/index.html#page/Tegra%20Linux%20Driver%20Package%20Development%20Guide/updating_jetson_and_host.html#wwpID0E0PB0HA)
+
 ## Nano
 
 * [JetBot](https://github.com/NVIDIA-AI-IOT/jetbot/wiki)
