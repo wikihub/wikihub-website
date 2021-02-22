@@ -361,6 +361,7 @@
 &lt;li&gt;Restart Docker: &lt;code&gt;service docker restart&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://bigdatums.net/2017/11/07/how-to-keep-docker-containers-running/&#34;&gt;How to keep docker containers running&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://docs.docker.com/engine/reference/run/#entrypoint-default-command-to-execute-at-runtime&#34;&gt;Changing the entrypoint&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/@mccode/processes-in-containers-should-not-run-as-root-2feae3f0df3b&#34;&gt;Processes in containers should not run as root&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;distroless-containers&#34;&gt;Distroless containers&lt;/h2&gt;
 &lt;ul&gt;
