@@ -25,6 +25,7 @@ description: News and information about containers
 * Restart Docker: `service docker restart`
 * [How to keep docker containers running](http://bigdatums.net/2017/11/07/how-to-keep-docker-containers-running/)
 * [Changing the entrypoint](https://docs.docker.com/engine/reference/run/#entrypoint-default-command-to-execute-at-runtime)
+* [Processes in containers should not run as root](https://medium.com/@mccode/processes-in-containers-should-not-run-as-root-2feae3f0df3b)
 
 ## Distroless containers
 * [Google Distroless Containers](https://github.com/GoogleContainerTools/distroless)
