@@ -36,6 +36,7 @@ description: News and resources on Autoware
 ### Carla and Autoware
 * [Carla Autoware](https://github.com/carla-simulator/carla-autoware)
 * [Carla simulation bridge](https://gitlab.com/autowarefoundation/autoware.ai/simulation/-/tree/master/carla_simulator_bridge)
+* [Carla and PTV Vissim](https://www.ptvgroup.com/en/solutions/products/ptv-vissim/areas-of-application/autonomous-vehicles-and-new-mobility/)
 
 ## Fleet Management
 * [Autoware Management System](https://github.com/CPFL/AMS)
