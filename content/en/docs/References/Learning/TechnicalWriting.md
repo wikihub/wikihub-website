@@ -14,3 +14,7 @@ description: Resources for technical writing
 
 # Diagrams
 * [Diagrams](https://diagrams.mingrammer.com/)
+
+# Persian
+
+* [Saber Rastikerdar](https://github.com/rastikerdar)
