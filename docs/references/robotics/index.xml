@@ -63,6 +63,11 @@
 &lt;li&gt;&lt;a href=&#34;https://github.com/dusty-nv/jetson-inference&#34;&gt;Jetson inference&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=LCDS8LHg4m8&#34;&gt;Making a human following robot&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h1 id=&#34;object-detection&#34;&gt;Object detection&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Object_detection#cite_note-11&#34;&gt;Object Detection&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gilberttanner.com/blog/yolo-object-detection-with-opencv&#34;&gt;YOLO Object Detection with OpenCV&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
       </description>
     </item>
