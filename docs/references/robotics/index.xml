@@ -802,6 +802,24 @@
     </item>
     
     <item>
+      <title>Docs: SLAM</title>
+      <link>https://wikihub.github.io/docs/references/robotics/slam/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/robotics/slam/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;slam-devices&#34;&gt;SLAM devices&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://geoslam.com/&#34;&gt;GeoSLAM&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.slamtec.com/en/Lidar/Mapper&#34;&gt;SLAMTEC Mapper&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Docs: Components</title>
       <link>https://wikihub.github.io/docs/references/robotics/components/</link>
       <pubDate>Sat, 08 Jun 2019 00:00:00 +0000</pubDate>

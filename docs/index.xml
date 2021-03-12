@@ -2268,6 +2268,24 @@ Don’t Worry, You Can’t Break It. We Promise.&lt;/li&gt;
     </item>
     
     <item>
+      <title>Docs: SLAM</title>
+      <link>https://wikihub.github.io/docs/references/robotics/slam/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/robotics/slam/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;slam-devices&#34;&gt;SLAM devices&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://geoslam.com/&#34;&gt;GeoSLAM&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.slamtec.com/en/Lidar/Mapper&#34;&gt;SLAMTEC Mapper&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Docs: Robotic Process Automation</title>
       <link>https://wikihub.github.io/docs/references/software/rpa/</link>
       <pubDate>Sun, 08 Nov 2020 00:00:00 +0000</pubDate>
@@ -2686,110 +2704,6 @@ Don’t Worry, You Can’t Break It. We Promise.&lt;/li&gt;
 &lt;h1 id=&#34;heat&#34;&gt;Heat&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://documentation.cenos-platform.com/docs/getting-started/cenos-overview&#34;&gt;CENOS&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Docs: Software Development</title>
-      <link>https://wikihub.github.io/docs/references/software/softwaredevelopment/</link>
-      <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://wikihub.github.io/docs/references/software/softwaredevelopment/</guid>
-      <description>
-        
-        
-        &lt;h1 id=&#34;software-project-management&#34;&gt;Software Project Management&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.aha.io/&#34;&gt;Aha!&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.agilebusiness.org/page/ProjectFramework_15_RequirementsandUserStories&#34;&gt;User story cards&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://miro.com/&#34;&gt;Miro&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.gloomaps.com/&#34;&gt;Gloomaps&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;diagrams-and-charts&#34;&gt;Diagrams and charts&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://mermaid-js.github.io/mermaid/#/&#34;&gt;Gantt chart using Mermaid&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;whiteboards&#34;&gt;Whiteboards&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://trello.com&#34;&gt;Trello&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://zapier.com/blog/best-online-whiteboard/&#34;&gt;Best online whiteboards&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;git&#34;&gt;git&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://itsfoss.com/install-git-ubuntu/&#34;&gt;Install the latest git&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://help.github.com/articles/setting-your-username-in-git/&#34;&gt;Setting your username in Git&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://help.github.com/articles/setting-your-commit-email-address-in-git/&#34;&gt;Setting your commit email address in Git&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;git add .&lt;/li&gt;
-&lt;li&gt;git add myfolder/.&lt;/li&gt;
-&lt;li&gt;Change the username:
-&lt;ul&gt;
-&lt;li&gt;git config &amp;ndash;global user.name &amp;ldquo;Behzad Samadi&amp;rdquo;&lt;/li&gt;
-&lt;li&gt;git config &amp;ndash;global user.email &amp;ldquo;&lt;a href=&#34;mailto:name@mail.com&#34;&gt;name@mail.com&lt;/a&gt;&amp;rdquo;&lt;/li&gt;
-&lt;li&gt;git remote -v&lt;/li&gt;
-&lt;li&gt;git remote set-url origin &lt;a href=&#34;https://username@github.com/ros-agriculture/ros-a.git&#34;&gt;https://username@github.com/ros-agriculture/ros-a.git&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://devhints.io/travis-gh-pages&#34;&gt;Git push to GitHub Pages&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://help.github.com/en/github/authenticating-to-github/testing-your-ssh-connection&#34;&gt;Testing your SSH connection&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://code.tutsplus.com/tutorials/quick-tip-how-to-work-with-github-and-multiple-accounts--net-22574&#34;&gt;Work with multiple SSH connections&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.freecodecamp.org/news/manage-multiple-github-accounts-the-ssh-way-2dadc30ccaca/&#34;&gt;How to manage multiple GitHub accounts on a single machine with SSH keys&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/working-with-forks&#34;&gt;Working with forks&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://git-scm.com/book/en/v2/Git-Basics-Tagging#:~:text=Sharing%20Tags&amp;amp;text=You%20will%20have%20to%20explicitly,git%20push%20origin%20.&amp;amp;text=If%20you%20have%20a%20lot,to%20the%20git%20push%20command.&#34;&gt;git push &amp;ndash;tags&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://stackoverflow.com/questions/4850717/how-to-cancel-a-local-git-commit&#34;&gt;Removing a local commit&lt;/a&gt;: &lt;code&gt;git reset HEAD~1&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;submodules&#34;&gt;Submodules&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://git-scm.com/book/en/v2/Git-Tools-Submodules&#34;&gt;Git submodules&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Update submodules: &lt;code&gt;git submodule update --init --recursive&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;visual-studio-code&#34;&gt;Visual Studio Code&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://code.visualstudio.com/docs/setup/linux#_visual-studio-code-is-unable-to-watch-for-file-changes-in-this-large-workspace-error-enospc&#34;&gt;Visual Studio Code is unable to watch for file changes in this large workspace&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;tutorials&#34;&gt;Tutorials&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://hackernoon.com/understanding-git-fcffd87c15a3&#34;&gt;Understanding git&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;bitbucket&#34;&gt;Bitbucket&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/microsoft/Git-Credential-Manager-for-Windows/blob/master/Docs/Bitbucket.md&#34;&gt;Bitbucket Authentication, 2FA and OAuth&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;makefile&#34;&gt;Makefile&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://localheinz.com/blog/2018/01/24/makefile-for-lazy-developers/&#34;&gt;Makefile for lazy developers&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://wilsonmar.github.io/make-makefile/&#34;&gt;Make Makefile&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://stackoverflow.com/questions/34937092/why-does-visual-studio-code-insert-spaces-when-editing-a-makefile-and-editor-in/56060185&#34;&gt;Makefiles and Visual Studio Code&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;documentation&#34;&gt;Documentation&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://docusaurus.io/en/&#34;&gt;Docusaurus&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://forestry.io/&#34;&gt;Forestry&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;
-&lt;ul&gt;
-&lt;li&gt;Add a submodule: git submodule add &lt;a href=&#34;https://github.com/hbpasti/heather-hugo&#34;&gt;https://github.com/hbpasti/heather-hugo&lt;/a&gt; themes/heather-hugo&lt;/li&gt;
-&lt;li&gt;Update a submodule: git submodule update &amp;ndash;init &amp;ndash;recursive&lt;/li&gt;
-&lt;li&gt;List submodules: git config &amp;ndash;file .gitmodules &amp;ndash;name-only &amp;ndash;get-regexp path&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://vuepress.vuejs.org/&#34;&gt;VuePress&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/RelaxedJS/ReLaXed&#34;&gt;ReLaXed&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;design&#34;&gt;Design&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.haiku.ai/&#34;&gt;Haiko&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;tools&#34;&gt;Tools&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://stackshare.io/posts/top-developer-tools-2018&#34;&gt;Top developer tools 2018&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;persian&#34;&gt;Persian&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/rastikerdar/awesome-persian&#34;&gt;Awesome Persian by rastikar&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/mohebifar/made-in-iran&#34;&gt;Made in Iran&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/fffaraz/awesome-persian&#34;&gt;Awesome Persian by Faraz&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/sepandhaghighi/APIs-made-in-Iran&#34;&gt;Persian APIs&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
