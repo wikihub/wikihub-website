@@ -32,6 +32,10 @@ description: Hardware resources
 * [Sayal](https://shop.sayal.com/)
 * [Corpshadow](https://corpshadow.biz/)
 
+# Manufacturing
+
+* [101RP in Shenzhen](http://www.101rp.com/)
+
 # PCB
 
 * [Seeed Fusion PCB & PCB Assembly](https://www.seeedstudio.com/fusion.html)
