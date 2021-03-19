@@ -11,6 +11,7 @@ description: Resources for GPS
 * [Differential GPS](https://en.wikipedia.org/wiki/Differential_GPS)
 * [Real Time Kinematic (RTK) Positioning](https://en.wikipedia.org/wiki/Real-time_kinematic)
 * [Awesome GPS visualization](https://github.com/davidmerrick/awesome-gps-viz)
+* [Awesome location](https://github.com/shangxiazuoyou/awesome-location)
 
 # GNSS
 * [Awesome GNSS](https://github.com/barbeau/awesome-gnss)
