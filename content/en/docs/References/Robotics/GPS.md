@@ -7,6 +7,18 @@ description: Resources for GPS
 
 ---
 
+# GPS
+* [Differential GPS](https://en.wikipedia.org/wiki/Differential_GPS)
+* [Real Time Kinematic (RTK) Positioning](https://en.wikipedia.org/wiki/Real-time_kinematic)
+* [Awesome GPS visualization](https://github.com/davidmerrick/awesome-gps-viz)
+
+# GNSS
+* [Awesome GNSS](https://github.com/barbeau/awesome-gnss)
+* [Awesome GNSS](https://github.com/hdkarimi/awesome-gnss)
+
+# RTK
+* [RTKLIB](https://github.com/tomojitakasu/RTKLIB)
+
 # GPS Trackers
 *   [simpleRTK2B](https://www.ardusimple.com/simplertk2b/)
 *   [ArduSimple store](https://www.ardusimple.com/store/)
