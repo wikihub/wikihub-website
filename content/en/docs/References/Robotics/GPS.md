@@ -16,6 +16,7 @@ description: Resources for GPS
 # GNSS
 * [Awesome GNSS](https://github.com/barbeau/awesome-gnss)
 * [Awesome GNSS](https://github.com/hdkarimi/awesome-gnss)
+* [GAMP: An open-source software of multi-GNSS precise point positioning using undifferenced and uncombined observations](https://www.ngs.noaa.gov/gps-toolbox/GAMP.htm)
 
 # RTK
 * [RTKLIB](http://www.rtklib.com/)
