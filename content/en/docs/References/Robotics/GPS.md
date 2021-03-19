@@ -18,12 +18,14 @@ description: Resources for GPS
 * [Awesome GNSS](https://github.com/hdkarimi/awesome-gnss)
 
 # RTK
-* [RTKLIB](https://github.com/tomojitakasu/RTKLIB)
+* [RTKLIB](http://www.rtklib.com/)
+* [RTKLIB on GitHub](https://github.com/tomojitakasu/RTKLIB)
+* [RTKLIN on OpenStreetMap
+* [simpleRTK2B](https://www.ardusimple.com/simplertk2b/)
+* [ArduSimple store](https://www.ardusimple.com/store/)
 
 # GPS Trackers
-*   [simpleRTK2B](https://www.ardusimple.com/simplertk2b/)
-*   [ArduSimple store](https://www.ardusimple.com/store/)
-*   [Balena Fin GPS Tracker](https://www.balena.io/blog/balena-fin-gps-tracker-project/)
+* [Balena Fin GPS Tracker](https://www.balena.io/blog/balena-fin-gps-tracker-project/)
 
 # GPS web applications
 * [OpenHAB GPSTracker Binding](https://www.openhab.org/addons/bindings/gpstracker/)
