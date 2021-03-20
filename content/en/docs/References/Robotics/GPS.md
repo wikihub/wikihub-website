@@ -12,6 +12,7 @@ description: Resources for GPS
 * [Real Time Kinematic (RTK) Positioning](https://en.wikipedia.org/wiki/Real-time_kinematic)
 * [Awesome GPS visualization](https://github.com/davidmerrick/awesome-gps-viz)
 * [Awesome location](https://github.com/shangxiazuoyou/awesome-location)
+* [Existing GPS algorithms and source code available](https://www.ngs.noaa.gov/gps-toolbox/exist.htm)
 
 # GNSS
 * [Awesome GNSS](https://github.com/barbeau/awesome-gnss)
@@ -24,6 +25,7 @@ description: Resources for GPS
 * [RTKLIN on OpenStreetMap
 * [simpleRTK2B](https://www.ardusimple.com/simplertk2b/)
 * [ArduSimple store](https://www.ardusimple.com/store/)
+* [RTK Explorer](https://rtkexplorer.com/)
 
 # GPS Trackers
 * [Balena Fin GPS Tracker](https://www.balena.io/blog/balena-fin-gps-tracker-project/)
