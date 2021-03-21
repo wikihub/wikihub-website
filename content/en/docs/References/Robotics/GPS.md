@@ -22,7 +22,7 @@ description: Resources for GPS
 # RTK
 * [RTKLIB](http://www.rtklib.com/)
 * [RTKLIB on GitHub](https://github.com/tomojitakasu/RTKLIB)
-* [RTKLIN on OpenStreetMap
+* [RTKLIB on OpenStreetMap](https://wiki.openstreetmap.org/wiki/RTKLIB)
 * [simpleRTK2B](https://www.ardusimple.com/simplertk2b/)
 * [ArduSimple store](https://www.ardusimple.com/store/)
 * [RTK Explorer](https://rtkexplorer.com/)
