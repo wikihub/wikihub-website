@@ -41,6 +41,10 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://design.ros2.org/articles/ros2_access_control_policies.html&#34;&gt;ROS2 access control policies&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h1 id=&#34;turtlebot-3&#34;&gt;TurtleBot 3&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://emanual.robotis.com/docs/en/platform/turtlebot3/ros2_simulation/&#34;&gt;ROS2 simulation for TurtleBot 3&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
       </description>
     </item>
