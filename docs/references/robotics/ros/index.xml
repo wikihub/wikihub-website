@@ -29,6 +29,7 @@
         
         
         &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.ros.org/en/foxy/&#34;&gt;ROS 2 Documentation: Foxy&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/ros2/ros2&#34;&gt;ROS2 meta repository&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://index.ros.org/doc/ros2/&#34;&gt;ROS2 documentation&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://index.ros.org/packages/&#34;&gt;ROS2 packages&lt;/a&gt;&lt;/li&gt;
