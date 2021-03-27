@@ -34,3 +34,4 @@ description: Resources for NVIDIA robotics and the Isaac framework
 * [Premio](https://premioinc.com/pages/industrial-gpu-computer)
 * [Industrial PC](https://industrialpc.com/product-category/embedded/gpu-computers/)
 * [OnLogic](https://www.onlogic.com/hx600/)
+* [Neousys GPU Computing Systems](https://www.neousys-tech.com/en/discover/gpu-embedded-computing)
