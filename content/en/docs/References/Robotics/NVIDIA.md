@@ -35,3 +35,6 @@ description: Resources for NVIDIA robotics and the Isaac framework
 * [Industrial PC](https://industrialpc.com/product-category/embedded/gpu-computers/)
 * [OnLogic](https://www.onlogic.com/hx600/)
 * [Neousys GPU Computing Systems](https://www.neousys-tech.com/en/discover/gpu-embedded-computing)
+
+# Robot Computers
+* [Intel® NUC Board NUC7i7DNBE](https://ark.intel.com/content/www/us/en/ark/products/130394/intel-nuc-board-nuc7i7dnbe.html)
