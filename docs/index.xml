@@ -1301,6 +1301,22 @@
     </item>
     
     <item>
+      <title>Docs: Julia</title>
+      <link>https://wikihub.github.io/docs/references/software/julia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/software/julia/</guid>
+      <description>
+        
+        
+        &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://juliarobotics.org/&#34;&gt;Julia Robotics&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Docs: Python</title>
       <link>https://wikihub.github.io/docs/references/software/python/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -2631,112 +2647,6 @@ Don’t Worry, You Can’t Break It. We Promise.&lt;/li&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://formspree.io/&#34;&gt;Formspree&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.smashingmagazine.com/2018/05/building-serverless-contact-form-static-website/&#34;&gt;Building serverless contact form static website&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Docs: Simulation</title>
-      <link>https://wikihub.github.io/docs/references/software/simulation/</link>
-      <pubDate>Thu, 07 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://wikihub.github.io/docs/references/software/simulation/</guid>
-      <description>
-        
-        
-        &lt;h1 id=&#34;opengl&#34;&gt;OpenGL&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.howtoforge.com/tutorial/linux-gpu-benchmark/&#34;&gt;Linux GPU Benchmark&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;web&#34;&gt;Web&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://creative-connections.github.io/bodylight.js/&#34;&gt;Bodylight.js&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.visualcomponents.com/&#34;&gt;Visual Components&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;3d-design&#34;&gt;3D Design&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.blender.org/&#34;&gt;Blender 3D&lt;/a&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://blender.stackexchange.com/&#34;&gt;Blender Questions&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.tinkercad.com/&#34;&gt;Tinkercad&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;3d-models&#34;&gt;3D Models&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://grabcad.com/library&#34;&gt;Popular models | 3D CAD Model Collection | GrabCAD Community Library&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.cgtrader.com/&#34;&gt;My Hub | CGTrader&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.blendswap.com/&#34;&gt;Welcome to Blend Swap! | Blend Swap&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://clara.io/library&#34;&gt;Free 3D Models, Download or Edit Online · Clara.io&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://clara.io/&#34;&gt;Clara.io: Online 3D Modeling, 3D Rendering, Free 3D Models&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sketchfab.com/&#34;&gt;Sketchfab - Your 3D content on web, mobile, AR, and VR.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.turbosquid.com/&#34;&gt;3D Models for Professionals :: TurboSquid&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.thingiverse.com/&#34;&gt;Thingiverse - Digital Designs for Physical Objects&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://free3d.com/3d-models/library&#34;&gt;Library Free 3D Models download - Free3D&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://free3d.com/&#34;&gt;3D Models for Free - Free3D.com&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://all3dp.com/1/free-stl-files-3d-printer-models-3d-print-files-stl-download/&#34;&gt;33 Best Sites for Free STL Files &amp;amp; 3D Printer Models in 2019 | All3DP&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.myminifactory.com/&#34;&gt;MyMiniFactory - Guaranteed free and paid 3D Printable Files and Designs&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://cults3d.com/en&#34;&gt;Cults ・ Download for free 3D models for 3D printers&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://pinshape.com/&#34;&gt;Free 3D Printable Files and Designs | Pinshape&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://3dsky.org/3dmodels/1?style=all&amp;amp;order=free&#34;&gt;3d models - download 3dsky.org&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://gallery.autodesk.com/&#34;&gt;Free 3D models, Rendering images and CAD files | Autodesk Online Gallery&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://archibaseplanet.com/&#34;&gt;Home Design, Free 3D models, High Quality Textures, Online Interior Design, Largest Architects Database at Archibase Planet&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://archive3d.net/&#34;&gt;Free 3D Models and Objects Archive. Download: 3ds , obj , gsm , max models&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.cadnav.com/3d-models/&#34;&gt;3D Models &amp;amp; 3D Objects Free Download - cadnav.com&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://stock.adobe.com/ca/search?filters%5Bcontent_type%3A3d%5D=1&amp;amp;filters%5B3d_type_id%5D%5B0%5D=1&amp;amp;load_type=3d+lp&#34;&gt;Stock photos, royalty-free images, graphics, vectors &amp;amp; videos | Adobe Stock&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://3dwarehouse.sketchup.com/&#34;&gt;3D Warehouse&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.sketchup.com/download/all&#34;&gt;Download All | SketchUp&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.cgtrader.com/3d-models/vehicle/other/argo-j6-atlas-xtr&#34;&gt;ARGO J6 Atlas XTR 3D | CGTrader&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.argo-xtr.com/&#34;&gt;ARGO XTR robotic mobility solutions&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;industry-40&#34;&gt;Industry 4.0&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.ibm.com/industries/manufacturing/smart-manufacturing-technology&#34;&gt;IBM Smart Manufacturing Technology&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://octopuz.com/&#34;&gt;Octopuz&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;3d-modeling&#34;&gt;3D Modeling&lt;/h1&gt;
-&lt;h2 id=&#34;3d-reconstruction&#34;&gt;3D Reconstruction&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.capturingreality.com&#34;&gt;Capturing Reality&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;lidar&#34;&gt;LiDAR&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://3dinsider.com/lidar-sensors/&#34;&gt;LiDAR Sensors&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;gopro-3d&#34;&gt;GoPro 3D&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.thevisorshop.com/en/GoPro-3D-Hero-System/m-16073.aspx&#34;&gt;GoPro 3D Hero System&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.amazon.ca/GoPro-System-HERO3-Camera-included/dp/B00J9RO4U2&#34;&gt;GoPro Dual HERO System for HERO3+&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.amazon.ca/GoPro-Japanese-Regular-Premium-Accessory/dp/B004VQAZ54&#34;&gt;GoPro Nippon Japanese Regular Edition&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;3d-scanning-service&#34;&gt;3D Scanning Service&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.ellisdon.com/subservice/3d-scanning/&#34;&gt;EllisDon&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.pix4d.com/industry/real-estate&#34;&gt;PIX4D&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://matterport.com/&#34;&gt;Matter Port: 3D Capture for All&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.xmeasures.com&#34;&gt;Extreme Measures&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;vancouver&#34;&gt;Vancouver&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://scanlab.ca/&#34;&gt;Scanlab&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.wsp.com/en-CA/services/3d-laser-scanning&#34;&gt;WSP&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.underhill.ca/land-surveying-service/4/3d-laser-scanning&#34;&gt;Underhill&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.3dreveng.com/&#34;&gt;3D RevEng&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://corbel3d.com/&#34;&gt;Corel3D&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;drone-mapping-services&#34;&gt;Drone Mapping Services&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://theskyguys.ca/&#34;&gt;The Sky Guys&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.precisionhawk.com/blog/media/topic/drone-based-lidar-know&#34;&gt;Drone based LiDAR&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;computational-3d-object-manipulation&#34;&gt;Computational 3D Object Manipulation&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/JuliaPlots/Makie.jl&#34;&gt;Makie&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;heat&#34;&gt;Heat&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://documentation.cenos-platform.com/docs/getting-started/cenos-overview&#34;&gt;CENOS&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
