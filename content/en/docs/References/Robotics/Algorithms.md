@@ -39,6 +39,7 @@ description: Resources for algorithms in robotics
 
 * [Forrest-Z collection](https://github.com/Forrest-Z?tab=repositories)
 * [NEU-ZJX collection](https://github.com/NEU-ZJX?tab=repositories)
+* [Planning algorithms](http://lavalle.pl/planning/book.pdf)
 
 # SLAM
 
