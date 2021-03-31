@@ -797,7 +797,11 @@
 &lt;li&gt;&lt;a href=&#34;https://vision.in.tum.de/data/datasets/rgbd-dataset/tools&#34;&gt;Useful tools for the RGB-D benchmark&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://vision.in.tum.de/data/datasets/rgbd-dataset/download&#34;&gt;TUM RGB-D datasets&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id=&#34;mapping&#34;&gt;Mapping&lt;/h1&gt;
+&lt;h1 id=&#34;navigation&#34;&gt;Navigation&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/Boeing/modular_navigation&#34;&gt;Boeing modular navigation&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;mapping&#34;&gt;Mapping&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/googlecartographer/cartographer&#34;&gt;Cartographer&lt;/a&gt;
 &lt;ul&gt;
@@ -809,7 +813,7 @@
 &lt;li&gt;&lt;a href=&#34;https://github.com/ethz-asl/voxblox&#34;&gt;Voxblox&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://wiki.ros.org/pointcloud_to_laserscan&#34;&gt;pointcloud to laserscan&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;rtab-map&#34;&gt;RTAB Map&lt;/h2&gt;
+&lt;h3 id=&#34;rtab-map&#34;&gt;RTAB Map&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://introlab.github.io/rtabmap/&#34;&gt;RTAB-Map&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://robohub.org/real-time-appearance-based-mapping-in-action-at-the-microsoft-kinect-challenge-iros-2014/&#34;&gt;RTAB mapping in action&lt;/a&gt;&lt;/li&gt;
