@@ -20,7 +20,10 @@ description: Resources for algorithms in robotics
 * [Useful tools for the RGB-D benchmark](https://vision.in.tum.de/data/datasets/rgbd-dataset/tools)
 * [TUM RGB-D datasets](https://vision.in.tum.de/data/datasets/rgbd-dataset/download)
 
-# Mapping
+# Navigation
+* [Boeing modular navigation](https://github.com/Boeing/modular_navigation)
+
+## Mapping
 
 * [Cartographer](https://github.com/googlecartographer/cartographer)
    * [Cartographer ROS](https://google-cartographer-ros.readthedocs.io/en/latest/)
@@ -29,7 +32,7 @@ description: Resources for algorithms in robotics
 * [Voxblox](https://github.com/ethz-asl/voxblox)
 * [pointcloud to laserscan](http://wiki.ros.org/pointcloud_to_laserscan)
 
-## RTAB Map
+### RTAB Map
 
 * [RTAB-Map](http://introlab.github.io/rtabmap/)
 * [RTAB mapping in action](https://robohub.org/real-time-appearance-based-mapping-in-action-at-the-microsoft-kinect-challenge-iros-2014/)
