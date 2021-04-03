@@ -30,7 +30,7 @@ description: News and information about robot platforms
 * [K-Team](http://www.k-team.com/)
 * [Omron](https://automation.omron.com/en/ca/products/family/LD)
     * [Mobile Planner](https://automation.omron.com/en/ca/products/family/Mobile%20Planner)
-* [LeRover](https://www.leorover.tech/
+* [LeRover](https://www.leorover.tech/)
 
 ## Hoverboard motor
 
@@ -56,6 +56,7 @@ description: News and information about robot platforms
 * [Ubiquity motor](https://github.com/UbiquityRobotics/ubiquity_motor)
 * [Tune motor responsiveness](https://forum.ubiquityrobotics.com/t/how-to-tune-motor-responsiveness/97)
 * [Magni robot](https://github.com/UbiquityRobotics/magni_robot)
+* [Connecting to Magni (pass:robotseverywhere)](https://learn.ubiquityrobotics.com/connecting)
 
 ## Legged Robots
 
