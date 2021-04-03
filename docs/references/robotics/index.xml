@@ -959,7 +959,7 @@
 &lt;li&gt;&lt;a href=&#34;https://automation.omron.com/en/ca/products/family/Mobile%20Planner&#34;&gt;Mobile Planner&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;[LeRover](&lt;a href=&#34;https://www.leorover.tech/&#34;&gt;https://www.leorover.tech/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.leorover.tech/&#34;&gt;LeRover&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;hoverboard-motor&#34;&gt;Hoverboard motor&lt;/h2&gt;
 &lt;ul&gt;
@@ -984,6 +984,7 @@
 &lt;li&gt;&lt;a href=&#34;https://github.com/UbiquityRobotics/ubiquity_motor&#34;&gt;Ubiquity motor&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://forum.ubiquityrobotics.com/t/how-to-tune-motor-responsiveness/97&#34;&gt;Tune motor responsiveness&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/UbiquityRobotics/magni_robot&#34;&gt;Magni robot&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://learn.ubiquityrobotics.com/connecting&#34;&gt;Connecting to Magni (pass:robotseverywhere)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;legged-robots&#34;&gt;Legged Robots&lt;/h2&gt;
 &lt;ul&gt;
