@@ -985,6 +985,10 @@
 &lt;li&gt;&lt;a href=&#34;https://forum.ubiquityrobotics.com/t/how-to-tune-motor-responsiveness/97&#34;&gt;Tune motor responsiveness&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/UbiquityRobotics/magni_robot&#34;&gt;Magni robot&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://learn.ubiquityrobotics.com/connecting&#34;&gt;Connecting to Magni (pass:robotseverywhere)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/rohbotics/magni_web&#34;&gt;Magni web&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/cduncan20/Magni-Robot-with-Reinforcement-Learning&#34;&gt;Reinforcement learning on Magni&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/sharp-rmf/magni_rplidar_nav&#34;&gt;Magni RPLIDAR-A3 Navigation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/SCrawCode/GPS-Localization&#34;&gt;GPS localization on Magni&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;legged-robots&#34;&gt;Legged Robots&lt;/h2&gt;
 &lt;ul&gt;
