@@ -57,6 +57,10 @@ description: News and information about robot platforms
 * [Tune motor responsiveness](https://forum.ubiquityrobotics.com/t/how-to-tune-motor-responsiveness/97)
 * [Magni robot](https://github.com/UbiquityRobotics/magni_robot)
 * [Connecting to Magni (pass:robotseverywhere)](https://learn.ubiquityrobotics.com/connecting)
+* [Magni web](https://github.com/rohbotics/magni_web)
+* [Reinforcement learning on Magni](https://github.com/cduncan20/Magni-Robot-with-Reinforcement-Learning)
+* [Magni RPLIDAR-A3 Navigation](https://github.com/sharp-rmf/magni_rplidar_nav)
+* [GPS localization on Magni](https://github.com/SCrawCode/GPS-Localization)
 
 ## Legged Robots
 
