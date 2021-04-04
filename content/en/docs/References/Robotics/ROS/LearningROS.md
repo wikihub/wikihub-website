@@ -17,6 +17,7 @@ description: News and information about learning ROS
 * [ROS Index](https://index.ros.org/)
 * [Awesome robotic tooling](https://github.com/Ly0n/awesome-robotic-tooling)
 * [ROS best practices](https://github.com/leggedrobotics/ros_best_practices/wiki)
+* [Introduction to Autonomous Robotics Michigan EECS 367](https://autorob.org/lectures/autorob_10_pointclouds_middleware.pdf)
 
 ## Graphs
 * [rqt graph – visualize and debug your ROS graph](https://roboticsbackend.com/rqt-graph-visualize-and-debug-your-ros-graph/)
