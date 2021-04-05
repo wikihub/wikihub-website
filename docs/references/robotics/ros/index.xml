@@ -20,6 +20,22 @@
     
     
     <item>
+      <title>Docs: Navigation</title>
+      <link>https://wikihub.github.io/docs/references/robotics/ros/navigation/</link>
+      <pubDate>Mon, 05 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/robotics/ros/navigation/</guid>
+      <description>
+        
+        
+        &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://wiki.ros.org/hector_slam&#34;&gt;hector_slam&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Docs: ROS2</title>
       <link>https://wikihub.github.io/docs/references/robotics/ros/ros2/</link>
       <pubDate>Thu, 18 Apr 2019 00:00:00 +0000</pubDate>
