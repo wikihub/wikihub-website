@@ -1874,6 +1874,25 @@ Don’t Worry, You Can’t Break It. We Promise.&lt;/li&gt;
     </item>
     
     <item>
+      <title>Docs: Lidars</title>
+      <link>https://wikihub.github.io/docs/references/robotics/lidars/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/robotics/lidars/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;2d-lidars&#34;&gt;2D Lidars&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ydlidar.com/&#34;&gt;YDLidar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/ydlidar/sdk&#34;&gt;YDLidar SDK&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/rasheeddo/testYDLidar&#34;&gt;Testing YDLidar&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Docs: Manipulators</title>
       <link>https://wikihub.github.io/docs/references/robotics/manipulators/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -2620,38 +2639,6 @@ Don’t Worry, You Can’t Break It. We Promise.&lt;/li&gt;
 &lt;h1 id=&#34;ssh-tunnels&#34;&gt;ssh tunnels&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://newprior.com/blog_reverse_ssh.html&#34;&gt;Reverse ssh&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Docs: Web Applications</title>
-      <link>https://wikihub.github.io/docs/references/software/webdevelopment/apps/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://wikihub.github.io/docs/references/software/webdevelopment/apps/</guid>
-      <description>
-        
-        
-        &lt;h1 id=&#34;frontend&#34;&gt;Frontend&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://boilerplates.js.org/&#34;&gt;Boilerplates&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;search&#34;&gt;Search&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.algolia.com/&#34;&gt;Algolia&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;financial-applications&#34;&gt;Financial Applications&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://firefly-iii.org/&#34;&gt;Firefly&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://getpassiv.com&#34;&gt;Getpassiv&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.portfoliovisualizer.com&#34;&gt;Portfolio Visualizer&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;forms&#34;&gt;Forms&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://formspree.io/&#34;&gt;Formspree&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.smashingmagazine.com/2018/05/building-serverless-contact-form-static-website/&#34;&gt;Building serverless contact form static website&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
