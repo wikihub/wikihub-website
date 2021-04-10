@@ -31,6 +31,7 @@ description: News and information about robot platforms
 * [Omron](https://automation.omron.com/en/ca/products/family/LD)
     * [Mobile Planner](https://automation.omron.com/en/ca/products/family/Mobile%20Planner)
 * [LeRover](https://www.leorover.tech/)
+* [YZ robots](http://www.yzrobot.cn/en/robot-list.html)
 
 ## Hoverboard motor
 
