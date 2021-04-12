@@ -33,6 +33,10 @@ description: News and information about robot platforms
 * [LeRover](https://www.leorover.tech/)
 * [YZ robots](http://www.yzrobot.cn/en/robot-list.html)
 
+## Mecanum wheels
+* [YDLIDAR X2 360° Laser Scanner Robot (with Batteries)](https://www.robotshop.com/ca/en/ydlidar-x2-360-laser-scanner-robot-w-batteries.html)
+* [ROS Autopilot Mecanum Wheel Robot Car with Raspberry Pi STM32f103r8t6 Raspberry Pi Lidar](https://www.aliexpress.com/item/1005002356176222.html)
+
 ## Hoverboard motor
 
 * [ArrBot](https://hackaday.io/project/163723-arrbot/details)
