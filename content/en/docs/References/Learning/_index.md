@@ -73,6 +73,9 @@ description: Resources for learning
 *   [60 amazing resources to learn coding](https://www.houseofbots.com/news-detail/4166-4-60-amazing-resources-&-tools-to-learn-programming-language-coding)
 *   [freeCodeCamp](https://www.freecodecamp.org/)
 
+## C++
+* [Modern C++ at the University of Bonn](https://youtu.be/sZK6ouwREXA)
+
 ## Node JS
 
 *   [Node School](https://nodeschool.io/)
