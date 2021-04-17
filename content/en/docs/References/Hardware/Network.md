@@ -11,6 +11,9 @@ description: Network and Internet resources
 * Run `sudo apt install avahi-daemon libnss-mdns` in your VM, and make sure that your networking config is in ‘Bridge Mode’ to get .local addressing working.
 * [How to Share A Folder via SMB/CIFS Protocol in Ubuntu 20.04](http://ubuntuhandbook.org/index.php/2020/07/share-folder-smb-ubuntu-20-04/)
 
+# Speed test
+* [Test Internet connection speed from ssh command](https://www.cyberciti.biz/faq/linux-unix-test-internet-connection-download-upload-speed/)
+
 # Scan network
 * `sudo nmap -sn 192.168.0.1/24`
 
