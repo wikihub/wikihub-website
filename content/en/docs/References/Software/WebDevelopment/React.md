@@ -62,6 +62,7 @@ description: News and information about React development
 
 ## Authentication
 
+*   [Announcing React-Netlify-Identity-Gotrue!](https://jonsully.net/blog/announcing-react-netlify-identity-gotrue/)
 *   [Gatsby authentication tutorial](https://www.gatsbyjs.org/tutorial/authentication-tutorial/)
 *   [Building a site with Gatsby with authentication](https://www.gatsbyjs.org/docs/building-a-site-with-authentication/)
 *   [Gatsby client only routes and user authentication](https://www.gatsbyjs.org/docs/client-only-routes-and-user-authentication/)
