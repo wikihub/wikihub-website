@@ -75,6 +75,11 @@ description: Resources for learning
 
 ## C++
 * [Modern C++ at the University of Bonn](https://youtu.be/sZK6ouwREXA)
+* [The C++ Programming Language, Bjarne Stroustrup](https://www.stroustrup.com/C++.html)
+* [C++ Reference](https://en.cppreference.com/w/cpp)
+* [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
+* [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
+* [C++ Tutorial](https://www.cplusplus.com/doc/tutorial/)
 
 ## Node JS
 
