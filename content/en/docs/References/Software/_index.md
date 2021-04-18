@@ -33,6 +33,7 @@ description: Software resources
 
 # Linux
 * [Linux Command Line Pipes and Redirection](https://youtu.be/mV_8GbzwZMM)
+* [Beginner's Guide to the Bash Terminal](https://youtu.be/oxuRxtrO2Ag)
 
 ## Ubuntu
 
