@@ -16,8 +16,18 @@ description: Linux resources
 *   [jq](https://stedolan.github.io/jq/)
 *   [locale](https://www.thomas-krenn.com/en/wiki/Configure_Locales_in_Ubuntu)
 *   [Symbolic link](https://linuxhint.com/create_symbolic_link_ubuntu/)
-*   Search apt packages: apt-cache search keyword
 *   [How to change a USER and GROUP ID on Linux for all owned files](https://www.cyberciti.biz/faq/linux-change-user-group-uid-gid-for-all-owned-files/)
+
+# Users
+* [How to create modify and delete users account on Linux](https://linuxconfig.org/how-to-create-modify-and-delete-users-account-on-linux)
+
+# Package Managers
+
+## APT
+*   Search apt packages: apt-cache search keyword
+
+## Brew
+* [Homebrew on Linux](https://docs.brew.sh/Homebrew-on-Linux)
 
 # File Sharing
 
