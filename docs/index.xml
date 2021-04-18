@@ -2607,46 +2607,91 @@ Don’t Worry, You Can’t Break It. We Promise.&lt;/li&gt;
     </item>
     
     <item>
-      <title>Docs: ssh</title>
-      <link>https://wikihub.github.io/docs/references/software/ssh/</link>
+      <title>Docs: Linux</title>
+      <link>https://wikihub.github.io/docs/references/software/linux/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://wikihub.github.io/docs/references/software/ssh/</guid>
+      <guid>https://wikihub.github.io/docs/references/software/linux/</guid>
       <description>
         
         
-        &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.ssh.com&#34;&gt;Official ssh website&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.ssh.com/ssh/keygen&#34;&gt;Generate ssh key for a remote computer&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://help.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent&#34;&gt;Generating a new SSH key and adding it to the ssh-agent&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://code.visualstudio.com/docs/remote/troubleshooting&#34;&gt;Visual Studio Code&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/lukesampson/pshazz/issues/70&#34;&gt;Set-Service ssh-agent -StartupType Manual&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_keymanagement&#34;&gt;OpenSSH key management&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys-on-ubuntu-1804&#34;&gt;ssh-copy-id&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys-on-ubuntu-1804&#34;&gt;How to set up ssh keys&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://nerderati.com/2011/03/17/simplify-your-life-with-an-ssh-config-file/&#34;&gt;Simplify Your Life With an SSH Config File&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://linux.die.net/man/5/ssh_config&#34;&gt;ssh config&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://wiki.gentoo.org/wiki/SSH_jump_host&#34;&gt;ssh jump host&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;macos&#34;&gt;macOS&lt;/h1&gt;
+        &lt;h1 id=&#34;bash&#34;&gt;bash&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://superuser.com/questions/1127067/macos-keeps-asking-my-ssh-passphrase-since-i-updated-to-sierra&#34;&gt;macOS keeps asking my ssh passphrase&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://linuxhint.com/30_bash_script_examples/&#34;&gt;30 bash script examples&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtu.be/mV_8GbzwZMM&#34;&gt;Linux Command Line Pipes and Redirection&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtu.be/oxuRxtrO2Ag&#34;&gt;Beginner&amp;rsquo;s Guide to the Bash Terminal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://chmod-calculator.com/&#34;&gt;chmod calculator&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://stedolan.github.io/jq/&#34;&gt;jq&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thomas-krenn.com/en/wiki/Configure_Locales_in_Ubuntu&#34;&gt;locale&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://linuxhint.com/create_symbolic_link_ubuntu/&#34;&gt;Symbolic link&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Search apt packages: apt-cache search keyword&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id=&#34;display&#34;&gt;Display&lt;/h1&gt;
+&lt;h1 id=&#34;file-sharing&#34;&gt;File Sharing&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;code&gt;ssh -X user@server&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;sudo apt install x11-apps&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;gedit&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;xeyes&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;xclock&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.seafile.com/en/home/&#34;&gt;Seafile&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.sparkleshare.org/&#34;&gt;Spark Share&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://askubuntu.com/questions/285539/detect-and-mount-devices&#34;&gt;Mount drives&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ubuntu.com/tutorials/install-and-configure-samba#4-setting-up-user-accounts-and-connecting-to-share&#34;&gt;Samba does not use the system account user and password&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;The /var/lib/samba/usershares folder should belong to the sambashare group. The user should also belong to the sambashare group.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id=&#34;file-transfer&#34;&gt;File transfer&lt;/h1&gt;
+&lt;h1 id=&#34;grub&#34;&gt;Grub&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://linuxize.com/post/how-to-use-scp-command-to-securely-transfer-files/&#34;&gt;How to use scp command to securely transfer files&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://help.ubuntu.com/community/Grub2/Troubleshooting&#34;&gt;Grub2 troubleshooting&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id=&#34;ssh-tunnels&#34;&gt;ssh tunnels&lt;/h1&gt;
+&lt;h1 id=&#34;regular-expressions&#34;&gt;Regular Expressions&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://newprior.com/blog_reverse_ssh.html&#34;&gt;Reverse ssh&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://regexr.com/&#34;&gt;regexr.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=rhzKDrUiJVk&#34;&gt;Learn Regular Expressions In 20 Minutes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sed.js.org/&#34;&gt;sed&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;desktop&#34;&gt;Desktop&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://discourse.ubuntubudgie.org/t/main-menu-disappeared/2378&#34;&gt;Fix the Budgie panel&lt;/a&gt;: &lt;code&gt;nohup budgie-panel --reset --replace &amp;amp;&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;tutorials&#34;&gt;Tutorials&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://bash.cyberciti.biz/guide/Main_Page&#34;&gt;Linux Shell Scripting Tutorial (LSST) v2.0&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://linuxhint.com/&#34;&gt;Linux Hint&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;log&#34;&gt;log&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;less /var/log/syslog&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;dd&#34;&gt;dd&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.howtoforge.com/tutorial/linux-dd-command-clone-disk-practical-example/&#34;&gt;Cloning disks&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;remote-desktop&#34;&gt;Remote desktop&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.linode.com/docs/applications/remote-desktop/install-vnc-on-ubuntu-16-04/&#34;&gt;Starting VNC server on boot&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/CDAT/cdat/wiki/Remote-server-setup-for-VNC&#34;&gt;Remote server setup for VNC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-vnc-on-ubuntu-18-04&#34;&gt;How to install and configure VNC on Ubuntu 18.04&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://askubuntu.com/questions/1068370/vnc-grey-screen-16-04-tightvnc-xfce4-solved&#34;&gt;VNC server on EC2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://askubuntu.com/questions/800302/vncserver-grey-screen-ubuntu-16-04-lts&#34;&gt;It would be good if this worked&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cloudcone.com/docs/article/install-desktop-vnc-ubuntu-16-04/&#34;&gt;Gnome VNC&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;folder-sync&#34;&gt;Folder Sync&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://computingforgeeks.com/how-to-install-and-use-syncthing-on-ubuntu-18-04/&#34;&gt;Syncthing&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;libraries&#34;&gt;Libraries&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Find different versions of libraries in a file: strings /usr/lib/x86_64-linux-gnu/libstdc++.so.6 | grep CXXABI&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;distribution&#34;&gt;Distribution&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.hostingadvice.com/how-to/ubuntu-show-version/&#34;&gt;Ubuntu — Show Version Number (Command Line and Unity)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cyberciti.biz/faq/find-ubuntu-linux-kernel-version-command/&#34;&gt;HowTo: Ubuntu Linux Kernel Version Command&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://itsfoss.com/find-which-kernel-version-is-running-in-ubuntu/&#34;&gt;3 Ways to Check Linux Kernel Version in Command Line&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://unetbootin.github.io/&#34;&gt;Installing persistent Ubuntu on USB flash drive&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;dual-boot&#34;&gt;Dual Boot&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.howtogeek.com/116569/htg-explains-how-windows-8s-secure-boot-feature-works-what-it-means-for-linux/&#34;&gt;How Secure Boot Works on Windows 8 and 10, and What It Means for Linux&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;vpn&#34;&gt;VPN&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cyberciti.biz/faq/howto-setup-openvpn-server-on-ubuntu-linux-14-04-or-16-04-lts/&#34;&gt;How To Set up OpenVPN Server In 5 Minutes on Ubuntu Linux&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
