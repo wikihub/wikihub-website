@@ -80,6 +80,7 @@ description: Resources for learning
 * [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
 * [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
 * [C++ Tutorial](https://www.cplusplus.com/doc/tutorial/)
+* [clang](http://clang.org/)
 
 ## Node JS
 
