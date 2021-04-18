@@ -32,6 +32,7 @@ description: Software resources
 *   [sed](https://sed.js.org/)
 
 # Linux
+* [Linux Command Line Pipes and Redirection](https://youtu.be/mV_8GbzwZMM)
 
 ## Ubuntu
 
