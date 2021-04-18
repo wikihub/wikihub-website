@@ -17,6 +17,7 @@ description: Linux resources
 *   [locale](https://www.thomas-krenn.com/en/wiki/Configure_Locales_in_Ubuntu)
 *   [Symbolic link](https://linuxhint.com/create_symbolic_link_ubuntu/)
 *   Search apt packages: apt-cache search keyword
+*   [How to change a USER and GROUP ID on Linux for all owned files](https://www.cyberciti.biz/faq/linux-change-user-group-uid-gid-for-all-owned-files/)
 
 # File Sharing
 
