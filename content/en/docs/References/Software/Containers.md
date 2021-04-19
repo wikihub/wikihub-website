@@ -7,6 +7,7 @@ description: News and information about containers
 ---
 
 # Docker
+* [Docker reference](https://docs.docker.com/reference/)
 * [Play with Docker](https://labs.play-with-docker.com/)
 * [Install Docker on Ubuntu](https://docs.docker.com/engine/install/ubuntu/)
 * [Dockerfile reference](https://docs.docker.com/engine/reference/builder/)
@@ -26,6 +27,7 @@ description: News and information about containers
 * [How to keep docker containers running](http://bigdatums.net/2017/11/07/how-to-keep-docker-containers-running/)
 * [Changing the entrypoint](https://docs.docker.com/engine/reference/run/#entrypoint-default-command-to-execute-at-runtime)
 * [Processes in containers should not run as root](https://medium.com/@mccode/processes-in-containers-should-not-run-as-root-2feae3f0df3b)
+* [Create a new image from a container’s changes](https://docs.docker.com/engine/reference/commandline/commit/)
 
 ## Distroless containers
 * [Google Distroless Containers](https://github.com/GoogleContainerTools/distroless)
