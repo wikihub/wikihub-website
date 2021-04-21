@@ -373,6 +373,10 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/cilynx/rtl88x2bu&#34;&gt;rtl88x2bu driver updated for current kernels&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h1 id=&#34;vpn&#34;&gt;VPN&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/ubergarm/l2tp-ipsec-vpn-client&#34;&gt;l2tp-ipsec-vpn-client&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h1 id=&#34;routers&#34;&gt;Routers&lt;/h1&gt;
 &lt;h2 id=&#34;lte-routers&#34;&gt;LTE Routers&lt;/h2&gt;
 &lt;ul&gt;
