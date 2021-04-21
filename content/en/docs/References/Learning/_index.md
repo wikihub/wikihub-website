@@ -81,6 +81,7 @@ description: Resources for learning
 * [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
 * [C++ Tutorial](https://www.cplusplus.com/doc/tutorial/)
 * [clang](http://clang.org/)
+* [Introduction to C++, MIT, 2011](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-096-introduction-to-c-january-iap-2011/index.htm)
 
 ## Node JS
 
