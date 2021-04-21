@@ -23,6 +23,9 @@ description: Network and Internet resources
 # WiFi Adapters
 * [rtl88x2bu driver updated for current kernels](https://github.com/cilynx/rtl88x2bu)
 
+# VPN
+* [l2tp-ipsec-vpn-client](https://github.com/ubergarm/l2tp-ipsec-vpn-client)
+
 # Routers
 
 ## LTE Routers
