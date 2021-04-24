@@ -1122,6 +1122,41 @@
     </item>
     
     <item>
+      <title>Docs: ROS2</title>
+      <link>https://wikihub.github.io/docs/references/robotics/ros2/</link>
+      <pubDate>Thu, 18 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/robotics/ros2/</guid>
+      <description>
+        
+        
+        &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.ros.org/en/foxy/&#34;&gt;ROS 2 Documentation: Foxy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/ros2/ros2&#34;&gt;ROS2 meta repository&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://index.ros.org/doc/ros2/&#34;&gt;ROS2 documentation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://index.ros.org/packages/&#34;&gt;ROS2 packages&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;development&#34;&gt;Development&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://allisonthackston.com/dockerfiles/&#34;&gt;Dockerfiles by Allison Thackston&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;ubuntu&#34;&gt;Ubuntu&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://ubuntu.com/blog/exploring-ros-2-with-kubernetes&#34;&gt;Exploring ROS2 with Kubernetes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;security&#34;&gt;Security&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://design.ros2.org/articles/ros2_access_control_policies.html&#34;&gt;ROS2 access control policies&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;turtlebot-3&#34;&gt;TurtleBot 3&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://emanual.robotis.com/docs/en/platform/turtlebot3/ros2_simulation/&#34;&gt;ROS2 simulation for TurtleBot 3&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Docs: ROS</title>
       <link>https://wikihub.github.io/docs/references/robotics/ros/</link>
       <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
