@@ -18,6 +18,9 @@ description: News and information about web applications for ROS2
 ## ROS2 Continuous Integration
 * [ROS2 on GitHub](https://github.com/ros2)
 
+## Project
+* [CaBot](https://github.com/CMU-cabot/cabot/tree/b576a450ee1bebbae1e7cc8a53a7835538198ad2)
+
 # Deployment
 * [Exploring ROS2 with Kubernetes](https://ubuntu.com/blog/exploring-ros-2-with-kubernetes)
 * [ROS2 on Kubernetes: a simple talker and listener setup](https://ubuntu.com/blog/ros-2-on-kubernetes-a-simple-talker-and-listener-setup)
