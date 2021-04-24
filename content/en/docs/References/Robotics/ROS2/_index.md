@@ -11,9 +11,10 @@ description: News and information about web applications for ROS2
 
 # Development
 * [Dockerfiles by Allison Thackston](https://allisonthackston.com/dockerfiles/)
-
-# Ubuntu
 * [Exploring ROS2 with Kubernetes](https://ubuntu.com/blog/exploring-ros-2-with-kubernetes)
+
+# Simulation
+* [Ignition vs Gazebo](https://allisonthackston.com/articles/ignition-vs-gazebo.html)
 
 # Security
 * [ROS2 access control policies](https://design.ros2.org/articles/ros2_access_control_policies.html)
