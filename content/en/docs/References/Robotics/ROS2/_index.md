@@ -10,7 +10,7 @@ description: News and information about web applications for ROS2
 * [ROS2 packages](https://index.ros.org/packages/)
 
 # Development
-## Allison Thackston
+## [Allison Thackston](https://allisonthackston.com/articles/)
 * [Dockerfiles by Allison Thackston](https://allisonthackston.com/dockerfiles/)
 * [VSCode, Docker, and ROS2](https://allisonthackston.com/articles/vscode-docker-ros2.html)
 
