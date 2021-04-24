@@ -1145,6 +1145,7 @@
 &lt;h1 id=&#34;deployment&#34;&gt;Deployment&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://ubuntu.com/blog/exploring-ros-2-with-kubernetes&#34;&gt;Exploring ROS2 with Kubernetes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ubuntu.com/blog/ros-2-on-kubernetes-a-simple-talker-and-listener-setup&#34;&gt;ROS2 on Kubernetes: a simple talker and listener setup&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;simulation&#34;&gt;Simulation&lt;/h1&gt;
 &lt;ul&gt;
