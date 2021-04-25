@@ -1149,6 +1149,11 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/ros2&#34;&gt;ROS2 on GitHub&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h2 id=&#34;nvidia&#34;&gt;NVIDIA&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.nvidia.com/blog/implementing-robotics-applications-with-ros-2-and-ai-on-jetson-platform-2/&#34;&gt;Implementing Robotics Applications with ROS 2 and AI on the NVIDIA Jetson Platform&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/dusty-nv/jetson-containers&#34;&gt;Jetson ROS containers&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2 id=&#34;tutorials&#34;&gt;Tutorials&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/ros2-realtime-demo/pendulum&#34;&gt;Pendulum&lt;/a&gt;&lt;/li&gt;
