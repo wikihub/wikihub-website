@@ -26,6 +26,9 @@ description: News and information about web applications for ROS2
 ## ROS2 Continuous Integration
 * [ROS2 on GitHub](https://github.com/ros2)
 
+## Docker
+* [Rolling Dockerfile by Emerson Knapp](https://github.com/emersonknapp/ros2containerbuild/tree/3232b170712137fafcbf953758a592022954e569)
+
 ## NVIDIA
 * [Implementing Robotics Applications with ROS 2 and AI on the NVIDIA Jetson Platform](https://developer.nvidia.com/blog/implementing-robotics-applications-with-ros-2-and-ai-on-jetson-platform-2/)
 * [Jetson ROS containers](https://github.com/dusty-nv/jetson-containers)
