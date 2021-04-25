@@ -1149,7 +1149,11 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/ros2&#34;&gt;ROS2 on GitHub&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;project&#34;&gt;Project&lt;/h2&gt;
+&lt;h2 id=&#34;tutorials&#34;&gt;Tutorials&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/ros2-realtime-demo/pendulum&#34;&gt;Pendulum&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;projects&#34;&gt;Projects&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/CMU-cabot/cabot/tree/b576a450ee1bebbae1e7cc8a53a7835538198ad2&#34;&gt;CaBot&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
