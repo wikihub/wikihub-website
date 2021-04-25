@@ -24,6 +24,9 @@ description: News and information about web applications for ROS2
 * [Implementing Robotics Applications with ROS 2 and AI on the NVIDIA Jetson Platform](https://developer.nvidia.com/blog/implementing-robotics-applications-with-ros-2-and-ai-on-jetson-platform-2/)
 * [Jetson ROS containers](https://github.com/dusty-nv/jetson-containers)
 
+## ROS bags
+* [Converting ROS bags from ROS1 to ROS2 and vice versa](https://github.com/leo-drive/ros1_bridge)
+
 ## Tutorials
 * [Pendulum](https://github.com/ros2-realtime-demo/pendulum)
 
