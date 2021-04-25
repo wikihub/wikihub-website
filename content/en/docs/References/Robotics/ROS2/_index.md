@@ -19,6 +19,10 @@ description: News and information about web applications for ROS2
 ## ROS2 Continuous Integration
 * [ROS2 on GitHub](https://github.com/ros2)
 
+## NVIDIA
+* [Implementing Robotics Applications with ROS 2 and AI on the NVIDIA Jetson Platform](https://developer.nvidia.com/blog/implementing-robotics-applications-with-ros-2-and-ai-on-jetson-platform-2/)
+* [Jetson ROS containers](https://github.com/dusty-nv/jetson-containers)
+
 ## Tutorials
 * [Pendulum](https://github.com/ros2-realtime-demo/pendulum)
 
