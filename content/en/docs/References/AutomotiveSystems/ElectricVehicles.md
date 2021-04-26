@@ -36,6 +36,24 @@ description: News and information about electric vehicles
 * [Kramer 5055e, zero emission](https://www.kramer-online.com/en/discover-kramer/zero-emission/the-kramer-5055e/)
 * [MultiOne EZ 7](http://www.multione.com/ez-7/)
 
+## Electric bicycles
+Here is the list of 14 best known electric bike brands in Canada (listed in random order):
+
+ * [Rad Power Bikes](https://radpowerbikes.ca)
+ * [Trek Electric Bikes](https://www.trekbikes.com/ca/en_CA/bikes/electric-bikes/c/B507/)
+ * [Surface 604](https://www.bikeberry.com/collections/surface-604)
+ * [Biktrix Electric Bikes](https://www.biktrix.ca/pages/ebikes)
+ * [Ohm Electric Bikes](https://ohmcycles.com/collections/e-bikes)
+ * [Spark Electric Bikes](https://www.sparkcycleworks.com/index.php/bike-selector/)
+ * [Elby Electric Bikes](https://elbymobility.com/purchase)
+ * [Pedego Electric Bikes](https://www.pedegoelectricbikes.com/products/)
+ * [Volt Electric Bikes](https://www.voltbike.com/all-bikes)
+ * [Junior E-Bikes](https://juniorsebikes.ca/)
+ * [Electric Fat Bike Company](https://electricfatbikecompany.com/)
+ * [Giant Electric Bikes](http://www.gianttoronto.com/ca)
+ * [Daymak Electric Bikes](https://www.daymak.com/ebikes.html)
+ * [eVox Electric Bikes](http://www.evoxbikes.com/home.html)
+
 # Drivetrain
 
 # Motors
