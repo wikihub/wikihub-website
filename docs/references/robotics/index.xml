@@ -1142,6 +1142,7 @@
 &lt;h1 id=&#34;development&#34;&gt;Development&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://docs.ros.org/en/foxy/Installation/Ubuntu-Development-Setup.html&#34;&gt;Build ROS2 from source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.ros.org/en/foxy/Guides/Installation-Troubleshooting.html&#34;&gt;Installation troubleshooting&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://roboticsbackend.com/ros2-launch-file-example/&#34;&gt;ROS2 Launch File Example&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://cross-compile.readthedocs.io/en/latest/&#34;&gt;ROS / ROS 2 Cross Compile Tool&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
