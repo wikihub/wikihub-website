@@ -1151,6 +1151,10 @@
 &lt;li&gt;&lt;a href=&#34;https://allisonthackston.com/dockerfiles/&#34;&gt;Dockerfiles by Allison Thackston&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://allisonthackston.com/articles/vscode-docker-ros2.html&#34;&gt;VSCode, Docker, and ROS2&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h2 id=&#34;ros2-cli&#34;&gt;ROS2 CLI&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;ros2 pkg xml package&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2 id=&#34;ros-middleware-rmw&#34;&gt;ROS Middleware (RMW)&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://docs.ros.org/en/foxy/Installation/DDS-Implementations/Working-with-Eclipse-CycloneDDS.html&#34;&gt;Working with Eclipse Cyclone DDS&lt;/a&gt;&lt;/li&gt;
