@@ -27,15 +27,14 @@ description: News and information about web applications for ROS2
 * `ros2 pkg xml package`
 
 ## ROS Middleware (RMW)
-* [Working with Eclipse Cyclone DDS](https://docs.ros.org/en/foxy/Installation/DDS-Implementations/Working-with-Eclipse-CycloneDDS.html)
-
-## DDS
 * [DDS tuning](https://docs.ros.org/en/foxy/Guides/DDS-tuning.html)
+* [Working with multiple ROS 2 middleware implementations](https://docs.ros.org/en/foxy/Guides/Working-with-multiple-RMW-implementations.html)
 
 ## ROS2 Continuous Integration
 * [ROS2 on GitHub](https://github.com/ros2)
 
-## Docker
+## ROS2 and Containers
+* [Running ROS 2 nodes in Docker](https://docs.ros.org/en/foxy/Guides/Run-2-nodes-in-single-or-separate-docker-containers.html)
 * [Rolling Dockerfile by Emerson Knapp](https://github.com/emersonknapp/ros2containerbuild/tree/3232b170712137fafcbf953758a592022954e569)
 * [ROS2 realtime demo: pendulum ](https://github.com/ros2-realtime-demo/pendulum/blob/foxy/ade/docker-base/Dockerfile)
 
