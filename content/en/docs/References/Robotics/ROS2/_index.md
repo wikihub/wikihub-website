@@ -26,6 +26,9 @@ description: News and information about web applications for ROS2
 ## ROS Middleware (RMW)
 * [Working with Eclipse Cyclone DDS](https://docs.ros.org/en/foxy/Installation/DDS-Implementations/Working-with-Eclipse-CycloneDDS.html)
 
+## DDS
+* [DDS tuning](https://docs.ros.org/en/foxy/Guides/DDS-tuning.html)
+
 ## ROS2 Continuous Integration
 * [ROS2 on GitHub](https://github.com/ros2)
 
