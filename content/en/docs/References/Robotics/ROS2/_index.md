@@ -23,6 +23,9 @@ description: News and information about web applications for ROS2
 * [Dockerfiles by Allison Thackston](https://allisonthackston.com/dockerfiles/)
 * [VSCode, Docker, and ROS2](https://allisonthackston.com/articles/vscode-docker-ros2.html)
 
+## ROS2 CLI
+* `ros2 pkg xml package`
+
 ## ROS Middleware (RMW)
 * [Working with Eclipse Cyclone DDS](https://docs.ros.org/en/foxy/Installation/DDS-Implementations/Working-with-Eclipse-CycloneDDS.html)
 
