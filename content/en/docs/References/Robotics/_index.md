@@ -31,6 +31,7 @@ description: Resources for robotics
 * [Athenian FRC Robotics](https://www.athenian-robotics.org/)
 
 # Software
+* [Awesome Robotic Tooling](https://freerobotics.tools/)
 
 ## Multi-Agent Reinforcement Learning
 
