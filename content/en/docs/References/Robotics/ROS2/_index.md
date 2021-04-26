@@ -15,6 +15,7 @@ description: News and information about web applications for ROS2
 
 # Development
 * [Build ROS2 from source](https://docs.ros.org/en/foxy/Installation/Ubuntu-Development-Setup.html)
+* [Installation troubleshooting](https://docs.ros.org/en/foxy/Guides/Installation-Troubleshooting.html)
 * [ROS2 Launch File Example](https://roboticsbackend.com/ros2-launch-file-example/)
 * [ROS / ROS 2 Cross Compile Tool](https://cross-compile.readthedocs.io/en/latest/)
 
