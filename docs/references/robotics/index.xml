@@ -1165,6 +1165,7 @@
 &lt;li&gt;&lt;a href=&#34;https://github.com/objectcomputing/OpenDDS&#34;&gt;OpenDDS source code&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/oci-labs/rmw_build/blob/master/README.md&#34;&gt;ROS2 and OpenDDS&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/ros2/performance_test&#34;&gt;Performance test&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.robotandchisel.com/2020/08/12/cyclonedds/&#34;&gt;Some Notes on Cyclone DDS&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;ros2-continuous-integration&#34;&gt;ROS2 Continuous Integration&lt;/h2&gt;
 &lt;ul&gt;
