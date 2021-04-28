@@ -39,6 +39,9 @@ description: News and information about web applications for ROS2
 ## ROS2 Continuous Integration
 * [ROS2 on GitHub](https://github.com/ros2)
 
+## Testing
+* [Autoware.Auto: Testing in general](https://autowarefoundation.gitlab.io/autoware.auto/AutowareAuto/testing-in-general.html)
+
 ## ROS2 and Containers
 * [Running ROS 2 nodes in Docker](https://docs.ros.org/en/foxy/Guides/Run-2-nodes-in-single-or-separate-docker-containers.html)
 * [Rolling Dockerfile by Emerson Knapp](https://github.com/emersonknapp/ros2containerbuild/tree/3232b170712137fafcbf953758a592022954e569)
