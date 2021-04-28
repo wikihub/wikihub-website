@@ -18,6 +18,7 @@ description: News and information about web applications for ROS2
 * [Installation troubleshooting](https://docs.ros.org/en/foxy/Guides/Installation-Troubleshooting.html)
 * [ROS2 Launch File Example](https://roboticsbackend.com/ros2-launch-file-example/)
 * [ROS / ROS 2 Cross Compile Tool](https://cross-compile.readthedocs.io/en/latest/)
+* [ROS1 Bridge](https://github.com/ros2/ros1_bridge/blob/foxy/README.md)
 
 ## [Allison Thackston](https://allisonthackston.com/articles/)
 * [Dockerfiles by Allison Thackston](https://allisonthackston.com/dockerfiles/)
