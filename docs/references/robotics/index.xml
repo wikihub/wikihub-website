@@ -1170,6 +1170,10 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/ros2&#34;&gt;ROS2 on GitHub&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h2 id=&#34;testing&#34;&gt;Testing&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://autowarefoundation.gitlab.io/autoware.auto/AutowareAuto/testing-in-general.html&#34;&gt;Autoware.Auto: Testing in general&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2 id=&#34;ros2-and-containers&#34;&gt;ROS2 and Containers&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://docs.ros.org/en/foxy/Guides/Run-2-nodes-in-single-or-separate-docker-containers.html&#34;&gt;Running ROS 2 nodes in Docker&lt;/a&gt;&lt;/li&gt;
