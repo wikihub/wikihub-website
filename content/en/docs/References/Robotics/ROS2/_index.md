@@ -44,6 +44,7 @@ description: News and information about web applications for ROS2
 * [Notes on ROS2 and rosserial](https://newscrewdriver.com/2020/08/05/notes-on-ros2-and-rosserial/)
 * [Micro XRCE-DDS compared to rosserial](https://micro.ros.org/docs/concepts/middleware/rosserial/)
 * [How to include a custom ROS message in micro-ROS](https://micro.ros.org/docs/tutorials/advanced/create_new_type/)
+* [eProsima Micro XRCE-DDS](https://micro-xrce-dds.docs.eprosima.com/en/latest/introduction.html)
 
 ## ROS2 Continuous Integration
 * [ROS2 on GitHub](https://github.com/ros2)
