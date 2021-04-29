@@ -40,6 +40,11 @@ description: News and information about web applications for ROS2
 * [ddsperf](https://github.com/ros2/rmw_cyclonedds/issues/216)
 * [Some Notes on Cyclone DDS](https://www.robotandchisel.com/2020/08/12/cyclonedds/)
 
+## Embedded Systems
+* [Notes on ROS2 and rosserial](https://newscrewdriver.com/2020/08/05/notes-on-ros2-and-rosserial/)
+* [Micro XRCE-DDS compared to rosserial](https://micro.ros.org/docs/concepts/middleware/rosserial/)
+* [How to include a custom ROS message in micro-ROS](https://micro.ros.org/docs/tutorials/advanced/create_new_type/)
+
 ## ROS2 Continuous Integration
 * [ROS2 on GitHub](https://github.com/ros2)
 
