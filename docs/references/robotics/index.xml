@@ -1171,6 +1171,12 @@
 &lt;li&gt;&lt;a href=&#34;https://github.com/ros2/rmw_cyclonedds/issues/216&#34;&gt;ddsperf&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.robotandchisel.com/2020/08/12/cyclonedds/&#34;&gt;Some Notes on Cyclone DDS&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h2 id=&#34;embedded-systems&#34;&gt;Embedded Systems&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://newscrewdriver.com/2020/08/05/notes-on-ros2-and-rosserial/&#34;&gt;Notes on ROS2 and rosserial&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://micro.ros.org/docs/concepts/middleware/rosserial/&#34;&gt;Micro XRCE-DDS compared to rosserial&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://micro.ros.org/docs/tutorials/advanced/create_new_type/&#34;&gt;How to include a custom ROS message in micro-ROS&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2 id=&#34;ros2-continuous-integration&#34;&gt;ROS2 Continuous Integration&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/ros2&#34;&gt;ROS2 on GitHub&lt;/a&gt;&lt;/li&gt;
