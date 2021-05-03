@@ -365,6 +365,10 @@
 &lt;li&gt;&lt;a href=&#34;https://medium.com/@mccode/processes-in-containers-should-not-run-as-root-2feae3f0df3b&#34;&gt;Processes in containers should not run as root&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://docs.docker.com/engine/reference/commandline/commit/&#34;&gt;Create a new image from a container’s changes&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h2 id=&#34;applied-docker-images&#34;&gt;Applied Docker images&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.linuxserver.io/&#34;&gt;linuxserver.io&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2 id=&#34;distroless-containers&#34;&gt;Distroless containers&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/GoogleContainerTools/distroless&#34;&gt;Google Distroless Containers&lt;/a&gt;&lt;/li&gt;
