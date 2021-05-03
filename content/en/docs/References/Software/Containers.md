@@ -29,6 +29,9 @@ description: News and information about containers
 * [Processes in containers should not run as root](https://medium.com/@mccode/processes-in-containers-should-not-run-as-root-2feae3f0df3b)
 * [Create a new image from a container’s changes](https://docs.docker.com/engine/reference/commandline/commit/)
 
+## Applied Docker images
+* [linuxserver.io](https://www.linuxserver.io/)
+
 ## Distroless containers
 * [Google Distroless Containers](https://github.com/GoogleContainerTools/distroless)
 
