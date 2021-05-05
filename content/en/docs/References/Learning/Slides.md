@@ -62,3 +62,6 @@ description: Resources for learning with slides
 # [RISE](https://rise.readthedocs.io/en/stable/)
 
 *   [Customizing RISE](https://github.com/damianavila/RISE/blob/master/doc/customize.md)
+
+# Code
+* [Slides Code Highlighter](https://romannurik.github.io/SlidesCodeHighlighter/)
