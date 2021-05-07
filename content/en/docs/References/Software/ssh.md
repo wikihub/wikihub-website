@@ -7,7 +7,7 @@ description: Resources about ssh connections
 
 ---
 
-* [Official ssh website](https://www.ssh.com)
+*   [Official ssh website](https://www.ssh.com)
 *   [Generate ssh key for a remote computer](https://www.ssh.com/ssh/keygen)
 *   [Generating a new SSH key and adding it to the ssh-agent](https://help.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
 *   [Visual Studio Code](https://code.visualstudio.com/docs/remote/troubleshooting)
@@ -18,6 +18,7 @@ description: Resources about ssh connections
 *   [Simplify Your Life With an SSH Config File](https://nerderati.com/2011/03/17/simplify-your-life-with-an-ssh-config-file/)
 *   [ssh config](https://linux.die.net/man/5/ssh_config)
 *   [ssh jump host](https://wiki.gentoo.org/wiki/SSH_jump_host)
+*   [sshpass](https://www.redhat.com/sysadmin/ssh-automation-sshpass)
 
 # macOS
 * [macOS keeps asking my ssh passphrase](https://superuser.com/questions/1127067/macos-keeps-asking-my-ssh-passphrase-since-i-updated-to-sierra)
