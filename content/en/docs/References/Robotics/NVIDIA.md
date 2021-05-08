@@ -22,6 +22,7 @@ description: Resources for NVIDIA robotics and the Isaac framework
 * [Depth cameras for NVIDIA Jetson](https://devtalk.nvidia.com/default/topic/1046610/jetson-tx2/what-3d-camera-is-recommended-for-use-with-jetson-tx2-/)
 * [Stereo cameras for Jetson](https://elinux.org/Jetson/Cameras#Stereo_Cameras)
 * [Jetson Zoo](https://elinux.org/Jetson_Zoo)
+* [Jetson Nano / Xavier NX baseboard](https://github.com/antmicro/jetson-nano-baseboard)
 
 # Isaac
 
