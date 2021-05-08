@@ -2026,6 +2026,7 @@ Don’t Worry, You Can’t Break It. We Promise.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://devtalk.nvidia.com/default/topic/1046610/jetson-tx2/what-3d-camera-is-recommended-for-use-with-jetson-tx2-/&#34;&gt;Depth cameras for NVIDIA Jetson&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://elinux.org/Jetson/Cameras#Stereo_Cameras&#34;&gt;Stereo cameras for Jetson&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://elinux.org/Jetson_Zoo&#34;&gt;Jetson Zoo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/antmicro/jetson-nano-baseboard&#34;&gt;Jetson Nano / Xavier NX baseboard&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;isaac&#34;&gt;Isaac&lt;/h1&gt;
 &lt;ul&gt;
