@@ -26,3 +26,4 @@ description: Robot safety resources
 * [ISO 26262 Basics and ASIL Determination](https://youtu.be/VmKhra0CfrQ)
 
 ## ANSI/RIA 15.06
+* [Explanation of R15.08 - Safety Standard for Autonomous Mobile Robots (AMR)](https://www.agvnetwork.com/r15-08-safety-amr)
