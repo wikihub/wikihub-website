@@ -148,6 +148,42 @@
     </item>
     
     <item>
+      <title>Docs: Safety</title>
+      <link>https://wikihub.github.io/docs/references/robotics/safety/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/robotics/safety/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;standards&#34;&gt;Standards&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Safety_integrity_level&#34;&gt;Safety Integrity Level (SIL)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtu.be/hj5o555gUeo&#34;&gt;Whiteboard Wednesdays - The Truth about Designing for Automotive Functional Safety&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;iec-61508&#34;&gt;IEC 61508&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtu.be/f_NFenSggVI&#34;&gt;IEC 61508 Functional Safety Standard Overview&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtu.be/tgLyS5_nNPQ&#34;&gt;IEC 61508 Overview - Excerpt from Software Development For Safety-Critical Environments Webinar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtu.be/7ChP9tRwNsI&#34;&gt;Functional Safety - Practical aspects in the use of IEC61508 / 61511&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ida.liu.se/~simna73/teaching/SCRTS/IEC61508_Guide.pdf&#34;&gt;Functional safety and IEC 61508: a basic guide&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;iec-62061&#34;&gt;IEC 62061&lt;/h2&gt;
+&lt;h2 id=&#34;iso-13849&#34;&gt;ISO 13849&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtu.be/s-8jskHE8Sk&#34;&gt;Functional Safety of Machinery: EN ISO 13849-1&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;iso-26262&#34;&gt;ISO 26262&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtu.be/y_V4t0yL6xs&#34;&gt;ISO 26262 Overview - Excerpt from Software Development For Safety-Critical Environments Webinar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtu.be/VmKhra0CfrQ&#34;&gt;ISO 26262 Basics and ASIL Determination&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;ansiria-1506&#34;&gt;ANSI/RIA 15.06&lt;/h2&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Docs: Applications</title>
       <link>https://wikihub.github.io/docs/references/robotics/applications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

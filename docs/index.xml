@@ -922,6 +922,42 @@
     </item>
     
     <item>
+      <title>Docs: Safety</title>
+      <link>https://wikihub.github.io/docs/references/robotics/safety/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/robotics/safety/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;standards&#34;&gt;Standards&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Safety_integrity_level&#34;&gt;Safety Integrity Level (SIL)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtu.be/hj5o555gUeo&#34;&gt;Whiteboard Wednesdays - The Truth about Designing for Automotive Functional Safety&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;iec-61508&#34;&gt;IEC 61508&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtu.be/f_NFenSggVI&#34;&gt;IEC 61508 Functional Safety Standard Overview&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtu.be/tgLyS5_nNPQ&#34;&gt;IEC 61508 Overview - Excerpt from Software Development For Safety-Critical Environments Webinar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtu.be/7ChP9tRwNsI&#34;&gt;Functional Safety - Practical aspects in the use of IEC61508 / 61511&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ida.liu.se/~simna73/teaching/SCRTS/IEC61508_Guide.pdf&#34;&gt;Functional safety and IEC 61508: a basic guide&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;iec-62061&#34;&gt;IEC 62061&lt;/h2&gt;
+&lt;h2 id=&#34;iso-13849&#34;&gt;ISO 13849&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtu.be/s-8jskHE8Sk&#34;&gt;Functional Safety of Machinery: EN ISO 13849-1&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;iso-26262&#34;&gt;ISO 26262&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtu.be/y_V4t0yL6xs&#34;&gt;ISO 26262 Overview - Excerpt from Software Development For Safety-Critical Environments Webinar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtu.be/VmKhra0CfrQ&#34;&gt;ISO 26262 Basics and ASIL Determination&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;ansiria-1506&#34;&gt;ANSI/RIA 15.06&lt;/h2&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Docs: STM32</title>
       <link>https://wikihub.github.io/docs/references/hardware/stm32/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -2615,110 +2651,6 @@ Don’t Worry, You Can’t Break It. We Promise.&lt;/li&gt;
         
         &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/mimikgit/edgeSDK&#34;&gt;Mimik EdgeSDK&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Docs: Linux</title>
-      <link>https://wikihub.github.io/docs/references/software/linux/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://wikihub.github.io/docs/references/software/linux/</guid>
-      <description>
-        
-        
-        &lt;h1 id=&#34;bash&#34;&gt;bash&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://linuxhint.com/30_bash_script_examples/&#34;&gt;30 bash script examples&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://youtu.be/mV_8GbzwZMM&#34;&gt;Linux Command Line Pipes and Redirection&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://youtu.be/oxuRxtrO2Ag&#34;&gt;Beginner&amp;rsquo;s Guide to the Bash Terminal&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://chmod-calculator.com/&#34;&gt;chmod calculator&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://stedolan.github.io/jq/&#34;&gt;jq&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.thomas-krenn.com/en/wiki/Configure_Locales_in_Ubuntu&#34;&gt;locale&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://linuxhint.com/create_symbolic_link_ubuntu/&#34;&gt;Symbolic link&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.cyberciti.biz/faq/linux-change-user-group-uid-gid-for-all-owned-files/&#34;&gt;How to change a USER and GROUP ID on Linux for all owned files&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;users&#34;&gt;Users&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://linuxconfig.org/how-to-create-modify-and-delete-users-account-on-linux&#34;&gt;How to create modify and delete users account on Linux&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;package-managers&#34;&gt;Package Managers&lt;/h1&gt;
-&lt;h2 id=&#34;apt&#34;&gt;APT&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Search apt packages: apt-cache search keyword&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;brew&#34;&gt;Brew&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://docs.brew.sh/Homebrew-on-Linux&#34;&gt;Homebrew on Linux&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;file-sharing&#34;&gt;File Sharing&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.seafile.com/en/home/&#34;&gt;Seafile&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.sparkleshare.org/&#34;&gt;Spark Share&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://askubuntu.com/questions/285539/detect-and-mount-devices&#34;&gt;Mount drives&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://ubuntu.com/tutorials/install-and-configure-samba#4-setting-up-user-accounts-and-connecting-to-share&#34;&gt;Samba does not use the system account user and password&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;The /var/lib/samba/usershares folder should belong to the sambashare group. The user should also belong to the sambashare group.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;grub&#34;&gt;Grub&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://help.ubuntu.com/community/Grub2/Troubleshooting&#34;&gt;Grub2 troubleshooting&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;regular-expressions&#34;&gt;Regular Expressions&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://regexr.com/&#34;&gt;regexr.com&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=rhzKDrUiJVk&#34;&gt;Learn Regular Expressions In 20 Minutes&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sed.js.org/&#34;&gt;sed&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;desktop&#34;&gt;Desktop&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://discourse.ubuntubudgie.org/t/main-menu-disappeared/2378&#34;&gt;Fix the Budgie panel&lt;/a&gt;: &lt;code&gt;nohup budgie-panel --reset --replace &amp;amp;&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;tutorials&#34;&gt;Tutorials&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://bash.cyberciti.biz/guide/Main_Page&#34;&gt;Linux Shell Scripting Tutorial (LSST) v2.0&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://linuxhint.com/&#34;&gt;Linux Hint&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;log&#34;&gt;log&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;less /var/log/syslog&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;dd&#34;&gt;dd&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.howtoforge.com/tutorial/linux-dd-command-clone-disk-practical-example/&#34;&gt;Cloning disks&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;remote-desktop&#34;&gt;Remote desktop&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.linode.com/docs/applications/remote-desktop/install-vnc-on-ubuntu-16-04/&#34;&gt;Starting VNC server on boot&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/CDAT/cdat/wiki/Remote-server-setup-for-VNC&#34;&gt;Remote server setup for VNC&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-vnc-on-ubuntu-18-04&#34;&gt;How to install and configure VNC on Ubuntu 18.04&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://askubuntu.com/questions/1068370/vnc-grey-screen-16-04-tightvnc-xfce4-solved&#34;&gt;VNC server on EC2&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://askubuntu.com/questions/800302/vncserver-grey-screen-ubuntu-16-04-lts&#34;&gt;It would be good if this worked&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://cloudcone.com/docs/article/install-desktop-vnc-ubuntu-16-04/&#34;&gt;Gnome VNC&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;folder-sync&#34;&gt;Folder Sync&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://computingforgeeks.com/how-to-install-and-use-syncthing-on-ubuntu-18-04/&#34;&gt;Syncthing&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;libraries&#34;&gt;Libraries&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;Find different versions of libraries in a file: strings /usr/lib/x86_64-linux-gnu/libstdc++.so.6 | grep CXXABI&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;distribution&#34;&gt;Distribution&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.hostingadvice.com/how-to/ubuntu-show-version/&#34;&gt;Ubuntu — Show Version Number (Command Line and Unity)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.cyberciti.biz/faq/find-ubuntu-linux-kernel-version-command/&#34;&gt;HowTo: Ubuntu Linux Kernel Version Command&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://itsfoss.com/find-which-kernel-version-is-running-in-ubuntu/&#34;&gt;3 Ways to Check Linux Kernel Version in Command Line&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://unetbootin.github.io/&#34;&gt;Installing persistent Ubuntu on USB flash drive&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;dual-boot&#34;&gt;Dual Boot&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.howtogeek.com/116569/htg-explains-how-windows-8s-secure-boot-feature-works-what-it-means-for-linux/&#34;&gt;How Secure Boot Works on Windows 8 and 10, and What It Means for Linux&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;vpn&#34;&gt;VPN&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.cyberciti.biz/faq/howto-setup-openvpn-server-on-ubuntu-linux-14-04-or-16-04-lts/&#34;&gt;How To Set up OpenVPN Server In 5 Minutes on Ubuntu Linux&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
