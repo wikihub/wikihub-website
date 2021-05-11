@@ -28,3 +28,6 @@ description: Robot safety resources
 ## ANSI/RIA 15.06 or CAN/CSA-Z434-14
 * [Explanation of R15.08 - Safety Standard for Autonomous Mobile Robots (AMR)](https://www.agvnetwork.com/r15-08-safety-amr)
 * [CAN/CSA-Z434-14](https://www.scc.ca/en/standardsdb/standards/27887)
+
+# Teaching Resources
+* [Robotics safety: An engineering teaching module](http://new.safetymanagementeducation.com/wp-content/uploads/2015/09/Robotics_Safety-Teaching_Module-Supplemental_Report_140730_FINAL_REV-with_logos.pdf)
