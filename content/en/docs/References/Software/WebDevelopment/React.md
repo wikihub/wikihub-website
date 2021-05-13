@@ -59,6 +59,7 @@ description: News and information about React development
 ## Headless CMS
 
 *   [Strapi Gatsby blog starter](https://strapi.io/blog/strapi-starter-gatsby-blog-v2)
+*   [Building A Web App With Headless CMS And React](https://www.smashingmagazine.com/2020/04/web-app-headless-cms-react/)
 
 ## Authentication
 
