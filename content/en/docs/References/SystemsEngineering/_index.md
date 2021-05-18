@@ -46,8 +46,5 @@ description: Resources and tools for Systems Engineering
 ## Team
 * [Service Robotics - Ulm](http://www.servicerobotik-ulm.de/wpr/projects/)
 
-# Requirement Management
-* [Jama](https://www.jamasoftware.com/)
-
 # Visualization
 * [MatrixBrowser](https://sourceforge.net/projects/matrixbrowser/)
