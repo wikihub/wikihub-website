@@ -38,3 +38,9 @@ description: Resources for building construction and optimization
 # Tiny Houses
 
 * [15 Modern Tiny Homes and Prefab Modular Housing](https://www.youtube.com/watch?v=E7D9_r8rjgE)
+
+# Floor Plans
+* [Leeflet JS](https://leafletjs.com/)
+* [floorplans](https://github.com/anthonyblackham/floorplans)
+* [React Planner](https://github.com/cvdlab/react-planner)
+* [Sweethome 3D](http://www.sweethome3d.com/)
