@@ -63,6 +63,9 @@ description: Resources for RC cars
 * Tamiya Mini 4WD FM-A (17 km/h)
 * Tamiya Mini 4WD AR (32 m/h)
 
+## Mini Z Tracks
+* [Mini z Racing @Bruckner / 2016-05-20 / Open A-Main](https://www.youtube.com/watch?v=LGhbbVlsIak)
+
 # Computer Controlled Cars
 * [USB2PPM](https://flytron.com/rc-electronics/56-compufly-usbtoppm-converter.html)
 * [DIY Multiprotocol TX Module](https://github.com/pascallanger/DIY-Multiprotocol-TX-Module)
