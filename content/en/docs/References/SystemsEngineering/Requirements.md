@@ -21,3 +21,6 @@ description: Resources and tools for requirements management
 # Behaviour Driven Development
 * [Introduction to Cucumber](https://youtu.be/lC0jzd8sGIA)
 * [SpecFlow](https://specflow.org/gherkin-editor/)
+
+# Traceability Management
+* [Capra](https://wiki.eclipse.org/Capra)
