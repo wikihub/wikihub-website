@@ -178,6 +178,37 @@
     </item>
     
     <item>
+      <title>Docs: C&#43;&#43;</title>
+      <link>https://wikihub.github.io/docs/references/software/cpp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/software/cpp/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;learning-resources&#34;&gt;Learning Resources&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtu.be/sZK6ouwREXA&#34;&gt;Modern C++ at the University of Bonn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.stroustrup.com/C++.html&#34;&gt;The C++ Programming Language, Bjarne Stroustrup&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.cppreference.com/w/cpp&#34;&gt;C++ Reference&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines&#34;&gt;C++ Core Guidelines&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://google.github.io/styleguide/cppguide.html&#34;&gt;Google C++ Style Guide&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cplusplus.com/doc/tutorial/&#34;&gt;C++ Tutorial&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://clang.org/&#34;&gt;clang&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-096-introduction-to-c-january-iap-2011/index.htm&#34;&gt;Introduction to C++, MIT, 2011&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;unit-testing&#34;&gt;Unit Testing&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/google/googletest&#34;&gt;GoogleTest&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://boost-ext.github.io/ut/&#34;&gt;UT&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/boostorg/test&#34;&gt;Boost.Test&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/catchorg/Catch2&#34;&gt;Catch2&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Docs: Kubernetes</title>
       <link>https://wikihub.github.io/docs/references/software/kubernetes/</link>
       <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>

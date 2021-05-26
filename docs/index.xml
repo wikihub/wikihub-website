@@ -516,6 +516,37 @@
     </item>
     
     <item>
+      <title>Docs: C&#43;&#43;</title>
+      <link>https://wikihub.github.io/docs/references/software/cpp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/software/cpp/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;learning-resources&#34;&gt;Learning Resources&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtu.be/sZK6ouwREXA&#34;&gt;Modern C++ at the University of Bonn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.stroustrup.com/C++.html&#34;&gt;The C++ Programming Language, Bjarne Stroustrup&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.cppreference.com/w/cpp&#34;&gt;C++ Reference&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines&#34;&gt;C++ Core Guidelines&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://google.github.io/styleguide/cppguide.html&#34;&gt;Google C++ Style Guide&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cplusplus.com/doc/tutorial/&#34;&gt;C++ Tutorial&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://clang.org/&#34;&gt;clang&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-096-introduction-to-c-january-iap-2011/index.htm&#34;&gt;Introduction to C++, MIT, 2011&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;unit-testing&#34;&gt;Unit Testing&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/google/googletest&#34;&gt;GoogleTest&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://boost-ext.github.io/ut/&#34;&gt;UT&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/boostorg/test&#34;&gt;Boost.Test&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/catchorg/Catch2&#34;&gt;Catch2&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Docs: CAN</title>
       <link>https://wikihub.github.io/docs/references/hardware/can/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -2608,95 +2639,6 @@ Don’t Worry, You Can’t Break It. We Promise.&lt;/li&gt;
 &lt;h2 id=&#34;finding-similar-source-codes-or-programming-styles&#34;&gt;Finding similar source codes or programming styles&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/alapha23/source_code_plagiarism_detector&#34;&gt;source code plagiarism detector&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Docs: Development Environments</title>
-      <link>https://wikihub.github.io/docs/references/software/developmentenvironments/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://wikihub.github.io/docs/references/software/developmentenvironments/</guid>
-      <description>
-        
-        
-        &lt;h1 id=&#34;ide&#34;&gt;IDE&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://stackoverflow.com/questions/34937092/why-does-visual-studio-code-insert-spaces-when-editing-a-makefile-and-editor-in&#34;&gt;Makefile and Visual Studio Code&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;online-ide&#34;&gt;Online IDE&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://codesandbox.io/&#34;&gt;CodeSandbox&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/theia-ide/theia-apps&#34;&gt;Theia&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://stackblitz.com/&#34;&gt;StackBlitz&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.gitpod.io/&#34;&gt;GitPod&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;continuous-integration&#34;&gt;Continuous Integration&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://circleci.com&#34;&gt;Circle CI&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://drone.io/&#34;&gt;Drone.io&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;GitHub Actions
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/sdras/awesome-actions#github-pages&#34;&gt;Awesome actions&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Bitbucket pipelines
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/mserranom/bbrun&#34;&gt;Test your Bitbucket pipeline locally&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Gitlab pipelines
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://docs.gitlab.com/ee/ci/variables/predefined_variables.html&#34;&gt;Predefined variables&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://docs.gitlab.com/runner/install/linux-repository.html&#34;&gt;Install Gitlab Runner on Linux&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/stepchowfun/toast&#34;&gt;Toast&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;code-review&#34;&gt;Code review&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.atlassian.com/software/fisheye&#34;&gt;Fisheye&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;reproducible-development-environments&#34;&gt;Reproducible Development Environments&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://garbas.si/2015/reproducible-development-environments.html&#34;&gt;Reproducible Development Environments&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;develop-environments&#34;&gt;Develop Environments&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/lando/lando&#34;&gt;Lando&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/phase2&#34;&gt;Phase2&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/docksal/docksal&#34;&gt;Docksal&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/digitalpulp/ballast&#34;&gt;Ballast&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.docker.com/products/developer-tools&#34;&gt;Docker development tools&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://medium.com/swlh/create-a-reproducible-dev-environment-with-vs-code-fd89285644da&#34;&gt;Create a reproducible dev environment with VS Code&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://code.visualstudio.com/docs/remote/containers&#34;&gt;Visual Studio: developing inside a Container&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;adehttpsade-clireadthedocsioenlatest&#34;&gt;&lt;a href=&#34;https://ade-cli.readthedocs.io/en/latest/#&#34;&gt;ADE&lt;/a&gt;&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Fixing an error: &lt;code&gt;sudo apt-get install musl&lt;/code&gt; and &lt;code&gt;sudo ln -s /lib/ld-musl-x86_64.so.1 /lib/libc.musl-x86_64.so.1&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;local-development-environments&#34;&gt;Local Development Environments&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://nanobox.io/app-development-environment&#34;&gt;Nanobox&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.koding.com/&#34;&gt;Koding&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://hub.docker.com/r/mltooling/ml-workspace&#34;&gt;ML Workspace&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://mlhub.ai/&#34;&gt;MLHUB&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;development-containers&#34;&gt;Development Containers&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://mybinder.readthedocs.io/en/latest/index.html&#34;&gt;Binder&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://mybinder.readthedocs.io/en/latest/tutorials/dockerfile.html&#34;&gt;Use a Dockerfile for your Binder repository&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://repo2docker.readthedocs.io/en/latest/&#34;&gt;repo2docker&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;development-platform&#34;&gt;Development Platform&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.zymergen.com/blog/technology/building-a-platform-for-duct-tape/&#34;&gt;Building a Platform for Duct Tape&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;package-management&#34;&gt;Package Management&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://docs.brew.sh/Homebrew-on-Linux&#34;&gt;Homebrew&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
