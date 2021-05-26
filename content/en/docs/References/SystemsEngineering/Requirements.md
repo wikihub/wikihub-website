@@ -24,3 +24,6 @@ description: Resources and tools for requirements management
 
 # Traceability Management
 * [Capra](https://wiki.eclipse.org/Capra)
+
+# Test Automation
+* [Robot Framework](https://robotframework.org/)
