@@ -10,6 +10,12 @@ description: Resources and tools for requirements management
 # Tools
 * [ProR](https://www.eclipse.org/rmf/)
 * [TestLink](https://github.com/TestLinkOpenSourceTRMS/testlink-code)
+* [OpenReq](https://openreq.eu/)
 * [Jama](https://www.jamasoftware.com/)
 * [Doorstop](https://doorstop.readthedocs.io/en/latest/)
 * [rmToo](http://rmtoo.florath.net/)
+* [osrmt](https://github.com/osrmt/osrmt/)
+* [aNimble](https://sourceforge.net/projects/nimble/)
+
+# Behaviour Driven Development
+* [SpecFlow](https://specflow.org/gherkin-editor/)
