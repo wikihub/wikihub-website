@@ -12,6 +12,8 @@ description: News and information about web applications for ROS2
 * [ROS2 Planning](https://github.com/ros-planning)
 
 # [ROS Infrastructure](https://github.com/ros-infrastructure)
+* [ros-tooling](https://github.com/ros-tooling)
+* [setup-ros-docker](https://github.com/ros-tooling/setup-ros-docker)
 
 # Development
 * [Build ROS2 from source](https://docs.ros.org/en/foxy/Installation/Ubuntu-Development-Setup.html)
