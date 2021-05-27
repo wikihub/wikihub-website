@@ -8,6 +8,10 @@ description: News and information about authentication
 
 ---
 
+# Verified Identities
+
+* [Verified.me](https://verified.me/)
+
 # React
 
 *   [useAuth](https://github.com/Swizec/useAuth)
