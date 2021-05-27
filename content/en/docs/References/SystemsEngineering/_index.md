@@ -37,7 +37,7 @@ description: Resources and tools for Systems Engineering
 ## Capella
 
 * [Capella](https://www.eclipse.org/capella/)
-* Capella on Ubuntu works with Java 1.8 (not 1.11). Change the Java version with: `sudo update-alternatives --config java`
+* Capella 1.4 on Ubuntu works with Java 1.8 (not 1.11). Change the Java version with: `sudo update-alternatives --config java`
 
 ### Tutorials
 * [Capella tutorials](https://esd.sutd.edu.sg/40014-capella-tutorial/)
