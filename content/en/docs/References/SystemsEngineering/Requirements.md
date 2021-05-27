@@ -28,6 +28,7 @@ description: Resources and tools for requirements management
 * [Pickles Living Documentation](http://www.picklesdoc.com/)
 
 ## C++
+* [cucumber-cpp](https://github.com/cucumber/cucumber-cpp/wiki)
 * [C++Spec](https://toroidal-code.github.io/cppspec/)
 
 # Traceability Management
