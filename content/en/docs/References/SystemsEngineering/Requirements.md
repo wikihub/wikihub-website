@@ -36,3 +36,6 @@ description: Resources and tools for requirements management
 
 # Test Automation
 * [Robot Framework](https://robotframework.org/)
+
+# Robotics
+* [Autonomous Valet Parking (AVP) requirements](https://avp-project.uk/wp-content/uploads/2019/12/AVP-Requirements-Car-Park.pdf)
