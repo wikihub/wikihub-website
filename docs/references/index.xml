@@ -188,7 +188,7 @@
 &lt;h2 id=&#34;capella&#34;&gt;Capella&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.eclipse.org/capella/&#34;&gt;Capella&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Capella on Ubuntu works with Java 1.8 (not 1.11). Change the Java version with: &lt;code&gt;sudo update-alternatives --config java&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Capella 1.4 on Ubuntu works with Java 1.8 (not 1.11). Change the Java version with: &lt;code&gt;sudo update-alternatives --config java&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;tutorials&#34;&gt;Tutorials&lt;/h3&gt;
 &lt;ul&gt;
