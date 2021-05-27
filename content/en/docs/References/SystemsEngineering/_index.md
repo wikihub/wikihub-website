@@ -48,3 +48,6 @@ description: Resources and tools for Systems Engineering
 
 # Visualization
 * [MatrixBrowser](https://sourceforge.net/projects/matrixbrowser/)
+
+# Embedded Systems
+* [AutoFOCUS 3](https://www.fortiss.org/en/publications/software/autofocus-3)
