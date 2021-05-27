@@ -19,9 +19,12 @@ description: Resources and tools for requirements management
 * [aNimble](https://sourceforge.net/projects/nimble/)
 
 # Behaviour Driven Development
+* [Behaviour Driven Development](https://cucumber.io/docs/bdd/)
+* [Gherkin](https://cucumber.io/docs/gherkin/reference/)
 * [What's in a story](https://dannorth.net/whats-in-a-story/)
 * [Introduction to Cucumber](https://youtu.be/lC0jzd8sGIA)
 * [SpecFlow](https://specflow.org/gherkin-editor/)
+* [Pickles Living Documentation](http://www.picklesdoc.com/)
 
 ## C++
 * [C++Spec](https://toroidal-code.github.io/cppspec/)
