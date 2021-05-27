@@ -21,6 +21,7 @@ description: Resources and tools for requirements management
 # Behaviour Driven Development
 * [Behaviour Driven Development](https://cucumber.io/docs/bdd/)
 * [Gherkin](https://cucumber.io/docs/gherkin/reference/)
+* [4 rules for writing good Gherkin](https://techbeacon.com/app-dev-testing/better-behavior-driven-development-4-rules-writing-good-gherkin)
 * [What's in a story](https://dannorth.net/whats-in-a-story/)
 * [Introduction to Cucumber](https://youtu.be/lC0jzd8sGIA)
 * [SpecFlow](https://specflow.org/gherkin-editor/)
