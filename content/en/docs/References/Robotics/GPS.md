@@ -26,6 +26,7 @@ description: Resources for GPS
 * [simpleRTK2B](https://www.ardusimple.com/simplertk2b/)
 * [ArduSimple store](https://www.ardusimple.com/store/)
 * [RTK Explorer](https://rtkexplorer.com/)
+* [Evaluation of Low-Cost, Centimeter-Level Accuracy OEM GNSS Receivers](https://www.dot.state.mn.us/research/reports/2018/201810.pdf)
 
 # GPS Trackers
 * [Balena Fin GPS Tracker](https://www.balena.io/blog/balena-fin-gps-tracker-project/)
