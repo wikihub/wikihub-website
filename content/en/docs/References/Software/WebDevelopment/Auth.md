@@ -10,7 +10,11 @@ description: News and information about authentication
 
 # Verified Identities
 
+* [Know your client requirements](https://www.fintrac-canafe.gc.ca/guidance-directives/client-clientele/1-eng)
 * [Verified.me](https://verified.me/)
+* [Checkpoint](https://checkpointid.com/)
+* [Veriff](https://www.veriff.com/)
+* [eID-Me](https://bluink.ca/eid-me/solutions/id-verification)
 
 # React
 
