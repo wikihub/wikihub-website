@@ -191,7 +191,11 @@
         
         &lt;h1 id=&#34;verified-identities&#34;&gt;Verified Identities&lt;/h1&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.fintrac-canafe.gc.ca/guidance-directives/client-clientele/1-eng&#34;&gt;Know your client requirements&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://verified.me/&#34;&gt;Verified.me&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://checkpointid.com/&#34;&gt;Checkpoint&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.veriff.com/&#34;&gt;Veriff&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://bluink.ca/eid-me/solutions/id-verification&#34;&gt;eID-Me&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;react&#34;&gt;React&lt;/h1&gt;
 &lt;ul&gt;
