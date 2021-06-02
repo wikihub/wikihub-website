@@ -18,6 +18,9 @@ description: Resources and tools for requirements management
 * [osrmt](https://github.com/osrmt/osrmt/)
 * [aNimble](https://sourceforge.net/projects/nimble/)
 
+# Jira
+* [OpenReq](https://openreq.eu/)
+
 # Living Documents
 * [LivingDoc](https://github.com/LivingDoc)
 
