@@ -26,6 +26,7 @@ description: Resources and tools for requirements management
 * [What's in a story](https://dannorth.net/whats-in-a-story/)
 * [Introduction to Cucumber](https://youtu.be/lC0jzd8sGIA)
 * [Pickles Living Documentation](http://www.picklesdoc.com/)
+* [Kick Start and Scale Behavior Driven Development](https://cucumber.io/resources/ebooks/kick-start-and-scale-behavior-driven-development/)
 
 ## Gherkin
 * [Gherkin](https://cucumber.io/docs/gherkin/reference/)
