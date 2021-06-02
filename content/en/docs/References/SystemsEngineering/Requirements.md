@@ -18,6 +18,9 @@ description: Resources and tools for requirements management
 * [osrmt](https://github.com/osrmt/osrmt/)
 * [aNimble](https://sourceforge.net/projects/nimble/)
 
+# Living Documents
+* [LivingDoc](https://github.com/LivingDoc)
+
 # Behaviour Driven Development
 * [Behaviour Driven Development](https://cucumber.io/docs/bdd/)
 * [What's in a story](https://dannorth.net/whats-in-a-story/)
