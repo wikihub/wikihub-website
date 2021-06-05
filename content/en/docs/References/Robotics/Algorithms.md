@@ -53,3 +53,4 @@ description: Resources for algorithms in robotics
 * [Awesome visual SLAM](https://github.com/tzutalin/awesome-visual-slam)
 * [Thomas Whelan](http://www.thomaswhelan.ie/#publications)
 * [A Benchmark for RGB-D Visual Odometry, 3D Reconstruction and SLAM](http://www.thomaswhelan.ie/Handa14icra.pdf)
+* [ICRA21 Workshop on Visual-Inertial Navigation Systems](https://youtu.be/xlDbuw6skag)
