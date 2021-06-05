@@ -21,6 +21,8 @@ description: News and information about containers
 * Remove all the images without a tag: `docker rmi $(docker images -f dangling=true -q)`
 * Remove <none> images: `docker rmi $(docker images |grep "<none>"|awk '$1=="<none>" {print $3}')`
 * Prune the system: `docker system prune`
+* Check the /var/lib/docker folder: `sudo du -h --max-depth=1 /var/lib/docker`
+* [How to clean up Docker](https://stackoverflow.com/questions/45798076/how-to-clean-up-docker)
 * Remove all the containers: `docker rm $(docker ps -a -q)`
 * [Base image Docker](https://phusion.github.io/baseimage-docker/)
 * Restart Docker: `service docker restart`
