@@ -30,6 +30,10 @@ description: Resources for NVIDIA robotics and the Isaac framework
 * [Isaac Sim documentation](https://docs.nvidia.com/isaac/isaac_sim/index.html)
 * [The issue with maps in quick start with Carter](https://devtalk.nvidia.com/default/topic/1057245/quick-start-carter-in-isaacsim-document-don-t-work-/?offset=3)
 
+# Nucleus
+
+* [Nucleus Docker](https://docs.omniverse.nvidia.com/prod_nucleus/prod_nucleus/installation/docker/stacks/core/2020.3.0/review.html)
+
 # Industrial GPU Computing
 * [Rugged Science](https://www.ruggedscience.com/industrial-computers/nvidia-gpu-computers)
 * [Premio](https://premioinc.com/pages/industrial-gpu-computer)
