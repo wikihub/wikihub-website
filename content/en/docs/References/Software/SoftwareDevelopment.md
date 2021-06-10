@@ -49,6 +49,7 @@ description: News and information about software development and necessary tools
 * [How to Use prune to Clean Up Remote Branches in Git](https://www.git-tower.com/learn/git/faq/cleanup-remote-branches-with-git-prune/)
 * [Pruning](https://git-scm.com/docs/git-fetch)
 * [Fast file removal](https://stackoverflow.com/questions/2100907/how-to-remove-delete-a-large-file-from-commit-history-in-git-repository)
+* [Delete the git history](https://www.willandskill.se/en/deleting-your-git-commit-history-without-removing-repo-on-github-bitbucket/)
 
 ## Submodules
 
