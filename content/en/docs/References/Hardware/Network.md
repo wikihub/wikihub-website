@@ -28,6 +28,7 @@ description: Network and Internet resources
 * [l2tp-ipsec-vpn-client: Docker](https://github.com/ubergarm/l2tp-ipsec-vpn-client)
 * [OpenVPN client: Docker](https://hub.docker.com/r/linuxserver/openvpn-as)
 * [Algo](https://github.com/trailofbits/algo)
+* [WireGuard](https://www.wireguard.com/)
 
 # Routers
 
