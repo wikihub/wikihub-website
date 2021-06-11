@@ -24,6 +24,7 @@ description: Network and Internet resources
 * [rtl88x2bu driver updated for current kernels](https://github.com/cilynx/rtl88x2bu)
 
 # VPN
+* [How to setup L2TP VPN](https://www.tecmint.com/setup-l2tp-ipsec-vpn-client-in-linux/)
 * [l2tp-ipsec-vpn-client: Docker](https://github.com/ubergarm/l2tp-ipsec-vpn-client)
 * [OpenVPN client: Docker](https://hub.docker.com/r/linuxserver/openvpn-as)
 * [Algo](https://github.com/trailofbits/algo)
