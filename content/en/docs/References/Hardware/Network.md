@@ -30,6 +30,7 @@ description: Network and Internet resources
 * [Algo](https://github.com/trailofbits/algo)
 * [WireGuard](https://www.wireguard.com/)
 * What is my IP?: `curl https://ipinfo.io/ip`
+* [Start OpenVPN at startup](https://www.ivpn.net/knowledgebase/linux/linux-autostart-openvpn-in-systemd-ubuntu/)
 
 # Routers
 
