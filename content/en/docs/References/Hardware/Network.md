@@ -32,6 +32,8 @@ description: Network and Internet resources
 
 # Routers
 
+* [Mikrotik](https://mikrotik.com/)
+
 ## LTE Routers
 * [CradlePoint](https://cradlepoint.com/)
 * [Outdoor Router](https://www.outdoorrouter.com/product/usa-outdoor-cellular-4g-router-cat6-double-sim/?alg_currency=CAD)
