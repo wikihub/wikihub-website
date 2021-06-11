@@ -380,6 +380,7 @@
 &lt;li&gt;&lt;a href=&#34;https://hub.docker.com/r/linuxserver/openvpn-as&#34;&gt;OpenVPN client: Docker&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/trailofbits/algo&#34;&gt;Algo&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.wireguard.com/&#34;&gt;WireGuard&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;What is my IP?: &lt;code&gt;curl https://ipinfo.io/ip&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;routers&#34;&gt;Routers&lt;/h1&gt;
 &lt;ul&gt;
