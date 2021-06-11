@@ -375,6 +375,7 @@
 &lt;/ul&gt;
 &lt;h1 id=&#34;vpn&#34;&gt;VPN&lt;/h1&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.tecmint.com/setup-l2tp-ipsec-vpn-client-in-linux/&#34;&gt;How to setup L2TP VPN&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/ubergarm/l2tp-ipsec-vpn-client&#34;&gt;l2tp-ipsec-vpn-client: Docker&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://hub.docker.com/r/linuxserver/openvpn-as&#34;&gt;OpenVPN client: Docker&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/trailofbits/algo&#34;&gt;Algo&lt;/a&gt;&lt;/li&gt;
