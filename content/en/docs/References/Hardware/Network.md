@@ -29,6 +29,7 @@ description: Network and Internet resources
 * [OpenVPN client: Docker](https://hub.docker.com/r/linuxserver/openvpn-as)
 * [Algo](https://github.com/trailofbits/algo)
 * [WireGuard](https://www.wireguard.com/)
+* What is my IP?: `curl https://ipinfo.io/ip`
 
 # Routers
 
