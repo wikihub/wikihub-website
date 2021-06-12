@@ -9,6 +9,7 @@ description: News and information about containers
 # Docker
 * [Docker reference](https://docs.docker.com/reference/)
 * [Play with Docker](https://labs.play-with-docker.com/)
+* [Docker tips](https://confluence.jaytaala.com/display/TKB/Docker+tips)
 * [Install Docker on Ubuntu](https://docs.docker.com/engine/install/ubuntu/)
 * [Dockerfile reference](https://docs.docker.com/engine/reference/builder/)
 * [Develop with Docker](https://docs.docker.com/develop/)
