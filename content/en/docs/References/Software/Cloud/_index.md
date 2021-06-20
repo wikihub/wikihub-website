@@ -10,3 +10,7 @@ description: News and information about cloud services
 
 ## CodePipeline
 * [Working with Git Submodules in CodePipeline](https://medium.com/@cristiano.ventura/working-with-git-submodules-in-codepipeline-83e843e5d0a)
+
+# Cloud Storage
+
+* [Min.io](https://min.io/)
