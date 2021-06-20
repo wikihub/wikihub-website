@@ -43,7 +43,9 @@ description: Resources for learning
 
 # Learning Management System
 
-*   [Courselit](https://github.com/recurzery/courselit)
+* [EdX by Tutor](https://docs.tutor.overhang.io/index.html)
+* [EdX by Bitnami](https://bitnami.com/stack/edx/cloud)
+* [Courselit](https://github.com/recurzery/courselit)
 
 # Online course templates
 
