@@ -8,6 +8,7 @@ description: News and learning resources on connected autonomous vehicles
 # [Udacity](https://www.udacity.com/)
 
 * [Self-driving Car Engineer Nanodegree Program](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013)
+* [Become a Sensor Fusion Engineer](https://www.udacity.com/course/sensor-fusion-engineer-nanodegree--nd313)
 
 # [Coursera](https://www.coursera.org/)
 
