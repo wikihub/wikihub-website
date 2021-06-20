@@ -45,12 +45,16 @@ description: Resources for learning
 
 * [Courselit](https://github.com/recurzery/courselit)
 
-# EdX
+## EdX
 
 * [EdX Lilac](https://edx.readthedocs.io/projects/open-edx-release-notes/en/latest/lilac.html)
 * [EdX by Tutor](https://docs.tutor.overhang.io/index.html)
 * [EdX by Bitnami](https://bitnami.com/stack/edx/cloud)
 * [EdX ecommerce](https://github.com/edx/ecommerce)
+
+### EdX Forums
+* [EdX Discuss](https://discuss.openedx.org/)
+* [Tutor and Open EdX Discuss](https://discuss.overhang.io/)
 
 # Online course templates
 
