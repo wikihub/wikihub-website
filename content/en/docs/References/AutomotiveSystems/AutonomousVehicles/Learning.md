@@ -15,6 +15,7 @@ description: News and learning resources on connected autonomous vehicles
 
 # [EdX](https://www.edx.org)
 
+* [Self-Driving Cars with Duckietown](https://learning.edx.org/course/course-v1:ETHx+DT-01x+1T2021/home)
 * [Multi-Object Tracking for Automotive Systems](https://www.edx.org/course/multi-object-tracking-for-automotive-systems)
 * [Sensor Fusion and Non-linear Filtering for Automotive Systems](https://www.edx.org/course/sensor-fusion-and-non-linear-filtering-for-automot)
 
