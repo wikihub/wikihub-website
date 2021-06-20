@@ -27,3 +27,6 @@ description: News and learning resources on connected autonomous vehicles
 * [Decision-Making for Autonomous Systems](https://www.edx.org/course/decision-making-for-autonomous-systems)
 * [Self-driving go-kart with Unity-ML](https://www.udemy.com/course/self-driving-go-kart-with-unity-ml/)
 * [Daniel Stang](https://www.udemy.com/user/daniel-stang-2/)
+
+# [Duckietown](https://www.duckietown.org/)
+* [The AI Driving Olympics](https://docs.duckietown.org/daffy/AIDO/draft/index.html)
