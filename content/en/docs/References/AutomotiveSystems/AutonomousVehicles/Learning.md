@@ -11,7 +11,7 @@ description: News and learning resources on connected autonomous vehicles
 
 # [Coursera](https://www.coursera.org/)
 
-* [Self-Driving Cars Specialization](https://www.coursera.org/specializations/self-driving-cars)
+* [Self-Driving Cars Specialization - University of Toronto](https://www.coursera.org/specializations/self-driving-cars)
 
 # [EdX](https://www.edx.org)
 
@@ -21,4 +21,5 @@ description: News and learning resources on connected autonomous vehicles
 
 # [Udemy](https://www.udemy.com/)
 
+* [Self-driving go-kart with Unity-ML](https://www.udemy.com/course/self-driving-go-kart-with-unity-ml/)
 * [Daniel Stang](https://www.udemy.com/user/daniel-stang-2/)
