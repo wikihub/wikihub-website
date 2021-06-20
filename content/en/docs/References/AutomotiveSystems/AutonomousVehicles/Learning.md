@@ -21,5 +21,8 @@ description: News and learning resources on connected autonomous vehicles
 
 # [Udemy](https://www.udemy.com/)
 
+* [Multi-Object Tracking for Automotive Systems](https://www.edx.org/course/multi-object-tracking-for-automotive-systems)
+* [Sensor Fusion and Non-linear Filtering for Automotive Systems](https://www.edx.org/course/sensor-fusion-and-non-linear-filtering-for-automot)
+* [Decision-Making for Autonomous Systems](https://www.edx.org/course/decision-making-for-autonomous-systems)
 * [Self-driving go-kart with Unity-ML](https://www.udemy.com/course/self-driving-go-kart-with-unity-ml/)
 * [Daniel Stang](https://www.udemy.com/user/daniel-stang-2/)
