@@ -30,3 +30,4 @@ description: News and learning resources on connected autonomous vehicles
 
 # [Duckietown](https://www.duckietown.org/)
 * [The AI Driving Olympics](https://docs.duckietown.org/daffy/AIDO/draft/index.html)
+* [Self-Driving Cars with Duckietown - EdX](https://learning.edx.org/course/course-v1:ETHx+DT-01x+1T2021/home)
