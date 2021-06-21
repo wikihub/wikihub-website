@@ -61,8 +61,13 @@ description: Resources for learning
 * [EdX Shopify](https://github.com/hastexo/edx-shopify)
 
 ### EdX Forums
+
 * [EdX Discuss](https://discuss.openedx.org/)
 * [Tutor and Open EdX Discuss](https://discuss.overhang.io/)
+
+### SMTP
+
+* [timeout](https://sibunglon.com/2020/07/26/solve-smtp-open-edx-timeout/)
 
 # Online course templates
 
