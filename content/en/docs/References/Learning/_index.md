@@ -49,6 +49,7 @@ description: Resources for learning
 ## EdX
 
 * [EdX Lilac](https://edx.readthedocs.io/projects/open-edx-release-notes/en/latest/lilac.html)
+* [EdX Lilac on Confluence](https://openedx.atlassian.net/wiki/spaces/COMM/pages/2023915819/Lilac)
 * [EdX by Tutor](https://docs.tutor.overhang.io/index.html)
 * [EdX by Bitnami](https://bitnami.com/stack/edx/cloud)
 * [EdX ecommerce](https://github.com/edx/ecommerce)
