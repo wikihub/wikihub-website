@@ -11,6 +11,7 @@ description: News and information about cloud computing and its applications
 # GPU Computing
 
 * [Lambda Labs](https://lambdalabs.com/)
+* [Vast.ai](https://vast.ai/)
 
 # Self-Hosted Web Applications
 - [Awesome selfhosted](https://github.com/Kickball/awesome-selfhosted)
