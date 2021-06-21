@@ -54,6 +54,10 @@ description: Resources for learning
 * [EdX by Bitnami](https://bitnami.com/stack/edx/cloud)
 * [EdX ecommerce](https://github.com/edx/ecommerce)
 
+### EdX Deployment
+
+* [Open EdX deployment](https://openedx-deployment.doc.opencraft.com/en/latest/)
+
 ### EdX eCommerce
 
 * [edx-ecommerce](https://edx-ecommerce.readthedocs.io/en/latest/index.html)
