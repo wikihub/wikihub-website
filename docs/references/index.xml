@@ -588,6 +588,10 @@
 &lt;li&gt;&lt;a href=&#34;https://discuss.openedx.org/&#34;&gt;EdX Discuss&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://discuss.overhang.io/&#34;&gt;Tutor and Open EdX Discuss&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h3 id=&#34;smtp&#34;&gt;SMTP&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://sibunglon.com/2020/07/26/solve-smtp-open-edx-timeout/&#34;&gt;timeout&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h1 id=&#34;online-course-templates&#34;&gt;Online course templates&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/ines/course-starter-python&#34;&gt;Gatsby, Reveal.js and Binder&lt;/a&gt;&lt;/li&gt;
