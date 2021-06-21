@@ -53,6 +53,12 @@ description: Resources for learning
 * [EdX by Bitnami](https://bitnami.com/stack/edx/cloud)
 * [EdX ecommerce](https://github.com/edx/ecommerce)
 
+### EdX eCommerce
+
+* [edx-ecommerce](https://edx-ecommerce.readthedocs.io/en/latest/index.html)
+* [Oscar](https://github.com/django-oscar/django-oscar)
+* [EdX Shopify](https://github.com/hastexo/edx-shopify)
+
 ### EdX Forums
 * [EdX Discuss](https://discuss.openedx.org/)
 * [Tutor and Open EdX Discuss](https://discuss.overhang.io/)
