@@ -40,6 +40,7 @@ description: Resources for learning
 *   [Capiche](https://capiche.com/)
 *   [Gatsby theme brain](https://github.com/aengusmcmillin/gatsby-theme-brain)
 *   [Tiddlywiki](https://tiddlywiki.com/)
+*   [Learning Tools Interoperability](https://en.wikipedia.org/wiki/Learning_Tools_Interoperability)
 
 # Learning Management System
 
