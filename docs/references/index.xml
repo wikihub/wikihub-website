@@ -577,6 +577,10 @@
 &lt;li&gt;&lt;a href=&#34;https://bitnami.com/stack/edx/cloud&#34;&gt;EdX by Bitnami&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/edx/ecommerce&#34;&gt;EdX ecommerce&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h3 id=&#34;edx-deployment&#34;&gt;EdX Deployment&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://openedx-deployment.doc.opencraft.com/en/latest/&#34;&gt;Open EdX deployment&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h3 id=&#34;edx-ecommerce&#34;&gt;EdX eCommerce&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://edx-ecommerce.readthedocs.io/en/latest/index.html&#34;&gt;edx-ecommerce&lt;/a&gt;&lt;/li&gt;
