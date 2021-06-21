@@ -19,12 +19,6 @@ description: News and information about containers
 * [Running Linux apps in MacOS using docker](http://shanavasv.com/running-linux-apps-in-macos-using-docker/)
 * [How to show X11 windows with Docker on Mac](https://medium.com/@mreichelt/how-to-show-x11-windows-within-docker-on-mac-50759f4b65cb)
 * [Running xeyes in Docker](http://nelkinda.com/blog/xeyes-in-docker/)
-* Remove all the images without a tag: `docker rmi $(docker images -f dangling=true -q)`
-* Remove <none> images: `docker rmi $(docker images |grep "<none>"|awk '$1=="<none>" {print $3}')`
-* Prune the system: `docker system prune`
-* Check the /var/lib/docker folder: `sudo du -h --max-depth=1 /var/lib/docker`
-* [How to clean up Docker](https://stackoverflow.com/questions/45798076/how-to-clean-up-docker)
-* Remove all the containers: `docker rm $(docker ps -a -q)`
 * [Base image Docker](https://phusion.github.io/baseimage-docker/)
 * Restart Docker: `service docker restart`
 * [How to keep docker containers running](http://bigdatums.net/2017/11/07/how-to-keep-docker-containers-running/)
@@ -32,6 +26,16 @@ description: News and information about containers
 * [Processes in containers should not run as root](https://medium.com/@mccode/processes-in-containers-should-not-run-as-root-2feae3f0df3b)
 * [Create a new image from a container’s changes](https://docs.docker.com/engine/reference/commandline/commit/)
 
+## Prune  
+* Remove all the images without a tag: `docker rmi $(docker images -f dangling=true -q)`
+* Remove <none> images: `docker rmi $(docker images |grep "<none>"|awk '$1=="<none>" {print $3}')`
+* Prune the system: `docker system prune`
+* Check the /var/lib/docker folder: `sudo du -h --max-depth=1 /var/lib/docker`
+* Check storage with `sudo baobab`
+* [How to clean up Docker](https://stackoverflow.com/questions/45798076/how-to-clean-up-docker)
+* Remove all the containers: `docker rm $(docker ps -a -q)`
+
+  
 ## Applied Docker images
 * [linuxserver.io](https://www.linuxserver.io/)
 
