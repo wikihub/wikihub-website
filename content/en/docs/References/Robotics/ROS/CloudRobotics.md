@@ -13,6 +13,7 @@ description: News and information about web applications for ROS-based robots
 
 # Web Application
 
+*   [Gotty: web-based terminal](https://github.com/yudai/gotty/)
 *   [Streamlit](https://www.streamlit.io/)
 *   [Robot Web Tools](http://robotwebtools.org/)
 *   [Webviz](https://github.com/cruise-automation/webviz)
