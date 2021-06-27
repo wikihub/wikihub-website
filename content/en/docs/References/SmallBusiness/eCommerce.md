@@ -14,6 +14,7 @@ description: Resources for eCommerce
 
 * [Introduction to Shopify](https://shopify.dev/concepts/shopify-introduction)
 * [Building Shopify apps](https://shopify.dev/concepts/apps)
+* [Building Shopify channels](https://shopify.dev/concepts/channels)
 
 # ShopHERE
 
