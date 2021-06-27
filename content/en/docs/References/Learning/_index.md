@@ -80,6 +80,7 @@ description: Resources for learning
 
 * [timeout](https://sibunglon.com/2020/07/26/solve-smtp-open-edx-timeout/)
 * [SMTP setup](https://blog.lawrencemcdaniel.com/open-edx-setup-smtp-email/)
+* [namshi SMTP docker](https://github.com/namshi/docker-smtp)
 
 # Online course templates
 
