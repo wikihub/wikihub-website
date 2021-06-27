@@ -19,6 +19,10 @@ description: Resources for learning
 *   [SCORM vs LTI](https://rusticisoftware.com/blog/scorm-vs-lti/)
 *   [Creating SCORM Content](https://docs.moodle.org/311/en/Creating_SCORM_Content)
 
+## eLearning Apps
+
+* [eduappcenter.com](https://www.eduappcenter.com/)
+
 # Tutorials
 
 ## Codelab
