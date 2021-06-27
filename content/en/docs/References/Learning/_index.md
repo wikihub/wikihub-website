@@ -17,6 +17,7 @@ description: Resources for learning
 ## Standards
 
 *   [SCORM vs LTI](https://rusticisoftware.com/blog/scorm-vs-lti/)
+*   [Creating SCORM Content](https://docs.moodle.org/311/en/Creating_SCORM_Content)
 
 # Tutorials
 
