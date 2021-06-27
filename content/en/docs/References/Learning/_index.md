@@ -22,9 +22,10 @@ description: Resources for learning
 *   [claat in Node.js](https://github.com/deepakshrma/googles-codelabs)
 *   [Atom extension for claat](https://github.com/ucl-casa-ce/claat-snippets-atom)
 
-## Katacode
+## Katacoda
 
-*   [Katacode](https://katacoda.com)
+*   [Katacoda](https://katacoda.com)
+*   [Katacoda: create](https://katacoda.com/create)
 
 ## Databases
 
