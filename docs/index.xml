@@ -1520,6 +1520,22 @@
 &lt;li&gt;&lt;a href=&#34;https://askubuntu.com/questions/1025793/running-pip3-importerror-cannot-import-name-main&#34;&gt;Use python -m pip install instead of pip install&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;If python.h not found: &lt;code&gt;sudo apt install python-dev python3-dev python3.7-dev&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h1 id=&#34;learning-python&#34;&gt;Learning Python&lt;/h1&gt;
+&lt;h2 id=&#34;top-4-github-repos-to-learn-python-or-copy-some-code&#34;&gt;Top 4 Github Repos to Learn Python (or copy some code!)&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://lnkd.in/guaDFtA&#34;&gt;All algorithms implemented in Python by The Algorithms&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://lnkd.in/gJuJDuw&#34;&gt;30-Days-Of-Python by Asabeneh Yetayeh&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://lnkd.in/gT_QueF&#34;&gt;Playground and Cheatsheet for Learning Python by Oleksii Trekhleb&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://lnkd.in/gRm8xYs&#34;&gt;Learn Python 3 by Jerry Pussinen&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;top-5-github-repos-to-learn-data-science-ai&#34;&gt;Top 5 Github Repos to Learn Data Science/ AI&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://lnkd.in/g9VRjip&#34;&gt;Awesome Data Science by Fatih Aktürk, Hüseyin Mert &amp;amp; Osman Ungur, Recep Erol&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://lnkd.in/gBRwKVw&#34;&gt;data-scientist-roadmap by MrMimic&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://lnkd.in/ghk3yBd&#34;&gt;Data Science Best Resources by Tirthajyoti Sarkar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://lnkd.in/gJHjc5X&#34;&gt;Ds-cheatsheets by Favio André Vázquez&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://lnkd.in/gfn6GxN&#34;&gt;DataScienceResources by jb&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
 
       </description>
     </item>
