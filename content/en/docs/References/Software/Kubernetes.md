@@ -83,6 +83,7 @@ description: News and information about Kubernetes
 
 # Local development environment
 
+* [Telepresence: Pacing up development on Kubernetes](https://rajputvaibhav.medium.com/pacing-up-development-on-kubernetes-690d8487a79e)
 * [Developing Kubernetes](https://kubernetes.io/blog/2018/05/01/developing-on-kubernetes/)
 * [ksync](https://ksync.github.io/ksync/)
 *   [Running Kubernetes locally on Linux with Minikube](https://kubernetes.io/blog/2019/03/28/running-kubernetes-locally-on-linux-with-minikube-now-with-kubernetes-1.14-support/)
