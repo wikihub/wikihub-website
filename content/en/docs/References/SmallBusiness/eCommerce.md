@@ -18,4 +18,5 @@ description: Resources for eCommerce
 
 # ShopHERE
 
+* [Digital Main Street](https://digitalmainstreet.ca/)
 * [List of vendors](https://digitalmainstreet.ca/vendor-directory/)
