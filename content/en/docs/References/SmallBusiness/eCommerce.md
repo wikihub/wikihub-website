@@ -13,6 +13,7 @@ description: Resources for eCommerce
 ## Developing on Shopify
 
 * [Introduction to Shopify](https://shopify.dev/concepts/shopify-introduction)
+* [Building Shopify apps](https://shopify.dev/concepts/apps)
 
 # ShopHERE
 
