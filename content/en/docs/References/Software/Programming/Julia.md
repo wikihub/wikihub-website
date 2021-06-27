@@ -5,4 +5,7 @@ weight: 25
 description: Resources for Julia computing
 ---
 
-* [Julia Robotics](https://juliarobotics.org/)
+
+*   [Julia](https://julialang.org/learning/)
+*   [Quantecon Notebooks Julia](https://github.com/QuantEcon/quantecon-notebooks-julia)
+*   [Julia Robotics](https://juliarobotics.org/)
