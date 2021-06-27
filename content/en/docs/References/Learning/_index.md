@@ -64,6 +64,7 @@ description: Resources for learning
 * Tutor: view the configuration file: `cat "$(tutor config printroot)/config.yml"`
 * Tutor: set configuration parameters: `tutor config save --set PARAM1=VALUE1 --set PARAM2=VALUE2`
 * Tutor: print a configuration parameter: `tutor config printvalue RUN_SMTP`
+* Tutor: logs of a specific service: `tutor local logs --follow smtp`
 * [Tutor: Open edX on AWS EKS](https://rajputvaibhav.medium.com/open-edx-on-aws-eks-382419ca0865)
 
 ### EdX eCommerce
