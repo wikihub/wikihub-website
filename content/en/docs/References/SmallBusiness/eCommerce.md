@@ -10,6 +10,10 @@ description: Resources for eCommerce
 * [Shopify app store](https://apps.shopify.com/)
 * [Buyer Personas](https://www.shopify.ca/retail/know-your-customers-how-to-build-buyer-personas-for-your-retail-store)
 
+## Developing on Shopify
+
+* [Introduction to Shopify](https://shopify.dev/concepts/shopify-introduction)
+
 # ShopHERE
 
 * [List of vendors](https://digitalmainstreet.ca/vendor-directory/)
