@@ -57,6 +57,7 @@ description: Resources for learning
 ### EdX Deployment
 
 * [Open EdX deployment](https://openedx-deployment.doc.opencraft.com/en/latest/)
+* Tutor: view the configuration file: `cat "$(tutor config printroot)/config.yml"`
 
 ### EdX eCommerce
 
