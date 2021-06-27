@@ -299,6 +299,7 @@
 &lt;/ul&gt;
 &lt;h1 id=&#34;local-development-environment&#34;&gt;Local development environment&lt;/h1&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://rajputvaibhav.medium.com/pacing-up-development-on-kubernetes-690d8487a79e&#34;&gt;Telepresence: Pacing up development on Kubernetes&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://kubernetes.io/blog/2018/05/01/developing-on-kubernetes/&#34;&gt;Developing Kubernetes&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://ksync.github.io/ksync/&#34;&gt;ksync&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://kubernetes.io/blog/2019/03/28/running-kubernetes-locally-on-linux-with-minikube-now-with-kubernetes-1.14-support/&#34;&gt;Running Kubernetes locally on Linux with Minikube&lt;/a&gt;&lt;/li&gt;
