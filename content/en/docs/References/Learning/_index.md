@@ -11,9 +11,12 @@ description: Resources for learning
 
 # eLearning
 
-*   [SCORM vs LTI](https://rusticisoftware.com/blog/scorm-vs-lti/)
 *   [Computing Education Research Blog](https://computinged.wordpress.com/)
 *   [Walking Randomly](http://www.walkingrandomly.com/)
+
+## Standards
+
+*   [SCORM vs LTI](https://rusticisoftware.com/blog/scorm-vs-lti/)
 
 # Tutorials
 
