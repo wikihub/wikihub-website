@@ -72,7 +72,7 @@ description: Resources for learning
 * [Open EdX deployment](https://openedx-deployment.doc.opencraft.com/en/latest/)
 * Tutor: view the configuration file: `cat "$(tutor config printroot)/config.yml"`
 * Tutor: set configuration parameters: `tutor config save --set PARAM1=VALUE1 --set PARAM2=VALUE2`
-* Tutor: `tutor config save --set SMTP_HOST=smtp.gmail.com --set SMTP_PORT=587 --set SMTP_USERNAME=mechatronics3d.academy --set SMTP_PASSWORD=123 --set SMTP_USE_TLS=true`
+* Tutor: `tutor config save --set RUN_SMTP=false --set SMTP_HOST=smtp.gmail.com --set SMTP_PORT=587 --set SMTP_USERNAME=mechatronics3d.academy --set SMTP_PASSWORD=123 --set SMTP_USE_TLS=true`
 * Tutor: print a configuration parameter: `tutor config printvalue RUN_SMTP`
 * Tutor: logs of a specific service: `tutor local logs --follow smtp`
 * [Tutor: Open edX on AWS EKS](https://rajputvaibhav.medium.com/open-edx-on-aws-eks-382419ca0865)
