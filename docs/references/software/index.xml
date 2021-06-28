@@ -1088,6 +1088,7 @@ Don’t Worry, You Can’t Break It. We Promise.&lt;/li&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/docker-mailserver/docker-mailserver&#34;&gt;Docker mail server&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Test email server connection: &lt;code&gt;telnet alt1.gmail-smtp-in.l.google.com 25&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://blndxp.wordpress.com/2016/06/11/how-to-testsend-an-smtp-mail-service-sendmailexim-in-the-shell/&#34;&gt;How to Test/Send an SMTP Email (sendmail/exim) In the Shell&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;vpn&#34;&gt;VPN&lt;/h1&gt;
 &lt;ul&gt;
