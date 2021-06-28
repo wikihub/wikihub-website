@@ -93,6 +93,10 @@ description: Linux resources
 
 *   [How Secure Boot Works on Windows 8 and 10, and What It Means for Linux](https://www.howtogeek.com/116569/htg-explains-how-windows-8s-secure-boot-feature-works-what-it-means-for-linux/)
 
+# Email
+
+* [Docker mail server](https://github.com/docker-mailserver/docker-mailserver)
+
 # VPN
 
 *   [How To Set up OpenVPN Server In 5 Minutes on Ubuntu Linux](https://www.cyberciti.biz/faq/howto-setup-openvpn-server-on-ubuntu-linux-14-04-or-16-04-lts/)
