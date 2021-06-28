@@ -596,6 +596,7 @@
 &lt;li&gt;&lt;a href=&#34;https://openedx-deployment.doc.opencraft.com/en/latest/&#34;&gt;Open EdX deployment&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Tutor: view the configuration file: &lt;code&gt;cat &amp;quot;$(tutor config printroot)/config.yml&amp;quot;&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;Tutor: set configuration parameters: &lt;code&gt;tutor config save --set PARAM1=VALUE1 --set PARAM2=VALUE2&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Tutor: &lt;code&gt;tutor config save --set SMTP_HOST=smtp.gmail.com --set SMTP_PORT=587 --set SMTP_USERNAME=mechatronics3d.academy --set SMTP_PASSWORD=123 --set SMTP_USE_TLS=true&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;Tutor: print a configuration parameter: &lt;code&gt;tutor config printvalue RUN_SMTP&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;Tutor: logs of a specific service: &lt;code&gt;tutor local logs --follow smtp&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://rajputvaibhav.medium.com/open-edx-on-aws-eks-382419ca0865&#34;&gt;Tutor: Open edX on AWS EKS&lt;/a&gt;&lt;/li&gt;
