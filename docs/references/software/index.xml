@@ -1087,6 +1087,7 @@ Don’t Worry, You Can’t Break It. We Promise.&lt;/li&gt;
 &lt;h1 id=&#34;email&#34;&gt;Email&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/docker-mailserver/docker-mailserver&#34;&gt;Docker mail server&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Test email server connection: &lt;code&gt;telnet alt1.gmail-smtp-in.l.google.com 25&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;vpn&#34;&gt;VPN&lt;/h1&gt;
 &lt;ul&gt;
