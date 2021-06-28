@@ -97,6 +97,7 @@ description: Linux resources
 
 * [Docker mail server](https://github.com/docker-mailserver/docker-mailserver)
 * Test email server connection: `telnet alt1.gmail-smtp-in.l.google.com 25`
+* [How to Test/Send an SMTP Email (sendmail/exim) In the Shell](https://blndxp.wordpress.com/2016/06/11/how-to-testsend-an-smtp-mail-service-sendmailexim-in-the-shell/)
 
 # VPN
 
