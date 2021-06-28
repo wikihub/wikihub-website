@@ -96,6 +96,7 @@ description: Linux resources
 # Email
 
 * [Docker mail server](https://github.com/docker-mailserver/docker-mailserver)
+* Test email server connection: `telnet alt1.gmail-smtp-in.l.google.com 25`
 
 # VPN
 
