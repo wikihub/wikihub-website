@@ -35,7 +35,7 @@ description: Resources for eMobility
 * [My Pod Ride](https://www.mypodride.com/)
 * [Maxbik](https://www.maxbik.com/)
 * [Benelli Bikes](https://benellibikes.ca)
-* [Lankeleisi Canada](https://www.lankeleisicanada.com/)
+* [Lanke leisi Canada](https://www.lankeleisicanada.com/)
 * [Cannondale](https://www.cannondale.com/en)
 
 ## eBike Subscription
