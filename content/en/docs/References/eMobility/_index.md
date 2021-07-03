@@ -25,4 +25,16 @@ description: Resources for eMobility
 
 # Bicycles
 
+# Bicycle Applications
+
+* [Strava](https://www.strava.com/)
+
+## Bicycle Rentals
+
 * [Sport Rentals](https://sportrentals.ca/)
+
+
+## Bicycle Communities
+
+* [Great Cycling Challenge](https://greatcyclechallenge.ca/)
+* [Bike Hub: British Columbia](https://bikehub.ca/)
