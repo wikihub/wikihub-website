@@ -34,8 +34,6 @@ description: Resources for eMobility
 
 # Electric Bicycles
 
-## eBike Manufacturers
-
 * [ENVO Drive](https://envodrive.com/)
 * [Leon Cycle](https://leoncycle.ca/)
 * [Rad Power Bikes: $1800 to $2200](https://radpowerbikes.ca)
