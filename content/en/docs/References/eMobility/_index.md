@@ -5,9 +5,9 @@ weight: 30
 description: Resources for eMobility
 ---
 
-# Velomobiles
+# Electric Cars
 
-* [Top 10 velomobiles](https://www.youtube.com/watch?v=EBj1fZqWXsI)
+* [Solo](https://electrameccanica.com/solo/)
 * [Birò - Birocity](https://birocity.es)
 * [AirPod - 2.0](https://www.airfuture.co.nz)
 * [City Transformer](https://www.citytransformer.com)
@@ -18,7 +18,12 @@ description: Resources for eMobility
 * [iEV XX](https://www.ievmotors.com/ievxx)
 * [Lazareth Amphibie](https://www.lazareth.fr/project/lazar)
 * [Cruser Sport](https://www.ecocruise.com/)
-* [Velocar](https://velocar.net/)
+
+
+# Velomobiles
+
+* [Top 10 velomobiles](https://www.youtube.com/watch?v=EBj1fZqWXsI)
+* [An overview of velocars](https://velocar.net/)
 * [Vanraam Transport Bikes](https://www.vanraam.com/en-gb/our-bikes/transport-bikes)
 * [Freedom concepts](https://www.freedomconcepts.com/)
 * [JerryRigEverything's "The Rig": It's Not A Wheelchair](https://youtu.be/BMu61nPjNYA)
