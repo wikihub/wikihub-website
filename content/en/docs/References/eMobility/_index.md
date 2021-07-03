@@ -23,6 +23,8 @@ description: Resources for eMobility
 
 * [Bosch eBike](https://www.bosch-ebike.com/us/)
 * [Redshift Sports: Shockstop suspension](https://redshiftsports.com/)
+* [Nobl Wheels](https://noblwheels.com)
+* [Reciprocators](https://reciprocators.ca/)
 
 ## Conversion Kits
 
@@ -37,6 +39,12 @@ description: Resources for eMobility
 ## Bicycle Accessories
 
 * [Quad lock case](https://www.quadlockcase.ca/collections/shop-ride)
+
+## Bicycle Stores
+
+* [Bike Depot](https://www.bikedepot.com/)
+* [MEC](https://www.mec.ca/en/products/cycling/bikes/electric-bikes/c/1780?f=storeAvailability%3ANorth+York)
+* [Sporting Life: Cycling Clothes](https://www.sportinglife.ca/en-CA/men/lifestyles/cycle/)
 
 ## Bicycle Rentals
 
