@@ -25,9 +25,13 @@ description: Resources for eMobility
 
 # Bicycles
 
-# Bicycle Applications
+## Bicycle Applications
 
 * [Strava](https://www.strava.com/)
+
+## Bicycle Accessories
+
+* [Quad lock case](https://www.quadlockcase.ca/collections/shop-ride)
 
 ## Bicycle Rentals
 
