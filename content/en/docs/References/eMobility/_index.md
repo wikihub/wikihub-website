@@ -28,6 +28,7 @@ description: Resources for eMobility
 
 # Trikes
 
+* [Taiga Bikes](https://us.tagabikes.com/)
 * [Wello](http://www.wello.io)
 * [Vanraam Transport Bikes](https://www.vanraam.com/en-gb/our-bikes/transport-bikes)
 * [Freedom concepts](https://www.freedomconcepts.com/)
