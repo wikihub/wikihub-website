@@ -21,6 +21,9 @@ description: Resources for eCommerce
 * [Shopify App Store](https://apps.shopify.com/)
 * [BookThatApp](https://apps.shopify.com/bookthatapp)
 * [Rentals and reservations](https://apps.shopify.com/rentals-and-reservations)
+* [Real ID](https://apps.shopify.com/real-id)
+* [ID.me](https://apps.shopify.com/id-me-group-verification)
+* [Validation.com](https://apps.shopify.com/validation-com)
 
 # ShopHERE
 
