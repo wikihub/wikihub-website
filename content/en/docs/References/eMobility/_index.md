@@ -24,13 +24,13 @@ description: Resources for eMobility
 
 * [Top 10 velomobiles](https://www.youtube.com/watch?v=EBj1fZqWXsI)
 * [An overview of velocars](https://velocar.net/)
-* [Vanraam Transport Bikes](https://www.vanraam.com/en-gb/our-bikes/transport-bikes)
-* [Freedom concepts](https://www.freedomconcepts.com/)
 * [JerryRigEverything's "The Rig": It's Not A Wheelchair](https://youtu.be/BMu61nPjNYA)
 
 # Trikes
 
 * [Wello](http://www.wello.io)
+* [Vanraam Transport Bikes](https://www.vanraam.com/en-gb/our-bikes/transport-bikes)
+* [Freedom concepts](https://www.freedomconcepts.com/)
 
 # Electric Bicycles
 
