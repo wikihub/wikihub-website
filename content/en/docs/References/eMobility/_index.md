@@ -21,7 +21,7 @@ description: Resources for eMobility
 * [Velocar](https://velocar.net/)
 * [Vanraam Transport Bikes](https://www.vanraam.com/en-gb/our-bikes/transport-bikes)
 * [Freedom concepts](https://www.freedomconcepts.com/)
-* [Velomobile](https://youtu.be/BMu61nPjNYA)
+* [JerryRigEverything's "The Rig": It's Not A Wheelchair](https://youtu.be/BMu61nPjNYA)
 
 # Electric Bicycles
 
