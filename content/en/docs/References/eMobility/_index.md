@@ -28,6 +28,10 @@ description: Resources for eMobility
 * [Freedom concepts](https://www.freedomconcepts.com/)
 * [JerryRigEverything's "The Rig": It's Not A Wheelchair](https://youtu.be/BMu61nPjNYA)
 
+# Trikes
+
+* [Wello](http://www.wello.io)
+
 # Electric Bicycles
 
 ## eBike Manufacturers
