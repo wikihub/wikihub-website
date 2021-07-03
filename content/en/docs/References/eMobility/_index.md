@@ -112,6 +112,7 @@ description: Resources for eMobility
 
 ## Bicycle Communities
 
+* [Cycling in Ontario 2021](https://www.transportationoptions.org/uploads/8/7/2/0/8720033/cio2021-eng-small.pdf)
 * [Ontario by Bike](https://www.ontariobybike.ca/)
 * [Hamilton cycling communities](https://hamiltontrike.com/pages/community)
 * [Great Cycling Challenge](https://greatcyclechallenge.ca/)
