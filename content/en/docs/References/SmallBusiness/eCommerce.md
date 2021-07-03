@@ -30,3 +30,6 @@ description: Resources for eCommerce
 * [Digital Main Street](https://digitalmainstreet.ca/)
 * [List of vendors](https://digitalmainstreet.ca/vendor-directory/)
 * [Local market intelligence tool by MasterCard](https://digitalmainstreet.ca/product/local-market-intelligence-tool/)
+
+# Rental
+* [Rentle.io](https://www.rentle.io/)
