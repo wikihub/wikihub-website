@@ -16,6 +16,12 @@ description: Resources for eCommerce
 * [Building Shopify apps](https://shopify.dev/concepts/apps)
 * [Building Shopify channels](https://shopify.dev/concepts/channels)
 
+## Shopify Apps
+
+* [Shopify App Store](https://apps.shopify.com/)
+* [BookThatApp](https://apps.shopify.com/bookthatapp)
+* [Rentals and reservations](https://apps.shopify.com/rentals-and-reservations)
+
 # ShopHERE
 
 * [Digital Main Street](https://digitalmainstreet.ca/)
