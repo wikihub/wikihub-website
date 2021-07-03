@@ -22,6 +22,7 @@ description: Resources for eMobility
 ## Parts
 
 * [Bosch eBike](https://www.bosch-ebike.com/us/)
+* [Redshift Sports: Shockstop suspension](https://redshiftsports.com/)
 
 # Bicycles
 
