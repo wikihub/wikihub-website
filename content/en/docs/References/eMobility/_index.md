@@ -24,6 +24,10 @@ description: Resources for eMobility
 * [Bosch eBike](https://www.bosch-ebike.com/us/)
 * [Redshift Sports: Shockstop suspension](https://redshiftsports.com/)
 
+## Conversion Kits
+
+* [Swytch bike](https://www.swytchbike.com/p/universal-ebike-conversion-kit/)
+
 # Bicycles
 
 ## Bicycle Applications
