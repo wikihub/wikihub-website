@@ -32,6 +32,10 @@ description: Resources for eMobility
 
 # Bicycles
 
+## Bicycle Manufacturers
+
+* [Vanraam](https://www.vanraam.com/en-gb/our-bikes)
+
 ## Bicycle Applications
 
 * [Strava](https://www.strava.com/)
