@@ -23,6 +23,15 @@ description: Resources for eMobility
 # Velomobiles
 
 * [Top 10 velomobiles](https://www.youtube.com/watch?v=EBj1fZqWXsI)
+* [CityQ](https://www.cityq.com/)
+* [Biohybrid](https://www.biohybrid.com/en/)
+* [Podbike](https://www.podbike.com/)
+* [Sunox](https://www.sunox.org/)
+* [Drycycle](https://www.drycycle.co.uk/)
+* [Urban Drive Style](https://urbandrivestyle.com/)
+* [Quicab](https://www.facebook.com/thequicab)
+* [Qlio Velo](https://qliovelo.com/)
+* [Scouter Mobility](https://scoutermobility.com/)
 * [An overview of velocars](https://velocar.net/)
 * [JerryRigEverything's "The Rig": It's Not A Wheelchair](https://youtu.be/BMu61nPjNYA)
 
