@@ -43,6 +43,7 @@ description: News and information about Internet of Things and its applications
 # Bicycles
 * [Leopard Tech](https://www.leopardtech.co.uk/solutions/)
 * [Connected e-bike by Bosch](https://www.bosch.com/stories/connected-e-bike/)
+* [Telefonika ebike tracker](https://teltonika-mobility.com/product/e-bike-tracker-easy/#downloads)
 
 # Automotive
 * [Mikrotik LtAP mini](https://mikrotik.com/product/ltap_mini)
