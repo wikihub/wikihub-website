@@ -47,3 +47,6 @@ description: News and information about Internet of Things and its applications
 
 # Automotive
 * [Mikrotik LtAP mini](https://mikrotik.com/product/ltap_mini)
+
+# Mikrotik
+* [Solimedia: Mikrotik's Canadian distributor](https://solimedia.net/)
