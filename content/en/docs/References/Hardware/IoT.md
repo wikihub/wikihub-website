@@ -39,3 +39,10 @@ description: News and information about Internet of Things and its applications
 # Asset Tracking
 * [How I built a tiny real time telematics application on AWS](https://towardsdatascience.com/how-i-built-a-tiny-real-time-telematics-application-on-aws-a9956f5afe65)
 * [GSM Tracker](https://github.com/daveake/GSMTracker)
+
+# Bicycles
+* [Leopard Tech](https://www.leopardtech.co.uk/solutions/)
+* [Connected e-bike by Bosch](https://www.bosch.com/stories/connected-e-bike/)
+
+# Automotive
+* [Mikrotik LtAP mini](https://mikrotik.com/product/ltap_mini)
