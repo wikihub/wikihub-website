@@ -41,9 +41,11 @@ description: News and information about Internet of Things and its applications
 * [GSM Tracker](https://github.com/daveake/GSMTracker)
 
 # Bicycles
+* [Shimano E-TUBE](https://bike.shimano.com/en-EU/e-tube.html)
 * [Leopard Tech](https://www.leopardtech.co.uk/solutions/)
 * [Connected e-bike by Bosch](https://www.bosch.com/stories/connected-e-bike/)
 * [Telefonika ebike tracker](https://teltonika-mobility.com/product/e-bike-tracker-easy/#downloads)
+* [ESB](https://www.esb.bike/app/)
 
 # Automotive
 * [Mikrotik LtAP mini](https://mikrotik.com/product/ltap_mini)
