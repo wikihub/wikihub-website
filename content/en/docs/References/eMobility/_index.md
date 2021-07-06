@@ -107,11 +107,15 @@ description: Resources for eMobility
 
 ## Bicycle Stores
 
+* [Bike Exchange](https://www.bikeexchange.ca/)
 * [Walmart](https://www.walmart.ca/browse/sports-rec/bikes/adult-bikes/electric-bikes/10010-20088-31141-31805)
 * [Vintage Iron Cycles](https://vintageironcycles.com/shop/)
 * [North49](https://north49brands.com/product-category/synergy/e-skateboards/)
 * [Bike Depot](https://www.bikedepot.com/)
 * [MEC](https://www.mec.ca/en/products/cycling/bikes/electric-bikes/c/1780?f=storeAvailability%3ANorth+York)
+
+### Cycling Clothes
+* [Decathlon](https://www.decathlon.ca/en/13924-bike-men-clothing)
 * [Sporting Life: Cycling Clothes](https://www.sportinglife.ca/en-CA/men/lifestyles/cycle/)
 
 ## Bicycle Rentals
