@@ -82,6 +82,7 @@ description: Resources for eMobility
 
 ## Parts
 
+* [Shimano STEPS](https://www.shimano-steps.com/e-bikes/north-america/en)
 * [Bosch eBike](https://www.bosch-ebike.com/us/)
 * [Redshift Sports: Shockstop suspension](https://redshiftsports.com/)
 * [Nobl Wheels](https://noblwheels.com)
