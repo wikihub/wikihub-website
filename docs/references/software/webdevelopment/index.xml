@@ -449,6 +449,11 @@
 &lt;li&gt;&lt;a href=&#34;https://github.com/unicodeveloper/awesome-nextjs&#34;&gt;Awesome Next.js&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/serverless-nextjs/serverless-next.js&#34;&gt;Serverless Next.js&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h1 id=&#34;state-management&#34;&gt;State management&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://redux.js.org/&#34;&gt;Redux&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://labcodes.com.br/blog/en-us/development/decoupling-logic-from-react-components/&#34;&gt;Decoupling logic from react components&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
       </description>
     </item>
