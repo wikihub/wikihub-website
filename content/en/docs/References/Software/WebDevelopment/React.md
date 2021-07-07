@@ -93,3 +93,8 @@ description: News and information about React development
 *   [Next.js tutorial](https://www.netlify.com/blog/2020/05/04/building-a-markdown-blog-with-next-9.4-and-netlify/)
 *   [Awesome Next.js](https://github.com/unicodeveloper/awesome-nextjs)
 *   [Serverless Next.js](https://github.com/serverless-nextjs/serverless-next.js)
+
+# State management
+
+* [Redux](https://redux.js.org/)
+* [Decoupling logic from react components](https://labcodes.com.br/blog/en-us/development/decoupling-logic-from-react-components/)
