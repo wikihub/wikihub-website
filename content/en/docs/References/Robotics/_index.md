@@ -12,6 +12,7 @@ description: Resources for robotics
 * [Robotics Report](https://www.therobotreport.com/)
 * [Robohub](https://robohub.org/)
 * [Robotics Weekly](https://weeklyrobotics.com/)
+* [Mobile Robot Guide](https://mobilerobotguide.com/)
 
 # Shopping
 
