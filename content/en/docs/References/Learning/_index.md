@@ -54,6 +54,7 @@ description: Resources for learning
 
 # Authoring Tools
 
+* [Authorea](https://www.authorea.com)
 * [Scalar](https://scalar.me/anvc/features/overview/)
 
 # Learning Management System
