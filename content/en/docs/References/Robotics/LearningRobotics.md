@@ -5,6 +5,8 @@ weight: 30
 description: Resources for learning robotics
 ---
 
+* [Robotics courses](https://github.com/mithi/robotics-coursework)
+
 # [EdX](https://www.edx.org)
 
 * [Autonomous Mobile Robots](https://www.edx.org/course/autonomous-mobile-robots)
