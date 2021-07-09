@@ -54,6 +54,7 @@ description: Resources for learning
 
 # Authoring Tools
 
+* [Jupyter4edu](https://jupyter4edu.github.io/jupyter-edu-book/)
 * [Authorea](https://www.authorea.com)
 * [Scalar](https://scalar.me/anvc/features/overview/)
 
