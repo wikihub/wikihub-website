@@ -58,15 +58,15 @@ description: Resources for learning
 * [Authorea](https://www.authorea.com)
 * [Scalar](https://scalar.me/anvc/features/overview/)
 
+# Employee Training System
+
+* [Learning Locker](https://docs.learninglocker.net/welcome/)
+
 # Learning Management Systems
 
 * [Up2U](https://up2u.readthedocs.io/)
 * [Courselit](https://github.com/recurzery/courselit)
 * [edapp](https://www.edapp.com/)
-
-## Learning Pool
-
-* [Learning Locker](https://docs.learninglocker.net/welcome/)
 
 ## EdX
 
