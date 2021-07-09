@@ -15,6 +15,7 @@ description: Resources for learning using notebooks
 * [MkDocs](https://www.mkdocs.org/)
 
 # Running Jupyter Servers
+* [Science Box](https://sciencebox.web.cern.ch/sciencebox/)
 * [JupyterHub](https://github.com/jupyterhub/jupyterhub)
 * [The littlest JuperHub](https://github.com/jupyterhub/the-littlest-jupyterhub)
 * [Zero to JupyterHub k8s](https://github.com/jupyterhub/zero-to-jupyterhub-k8s)
@@ -53,6 +54,6 @@ description: Resources for learning using notebooks
 * [Jupyter notebooks for teaching Robotics and Machine Learning](https://github.com/alessandro-giusti/teaching-notebooks)
 
 # Block-Based Programming
-* [BlockPy iupyter Notebooks](https://blog.ouseful.info/tag/blockpy/)
+* [BlockPy Jupyter Notebooks](https://blog.ouseful.info/tag/blockpy/)
 * [Learning Calico Jigsaw](https://www.youtube.com/playlist?list=PLo7YO_w3ktGSuVtXI6WG2JXO6yHh-xnEa)
 
