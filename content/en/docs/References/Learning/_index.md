@@ -55,6 +55,7 @@ description: Resources for learning
 # Learning Management System
 
 * [Courselit](https://github.com/recurzery/courselit)
+* [edapp](https://www.edapp.com/)
 
 ## EdX
 
