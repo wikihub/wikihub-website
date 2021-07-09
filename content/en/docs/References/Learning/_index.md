@@ -64,6 +64,10 @@ description: Resources for learning
 * [Courselit](https://github.com/recurzery/courselit)
 * [edapp](https://www.edapp.com/)
 
+## Learning Pool
+
+* [Learning Locker](https://docs.learninglocker.net/welcome/)
+
 ## EdX
 
 * [EdX Lilac](https://edx.readthedocs.io/projects/open-edx-release-notes/en/latest/lilac.html)
