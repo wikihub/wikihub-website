@@ -52,6 +52,10 @@ description: Resources for learning
 *   [Tiddlywiki](https://tiddlywiki.com/)
 *   [Learning Tools Interoperability](https://en.wikipedia.org/wiki/Learning_Tools_Interoperability)
 
+# Authoring Tools
+
+* [Scalar](https://scalar.me/anvc/features/overview/)
+
 # Learning Management System
 
 * [Courselit](https://github.com/recurzery/courselit)
