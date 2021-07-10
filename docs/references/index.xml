@@ -745,6 +745,10 @@
 &lt;li&gt;&lt;code&gt;keytool -genkey -alias localhost -keyalg RSA -keystore keycloak.jks -validity 10950&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;keytool -certreq -alias yourdomain -keystore keycloak.jks &amp;gt; keycloak.careq&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h3 id=&#34;moodle&#34;&gt;Moodle&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://hub.docker.com/r/up2university/moodle&#34;&gt;docker-moodle&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2 id=&#34;edx&#34;&gt;EdX&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://edx.readthedocs.io/projects/open-edx-release-notes/en/latest/lilac.html&#34;&gt;EdX Lilac&lt;/a&gt;&lt;/li&gt;
