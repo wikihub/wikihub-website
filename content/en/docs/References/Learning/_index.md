@@ -79,6 +79,10 @@ description: Resources for learning
 * `keytool -genkey -alias localhost -keyalg RSA -keystore keycloak.jks -validity 10950`
 * `keytool -certreq -alias yourdomain -keystore keycloak.jks > keycloak.careq`
 
+### Moodle
+
+* [docker-moodle](https://hub.docker.com/r/up2university/moodle)
+
 ## EdX
 
 * [EdX Lilac](https://edx.readthedocs.io/projects/open-edx-release-notes/en/latest/lilac.html)
