@@ -77,6 +77,7 @@ description: Resources for learning
 * `sdk list java`
 * `sdk install java 11.0.11-open`
 * `keytool -genkey -alias localhost -keyalg RSA -keystore keycloak.jks -validity 10950`
+* `keytool -certreq -alias yourdomain -keystore keycloak.jks > keycloak.careq`
 
 ## EdX
 
