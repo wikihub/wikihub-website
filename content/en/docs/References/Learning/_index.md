@@ -78,6 +78,9 @@ description: Resources for learning
 * `sdk install java 11.0.11-open`
 * `keytool -genkey -alias localhost -keyalg RSA -keystore keycloak.jks -validity 10950`
 * `keytool -certreq -alias yourdomain -keystore keycloak.jks > keycloak.careq`
+* `sudo snap install --classic certbot`
+* `sudo ln -s /snap/bin/certbot /usr/bin/certbot`
+* `certbot certonly --stanalone -d mechatronics3d.com`
 
 ### Moodle
 
