@@ -743,6 +743,7 @@
 &lt;li&gt;&lt;code&gt;sdk list java&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;sdk install java 11.0.11-open&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;keytool -genkey -alias localhost -keyalg RSA -keystore keycloak.jks -validity 10950&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;keytool -certreq -alias yourdomain -keystore keycloak.jks &amp;gt; keycloak.careq&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;edx&#34;&gt;EdX&lt;/h2&gt;
 &lt;ul&gt;
