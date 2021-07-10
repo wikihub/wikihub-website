@@ -21,6 +21,7 @@ description: News and information about authentication
 *   [useAuth](https://github.com/Swizec/useAuth)
 *   [Netlify Identify](https://github.com/sw-yx/jamstack-hackathon-starter/)
 *   [Netlify authentication](https://www.netlify.com/tags/authentication/)
+*   [Keycloak react demo](https://github.com/dasniko/keycloak-reactjs-demo)
 
 # Static Websites
 
