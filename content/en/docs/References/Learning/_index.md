@@ -68,6 +68,16 @@ description: Resources for learning
 * [Courselit](https://github.com/recurzery/courselit)
 * [edapp](https://www.edapp.com/)
 
+## Up2U
+
+### Keycloak
+
+* `curl -s "https://get.sdkman.io" | bash`
+* Open a new terminal
+* `sdk list java`
+* `sdk install java 11.0.11-open`
+* `keytool -genkey -alias localhost -keyalg RSA -keystore keycloak.jks -validity 10950`
+
 ## EdX
 
 * [EdX Lilac](https://edx.readthedocs.io/projects/open-edx-release-notes/en/latest/lilac.html)
