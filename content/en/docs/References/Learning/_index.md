@@ -71,7 +71,7 @@ description: Resources for learning
 ## Up2U
 
 ### Keycloak
-
+Run these commands in the keycloak server:
 * `curl -s "https://get.sdkman.io" | bash`
 * Open a new terminal
 * `sdk list java`
@@ -80,7 +80,7 @@ description: Resources for learning
 * `keytool -certreq -alias yourdomain -keystore keycloak.jks > keycloak.careq`
 * `sudo snap install --classic certbot`
 * `sudo ln -s /snap/bin/certbot /usr/bin/certbot`
-* `certbot certonly --stanalone -d mechatronics3d.com`
+* `certbot certonly --standalone -d mechatronics3d.com`
 
 ### Moodle
 
