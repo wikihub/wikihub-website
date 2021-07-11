@@ -195,6 +195,10 @@
 &lt;li&gt;&lt;a href=&#34;https://www.onelogin.com/&#34;&gt;OneLogin&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.okta.com/&#34;&gt;Okta&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h2 id=&#34;keycloak&#34;&gt;Keycloak&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/InseeFrLab/keycloakify&#34;&gt;Keycloakify&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h1 id=&#34;verified-identities&#34;&gt;Verified Identities&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.fintrac-canafe.gc.ca/guidance-directives/client-clientele/1-eng&#34;&gt;Know your client requirements&lt;/a&gt;&lt;/li&gt;
