@@ -751,7 +751,7 @@
 &lt;li&gt;&lt;code&gt;keytool -certreq -alias yourdomain -keystore keycloak.jks &amp;gt; keycloak.careq&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;sudo snap install --classic certbot&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;sudo ln -s /snap/bin/certbot /usr/bin/certbot&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;certbot certonly --standalone -d auth.mechatronics3d.com&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;certbot certonly --standalone -d auth.mechatronics3d.com&lt;/code&gt; (&lt;a href=&#34;https://gist.github.com/bsamadi/541bd6ced11111a251ecfd494dd30694&#34;&gt;gist&lt;/a&gt;)&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;keytool -import -keystore keycloak.jks -file /etc/letsencrypt/live/auth.mechatronics3d.com/fullchain.pem -alias root&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;moodle&#34;&gt;Moodle&lt;/h3&gt;
