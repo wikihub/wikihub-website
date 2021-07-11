@@ -14,6 +14,10 @@ description: News and information about authentication
 * [OneLogin](https://www.onelogin.com/)
 * [Okta](https://www.okta.com/)
 
+## Keycloak
+
+* [Keycloakify](https://github.com/InseeFrLab/keycloakify)
+
 # Verified Identities
 
 * [Know your client requirements](https://www.fintrac-canafe.gc.ca/guidance-directives/client-clientele/1-eng)
