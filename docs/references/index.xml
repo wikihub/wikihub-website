@@ -752,7 +752,9 @@
 &lt;li&gt;&lt;code&gt;sudo snap install --classic certbot&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;sudo ln -s /snap/bin/certbot /usr/bin/certbot&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;certbot certonly --standalone -d auth.mechatronics3d.com&lt;/code&gt; (&lt;a href=&#34;https://gist.github.com/bsamadi/541bd6ced11111a251ecfd494dd30694&#34;&gt;gist&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;keytool -import -keystore keycloak.jks -file /etc/letsencrypt/live/auth.mechatronics3d.com/fullchain.pem -alias root&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;wget https://letsencrypt.org/certs/isrgrootx1.pem&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;keytool -import -keystore keycloak.jks -file isrgrootx1.pem -alias root&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;keytool -import -alias auth.mechatronics3d.com -keystore keycloak.jks -file /etc/letsencrypt/live/auth.mechatronics3d.com/fullchain.pem&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;moodle&#34;&gt;Moodle&lt;/h3&gt;
 &lt;ul&gt;
