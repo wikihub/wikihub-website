@@ -9,6 +9,7 @@ description: News and information about Kubernetes
 ---
 
 *   [Awesome cloud native](https://jimmysong.io/awesome-cloud-native/)
+*   [OperatorHub.io](https://operatorhub.io/)
 
 # Kubernetes
 
