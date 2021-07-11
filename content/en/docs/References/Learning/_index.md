@@ -71,7 +71,7 @@ description: Resources for learning
 ## Up2U
 
 ### Keycloak
-Run these commands in the keycloak server:
+Make a server and add an A record for auth.mechatronics3d.com and put the IP address of the server as the value. Run these commands in the keycloak server:
 * `curl -s "https://get.sdkman.io" | bash`
 * Open a new terminal
 * `sdk list java`
@@ -80,7 +80,8 @@ Run these commands in the keycloak server:
 * `keytool -certreq -alias yourdomain -keystore keycloak.jks > keycloak.careq`
 * `sudo snap install --classic certbot`
 * `sudo ln -s /snap/bin/certbot /usr/bin/certbot`
-* `certbot certonly --standalone -d mechatronics3d.com`
+* `certbot certonly --standalone -d auth.mechatronics3d.com`
+* `keytool -import -keystore keycloak.jks -file /etc/letsencrypt/live/auth.mechatronics3d.com/fullchain.pem -alias root`
 
 ### Moodle
 
