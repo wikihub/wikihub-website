@@ -70,7 +70,7 @@ description: Resources for learning
 
 ## Up2U
 
-### Keycloak
+### [Setting up SSL for Keycloak](https://www.keycloak.org/docs/latest/server_installation/#_setting_up_ssl)
 Make a server and add an A record for auth.mechatronics3d.com and put the IP address of the server as the value. Run these commands in the keycloak server:
 
 * `curl -s "https://get.sdkman.io" | bash`
