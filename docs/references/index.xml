@@ -737,6 +737,7 @@
 &lt;/ul&gt;
 &lt;h2 id=&#34;up2u&#34;&gt;Up2U&lt;/h2&gt;
 &lt;h3 id=&#34;keycloak&#34;&gt;Keycloak&lt;/h3&gt;
+&lt;p&gt;Run these commands in the keycloak server:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;code&gt;curl -s &amp;quot;https://get.sdkman.io&amp;quot; | bash&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;Open a new terminal&lt;/li&gt;
@@ -746,7 +747,7 @@
 &lt;li&gt;&lt;code&gt;keytool -certreq -alias yourdomain -keystore keycloak.jks &amp;gt; keycloak.careq&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;sudo snap install --classic certbot&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;sudo ln -s /snap/bin/certbot /usr/bin/certbot&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;certbot certonly --stanalone -d mechatronics3d.com&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;certbot certonly --standalone -d mechatronics3d.com&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;moodle&#34;&gt;Moodle&lt;/h3&gt;
 &lt;ul&gt;
