@@ -14,6 +14,10 @@ description: Resources for fintech ideas
 *   [Flinks](https://flinks.io/)
 *   [Questrade API](https://www.questrade.com/api)
 
-# Stocks market
+# Stock market
 
 *   [Sharesight](https://www.sharesight.com/ca/)
+
+# Algorithmic Trading
+
+* [Algotrader](https://www.algotrader.com/)
