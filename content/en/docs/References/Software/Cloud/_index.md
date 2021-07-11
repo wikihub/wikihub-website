@@ -14,3 +14,7 @@ description: News and information about cloud services
 # Cloud Storage
 
 * [Min.io](https://min.io/)
+
+# Terraform
+
+* [Installing Terraform](https://learn.hashicorp.com/tutorials/terraform/install-cli?in=terraform/certification-associate-tutorials)
