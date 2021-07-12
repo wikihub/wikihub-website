@@ -87,6 +87,10 @@ description: News and information about Kubernetes
 * [Kubestack](https://www.kubestack.com/)
 * [Flux v2](https://toolkit.fluxcd.io/)
 
+# Hetzner
+
+* [Hetzner-Kube](https://github.com/xetys/hetzner-kube)
+
 # Local development environment
 
 * [Telepresence: Pacing up development on Kubernetes](https://rajputvaibhav.medium.com/pacing-up-development-on-kubernetes-690d8487a79e)
