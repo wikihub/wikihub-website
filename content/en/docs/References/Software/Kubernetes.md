@@ -64,6 +64,7 @@ description: News and information about Kubernetes
 # [Kubermatic](https://www.kubermatic.com/products/kubermatic/)
 
 * [KubeOne](https://www.kubermatic.com/products/kubeone/)
+* [KubeOne on GitHub](https://github.com/kubermatic/kubeone)
 
 # [Kustomize](https://kustomize.io/)
 
