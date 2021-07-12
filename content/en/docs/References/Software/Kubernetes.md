@@ -90,6 +90,7 @@ description: News and information about Kubernetes
 # Hetzner
 
 * [Hetzner-Kube](https://github.com/xetys/hetzner-kube)
+* [Kubernetes on Hetzner with Kubermatic KubeOne in 2021](https://www.kubermatic.com/blog/kubernetes-on-hetzner-with-kubermatic-kubeone-in-2021/)
 
 # Local development environment
 
