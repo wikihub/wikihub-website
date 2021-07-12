@@ -63,6 +63,8 @@ description: News and information about Kubernetes
 
 # [Kubermatic](https://www.kubermatic.com/products/kubermatic/)
 
+* [KubeOne](https://www.kubermatic.com/products/kubeone/)
+
 # [Kustomize](https://kustomize.io/)
 
 # Kubespray
