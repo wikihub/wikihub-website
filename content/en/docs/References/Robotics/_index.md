@@ -5,6 +5,11 @@ weight: 30
 description: Resources for robotics
 ---
 
+# Roadmaps
+
+* [A roadmap for US robotics](https://www.hichristensen.com/pdf/roadmap-2020.pdf)
+* [Robotics 2020 multi annual roadmap for robotics in Europe](https://www.eu-robotics.net/sparc/upload/Newsroom/Press/2016/files/H2020_Robotics_Multi-Annual_Roadmap_ICT-2017B.pdf)
+
 # Networking
 * [Robotics Summit](https://www.roboticssummit.com/)
 
