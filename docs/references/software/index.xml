@@ -268,6 +268,10 @@
 &lt;li&gt;&lt;a href=&#34;https://www.kubestack.com/&#34;&gt;Kubestack&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://toolkit.fluxcd.io/&#34;&gt;Flux v2&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h1 id=&#34;hetzner&#34;&gt;Hetzner&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/xetys/hetzner-kube&#34;&gt;Hetzner-Kube&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h1 id=&#34;local-development-environment&#34;&gt;Local development environment&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://rajputvaibhav.medium.com/pacing-up-development-on-kubernetes-690d8487a79e&#34;&gt;Telepresence: Pacing up development on Kubernetes&lt;/a&gt;&lt;/li&gt;
