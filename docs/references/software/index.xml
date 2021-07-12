@@ -1412,7 +1412,7 @@ Don’t Worry, You Can’t Break It. We Promise.&lt;/li&gt;
     </item>
     
     <item>
-      <title>Docs: Cloud Development</title>
+      <title>Docs: Cloud Computing</title>
       <link>https://wikihub.github.io/docs/references/software/cloud/</link>
       <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
       
@@ -1420,18 +1420,115 @@ Don’t Worry, You Can’t Break It. We Promise.&lt;/li&gt;
       <description>
         
         
-        &lt;h1 id=&#34;aws&#34;&gt;AWS&lt;/h1&gt;
-&lt;h2 id=&#34;codepipeline&#34;&gt;CodePipeline&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://medium.com/@cristiano.ventura/working-with-git-submodules-in-codepipeline-83e843e5d0a&#34;&gt;Working with Git Submodules in CodePipeline&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;cloud-storage&#34;&gt;Cloud Storage&lt;/h1&gt;
+        &lt;h1 id=&#34;cloud-storage&#34;&gt;Cloud Storage&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://min.io/&#34;&gt;Min.io&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;terraform&#34;&gt;Terraform&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://learn.hashicorp.com/tutorials/terraform/install-cli?in=terraform/certification-associate-tutorials&#34;&gt;Installing Terraform&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://learn.hashicorp.com/tutorials/terraform/install-cli?in=terraform/certification-associate-tutorials&#34;&gt;Installing Terraform&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/open-guides/og-aws&#34;&gt;Open Guides&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;gpu-computing&#34;&gt;GPU Computing&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://lambdalabs.com/&#34;&gt;Lambda Labs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vast.ai/&#34;&gt;Vast.ai&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;self-hosted-web-applications&#34;&gt;Self-Hosted Web Applications&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/Kickball/awesome-selfhosted&#34;&gt;Awesome selfhosted&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://apps.sandstorm.io/&#34;&gt;Sandstorm&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.softaculous.com/apps/&#34;&gt;Softaculous&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ampps.com/apps&#34;&gt;AMPPS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://yunohost.org/#/apps&#34;&gt;Yunohost&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;development-operations&#34;&gt;Development Operations&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://opctl.io/docs/&#34;&gt;opctl&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;amazon-web-services&#34;&gt;Amazon Web Services&lt;/h1&gt;
+&lt;h2 id=&#34;codepipeline&#34;&gt;CodePipeline&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/@cristiano.ventura/working-with-git-submodules-in-codepipeline-83e843e5d0a&#34;&gt;Working with Git Submodules in CodePipeline&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;lambda-functions&#34;&gt;Lambda functions&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://arc.codes/&#34;&gt;Architect&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;ec2&#34;&gt;EC2&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Change shell for user: &lt;code&gt;$ sudo usermod -s /bin/bash username&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/hlupaco/aws-ec2-cmd/blob/master/ec2-cmd.sh&#34;&gt;EC2 script with for loops&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;remote-access-to-ec2&#34;&gt;Remote access to EC2&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/akittana/aws-virtual-bastion&#34;&gt;AWS virtual bastion&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;nvidia-on-ec2&#34;&gt;NVIDIA on EC2&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/install-nvidia-driver.html&#34;&gt;Install NVIDIA driver&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;opengl-on-ec2&#34;&gt;OpenGL on EC2&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://wiki.archlinux.org/index.php/Benchmarking#Graphics&#34;&gt;GPU Benchmarks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://towardsdatascience.com/how-to-run-unity-on-amazon-cloud-or-without-monitor-3c10ce022639&#34;&gt;How to run Unity on Amazon Cloud or without Monitor&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.scm.com/doc/Installation/Remote_GUI.html#&#34;&gt;Using the GUI on a remote machine&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://carla.readthedocs.io/en/latest/carla_headless/&#34;&gt;Running CARLA without Display and Selecting GPUs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/rncry/Cookbook/blob/master/Running%20OpenGL%20GUI%20Apps%20on%20AWS%20GPU%20EC2%20instances&#34;&gt;Running OpenGL GUI Apps on AWS GPU EC2 instances&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gist.github.com/cyberang3l/422a77a47bdc15a0824d5cca47e64ba2&#34;&gt;How to setup VirtualGL and TurboVNC on Ubuntu&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://aws.amazon.com/blogs/compute/deploying-4k-gpu-backed-linux-desktop-instance-on-aws/&#34;&gt;Deploying a 4x4K, GPU-backed Linux desktop instance on AWS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/@pigiuz/setting-up-a-hw-accelerated-desktop-on-aws-g2-instances-4b58718a4541&#34;&gt;Setting up a HW accelerated desktop on AWS G2 instances&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/plumbee/nvidia-hw-accelerated-box&#34;&gt;NVIDIA hardware accelerated box&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/agisoft-llc/cloud-scripts&#34;&gt;Cloud Scripts&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gist.github.com/dgoguerra/0f92115664571ca2553754068be8f5c0&#34;&gt;Set up OpenGL on a Ubuntu 16.04&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://aws.amazon.com/blogs/compute/deploying-4k-gpu-backed-linux-desktop-instance-on-aws/&#34;&gt;Deploying a 4x4K, GPU-backed Linux desktop instance on AWS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/rncry/gpu-desktop&#34;&gt;GPU desktop&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://towardsdatascience.com/how-to-run-unity-on-amazon-cloud-or-without-monitor-3c10ce022639&#34;&gt;How to run Unity on Amazon Cloud or without Monitor&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://summerofhpc.prace-ri.eu/remote-accelerated-graphics-with-virtualgl-and-turbovnc/&#34;&gt;Remote accelerated graphics with VirtualGL and TurboVNC&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;google-cloud-platform&#34;&gt;Google Cloud Platform&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/GoogleCloudPlatform/awesome-google-cloud&#34;&gt;Awesome Google Cloud&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/tmrts/awesome-google-cloud&#34;&gt;Awesome Google Cloud Platform&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/user/googlecloudplatform&#34;&gt;GCP YouTube Channel&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/GoogleCloudPlatform&#34;&gt;GCP on GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://codelabs.developers.google.com/cloud&#34;&gt;Google Cloud Codelabs and Challenges&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/src-d/jgscm&#34;&gt;Jupyter FS in Google Cloud Storage&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;analytics-and-machine-learning&#34;&gt;Analytics and Machine Learning&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://cloud.google.com/ml-engine/docs/tensorflow/getting-started-training-prediction&#34;&gt;Getting Started&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cloud.google.com/sdk/gcloud/reference/ml-engine/&#34;&gt;gcloud ml-engine documentation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cloud.google.com/automl/&#34;&gt;Cloud AutoML&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;natural-language-processing&#34;&gt;Natural Language Processing&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://cloud.google.com/natural-language/?hl=en_US&amp;amp;_ga=2.250591430.-1790910342.1536084171&#34;&gt;Google Cloud Natural Language&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://console.cloud.google.com/apis/library/language.googleapis.com&#34;&gt;Cloud Natural Language API&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;bigquery&#34;&gt;BigQuery&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://googlecloudplatform.github.io/google-cloud-python/latest/bigquery/usage.html&#34;&gt;Python Reference&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.kaggle.com/rtatman/sql-scavenger-hunt-handbook&#34;&gt;Kaggle SQL Scavenger Hunt&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/eh2699/Kaggle-SQL-Scavenger-Hunt/blob/9b365697ddfdf911e25d70185c81eb2849b5fb03/kaggle_day5_github_repos.ipynb&#34;&gt;github_repo example&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/SohierDane/BigQuery_Helper&#34;&gt;bq_helper&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.kaggle.com/sohier/introduction-to-the-bq-helper-package&#34;&gt;Introduction to bq_helper&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://lugassy.net/how-moving-from-pub-sub-to-avro-saved-us-38-976-year-ec6c33ea7d08&#34;&gt;How moving from Pub/Sub to AVRO saved us $38,976/year&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;google-dataproc&#34;&gt;Google Dataproc&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://cloud.google.com/dataproc/docs/concepts/configuring-clusters/optional-components&#34;&gt;Optional Components&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/google-cloud/moving-data-with-apache-sqoop-in-google-cloud-dataproc-4056b8fa2600&#34;&gt;Moving Data with Apache Sqoop in Google Cloud Dataproc&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://tech.travelaudience.com/from-kafka-to-bigquery-with-spark-on-dataproc-in-scala-49c81756e291&#34;&gt;From Kafka to BigQuery with Spark (on Dataproc) in Scala&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cloud.google.com/dataproc/docs/concepts/versioning/dataproc-versions&#34;&gt;Dataproc Versions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://stackoverflow.com/questions/46104668/how-can-i-include-additional-jars-when-starting-a-google-dataproc-cluster-to-use&#34;&gt;How can I include additional jars when starting a Google DataProc cluster to use with Jupyter notebooks?&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
