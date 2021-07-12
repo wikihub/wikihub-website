@@ -98,8 +98,3 @@ description: Resources for robotics
 # X in the Loop Simulation
 
 - [X-in-the-Loop (XiL)](https://www.iem.fraunhofer.de/en/kompetenzen/unsereforschungsabteilungen/regelungstechnik/leistungsangebot/X-in-the-LoopEntwicklungs-undTestumgebungen.html)
-
-# MBSE
-
-- [SysML](https://sysml.org)
-- [SysML Tools](https://sysmltools.com/)
