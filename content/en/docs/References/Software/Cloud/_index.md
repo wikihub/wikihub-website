@@ -1,6 +1,6 @@
 ---
-title: "Cloud Development"
-linkTitle: "Cloud Development"
+title: "Cloud Computing"
+linkTitle: "Cloud Computing"
 date: 2021-05-06
 weight: 70
 description: News and information about cloud computing services
