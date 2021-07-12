@@ -19,6 +19,12 @@ description: Resources and tools for Systems Engineering
 * [OpenSE Cookbook](http://mbse.gfse.de/documents/faq.html)
 * SYSMOD
 
+# SysML
+
+- [SysML](https://sysml.org)
+- [SysML Tools](https://sysmltools.com/)
+
+
 # UML Diagrams
 * [Component Diagram](https://www.uml-diagrams.org/component-diagrams-reference.html)
 
