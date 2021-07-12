@@ -11,6 +11,7 @@ description: Resources for robotics
 * [Robotics 2020 multi annual roadmap for robotics in Europe](https://www.eu-robotics.net/sparc/upload/Newsroom/Press/2016/files/H2020_Robotics_Multi-Annual_Roadmap_ICT-2017B.pdf)
 
 # Networking
+* [Canadian robotics network](https://canadianroboticsnetwork.com/)
 * [Robotics Summit](https://www.roboticssummit.com/)
 
 # Robotics News
