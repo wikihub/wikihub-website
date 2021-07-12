@@ -19,5 +19,263 @@
       
     
     
+    <item>
+      <title>Docs: Edge Computing</title>
+      <link>https://wikihub.github.io/docs/references/software/cloud/edgecomputing/</link>
+      <pubDate>Sat, 13 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/software/cloud/edgecomputing/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;stm32&#34;&gt;STM32&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://hbfsrobotics.com/blog/configuring-vs-code-arm-development-stm32cubemx&#34;&gt;Using Visual Studio Code with STM32CubeMX for ARM Development&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;blogs&#34;&gt;Blogs&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://hbfsrobotics.com/blog&#34;&gt;HBFS Robotics&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Kubernetes</title>
+      <link>https://wikihub.github.io/docs/references/software/cloud/kubernetes/</link>
+      <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/software/cloud/kubernetes/</guid>
+      <description>
+        
+        
+        &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://jimmysong.io/awesome-cloud-native/&#34;&gt;Awesome cloud native&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://operatorhub.io/&#34;&gt;OperatorHub.io&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://kubeapps.com/&#34;&gt;Kubeapps&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;kubernetes&#34;&gt;Kubernetes&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.kubeflow.org/docs/started/getting-started/&#34;&gt;Getting started&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://kind.sigs.k8s.io/&#34;&gt;kind&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/NVIDIA/k8s-device-plugin&#34;&gt;K8s device plugin by NVIDIA&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://kubernetes.io/docs/reference/kubectl/cheatsheet/&#34;&gt;Kubernetes cheat sheet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://kubernetes.io/docs/reference/kubectl/docker-cli-to-kubectl/&#34;&gt;kubectl for Docker users&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;ubuntu&#34;&gt;Ubuntu&lt;/h1&gt;
+&lt;h2 id=&#34;kind&#34;&gt;Kind&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/@munza/local-kubernetes-with-kind-helm-dashboard-41152e4b3b3d&#34;&gt;Local Kubernetes with kind, Helm &amp;amp; Dashboard&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.eclipse.org/che/docs/che-7/installation-guide/installing-che-on-kind/&#34;&gt;Installing Che on kind&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;microk8shttpsmicrok8sio&#34;&gt;&lt;a href=&#34;https://microk8s.io/&#34;&gt;Microk8s&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;There is an &lt;a href=&#34;https://github.com/ubuntu/microk8s/issues/1754&#34;&gt;issue&lt;/a&gt; with the November 2020 version of Microk8s. For now, you need to his command: &lt;code&gt;sudo snap install microk8s --classic --channel=latest/edge&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ubuntu.com/tutorials/install-a-local-kubernetes-with-microk8s#1-overview&#34;&gt;Install a local kubernetes with microk8s&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ubuntu.com/kubernetes/install&#34;&gt;Install Microk8s&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;microk8s start&lt;/li&gt;
+&lt;li&gt;microk8s stop&lt;/li&gt;
+&lt;li&gt;microk8s status&lt;/li&gt;
+&lt;li&gt;microk8s enable dns dashboard gpu helm3 metallb host-access storage&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://microk8s.io/docs/working-with-kubectl&#34;&gt;Working with kubectl&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;microk8s enable kubeflow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;microk8s juju config dex-auth static-username&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;microk8s juju config dex-auth static-password&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;You can also change the username and password. For example: &lt;code&gt;microk8s juju config dex-auth static-username=admin&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gist.github.com/etheleon/80414516c7fbc7147a5718b9897b1518&#34;&gt;Installing Kubeflow&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;minikube&#34;&gt;Minikube&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.kubeflow.org/docs/started/workstation/minikube-linux/&#34;&gt;Deploy using MiniKube on Linux&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.openkb.info/2018/10/minikube-cheat-sheet.html&#34;&gt;Minikube cheat sheet&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;kubectl&#34;&gt;Kubectl&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;kubectl get all --all-namespaces&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;kubectl -n kube-system get secret&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;kubectl -n kube-system describe secret kubernetes-dashboard-token-xxxx&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;kubeflow&#34;&gt;Kubeflow&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://yann-leguilly.gitlab.io/post/2020-03-04-kubeflow-on-laptop/&#34;&gt;Installing Kubeflow on a laptop&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;helm&#34;&gt;Helm&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://artifacthub.io/&#34;&gt;ArtifactHUB&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://helm.sh/docs/topics/kubernetes_distros/&#34;&gt;Kubernetes distribution guide&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;helm delete $(helm ls --short)&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://chartcenter.io/#&#34;&gt;Chart Center&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;kubermatichttpswwwkubermaticcomproductskubermatic&#34;&gt;&lt;a href=&#34;https://www.kubermatic.com/products/kubermatic/&#34;&gt;Kubermatic&lt;/a&gt;&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.kubermatic.com/products/kubeone/&#34;&gt;KubeOne&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/kubermatic/kubeone&#34;&gt;KubeOne on GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;kustomizehttpskustomizeio&#34;&gt;&lt;a href=&#34;https://kustomize.io/&#34;&gt;Kustomize&lt;/a&gt;&lt;/h1&gt;
+&lt;h1 id=&#34;kubespray&#34;&gt;Kubespray&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://kubespray.io/#/&#34;&gt;Kubespray&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;kops&#34;&gt;Kops&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/kubernetes/kops&#34;&gt;Kops&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;bare-metal&#34;&gt;Bare Metal&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.packet.com/&#34;&gt;Packet&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;gitops&#34;&gt;GitOps&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.gitops.tech/&#34;&gt;GitOps&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/weaveworks/awesome-gitops&#34;&gt;GitOps awesome&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.kubestack.com/&#34;&gt;Kubestack&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://toolkit.fluxcd.io/&#34;&gt;Flux v2&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;hetzner&#34;&gt;Hetzner&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/xetys/hetzner-kube&#34;&gt;Hetzner-Kube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.kubermatic.com/blog/kubernetes-on-hetzner-with-kubermatic-kubeone-in-2021/&#34;&gt;Kubernetes on Hetzner with Kubermatic KubeOne in 2021&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;local-development-environment&#34;&gt;Local development environment&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://rajputvaibhav.medium.com/pacing-up-development-on-kubernetes-690d8487a79e&#34;&gt;Telepresence: Pacing up development on Kubernetes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://kubernetes.io/blog/2018/05/01/developing-on-kubernetes/&#34;&gt;Developing Kubernetes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ksync.github.io/ksync/&#34;&gt;ksync&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://kubernetes.io/blog/2019/03/28/running-kubernetes-locally-on-linux-with-minikube-now-with-kubernetes-1.14-support/&#34;&gt;Running Kubernetes locally on Linux with Minikube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.mailgun.com/blog/creating-development-environments-with-kubernetes-devgun/&#34;&gt;Devgun&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://itnext.io/simplified-kubernetes-development-visual-studio-code-kubernetes-tools-extension-95bac450370c&#34;&gt;Simplified Kubernetes Development — Visual Studio Code Kubernetes Tools Extension&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com.cnpmjs.org/tilt-dev/tilt&#34;&gt;Tilt&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;openshift&#34;&gt;OpenShift&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://developers.redhat.com/products/codeready-containers/overview&#34;&gt;CodeReady&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;tools&#34;&gt;Tools&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://kubernetes.io/docs/reference/kubectl/overview/&#34;&gt;kubectl&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.inlets.dev/&#34;&gt;Inlets&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://kubefwd.com/&#34;&gt;kubefwd&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://okteto.com/&#34;&gt;Okteto&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://forge.sh/&#34;&gt;Forge&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gardener.cloud/&#34;&gt;Gardener&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://garden.io/&#34;&gt;Garden&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://draft.sh/&#34;&gt;Draft&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://skaffold.dev/&#34;&gt;Skaffold&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://squash.solo.io/&#34;&gt;Squash&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.telepresence.io/&#34;&gt;Telepresence&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ksync.github.io/ksync/&#34;&gt;ksync&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gitkube.sh/&#34;&gt;Gitkube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/MinikubeAddon/watchpod&#34;&gt;Watchpod&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/Mirantis/k8s-devbox&#34;&gt;k8s-devbox&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://kompose.io/&#34;&gt;Kompose&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;kubeflow-1&#34;&gt;Kubeflow&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.kubeflow.org/docs/started/workstation/minikube-linux/&#34;&gt;Install Kubeflow on Minikube&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;linkerd&#34;&gt;Linkerd&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://linkerd.io/&#34;&gt;Linkerd&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;edge&#34;&gt;Edge&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://k3os.io/&#34;&gt;K3OS&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Containers</title>
+      <link>https://wikihub.github.io/docs/references/software/cloud/containers/</link>
+      <pubDate>Thu, 11 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/software/cloud/containers/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;docker&#34;&gt;Docker&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.docker.com/reference/&#34;&gt;Docker reference&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://labs.play-with-docker.com/&#34;&gt;Play with Docker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://confluence.jaytaala.com/display/TKB/Docker+tips&#34;&gt;Docker tips&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.docker.com/engine/install/ubuntu/&#34;&gt;Install Docker on Ubuntu&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.docker.com/engine/reference/builder/&#34;&gt;Dockerfile reference&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.docker.com/develop/&#34;&gt;Develop with Docker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cnvrg.io/how-to-setup-docker-and-nvidia-docker-2-0-on-ubuntu-18-04/&#34;&gt;How to setup Docker and Nvidia-Docker 2.0 on Ubuntu 18.04&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Docker permission denied fix: &lt;code&gt;sudo usermod -aG docker ${USER}&lt;/code&gt; or &lt;code&gt;sudo chmod 666 /var/run/docker.sock&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://odewahn.github.io/docker-jumpstart/&#34;&gt;An Introduction to Docker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://shanavasv.com/running-linux-apps-in-macos-using-docker/&#34;&gt;Running Linux apps in MacOS using docker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/@mreichelt/how-to-show-x11-windows-within-docker-on-mac-50759f4b65cb&#34;&gt;How to show X11 windows with Docker on Mac&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://nelkinda.com/blog/xeyes-in-docker/&#34;&gt;Running xeyes in Docker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://phusion.github.io/baseimage-docker/&#34;&gt;Base image Docker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Restart Docker: &lt;code&gt;service docker restart&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://bigdatums.net/2017/11/07/how-to-keep-docker-containers-running/&#34;&gt;How to keep docker containers running&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.docker.com/engine/reference/run/#entrypoint-default-command-to-execute-at-runtime&#34;&gt;Changing the entrypoint&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/@mccode/processes-in-containers-should-not-run-as-root-2feae3f0df3b&#34;&gt;Processes in containers should not run as root&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.docker.com/engine/reference/commandline/commit/&#34;&gt;Create a new image from a container’s changes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;prune&#34;&gt;Prune&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Remove all the images without a tag: &lt;code&gt;docker rmi $(docker images -f dangling=true -q)&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Remove &lt;!-- raw HTML omitted --&gt; images: &lt;code&gt;docker rmi $(docker images |grep &amp;quot;&amp;lt;none&amp;gt;&amp;quot;|awk &#39;$1==&amp;quot;&amp;lt;none&amp;gt;&amp;quot; {print $3}&#39;)&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Prune the system: &lt;code&gt;docker system prune&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Check the /var/lib/docker folder: &lt;code&gt;sudo du -h --max-depth=1 /var/lib/docker&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Check storage with &lt;code&gt;sudo baobab&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://stackoverflow.com/questions/45798076/how-to-clean-up-docker&#34;&gt;How to clean up Docker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Remove all the containers: &lt;code&gt;docker rm $(docker ps -a -q)&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;applied-docker-images&#34;&gt;Applied Docker images&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.linuxserver.io/&#34;&gt;linuxserver.io&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;distroless-containers&#34;&gt;Distroless containers&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/GoogleContainerTools/distroless&#34;&gt;Google Distroless Containers&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;docker-on-wsl2&#34;&gt;Docker on WSL2&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://ubuntu.com/blog/getting-started-with-cuda-on-ubuntu-on-wsl-2&#34;&gt;Getting started with CUDA on Ubuntu on WSL2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.nvidia.com/cuda/wsl-user-guide/index.html&#34;&gt;WSL user guide&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.microsoft.com/en-us/windows/win32/direct3d12/gpu-accelerated-training&#34;&gt;GPU acceleration on WSL&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;docker-tools&#34;&gt;Docker tools&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.elttam.com/blog/kubler/&#34;&gt;Kubler&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://nautilusdev.com/&#34;&gt;Nautilus&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/stepchowfun/docuum&#34;&gt;Docuum&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;tools&#34;&gt;Tools&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://puppetlabs.github.io/bolt/&#34;&gt;Bolt&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;containerd&#34;&gt;Containerd&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://containerd.io/&#34;&gt;Containerd&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;registries&#34;&gt;Registries&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.portainer.io/&#34;&gt;Portainer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.instana.com/&#34;&gt;Instana&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://katacontainers.io/&#34;&gt;Kata containers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://firecracker-microvm.github.io/&#34;&gt;Firecracker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.balena.io/&#34;&gt;Balena&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.eliot.run/&#34;&gt;Eliot&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pouchcontainer.io/&#34;&gt;Pouch container&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://containerd.io/&#34;&gt;Containerd&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;singularity&#34;&gt;Singularity&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.sylabs.io/docs/&#34;&gt;Singularity Documentation&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;virtualization&#34;&gt;Virtualization&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://xenproject.org/&#34;&gt;Xen project&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://elinux.org/R-Car/Virtualization#Virtualization_with_QEMU&#34;&gt;QEMU&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
   </channel>
 </rss>
