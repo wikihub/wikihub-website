@@ -5,6 +5,10 @@ weight: 1
 description: Applications of technology in agriculture
 ---
 
+# Farming
+
+* [How small robots may kill the tractor and make farming efficient](https://www.wired.co.uk/article/farming-robots-small-robot-company-tractors)
+
 # Exhibitions
 * [SIMA](https://en.simaonline.com/)
 * [Cultivate 2019](http://www.cultivate19.org/)
