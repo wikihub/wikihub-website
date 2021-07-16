@@ -5,6 +5,12 @@ weight: 30
 description: Resources for eMobility
 ---
 
+# Toronto
+* [ELVY Sarit](https://www.blogto.com/tech/2021/04/factory-toronto-electric-vehicle/)
+
+# Vancouver
+* [ENVO Drive](https://envodrive.com/)
+
 # Electric Cars
 
 * [Solo](https://electrameccanica.com/solo/)
