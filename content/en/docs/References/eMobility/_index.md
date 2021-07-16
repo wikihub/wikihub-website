@@ -6,6 +6,7 @@ description: Resources for eMobility
 ---
 
 # Toronto
+![](https://smartcdn.prod.postmedia.digital/financialpost/wp-content/uploads/2021/04/sarit0405.jpg?quality=90&strip=all&w=564&type=webp)
 * [ELVY Sarit](https://www.blogto.com/tech/2021/04/factory-toronto-electric-vehicle/)
    * [Frank Stronach: founder of Magna](https://en.wikipedia.org/wiki/Frank_Stronach) 
 
