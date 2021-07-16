@@ -9,6 +9,7 @@ description: Resources for eMobility
 * [ELVY Sarit](https://www.blogto.com/tech/2021/04/factory-toronto-electric-vehicle/)
 
 # Vancouver
+* [SOLO](https://electrameccanica.com/)
 * [ENVO Drive](https://envodrive.com/)
 
 # Electric Cars
