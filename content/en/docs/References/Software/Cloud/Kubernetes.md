@@ -20,6 +20,10 @@ description: News and information about Kubernetes
 *   [Kubernetes cheat sheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
 *   [kubectl for Docker users](https://kubernetes.io/docs/reference/kubectl/docker-cli-to-kubectl/)
 
+# Applications
+* [Kubeapps](https://kubeapps.com/)
+* [Bitnami](https://bitnami.com)
+
 # Ubuntu
 
 ## Kind
