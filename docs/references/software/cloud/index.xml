@@ -141,6 +141,7 @@
 &lt;li&gt;&lt;a href=&#34;https://github.com/xetys/hetzner-kube&#34;&gt;Hetzner-Kube&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.kubermatic.com/blog/kubernetes-on-hetzner-with-kubermatic-kubeone-in-2021/&#34;&gt;Kubernetes on Hetzner with Kubermatic KubeOne in 2021&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://community.hetzner.com/tutorials/install-kubernetes-cluster&#34;&gt;Install Kubernetes cluster&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://helmundwalter.de/blog/production-ready-kubernetes-cluster-on-hetzer/&#34;&gt;Production ready Kubernetes Cluster on Hetzer&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;local-development-environment&#34;&gt;Local development environment&lt;/h1&gt;
 &lt;ul&gt;
