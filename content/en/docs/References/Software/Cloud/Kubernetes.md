@@ -97,6 +97,7 @@ description: News and information about Kubernetes
 * [Hetzner-Kube](https://github.com/xetys/hetzner-kube)
 * [Kubernetes on Hetzner with Kubermatic KubeOne in 2021](https://www.kubermatic.com/blog/kubernetes-on-hetzner-with-kubermatic-kubeone-in-2021/)
 * [Install Kubernetes cluster](https://community.hetzner.com/tutorials/install-kubernetes-cluster)
+* [Production ready Kubernetes Cluster on Hetzer](https://helmundwalter.de/blog/production-ready-kubernetes-cluster-on-hetzer/)
 
 # Local development environment
 
