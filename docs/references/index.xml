@@ -783,6 +783,7 @@
 &lt;h3 id=&#34;moodle&#34;&gt;Moodle&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://hub.docker.com/r/up2university/moodle&#34;&gt;docker-moodle&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://bitnami.com/stack/moodle/helm&#34;&gt;Installing Moodle with Kubernetes by Bitnami&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;edx&#34;&gt;EdX&lt;/h2&gt;
 &lt;ul&gt;
