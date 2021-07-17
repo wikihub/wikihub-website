@@ -1098,6 +1098,11 @@
 &lt;li&gt;&lt;a href=&#34;https://kubernetes.io/docs/reference/kubectl/cheatsheet/&#34;&gt;Kubernetes cheat sheet&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://kubernetes.io/docs/reference/kubectl/docker-cli-to-kubectl/&#34;&gt;kubectl for Docker users&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h1 id=&#34;applications&#34;&gt;Applications&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://kubeapps.com/&#34;&gt;Kubeapps&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://bitnami.com&#34;&gt;Bitnami&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h1 id=&#34;ubuntu&#34;&gt;Ubuntu&lt;/h1&gt;
 &lt;h2 id=&#34;kind&#34;&gt;Kind&lt;/h2&gt;
 &lt;ul&gt;
