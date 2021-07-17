@@ -109,6 +109,7 @@ description: News and information about cloud computing services
 - [How can I include additional jars when starting a Google DataProc cluster to use with Jupyter notebooks?](https://stackoverflow.com/questions/46104668/how-can-i-include-additional-jars-when-starting-a-google-dataproc-cluster-to-use)
 
 # Hetzner
+- [Kubernetes on Hetzner with Kubermatic KubeOne in 2021](https://www.kubermatic.com/blog/kubernetes-on-hetzner-with-kubermatic-kubeone-in-2021/)
 - [Awesome Hcloud](https://github.com/hetznercloud/awesome-hcloud)
 - [Tutorial: Deploy Kubernetes on Hetzner Cloud + Ingress + OpenEBS Storage](http://stytex.de/blog/2018/01/29/deploy-kubernetes-hetzner-cloud-openebs/)
 - [hetzner-kube](https://github.com/xetys/hetzner-kube)
