@@ -113,3 +113,4 @@ description: News and information about cloud computing services
 - [Awesome Hcloud](https://github.com/hetznercloud/awesome-hcloud)
 - [Tutorial: Deploy Kubernetes on Hetzner Cloud + Ingress + OpenEBS Storage](http://stytex.de/blog/2018/01/29/deploy-kubernetes-hetzner-cloud-openebs/)
 - [hetzner-kube](https://github.com/xetys/hetzner-kube)
+- [Install a Kubernetes cluster on cloud servers](https://community.hetzner.com/tutorials/install-kubernetes-cluster)
