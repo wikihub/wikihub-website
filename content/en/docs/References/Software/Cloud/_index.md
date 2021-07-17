@@ -107,3 +107,6 @@ description: News and information about cloud computing services
 - [From Kafka to BigQuery with Spark (on Dataproc) in Scala](https://tech.travelaudience.com/from-kafka-to-bigquery-with-spark-on-dataproc-in-scala-49c81756e291)
 - [Dataproc Versions](https://cloud.google.com/dataproc/docs/concepts/versioning/dataproc-versions)
 - [How can I include additional jars when starting a Google DataProc cluster to use with Jupyter notebooks?](https://stackoverflow.com/questions/46104668/how-can-i-include-additional-jars-when-starting-a-google-dataproc-cluster-to-use)
+
+# Hetzner
+- [Awesome Hcloud](https://github.com/hetznercloud/awesome-hcloud)
