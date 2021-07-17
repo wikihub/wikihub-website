@@ -114,3 +114,4 @@ description: News and information about cloud computing services
 - [Tutorial: Deploy Kubernetes on Hetzner Cloud + Ingress + OpenEBS Storage](http://stytex.de/blog/2018/01/29/deploy-kubernetes-hetzner-cloud-openebs/)
 - [hetzner-kube](https://github.com/xetys/hetzner-kube)
 - [Install a Kubernetes cluster on cloud servers](https://community.hetzner.com/tutorials/install-kubernetes-cluster)
+- [Vanilla Hetzner Kubeone build does not support load balancers #1110](https://github.com/kubermatic/kubeone/issues/1110)
