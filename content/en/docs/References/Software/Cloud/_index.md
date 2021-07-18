@@ -118,3 +118,8 @@ description: News and information about cloud computing services
 - [Setting up OIDC Authentication & Audit Logging With Kubermatic KubeOne](https://www.kubermatic.com/blog/kubeone-oidc-authentication-audit-logging/)
 - [Getting Started With Kubermatic Kubernetes Platform Part 1](https://www.kubermatic.com/blog/getting-started-with-kubermatic-kubernetes-platform-part-1/)
 - [Our own GitLab Server with docker and traefik](https://community.hetzner.com/tutorials/gitlab-server-with-docker)
+- [Hetzner-Kube](https://github.com/xetys/hetzner-kube)
+- [Kubernetes on Hetzner with Kubermatic KubeOne in 2021](https://www.kubermatic.com/blog/kubernetes-on-hetzner-with-kubermatic-kubeone-in-2021/)
+- [Install Kubernetes cluster](https://community.hetzner.com/tutorials/install-kubernetes-cluster)
+- [Production ready Kubernetes Cluster on Hetzer](https://helmundwalter.de/blog/production-ready-kubernetes-cluster-on-hetzer/)
+
