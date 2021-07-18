@@ -1087,8 +1087,6 @@
         
         &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://jimmysong.io/awesome-cloud-native/&#34;&gt;Awesome cloud native&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://operatorhub.io/&#34;&gt;OperatorHub.io&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://kubeapps.com/&#34;&gt;Kubeapps&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;kubernetes&#34;&gt;Kubernetes&lt;/h1&gt;
 &lt;ul&gt;
@@ -1132,6 +1130,7 @@
 &lt;/ul&gt;
 &lt;h1 id=&#34;kubectl&#34;&gt;Kubectl&lt;/h1&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://operatorhub.io/&#34;&gt;OperatorHub.io&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;kubectl get all --all-namespaces&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;kubectl -n kube-system get secret&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;kubectl -n kube-system describe secret kubernetes-dashboard-token-xxxx&lt;/code&gt;&lt;/li&gt;
@@ -1142,6 +1141,7 @@
 &lt;/ul&gt;
 &lt;h1 id=&#34;helm&#34;&gt;Helm&lt;/h1&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://kubeapps.com/&#34;&gt;Kubeapps&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://artifacthub.io/&#34;&gt;ArtifactHUB&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://helm.sh/docs/topics/kubernetes_distros/&#34;&gt;Kubernetes distribution guide&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;helm delete $(helm ls --short)&lt;/code&gt;&lt;/li&gt;
