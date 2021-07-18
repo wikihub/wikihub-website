@@ -77,6 +77,7 @@
 &lt;li&gt;&lt;a href=&#34;https://github.com/jupyterhub/jupyterhub&#34;&gt;JupyterHub&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/jupyterhub/the-littlest-jupyterhub&#34;&gt;The littlest JuperHub&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/jupyterhub/zero-to-jupyterhub-k8s&#34;&gt;Zero to JupyterHub k8s&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cdsdashboards.readthedocs.io/en/stable/#&#34;&gt;ContainDS Dashboards&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;running-jupyter-on-the-cloud&#34;&gt;Running Jupyter on the cloud&lt;/h1&gt;
 &lt;ul&gt;
