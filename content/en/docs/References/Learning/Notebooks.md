@@ -19,6 +19,7 @@ description: Resources for learning using notebooks
 * [JupyterHub](https://github.com/jupyterhub/jupyterhub)
 * [The littlest JuperHub](https://github.com/jupyterhub/the-littlest-jupyterhub)
 * [Zero to JupyterHub k8s](https://github.com/jupyterhub/zero-to-jupyterhub-k8s)
+* [ContainDS Dashboards](https://cdsdashboards.readthedocs.io/en/stable/#)
 
 # Running Jupyter on the cloud
 * [CoCalc (previously SageMathCloud)](https://cocalc.com) 
