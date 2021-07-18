@@ -37,8 +37,9 @@ description: News and information about Kubernetes
 * [Kubeapps](https://kubeapps.com/)
 * [ArtifactHUB](https://artifacthub.io/)
 * [Kubernetes distribution guide](https://helm.sh/docs/topics/kubernetes_distros/)
-* `helm delete $(helm ls --short)`
 * [Chart Center](https://chartcenter.io/#)
+* `helm show chart jupyterhub/jupyterhub`
+* `helm delete $(helm ls --short)`
 
 # [Kubermatic](https://www.kubermatic.com/products/kubermatic/)
 
