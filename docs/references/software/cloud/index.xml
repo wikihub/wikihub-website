@@ -80,8 +80,9 @@
 &lt;li&gt;&lt;a href=&#34;https://kubeapps.com/&#34;&gt;Kubeapps&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://artifacthub.io/&#34;&gt;ArtifactHUB&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://helm.sh/docs/topics/kubernetes_distros/&#34;&gt;Kubernetes distribution guide&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;helm delete $(helm ls --short)&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://chartcenter.io/#&#34;&gt;Chart Center&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;helm show chart jupyterhub/jupyterhub&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;helm delete $(helm ls --short)&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;kubermatichttpswwwkubermaticcomproductskubermatic&#34;&gt;&lt;a href=&#34;https://www.kubermatic.com/products/kubermatic/&#34;&gt;Kubermatic&lt;/a&gt;&lt;/h1&gt;
 &lt;ul&gt;
