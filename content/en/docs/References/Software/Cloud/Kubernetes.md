@@ -19,8 +19,33 @@ description: News and information about Kubernetes
 *   [kubectl for Docker users](https://kubernetes.io/docs/reference/kubectl/docker-cli-to-kubectl/)
 
 # Applications
-* [Kubeapps](https://kubeapps.com/)
+
 * [Bitnami](https://bitnami.com)
+
+# Kubectl
+
+* [OperatorHub.io](https://operatorhub.io/)
+* `kubectl get all --all-namespaces`
+* `kubectl -n kube-system get secret`
+* `kubectl -n kube-system describe secret kubernetes-dashboard-token-xxxx`
+
+# Kubeflow
+
+* [Installing Kubeflow on a laptop](https://yann-leguilly.gitlab.io/post/2020-03-04-kubeflow-on-laptop/)
+
+# Helm
+* [Kubeapps](https://kubeapps.com/)
+* [ArtifactHUB](https://artifacthub.io/)
+* [Kubernetes distribution guide](https://helm.sh/docs/topics/kubernetes_distros/)
+* `helm delete $(helm ls --short)`
+* [Chart Center](https://chartcenter.io/#)
+
+# [Kubermatic](https://www.kubermatic.com/products/kubermatic/)
+
+* [KubeOne](https://www.kubermatic.com/products/kubeone/)
+* [KubeOne on GitHub](https://github.com/kubermatic/kubeone)
+
+# [Kustomize](https://kustomize.io/)
 
 # Ubuntu
 
@@ -47,30 +72,6 @@ description: News and information about Kubernetes
 ## Minikube
 *   [Deploy using MiniKube on Linux](https://www.kubeflow.org/docs/started/workstation/minikube-linux/)
 *   [Minikube cheat sheet](http://www.openkb.info/2018/10/minikube-cheat-sheet.html)
-
-# Kubectl
-*   [OperatorHub.io](https://operatorhub.io/)
-* `kubectl get all --all-namespaces`
-* `kubectl -n kube-system get secret`
-* `kubectl -n kube-system describe secret kubernetes-dashboard-token-xxxx`
-
-# Kubeflow
-
-* [Installing Kubeflow on a laptop](https://yann-leguilly.gitlab.io/post/2020-03-04-kubeflow-on-laptop/)
-
-# Helm
-* [Kubeapps](https://kubeapps.com/)
-* [ArtifactHUB](https://artifacthub.io/)
-* [Kubernetes distribution guide](https://helm.sh/docs/topics/kubernetes_distros/)
-* `helm delete $(helm ls --short)`
-* [Chart Center](https://chartcenter.io/#)
-
-# [Kubermatic](https://www.kubermatic.com/products/kubermatic/)
-
-* [KubeOne](https://www.kubermatic.com/products/kubeone/)
-* [KubeOne on GitHub](https://github.com/kubermatic/kubeone)
-
-# [Kustomize](https://kustomize.io/)
 
 # Kubespray
 
