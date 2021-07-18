@@ -117,3 +117,4 @@ description: News and information about cloud computing services
 - [Vanilla Hetzner Kubeone build does not support load balancers #1110](https://github.com/kubermatic/kubeone/issues/1110)
 - [Setting up OIDC Authentication & Audit Logging With Kubermatic KubeOne](https://www.kubermatic.com/blog/kubeone-oidc-authentication-audit-logging/)
 - [Getting Started With Kubermatic Kubernetes Platform Part 1](https://www.kubermatic.com/blog/getting-started-with-kubermatic-kubernetes-platform-part-1/)
+- [Our own GitLab Server with docker and traefik](https://community.hetzner.com/tutorials/gitlab-server-with-docker)
