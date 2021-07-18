@@ -22,6 +22,9 @@ description: News and information about Kubernetes
 
 * [Bitnami](https://bitnami.com)
 
+## JupyterHub
+* [Manual deployment of JupyterHub on Kubernetes for a single machine](https://kienmn97.medium.com/manually-deploy-jupyterhub-on-kubernetes-for-a-single-machine-dbcd9c9e50a4)
+
 # Kubectl
 
 * [OperatorHub.io](https://operatorhub.io/)
