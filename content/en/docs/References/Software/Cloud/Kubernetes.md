@@ -9,8 +9,6 @@ description: News and information about Kubernetes
 ---
 
 *   [Awesome cloud native](https://jimmysong.io/awesome-cloud-native/)
-*   [OperatorHub.io](https://operatorhub.io/)
-*   [Kubeapps](https://kubeapps.com/)
 
 # Kubernetes
 
@@ -51,6 +49,7 @@ description: News and information about Kubernetes
 *   [Minikube cheat sheet](http://www.openkb.info/2018/10/minikube-cheat-sheet.html)
 
 # Kubectl
+*   [OperatorHub.io](https://operatorhub.io/)
 * `kubectl get all --all-namespaces`
 * `kubectl -n kube-system get secret`
 * `kubectl -n kube-system describe secret kubernetes-dashboard-token-xxxx`
@@ -60,7 +59,7 @@ description: News and information about Kubernetes
 * [Installing Kubeflow on a laptop](https://yann-leguilly.gitlab.io/post/2020-03-04-kubeflow-on-laptop/)
 
 # Helm
-
+* [Kubeapps](https://kubeapps.com/)
 * [ArtifactHUB](https://artifacthub.io/)
 * [Kubernetes distribution guide](https://helm.sh/docs/topics/kubernetes_distros/)
 * `helm delete $(helm ls --short)`
