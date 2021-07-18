@@ -1100,6 +1100,10 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://bitnami.com&#34;&gt;Bitnami&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h2 id=&#34;jupyterhub&#34;&gt;JupyterHub&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://kienmn97.medium.com/manually-deploy-jupyterhub-on-kubernetes-for-a-single-machine-dbcd9c9e50a4&#34;&gt;Manual deployment of JupyterHub on Kubernetes for a single machine&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h1 id=&#34;kubectl&#34;&gt;Kubectl&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://operatorhub.io/&#34;&gt;OperatorHub.io&lt;/a&gt;&lt;/li&gt;
