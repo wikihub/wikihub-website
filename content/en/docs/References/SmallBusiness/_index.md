@@ -31,3 +31,6 @@ description: Resources for running a small business
 * [Custom Online Business Printing & Design | MOO CA](https://www.moo.com/ca/)
 * [TPH® The Printing House - Business Printing Solutions](https://www.tph.ca/)
 
+# Patents
+
+* [Tutorial — Your patent application](https://www.ic.gc.ca/eic/site/cipointernet-internetopic.nsf/eng/wr01398.html)
