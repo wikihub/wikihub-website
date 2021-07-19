@@ -21,6 +21,7 @@ description: News and information about Kubernetes
 # Applications
 
 * [Bitnami](https://bitnami.com)
+* [Bitnami community](https://community.bitnami.com/)
 
 ## JupyterHub
 * [Manual deployment of JupyterHub on Kubernetes for a single machine](https://kienmn97.medium.com/manually-deploy-jupyterhub-on-kubernetes-for-a-single-machine-dbcd9c9e50a4)
