@@ -32,6 +32,8 @@ description: News and information about robot platforms
     * [Mobile Planner](https://automation.omron.com/en/ca/products/family/Mobile%20Planner)
 * [LeRover](https://www.leorover.tech/)
 * [YZ robots](http://www.yzrobot.cn/en/robot-list.html)
+* [FROG](https://www.frogrobot.eu)
+    * [Fun Robotic Outdoor Guide: Functional Requirements, Interaction and Constraints](https://www.frogrobot.eu/wordpress/wp-content/uploads/2014/03/D1.1_Final.pdf) 
 
 ## Mecanum wheels
 * [YDLIDAR X2 360° Laser Scanner Robot (with Batteries)](https://www.robotshop.com/ca/en/ydlidar-x2-360-laser-scanner-robot-w-batteries.html)
