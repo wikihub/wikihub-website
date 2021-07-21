@@ -91,6 +91,7 @@ Make a server and add an A record for auth.mechatronics3d.com and put the IP add
 * [docker-moodle](https://hub.docker.com/r/up2university/moodle)
 * [Installing Moodle with Kubernetes by Bitnami](https://bitnami.com/stack/moodle/helm)
 * [How to Create an LMS Educational Website like UCLA with WordPress & Moodle 2021 - Moodle Tutorial](https://www.youtube.com/watch?v=df5hfVID5mo)
+* [Moodle on Cloud by Cognosys](https://secureanycloud.com/moodle-technical-support-cloud-help-azure-aws-opensource-cognosys/)
 
 ## EdX
 
