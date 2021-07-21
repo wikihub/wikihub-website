@@ -38,6 +38,10 @@ description: News and information about cloud computing services
 
 # Amazon Web Services
 
+## Courses
+
+* [AWS Solutions Architect Certification Training Course](https://www.simplilearn.com/cloud-computing/aws-solution-architect-associate-training?referrer=search&tag=aws)
+
 ## CodePipeline
 * [Working with Git Submodules in CodePipeline](https://medium.com/@cristiano.ventura/working-with-git-submodules-in-codepipeline-83e843e5d0a)
 
