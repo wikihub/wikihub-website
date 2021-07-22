@@ -7,6 +7,7 @@ description: Resources for learning
 
 ---
 
+* [Top tools for learning](https://www.toptools4learning.com/)
 *   [Digital Promise](https://digitalpromise.org/initiative/instructional-coaching/instructional-coaching-playbook/about-this-playbook/)
 
 # eLearning
