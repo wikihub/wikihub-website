@@ -1343,6 +1343,10 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/strands-project/autonomous_patrolling&#34;&gt;Autonomous patrolling&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h2 id=&#34;maps&#34;&gt;Maps&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/TheOnceAndFutureSmalltalker/ros_map_editor&#34;&gt;Map editor&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2 id=&#34;control&#34;&gt;Control&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://gazebosim.org/tutorials/?tut=ros_control&#34;&gt;ROS Control&lt;/a&gt;&lt;/li&gt;
