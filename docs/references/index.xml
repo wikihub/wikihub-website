@@ -826,6 +826,10 @@
 &lt;li&gt;&lt;a href=&#34;https://blog.lawrencemcdaniel.com/open-edx-setup-smtp-email/&#34;&gt;SMTP setup&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/namshi/docker-smtp&#34;&gt;namshi SMTP docker&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h2 id=&#34;mahara&#34;&gt;Mahara&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://mahara.org/&#34;&gt;Mahara.org&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h1 id=&#34;online-course-templates&#34;&gt;Online course templates&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/ines/course-starter-python&#34;&gt;Gatsby, Reveal.js and Binder&lt;/a&gt;&lt;/li&gt;
