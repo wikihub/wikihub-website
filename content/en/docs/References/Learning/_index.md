@@ -131,6 +131,10 @@ Make a server and add an A record for auth.mechatronics3d.com and put the IP add
 * [SMTP setup](https://blog.lawrencemcdaniel.com/open-edx-setup-smtp-email/)
 * [namshi SMTP docker](https://github.com/namshi/docker-smtp)
 
+## Mahara
+
+* [Mahara.org](https://mahara.org/)
+
 # Online course templates
 
 *   [Gatsby, Reveal.js and Binder](https://github.com/ines/course-starter-python)
