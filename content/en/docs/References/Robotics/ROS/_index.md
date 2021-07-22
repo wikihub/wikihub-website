@@ -19,6 +19,9 @@ description: News and information about ROS and its applications
 
 * [Autonomous patrolling](https://github.com/strands-project/autonomous_patrolling)
 
+## Maps
+* [Map editor](https://github.com/TheOnceAndFutureSmalltalker/ros_map_editor)
+
 ## Control
 * [ROS Control](http://gazebosim.org/tutorials/?tut=ros_control)
 
