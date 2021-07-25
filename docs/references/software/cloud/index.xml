@@ -117,7 +117,7 @@
 &lt;li&gt;You can also change the username and password. For example: &lt;code&gt;microk8s juju config dex-auth static-username=admin&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://gist.github.com/etheleon/80414516c7fbc7147a5718b9897b1518&#34;&gt;Installing Kubeflow&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;k3s&#34;&gt;k3s&lt;/h2&gt;
+&lt;h2 id=&#34;rancher-k3s&#34;&gt;Rancher k3s&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://rancher.com/blog/2020/set-up-k3s-high-availability-using-k3d&#34;&gt;Set up K3s in High Availability using k3d&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
