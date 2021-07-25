@@ -77,6 +77,7 @@ description: News and information about Kubernetes
 ## Rancher k3s
 
 * [Set up K3s in High Availability using k3d](https://rancher.com/blog/2020/set-up-k3s-high-availability-using-k3d)
+* [k3s-demo](https://github.com/vfarcic/k3d-demo)
 
 ## Minikube
 *   [Deploy using MiniKube on Linux](https://www.kubeflow.org/docs/started/workstation/minikube-linux/)
