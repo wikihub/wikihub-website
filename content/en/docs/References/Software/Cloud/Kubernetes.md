@@ -74,7 +74,7 @@ description: News and information about Kubernetes
 * You can also change the username and password. For example: `microk8s juju config dex-auth static-username=admin`
 * [Installing Kubeflow](https://gist.github.com/etheleon/80414516c7fbc7147a5718b9897b1518)
 
-## k3s
+## Rancher k3s
 
 * [Set up K3s in High Availability using k3d](https://rancher.com/blog/2020/set-up-k3s-high-availability-using-k3d)
 
