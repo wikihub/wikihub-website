@@ -126,4 +126,5 @@ description: News and information about cloud computing services
 - [Kubernetes on Hetzner with Kubermatic KubeOne in 2021](https://www.kubermatic.com/blog/kubernetes-on-hetzner-with-kubermatic-kubeone-in-2021/)
 - [Install Kubernetes cluster](https://community.hetzner.com/tutorials/install-kubernetes-cluster)
 - [Production ready Kubernetes Cluster on Hetzer](https://helmundwalter.de/blog/production-ready-kubernetes-cluster-on-hetzer/)
+- [Dynamically deploying new hosts with Rancher and Hetzner Cloud](https://www.youtube.com/watch?v=9gqpntc5SvI)
 
