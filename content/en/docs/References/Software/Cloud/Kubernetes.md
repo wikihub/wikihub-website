@@ -17,6 +17,7 @@ description: News and information about Kubernetes
 *   [K8s device plugin by NVIDIA](https://github.com/NVIDIA/k8s-device-plugin)
 *   [Kubernetes cheat sheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
 *   [kubectl for Docker users](https://kubernetes.io/docs/reference/kubectl/docker-cli-to-kubectl/)
+*   [cert-manager](https://cert-manager.io/)
 
 # Applications
 
