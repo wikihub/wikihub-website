@@ -88,6 +88,7 @@ Make a server and add an A record for auth.mechatronics3d.com and put the IP add
 * `wget https://letsencrypt.org/certs/isrgrootx1.pem`
 * `keytool -import -keystore keycloak.jks -file isrgrootx1.pem -alias root`
 * `keytool -import -alias auth.mechatronics3d.com -keystore keycloak.jks -file /etc/letsencrypt/live/auth.mechatronics3d.com/fullchain.pem`
+* [Juju Keycloak](https://jaas.ai/u/tengu-team/keycloak/2)
 
 ### Moodle
 
