@@ -782,6 +782,7 @@
 &lt;li&gt;&lt;code&gt;wget https://letsencrypt.org/certs/isrgrootx1.pem&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;keytool -import -keystore keycloak.jks -file isrgrootx1.pem -alias root&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;keytool -import -alias auth.mechatronics3d.com -keystore keycloak.jks -file /etc/letsencrypt/live/auth.mechatronics3d.com/fullchain.pem&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jaas.ai/u/tengu-team/keycloak/2&#34;&gt;Juju Keycloak&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;moodle&#34;&gt;Moodle&lt;/h3&gt;
 &lt;ul&gt;
