@@ -20,6 +20,10 @@ description: News and information about cloud computing services
 
 * [Open Guides](https://github.com/open-guides/og-aws)
 
+# OpenStack
+
+* [LXD OpenStack Cloud](https://jaas.ai/openstack-lxd)
+
 # GPU Computing
 
 * [Lambda Labs](https://lambdalabs.com/)
