@@ -1135,6 +1135,7 @@
 &lt;h1 id=&#34;ubuntu&#34;&gt;Ubuntu&lt;/h1&gt;
 &lt;h2 id=&#34;juju&#34;&gt;Juju&lt;/h2&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://juju.is/docs/olm/controllers&#34;&gt;Juju is an Open Source Charmed Operator Framework.&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://charmhub.io/&#34;&gt;CharmHub&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;kind&#34;&gt;Kind&lt;/h2&gt;
