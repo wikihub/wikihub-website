@@ -55,6 +55,10 @@ description: News and information about Kubernetes
 
 # Ubuntu
 
+## Juju
+
+* [CharmHub](https://charmhub.io/)
+
 ## Kind
 
 * [Local Kubernetes with kind, Helm & Dashboard](https://medium.com/@munza/local-kubernetes-with-kind-helm-dashboard-41152e4b3b3d)
