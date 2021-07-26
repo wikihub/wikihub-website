@@ -44,6 +44,9 @@ description: News and information about software development and necessary tools
 *   [git push --tags](https://git-scm.com/book/en/v2/Git-Basics-Tagging#:~:text=Sharing%20Tags&text=You%20will%20have%20to%20explicitly,git%20push%20origin%20.&text=If%20you%20have%20a%20lot,to%20the%20git%20push%20command.)
 * [Removing a local commit](https://stackoverflow.com/questions/4850717/how-to-cancel-a-local-git-commit): `git reset HEAD~1` ([Undo Last Git Commit with reset](https://devconnected.com/how-to-undo-last-git-commit/))
 * [The Ultimate Guide to Git Credentials](https://coolaj86.com/articles/vanilla-devops-git-credentials-ultimate-guide/)
+* Adding a new origin to a repository:
+   * `git remote add origin <address>`
+   * `git push origin <branchname>`
 
 ## Pruning
 * [How to Use prune to Clean Up Remote Branches in Git](https://www.git-tower.com/learn/git/faq/cleanup-remote-branches-with-git-prune/)
