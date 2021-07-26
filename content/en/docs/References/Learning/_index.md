@@ -69,6 +69,7 @@ description: Resources for learning
 * [Courselit](https://github.com/recurzery/courselit)
 * [edapp](https://www.edapp.com/)
 * [GARR](https://cloud.garr.it/)
+* [GARR Charms](https://git.garr.it/cloud/charms)
 
 ## Up2U
 
