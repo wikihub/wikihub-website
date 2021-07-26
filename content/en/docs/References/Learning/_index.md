@@ -98,7 +98,8 @@ Make a server and add an A record for auth.mechatronics3d.com and put the IP add
 * [Moodle k8s](https://github.com/jlabusch/moodle-k8s)
 * [Kubernetes Moodle](https://github.com/mfabriczy/kubernetes-moodle)
 * [Moodle operator](https://github.com/Netzlink/moodle-operator)
-* [Juju Moodle](https://jaas.ai/u/csd-garr/moodle/3)
+* [Juju Moodle by GARR](https://jaas.ai/u/csd-garr/moodle/12)
+* [Juju Moodle Base by GARR](https://jaas.ai/u/csd-garr/moodle-base/bundle/2)
 
 ## EdX
 
