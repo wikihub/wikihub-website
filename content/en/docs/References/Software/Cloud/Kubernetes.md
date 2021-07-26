@@ -57,6 +57,7 @@ description: News and information about Kubernetes
 
 ## Juju
 
+* [Juju is an Open Source Charmed Operator Framework.](https://juju.is/docs/olm/controllers)
 * [CharmHub](https://charmhub.io/)
 
 ## Kind
