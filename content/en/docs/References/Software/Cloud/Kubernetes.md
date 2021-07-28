@@ -61,6 +61,7 @@ description: News and information about Kubernetes
 * [CharmHub](https://charmhub.io/)
 * [kubecon-europe-2021](https://github.com/hetznercloud/kubecon-europe-2021)
    * `juju bootstrap kubecon kontroller`
+   * [Install Kubeflow](https://www.kubeflow.org/docs/distributions/charmed/install-kubeflow/)
 
 ## Kind
 
