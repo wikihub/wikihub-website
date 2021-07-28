@@ -104,6 +104,7 @@
 &lt;li&gt;&lt;a href=&#34;https://github.com/hetznercloud/kubecon-europe-2021&#34;&gt;kubecon-europe-2021&lt;/a&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;code&gt;juju bootstrap kubecon kontroller&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.kubeflow.org/docs/distributions/charmed/install-kubeflow/&#34;&gt;Install Kubeflow&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
