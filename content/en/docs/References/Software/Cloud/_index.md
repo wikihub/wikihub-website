@@ -131,4 +131,5 @@ description: News and information about cloud computing services
 - [Install Kubernetes cluster](https://community.hetzner.com/tutorials/install-kubernetes-cluster)
 - [Production ready Kubernetes Cluster on Hetzer](https://helmundwalter.de/blog/production-ready-kubernetes-cluster-on-hetzer/)
 - [Dynamically deploying new hosts with Rancher and Hetzner Cloud](https://www.youtube.com/watch?v=9gqpntc5SvI)
+- [Hetzner Kubecon Europe 2021](https://github.com/hetznercloud/kubecon-europe-2021)
 
