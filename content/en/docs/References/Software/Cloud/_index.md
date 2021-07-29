@@ -11,10 +11,14 @@ description: News and information about cloud computing services
 * [CNCF Landscape](https://github.com/cncf/landscape)
 
 # Applications
+
 ## JAAS
+* [Kubeflow Charm](https://jaas.ai/kubeflow/bundle/270)
 * [Gitlab k8s](https://jaas.ai/u/aisrael/gitlab-k8s/bundle/1)
 * [MinIO](https://jaas.ai/minio/55)
+* 
 ## OperatorHub
+* [Kubeflow Operator](https://operatorhub.io/operator/kubeflow)
 * [MinIO Operator](https://operatorhub.io/operator/minio-operator)
 
 # Cloud Storage
