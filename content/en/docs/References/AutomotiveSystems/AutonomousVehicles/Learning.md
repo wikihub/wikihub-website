@@ -7,6 +7,7 @@ description: News and learning resources on connected autonomous vehicles
 
 * [Autoware course](https://www.autoware.org/awf-course)
 * [F1Tenth](https://f1tenth.org/learn.html)
+* [96boards: Autoware everywhere ](https://www.96boards.org/blog/autoware_ai_hikey970/)
 
 # [Udacity](https://www.udacity.com/)
 
