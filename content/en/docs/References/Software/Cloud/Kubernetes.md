@@ -59,6 +59,7 @@ description: News and information about Kubernetes
 
 * [Juju is an Open Source Charmed Operator Framework.](https://juju.is/docs/olm/controllers)
 * [CharmHub](https://charmhub.io/)
+* `juju switch`
 * [kubecon-europe-2021](https://github.com/hetznercloud/kubecon-europe-2021)
    * `juju bootstrap kubecon kontroller`
    * [Install Kubeflow](https://www.kubeflow.org/docs/distributions/charmed/install-kubeflow/)
