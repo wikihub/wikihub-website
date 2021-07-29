@@ -1137,6 +1137,7 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://juju.is/docs/olm/controllers&#34;&gt;Juju is an Open Source Charmed Operator Framework.&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://charmhub.io/&#34;&gt;CharmHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;juju switch&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/hetznercloud/kubecon-europe-2021&#34;&gt;kubecon-europe-2021&lt;/a&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;code&gt;juju bootstrap kubecon kontroller&lt;/code&gt;&lt;/li&gt;
