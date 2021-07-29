@@ -139,6 +139,11 @@
 &lt;li&gt;&lt;a href=&#34;https://www.kubeflow.org/docs/started/workstation/minikube-linux/&#34;&gt;Deploy using MiniKube on Linux&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.openkb.info/2018/10/minikube-cheat-sheet.html&#34;&gt;Minikube cheat sheet&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h1 id=&#34;load-balancers&#34;&gt;Load Balancers&lt;/h1&gt;
+&lt;h2 id=&#34;metallb&#34;&gt;Metallb&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://metallb.universe.tf/installation/clouds/&#34;&gt;Metallb cloud compatibility&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h1 id=&#34;kubespray&#34;&gt;Kubespray&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://kubespray.io/#/&#34;&gt;Kubespray&lt;/a&gt;&lt;/li&gt;
