@@ -13,6 +13,7 @@ description: Autonomous Vehicles
 
 # Projects
 
+* [Open ADx](https://openadx.eclipse.org/)
 * [AnnieWAY](https://www.mrt.kit.edu/annieway/)
 * [RBCar](https://github.com/RobotnikAutomation/rbcar_sim)
 * [Autonomous Vehicle Control Documentation](https://media.readthedocs.org/pdf/phddocs/latest/phddocs.pdf)
