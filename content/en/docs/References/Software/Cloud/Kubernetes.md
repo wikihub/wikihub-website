@@ -62,6 +62,9 @@ description: News and information about Kubernetes
 * [kubecon-europe-2021](https://github.com/hetznercloud/kubecon-europe-2021)
    * `juju bootstrap kubecon kontroller`
    * [Install Kubeflow](https://www.kubeflow.org/docs/distributions/charmed/install-kubeflow/)
+   * `hcloud floating-ip create --type ipv4 --home-location nbg1`
+   * [Metallb installation](https://metallb.universe.tf/installation/)
+   * `juju config metallb-controller iprange=<IPRANGE>`
 
 ## Kind
 
