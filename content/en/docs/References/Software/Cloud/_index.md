@@ -10,6 +10,11 @@ description: News and information about cloud computing services
 
 * [CNCF Landscape](https://github.com/cncf/landscape)
 
+# Applications
+## JAAS
+* [Gitlab k8s](https://jaas.ai/u/aisrael/gitlab-k8s/bundle/1)
+* [MinIO](https://jaas.ai/minio/55)
+
 # Cloud Storage
 
 * [Min.io](https://min.io/)
