@@ -245,7 +245,11 @@
       <description>
         
         
-        &lt;h1 id=&#34;udacityhttpswwwudacitycom&#34;&gt;&lt;a href=&#34;https://www.udacity.com/&#34;&gt;Udacity&lt;/a&gt;&lt;/h1&gt;
+        &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.autoware.org/awf-course&#34;&gt;Autoware course&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://f1tenth.org/learn.html&#34;&gt;F1Tenth&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;udacityhttpswwwudacitycom&#34;&gt;&lt;a href=&#34;https://www.udacity.com/&#34;&gt;Udacity&lt;/a&gt;&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013&#34;&gt;Self-driving Car Engineer Nanodegree Program&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.udacity.com/course/sensor-fusion-engineer-nanodegree--nd313&#34;&gt;Become a Sensor Fusion Engineer&lt;/a&gt;&lt;/li&gt;
