@@ -5,6 +5,9 @@ date: 2020-04-06
 description: News and learning resources on connected autonomous vehicles
 ---
 
+* [Autoware course](https://www.autoware.org/awf-course)
+* [F1Tenth](https://f1tenth.org/learn.html)
+
 # [Udacity](https://www.udacity.com/)
 
 * [Self-driving Car Engineer Nanodegree Program](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013)
