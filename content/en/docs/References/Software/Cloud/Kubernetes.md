@@ -24,12 +24,21 @@ description: News and information about Kubernetes
 * [Bitnami](https://bitnami.com)
 * [Bitnami community](https://community.bitnami.com/)
 
+## JAAS
+* [Kubeflow Charm](https://jaas.ai/kubeflow/bundle/270)
+* [Gitlab k8s](https://jaas.ai/u/aisrael/gitlab-k8s/bundle/1)
+* [MinIO](https://jaas.ai/minio/55)
+* 
+
+## [OperatorHub.io](https://operatorhub.io/)
+* [Kubeflow Operator](https://operatorhub.io/operator/kubeflow)
+* [MinIO Operator](https://operatorhub.io/operator/minio-operator)
+
 ## JupyterHub
 * [Manual deployment of JupyterHub on Kubernetes for a single machine](https://kienmn97.medium.com/manually-deploy-jupyterhub-on-kubernetes-for-a-single-machine-dbcd9c9e50a4)
 
 # Kubectl
 
-* [OperatorHub.io](https://operatorhub.io/)
 * `kubectl get all --all-namespaces`
 * `kubectl -n kube-system get secret`
 * `kubectl -n kube-system describe secret kubernetes-dashboard-token-xxxx`
