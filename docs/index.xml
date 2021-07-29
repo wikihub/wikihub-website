@@ -1141,6 +1141,9 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;code&gt;juju bootstrap kubecon kontroller&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.kubeflow.org/docs/distributions/charmed/install-kubeflow/&#34;&gt;Install Kubeflow&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;hcloud floating-ip create --type ipv4 --home-location nbg1&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://metallb.universe.tf/installation/&#34;&gt;Metallb installation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;juju config metallb-controller iprange=&amp;lt;IPRANGE&amp;gt;&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
