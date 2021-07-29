@@ -14,6 +14,8 @@ description: News and information about cloud computing services
 ## JAAS
 * [Gitlab k8s](https://jaas.ai/u/aisrael/gitlab-k8s/bundle/1)
 * [MinIO](https://jaas.ai/minio/55)
+## OperatorHub
+* [MinIO Operator](https://operatorhub.io/operator/minio-operator)
 
 # Cloud Storage
 
