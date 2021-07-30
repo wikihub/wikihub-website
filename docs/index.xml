@@ -1118,6 +1118,10 @@
 &lt;li&gt;&lt;a href=&#34;https://operatorhub.io/operator/kubeflow&#34;&gt;Kubeflow Operator&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://operatorhub.io/operator/minio-operator&#34;&gt;MinIO Operator&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h2 id=&#34;nginx&#34;&gt;Nginx&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://kubernetes.io/docs/tasks/run-application/run-stateless-application-deployment/&#34;&gt;Run stateless application deployment&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2 id=&#34;jupyterhub&#34;&gt;JupyterHub&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://kienmn97.medium.com/manually-deploy-jupyterhub-on-kubernetes-for-a-single-machine-dbcd9c9e50a4&#34;&gt;Manual deployment of JupyterHub on Kubernetes for a single machine&lt;/a&gt;&lt;/li&gt;
