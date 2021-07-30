@@ -105,6 +105,10 @@ description: News and information about Kubernetes
 *   [Deploy using MiniKube on Linux](https://www.kubeflow.org/docs/started/workstation/minikube-linux/)
 *   [Minikube cheat sheet](http://www.openkb.info/2018/10/minikube-cheat-sheet.html)
 
+# Bare Metal
+
+* [Kubernetes on bare metal in 10 minutes](https://blog.alexellis.io/kubernetes-in-10-minutes/)
+
 # Load Balancers
 
 ## Metallb
