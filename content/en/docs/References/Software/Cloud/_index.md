@@ -133,4 +133,5 @@ description: News and information about cloud computing services
 - [Dynamically deploying new hosts with Rancher and Hetzner Cloud](https://www.youtube.com/watch?v=9gqpntc5SvI)
 - [Hetzner Kubecon Europe 2021](https://github.com/hetznercloud/kubecon-europe-2021)
 - [Hetzner Metallb](https://community.hetzner.com/tutorials/install-kubernetes-cluster)
+- [Kubernetes in Hetzner Cloud with Rancher Part 1 - Custom Nodes Setup](https://vitobotta.com/2020/10/30/kubernetes-hetzner-cloud-rancher-custom-nodes/)
 
