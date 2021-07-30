@@ -34,6 +34,9 @@ description: News and information about Kubernetes
 * [Kubeflow Operator](https://operatorhub.io/operator/kubeflow)
 * [MinIO Operator](https://operatorhub.io/operator/minio-operator)
 
+## Nginx
+* [Run stateless application deployment](https://kubernetes.io/docs/tasks/run-application/run-stateless-application-deployment/)
+
 ## JupyterHub
 * [Manual deployment of JupyterHub on Kubernetes for a single machine](https://kienmn97.medium.com/manually-deploy-jupyterhub-on-kubernetes-for-a-single-machine-dbcd9c9e50a4)
 
