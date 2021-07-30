@@ -1103,6 +1103,7 @@
 &lt;/ul&gt;
 &lt;h1 id=&#34;applications&#34;&gt;Applications&lt;/h1&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://artifacthub.io&#34;&gt;ArtifactHub&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://bitnami.com&#34;&gt;Bitnami&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://community.bitnami.com/&#34;&gt;Bitnami community&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -1124,6 +1125,8 @@
 &lt;h2 id=&#34;wordpress&#34;&gt;WordPress&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://kubernetes.io/docs/tutorials/stateful-application/mysql-wordpress-persistent-volume/&#34;&gt;Example: Deploying WordPress and MySQL with Persistent Volumes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;&#34;&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cloudytuts.com/tutorials/kubernetes/how-to-deploy-wordpress-and-mysql-on-kubernetes/&#34;&gt;How to Deploy WordPress and MySQL on Kubernetes&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;jupyterhub&#34;&gt;JupyterHub&lt;/h2&gt;
 &lt;ul&gt;
