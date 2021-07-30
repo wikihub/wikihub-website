@@ -81,6 +81,10 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://kubernetes.io/docs/tasks/run-application/run-stateless-application-deployment/&#34;&gt;Run stateless application deployment&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h2 id=&#34;wordpress&#34;&gt;WordPress&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://kubernetes.io/docs/tutorials/stateful-application/mysql-wordpress-persistent-volume/&#34;&gt;Example: Deploying WordPress and MySQL with Persistent Volumes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2 id=&#34;jupyterhub&#34;&gt;JupyterHub&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://kienmn97.medium.com/manually-deploy-jupyterhub-on-kubernetes-for-a-single-machine-dbcd9c9e50a4&#34;&gt;Manual deployment of JupyterHub on Kubernetes for a single machine&lt;/a&gt;&lt;/li&gt;
