@@ -134,4 +134,4 @@ description: News and information about cloud computing services
 - [Hetzner Kubecon Europe 2021](https://github.com/hetznercloud/kubecon-europe-2021)
 - [Hetzner Metallb](https://community.hetzner.com/tutorials/install-kubernetes-cluster)
 - [Kubernetes in Hetzner Cloud with Rancher Part 1 - Custom Nodes Setup](https://vitobotta.com/2020/10/30/kubernetes-hetzner-cloud-rancher-custom-nodes/)
-
+- [Hcloud cloud controller manager](https://github.com/hetznercloud/hcloud-cloud-controller-manager)
