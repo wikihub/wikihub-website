@@ -36,6 +36,9 @@ description: News and information about Kubernetes
 ## Nginx
 * [Run stateless application deployment](https://kubernetes.io/docs/tasks/run-application/run-stateless-application-deployment/)
 
+## WordPress
+* [Example: Deploying WordPress and MySQL with Persistent Volumes](https://kubernetes.io/docs/tutorials/stateful-application/mysql-wordpress-persistent-volume/)
+
 ## JupyterHub
 * [Manual deployment of JupyterHub on Kubernetes for a single machine](https://kienmn97.medium.com/manually-deploy-jupyterhub-on-kubernetes-for-a-single-machine-dbcd9c9e50a4)
 
