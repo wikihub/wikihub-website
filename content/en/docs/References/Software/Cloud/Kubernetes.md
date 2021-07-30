@@ -21,6 +21,7 @@ description: News and information about Kubernetes
 
 # Applications
 
+* [ArtifactHub](https://artifacthub.io)
 * [Bitnami](https://bitnami.com)
 * [Bitnami community](https://community.bitnami.com/)
 
@@ -38,6 +39,8 @@ description: News and information about Kubernetes
 
 ## WordPress
 * [Example: Deploying WordPress and MySQL with Persistent Volumes](https://kubernetes.io/docs/tutorials/stateful-application/mysql-wordpress-persistent-volume/)
+* []()
+* [How to Deploy WordPress and MySQL on Kubernetes](https://www.cloudytuts.com/tutorials/kubernetes/how-to-deploy-wordpress-and-mysql-on-kubernetes/)
 
 ## JupyterHub
 * [Manual deployment of JupyterHub on Kubernetes for a single machine](https://kienmn97.medium.com/manually-deploy-jupyterhub-on-kubernetes-for-a-single-machine-dbcd9c9e50a4)
