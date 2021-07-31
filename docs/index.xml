@@ -1081,6 +1081,22 @@
     </item>
     
     <item>
+      <title>Docs: Terraform</title>
+      <link>https://wikihub.github.io/docs/references/software/cloud/terraform/</link>
+      <pubDate>Sat, 31 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/software/cloud/terraform/</guid>
+      <description>
+        
+        
+        &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://registry.terraform.io/providers/hetznercloud/hcloud/latest/docs&#34;&gt;Hetzner cloud provider&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Docs: Kubernetes</title>
       <link>https://wikihub.github.io/docs/references/software/cloud/kubernetes/</link>
       <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
@@ -2603,113 +2619,6 @@ Don’t Worry, You Can’t Break It. We Promise.&lt;/li&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://youtu.be/r68r8NzHRKo&#34;&gt;Google Cloud AI and Robotic Process Automation – Next &amp;lsquo;19&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=akp0zeI6_6c&#34;&gt;Document AI&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Docs: Natural Language Processing</title>
-      <link>https://wikihub.github.io/docs/references/software/nlp/</link>
-      <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://wikihub.github.io/docs/references/software/nlp/</guid>
-      <description>
-        
-        
-        &lt;h1 id=&#34;natural-language-processing&#34;&gt;Natural Language Processing&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://medium.com/dair-ai/deep-learning-for-nlp-an-overview-of-recent-trends-d0d8f40a776d&#34;&gt;Deep Learning for NLP: An Overview of Recent Trends&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/tensorflow/models/tree/master/research/textsum&#34;&gt;Sequence-to-Sequence with Attention Model for Text Summarization&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://pythonprogramming.net/tokenizing-words-sentences-nltk-tutorial/&#34;&gt;Natural Language Processing with Python&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;sequence-to-sequence&#34;&gt;Sequence to sequence&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://blog.keras.io/a-ten-minute-introduction-to-sequence-to-sequence-learning-in-keras.html&#34;&gt;A ten-minute introduction to sequence-to-sequence learning in Keras&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;tools&#34;&gt;Tools&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.nltk.org/&#34;&gt;Natural Language Toolkit&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://keras.io/preprocessing/text/&#34;&gt;Keras Text Preprocessing&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://spacy.io/&#34;&gt;spaCy&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/hamelsmu/ktext&#34;&gt;ktext&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://dialogflow.com/&#34;&gt;DialogFlow&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;source-code-processing&#34;&gt;Source Code Processing&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.gharchive.org/#resources&#34;&gt;GitHub research, visualization and talks&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/src-d/awesome-machine-learning-on-source-code&#34;&gt;awesome machine learning on sourcecode&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/mast-group/&#34;&gt;MAST&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.darpa.mil/program/mining-and-understanding-software-enclaves&#34;&gt;MUSE&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=M_hOn-Ren1M&#34;&gt;Machine learning for source code analysis&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sourced.tech/&#34;&gt;Machine Learning for Large Scale Code Analysis&lt;/a&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://sourced.tech/engine/&#34;&gt;Source{d} Engine&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.msrconf.org/&#34;&gt;Mining software repositories&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://medium.com/@jrodthoughts/using-deep-learning-to-understand-your-source-code-28e5c284bfda&#34;&gt;Using Deep Learning to Understand Your Source Code&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://hackernoon.com/catalog-of-references-to-stackoverflow-questions-found-in-github-sources-134415b97ecb&#34;&gt;One More Analysis of GitHub and StackOverflow Data with Google BigQuery&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://medium.freecodecamp.org/always-end-your-questions-with-a-stack-overflow-bigquery-and-other-stories-2470ebcda7f&#34;&gt;Want people to actually answer your Stack Overflow question? Add a question mark.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/sAbakumoff/SoCiting2&#34;&gt;Catalog of references to StackOverflow questions found in GitHub sources &lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.primaryobjects.com/2013/01/27/using-artificial-intelligence-to-write-self-modifying-improving-programs/&#34;&gt;Using Artificial Intelligence to Write Self-Modifying/Improving Programs&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sites.google.com/view/mlplse-sp18/&#34;&gt;Seminars on Applications of Deep Learning in Software Engineering and Programming Languages&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://experiments.github.com/&#34;&gt;GitHub experiments&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://towardsdatascience.com/semantic-code-search-3cd6d244a39c&#34;&gt;How To Create Natural Language Semantic Search For Arbitrary Objects With Deep Learning&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://web.cs.ucla.edu/~tianyi.zhang/examplecheck.html&#34;&gt;Example Check&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://towardsdatascience.com/how-to-create-data-products-that-are-magical-using-sequence-to-sequence-models-703f86a231f8&#34;&gt;How To Create Data Products That Are Magical Using Sequence-to-Sequence Models&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;tools-1&#34;&gt;Tools&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://docs.python.org/3/library/ast.html#module-ast&#34;&gt;ast&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;datasets&#34;&gt;Datasets&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://bigquery.cloud.google.com/dataset/bigquery-public-data:github_repos&#34;&gt;github_repos on Google BigQuery&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.gharchive.org/&#34;&gt;GH Archive&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;software-metrics&#34;&gt;Software Metrics&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Halstead_complexity_measures&#34;&gt;Halstead complexity measures&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;abstract-syntax-treehttpsdocspythonorg2libraryasthtml&#34;&gt;&lt;a href=&#34;https://docs.python.org/2/library/ast.html&#34;&gt;Abstract Syntax Tree&lt;/a&gt;&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://slides.com/kentcdodds/asts-workshop#/&#34;&gt;Introduction to AST&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/chadbrewbaker/awesome-ast&#34;&gt;Awesome AST&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/topics/abstract-syntax-tree&#34;&gt;AST on GitHub&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/lihaoyi/macropy&#34;&gt;MacroPy&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/python/typeshed&#34;&gt;typeshed&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/lukehorvat/github-ast-viewer&#34;&gt;GitHub AST Viewer&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/shobrook/saplings&#34;&gt;saplings&lt;/a&gt;: library of algorithms and data structures for working with abstract syntax trees&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/ishansaksena/Conflerge&#34;&gt;Conflerge&lt;/a&gt;: resolving conflict merges with ASTs&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/perey/deast&#34;&gt;deast&lt;/a&gt;: a Python 3 module to convert an abstract syntax tree (AST) into Python code&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/mbdevpl/horast&#34;&gt;horast&lt;/a&gt;: human-oriented abstract syntax tree for Python 3&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;lint&#34;&gt;lint&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://pypi.org/project/pyflakes/&#34;&gt;pyflakes&lt;/a&gt;: checks Python source files for errors&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/hchasestevens/bellybutton&#34;&gt;bellybutton&lt;/a&gt;: custom Python linting through AST expressions&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/netromdk/vermin&#34;&gt;vermin&lt;/a&gt;: concurrently detect the minimum Python versions needed to run code&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;code-recommendation&#34;&gt;Code Recommendation&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=bF50YPyUKTQ&#34;&gt;Kite&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://craft.co/codota/competitors&#34;&gt;Codot competitors&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://guxd.github.io/&#34;&gt;Software data mining and code recommendation&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.ai.codes/&#34;&gt;ai.codes&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/kootenpv/neural_complete&#34;&gt;neural_complete&lt;/a&gt;: a neural network trained to help writing neural network code using autocomplete&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://mast-group.github.io/clams/&#34;&gt;CLAMS&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://experiments.github.com/semantic-code-search&#34;&gt;Semantic code search&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;sentiment-analysis&#34;&gt;Sentiment Analysis&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://dl.acm.org/citation.cfm?id=2597118&#34;&gt;Sentiment analysis of commit comments in GitHub: an empirical study&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.dsf.unica.it/~roberto/pubb11_Tonelli_Roberto_rtdaMR_1016_01B1.pdf&#34;&gt;The Emotional Side of Software Developers in JIRA&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://vmarkovtsev.github.io/gophercon-2018-moscow/?utm_content=buffer92ce0&amp;amp;utm_medium=social&amp;amp;utm_source=twitter.com&amp;amp;utm_campaign=buffer#cover&#34;&gt;Measuring code sentiment in a GitHub repository&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;finding-similar-source-codes-or-programming-styles&#34;&gt;Finding similar source codes or programming styles&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/alapha23/source_code_plagiarism_detector&#34;&gt;source code plagiarism detector&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
