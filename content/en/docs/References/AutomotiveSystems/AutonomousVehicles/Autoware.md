@@ -65,7 +65,7 @@ description: News and resources on Autoware
 * [Milestone 5](https://gitlab.com/autowarefoundation/autoware.auto/AutowareAuto/-/milestones/27)
 * [AVP Zoom meeting 3 Dec. 2019](https://zoom.us/recording/play/6WgbvY-PneV_y0ldeBVEPOs8P35NcWVYHcA3v9QmlXp9UgWXeW_KHQp_rJmRfI2F)
 
-## Cargo Delivery
+## Autonomous Cargo Delivery
 * [Leaving the parking lot](https://www.youtube.com/watch?v=5x6XZs9CU2M)
 * [To the cargo bay](https://youtu.be/uRn73y1_nL0)
 * [Leaving the cargo bay](https://www.youtube.com/watch?v=aL83cmLsSus)
