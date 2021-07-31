@@ -67,6 +67,8 @@
         
         &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://registry.terraform.io/providers/hetznercloud/hcloud/latest/docs&#34;&gt;Hetzner cloud provider&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://registry.terraform.io/providers/hetznercloud/hcloud/latest&#34;&gt;hcloud&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://registry.terraform.io/modules/cicdteam/k3s/hcloud/latest&#34;&gt;k3s for hcloud&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
