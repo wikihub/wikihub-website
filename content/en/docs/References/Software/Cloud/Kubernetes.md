@@ -39,7 +39,6 @@ description: News and information about Kubernetes
 
 ## WordPress
 * [Example: Deploying WordPress and MySQL with Persistent Volumes](https://kubernetes.io/docs/tutorials/stateful-application/mysql-wordpress-persistent-volume/)
-* []()
 * [How to Deploy WordPress and MySQL on Kubernetes](https://www.cloudytuts.com/tutorials/kubernetes/how-to-deploy-wordpress-and-mysql-on-kubernetes/)
 
 ## JupyterHub
