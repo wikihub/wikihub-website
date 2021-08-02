@@ -84,6 +84,7 @@ description: Resources on CAN networking
 *   [USB2CAN](https://www.8devices.com/products/usb2can_korlan)
 *   [CANUSB](https://canusbshop.com/)
 *   [Vision Systems](https://shop-visionsystems.de/en/140-can-bus)
+*   [USBtin](https://www.fischl.de/usbtin/)
 
 ## USB Opto-isolated
 
