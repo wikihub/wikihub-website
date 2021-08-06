@@ -52,6 +52,9 @@ description: News and information about containers
 * [Nautilus](https://nautilusdev.com/)
 * [Docuum](https://github.com/stepchowfun/docuum)
 
+# Local Development Environment
+* [Visual Studio Code: Create dev container](https://code.visualstudio.com/docs/remote/create-dev-container)
+  
 # Tools
 * [Bolt](https://puppetlabs.github.io/bolt/)
 
