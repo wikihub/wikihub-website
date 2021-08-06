@@ -24,6 +24,9 @@ description: Resources for learning
 
 * [eduappcenter.com](https://www.eduappcenter.com/)
 
+# Online schools
+* [Synthesis](https://www.synthesis.is/)
+
 # Tutorials
 
 ## Codelab
