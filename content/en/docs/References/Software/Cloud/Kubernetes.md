@@ -12,12 +12,17 @@ description: News and information about Kubernetes
 
 # Kubernetes
 
-*   [Getting started](https://www.kubeflow.org/docs/started/getting-started/)
 *   [kind](https://kind.sigs.k8s.io/)
 *   [K8s device plugin by NVIDIA](https://github.com/NVIDIA/k8s-device-plugin)
 *   [Kubernetes cheat sheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
 *   [kubectl for Docker users](https://kubernetes.io/docs/reference/kubectl/docker-cli-to-kubectl/)
 *   [cert-manager](https://cert-manager.io/)
+
+# Learning
+
+* [Getting started](https://www.kubeflow.org/docs/started/getting-started/)
+* [Kubernetes Services explained | ClusterIP vs NodePort vs LoadBalancer vs Headless Service](https://youtu.be/T4Z7visMM4E)
+* [Kubernetes Ingress Tutorial for Beginners | simply explained | Kubernetes Tutorial 22](https://youtu.be/80Ew_fsV4rM)
 
 # Applications
 
