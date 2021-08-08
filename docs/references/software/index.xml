@@ -1206,6 +1206,10 @@ Don’t Worry, You Can’t Break It. We Promise.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://vitobotta.com/2020/10/30/kubernetes-hetzner-cloud-rancher-custom-nodes/&#34;&gt;Kubernetes in Hetzner Cloud with Rancher Part 1 - Custom Nodes Setup&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/hetznercloud/hcloud-cloud-controller-manager&#34;&gt;Hcloud cloud controller manager&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h2 id=&#34;terraform-1&#34;&gt;Terraform&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://registry.terraform.io/providers/hetznercloud/hcloud/latest/docs&#34;&gt;hcloud terraform&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
       </description>
     </item>
