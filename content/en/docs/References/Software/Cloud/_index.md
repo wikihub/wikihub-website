@@ -135,3 +135,8 @@ description: News and information about cloud computing services
 - [Hetzner Metallb](https://community.hetzner.com/tutorials/install-kubernetes-cluster)
 - [Kubernetes in Hetzner Cloud with Rancher Part 1 - Custom Nodes Setup](https://vitobotta.com/2020/10/30/kubernetes-hetzner-cloud-rancher-custom-nodes/)
 - [Hcloud cloud controller manager](https://github.com/hetznercloud/hcloud-cloud-controller-manager)
+
+## Terraform
+
+* [hcloud terraform](https://registry.terraform.io/providers/hetznercloud/hcloud/latest/docs)
+
