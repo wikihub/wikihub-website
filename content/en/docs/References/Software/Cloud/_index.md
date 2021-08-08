@@ -139,4 +139,5 @@ description: News and information about cloud computing services
 ## Terraform
 
 * [hcloud terraform](https://registry.terraform.io/providers/hetznercloud/hcloud/latest/docs)
+* [Silkky Cloud terraform hcloud](https://github.com/silkkycloud/terraform-cluster)
 
