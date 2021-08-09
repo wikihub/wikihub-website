@@ -120,6 +120,9 @@ description: News and information about Kubernetes
 * [Set up K3s in High Availability using k3d](https://rancher.com/blog/2020/set-up-k3s-high-availability-using-k3d)
 * [k3s-demo](https://github.com/vfarcic/k3d-demo)
 
+## k0s Project
+* [k0s project](https://k0sproject.io/)
+
 ## Minikube
 *   [Deploy using MiniKube on Linux](https://www.kubeflow.org/docs/started/workstation/minikube-linux/)
 *   [Minikube cheat sheet](http://www.openkb.info/2018/10/minikube-cheat-sheet.html)
