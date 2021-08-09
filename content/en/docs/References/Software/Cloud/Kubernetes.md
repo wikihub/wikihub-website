@@ -24,6 +24,12 @@ description: News and information about Kubernetes
 * [Kubernetes Services explained | ClusterIP vs NodePort vs LoadBalancer vs Headless Service](https://youtu.be/T4Z7visMM4E)
 * [Kubernetes Ingress Tutorial for Beginners | simply explained | Kubernetes Tutorial 22](https://youtu.be/80Ew_fsV4rM)
 
+# [Installing Kubernetes with deployment tools](https://kubernetes.io/docs/setup/production-environment/tools/)
+
+* [Bootstrapping clusters with kubeadm](https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/)
+* [Installing Kubernetes with kops](https://kubernetes.io/docs/setup/production-environment/tools/kops/)
+* [Installing Kubernetes with Kubespray](https://kubernetes.io/docs/setup/production-environment/tools/kubespray/)
+
 # Applications
 
 * [ArtifactHub](https://artifacthub.io)
