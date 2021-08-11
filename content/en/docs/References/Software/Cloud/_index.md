@@ -126,6 +126,7 @@ description: News and information about cloud computing services
 
 * [hcloud terraform](https://registry.terraform.io/providers/hetznercloud/hcloud/latest/docs)
 * [Silkky Cloud terraform hcloud](https://github.com/silkkycloud/terraform-cluster)
+* [terraform-kubernetes-hcloud-csi-driver](https://github.com/colinwilson/terraform-kubernetes-hcloud-csi-driver)
 
 ## Kubernetes
 - [Hcloud cloud controller manager](https://github.com/hetznercloud/hcloud-cloud-controller-manager)
