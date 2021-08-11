@@ -44,7 +44,11 @@
       <description>
         
         
-        &lt;h1 id=&#34;cloud-robotics&#34;&gt;Cloud Robotics&lt;/h1&gt;
+        &lt;h1 id=&#34;robostack&#34;&gt;RoboStack&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2104.12910.pdf&#34;&gt;RoboStack: Using the Robot Operating System alongside the Conda and Jupyter Data Science Ecosystems&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;cloud-robotics&#34;&gt;Cloud Robotics&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/ct2034/dockeROS&#34;&gt;Dockeros&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
