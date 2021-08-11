@@ -25,8 +25,11 @@ description: News and information about web applications for ROS-based robots
 
 ## Jupyter
 *   [Jupyter-ROS](https://jupyter-ros.readthedocs.io/en/latest/)
-* [RoboStack: Using the Robot Operating System alongside the Conda and Jupyter Data Science Ecosystems](https://arxiv.org/pdf/2104.12910.pdf)
+*   [jupyter-ros](https://github.com/RoboStack/jupyter-ros)
+*   [jupyterlab-ros](https://github.com/RoboStack/jupyterlab-ros)
 
+# RoboStack
+*   [RoboStack: Using the Robot Operating System alongside the Conda and Jupyter Data Science Ecosystems](https://arxiv.org/pdf/2104.12910.pdf)
 
 # 2D Navigation
 
