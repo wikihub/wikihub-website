@@ -7,9 +7,6 @@ description: News and information about web applications for ROS-based robots
 
 ---
 
-# RoboStack
-* [RoboStack: Using the Robot Operating System alongside the Conda and Jupyter Data Science Ecosystems](https://arxiv.org/pdf/2104.12910.pdf)
-
 # Cloud Robotics
 
 *   [Dockeros](https://github.com/ct2034/dockeROS)
@@ -21,11 +18,15 @@ description: News and information about web applications for ROS-based robots
 *   [Robot Web Tools](http://robotwebtools.org/)
 *   [Webviz](https://github.com/cruise-automation/webviz)
 *   [Gzweb](http://gazebosim.org/gzweb.html)
-*   [Jupyter-ROS](https://jupyter-ros.readthedocs.io/en/latest/)
 *   [ros-rviz](https://github.com/jstnhuang/ros-rviz)
 *   [Zethus](https://github.com/rapyuta-robotics/zethus)
 *   [Deck.gl](https://deck.gl/#/)
 *   [Robonomics](https://wiki.robonomics.network/docs/)
+
+## Jupyter
+*   [Jupyter-ROS](https://jupyter-ros.readthedocs.io/en/latest/)
+* [RoboStack: Using the Robot Operating System alongside the Conda and Jupyter Data Science Ecosystems](https://arxiv.org/pdf/2104.12910.pdf)
+
 
 # 2D Navigation
 
