@@ -131,6 +131,7 @@ description: News and information about cloud computing services
 
 ## Kubernetes
 - [Hcloud cloud controller manager](https://github.com/hetznercloud/hcloud-cloud-controller-manager)
+- [Weird problem with load balancers that I cannot figure out #222 (use-private-ip: "true")](https://github.com/hetznercloud/hcloud-cloud-controller-manager/issues/222)
 - [Install Kubernetes cluster](https://community.hetzner.com/tutorials/install-kubernetes-cluster)
 - [Production ready Kubernetes Cluster on Hetzer](https://helmundwalter.de/blog/production-ready-kubernetes-cluster-on-hetzer/)
 - [Kubernetes in Hetzner Cloud with Rancher Part 1 - Custom Nodes Setup](https://vitobotta.com/2020/10/30/kubernetes-hetzner-cloud-rancher-custom-nodes/)
