@@ -7,6 +7,9 @@ description: News and information about web applications for ROS-based robots
 
 ---
 
+# RoboStack
+* [RoboStack: Using the Robot Operating System alongside the Conda and Jupyter Data Science Ecosystems](https://arxiv.org/pdf/2104.12910.pdf)
+
 # Cloud Robotics
 
 *   [Dockeros](https://github.com/ct2034/dockeROS)
