@@ -1205,6 +1205,7 @@ Don’t Worry, You Can’t Break It. We Promise.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/hetznercloud/hcloud-cloud-controller-manager/issues/222&#34;&gt;Weird problem with load balancers that I cannot figure out #222 (use-private-ip: &amp;ldquo;true&amp;rdquo;)&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://community.hetzner.com/tutorials/install-kubernetes-cluster&#34;&gt;Install Kubernetes cluster&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://helmundwalter.de/blog/production-ready-kubernetes-cluster-on-hetzer/&#34;&gt;Production ready Kubernetes Cluster on Hetzer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://rm3l.org/this-blog-is-now-running-in-a-bare-metal-kubernetes-cluster-this-is-what-i-did/&#34;&gt;This Ghost Blog is now running with Let&amp;rsquo;s Encrypt in a cheap bare-metal Kubernetes Cluster (on Hetzner Cloud)&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://vitobotta.com/2020/10/30/kubernetes-hetzner-cloud-rancher-custom-nodes/&#34;&gt;Kubernetes in Hetzner Cloud with Rancher Part 1 - Custom Nodes Setup&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://community.hetzner.com/tutorials/install-kubernetes-cluster&#34;&gt;Hetzner Metallb&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/hetznercloud/kubecon-europe-2021&#34;&gt;Hetzner Kubecon Europe 2021&lt;/a&gt;&lt;/li&gt;
