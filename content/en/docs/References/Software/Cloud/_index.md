@@ -134,6 +134,7 @@ description: News and information about cloud computing services
 - [Weird problem with load balancers that I cannot figure out #222 (use-private-ip: "true")](https://github.com/hetznercloud/hcloud-cloud-controller-manager/issues/222)
 - [Install Kubernetes cluster](https://community.hetzner.com/tutorials/install-kubernetes-cluster)
 - [Production ready Kubernetes Cluster on Hetzer](https://helmundwalter.de/blog/production-ready-kubernetes-cluster-on-hetzer/)
+- [This Ghost Blog is now running with Let's Encrypt in a cheap bare-metal Kubernetes Cluster (on Hetzner Cloud)](https://rm3l.org/this-blog-is-now-running-in-a-bare-metal-kubernetes-cluster-this-is-what-i-did/)
 - [Kubernetes in Hetzner Cloud with Rancher Part 1 - Custom Nodes Setup](https://vitobotta.com/2020/10/30/kubernetes-hetzner-cloud-rancher-custom-nodes/)
 - [Hetzner Metallb](https://community.hetzner.com/tutorials/install-kubernetes-cluster)
 - [Hetzner Kubecon Europe 2021](https://github.com/hetznercloud/kubecon-europe-2021)
