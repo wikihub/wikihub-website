@@ -148,6 +148,7 @@ description: News and information about Kubernetes
 # Bare Metal
 
 * [Packet](https://www.packet.com/)
+* [Kubernetes on bare-metal in 10 minutes](https://blog.alexellis.io/kubernetes-in-10-minutes/)
 
 # GitOps
 
