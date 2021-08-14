@@ -8,6 +8,10 @@ description: News and information about back-end technologies
 
 ---
 
+# Flask
+
+* [flaskapps](https://github.com/imfht/flaskapps)
+
 # API Server
 
 *   [Daptin](https://daptin.github.io/daptin/)
