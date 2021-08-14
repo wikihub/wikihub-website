@@ -8,6 +8,10 @@ description: News and information about Terraform
 
 ---
 
+* [Installing Terraform](https://learn.hashicorp.com/tutorials/terraform/install-cli?in=terraform/certification-associate-tutorials)
+* [Open Guides](https://github.com/open-guides/og-aws)
+
+# Hetzner
 * [Hetzner cloud provider](https://registry.terraform.io/providers/hetznercloud/hcloud/latest/docs)
 * [hcloud](https://registry.terraform.io/providers/hetznercloud/hcloud/latest)
 * [k3s for hcloud](https://registry.terraform.io/modules/cicdteam/k3s/hcloud/latest)
