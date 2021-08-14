@@ -24,6 +24,7 @@ description: News and information about Kubernetes
 * [Getting started](https://www.kubeflow.org/docs/started/getting-started/)
 * [Kubernetes Services explained | ClusterIP vs NodePort vs LoadBalancer vs Headless Service](https://youtu.be/T4Z7visMM4E)
 * [Kubernetes Ingress Tutorial for Beginners | simply explained | Kubernetes Tutorial 22](https://youtu.be/80Ew_fsV4rM)
+* [k8-helloworld-example](https://github.com/snjiaojiao/k8-helloworld-example)
 
 # [Installing Kubernetes with deployment tools](https://kubernetes.io/docs/setup/production-environment/tools/)
 
