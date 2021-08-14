@@ -774,6 +774,7 @@
 &lt;h3 id=&#34;keycloak&#34;&gt;Keycloak&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://up2u.readthedocs.io/sso/&#34;&gt;Up2U: single sign on&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/thomasdarimont/keycloak-project-example&#34;&gt;Keycloak project example&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;setting-up-ssl-for-keycloakhttpswwwkeycloakorgdocslatestserver_installation_setting_up_ssl&#34;&gt;&lt;a href=&#34;https://www.keycloak.org/docs/latest/server_installation/#_setting_up_ssl&#34;&gt;Setting up SSL for Keycloak&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;Make a server and add an A record for auth.mechatronics3d.com and put the IP address of the server as the value. Run these commands in the keycloak server:&lt;/p&gt;
