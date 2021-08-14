@@ -142,6 +142,13 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://kienmn97.medium.com/manually-deploy-jupyterhub-on-kubernetes-for-a-single-machine-dbcd9c9e50a4&#34;&gt;Manual deployment of JupyterHub on Kubernetes for a single machine&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h2 id=&#34;keycloak&#34;&gt;Keycloak&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.keycloak.org/getting-started&#34;&gt;Keycloak: Getting started&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.keycloak.org/getting-started/getting-started-kube&#34;&gt;Keycloak on Kubernetes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://up2u.readthedocs.io/sso/&#34;&gt;Up2U: single sign on&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/thomasdarimont/keycloak-project-example&#34;&gt;Keycloak project example&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h1 id=&#34;kubectl&#34;&gt;Kubectl&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;code&gt;kubectl get all --all-namespaces&lt;/code&gt;&lt;/li&gt;
