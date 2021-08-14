@@ -76,10 +76,6 @@ description: Resources for learning
 
 ## Up2U
 
-### Keycloak
-* [Up2U: single sign on](https://up2u.readthedocs.io/sso/)
-* [Keycloak project example](https://github.com/thomasdarimont/keycloak-project-example)
-
 ### [Setting up SSL for Keycloak](https://www.keycloak.org/docs/latest/server_installation/#_setting_up_ssl)
 Make a server and add an A record for auth.mechatronics3d.com and put the IP address of the server as the value. Run these commands in the keycloak server:
 
