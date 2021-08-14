@@ -14,12 +14,6 @@ description: News and information about cloud computing services
 
 * [Min.io](https://min.io/)
 
-# Terraform
-
-* [Installing Terraform](https://learn.hashicorp.com/tutorials/terraform/install-cli?in=terraform/certification-associate-tutorials)
-
-* [Open Guides](https://github.com/open-guides/og-aws)
-
 # OpenStack
 
 * [LXD OpenStack Cloud](https://jaas.ai/openstack-lxd)
