@@ -42,7 +42,9 @@ description: News and information about Kubernetes
 * [Gitlab k8s](https://jaas.ai/u/aisrael/gitlab-k8s/bundle/1)
 * [MinIO](https://jaas.ai/minio/55)
 
-## [OperatorHub.io](https://operatorhub.io/)
+# Operators
+* [Install the Operator SDK CLI](https://sdk.operatorframework.io/docs/installation/)
+* [OperatorHub.io](https://operatorhub.io/)
 * [Kubeflow Operator](https://operatorhub.io/operator/kubeflow)
 * [MinIO Operator](https://operatorhub.io/operator/minio-operator)
 
