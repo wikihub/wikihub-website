@@ -56,6 +56,12 @@ description: News and information about Kubernetes
 ## JupyterHub
 * [Manual deployment of JupyterHub on Kubernetes for a single machine](https://kienmn97.medium.com/manually-deploy-jupyterhub-on-kubernetes-for-a-single-machine-dbcd9c9e50a4)
 
+## Keycloak
+* [Keycloak: Getting started](https://www.keycloak.org/getting-started)
+* [Keycloak on Kubernetes](https://www.keycloak.org/getting-started/getting-started-kube)
+* [Up2U: single sign on](https://up2u.readthedocs.io/sso/)
+* [Keycloak project example](https://github.com/thomasdarimont/keycloak-project-example)
+
 # Kubectl
 
 * `kubectl get all --all-namespaces`
