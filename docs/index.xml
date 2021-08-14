@@ -1146,6 +1146,7 @@
 &lt;li&gt;&lt;a href=&#34;https://www.kubeflow.org/docs/started/getting-started/&#34;&gt;Getting started&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://youtu.be/T4Z7visMM4E&#34;&gt;Kubernetes Services explained | ClusterIP vs NodePort vs LoadBalancer vs Headless Service&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://youtu.be/80Ew_fsV4rM&#34;&gt;Kubernetes Ingress Tutorial for Beginners | simply explained | Kubernetes Tutorial 22&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/snjiaojiao/k8-helloworld-example&#34;&gt;k8-helloworld-example&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;installing-kubernetes-with-deployment-toolshttpskubernetesiodocssetupproduction-environmenttools&#34;&gt;&lt;a href=&#34;https://kubernetes.io/docs/setup/production-environment/tools/&#34;&gt;Installing Kubernetes with deployment tools&lt;/a&gt;&lt;/h1&gt;
 &lt;ul&gt;
