@@ -1107,6 +1107,11 @@
         
         
         &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://learn.hashicorp.com/tutorials/terraform/install-cli?in=terraform/certification-associate-tutorials&#34;&gt;Installing Terraform&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/open-guides/og-aws&#34;&gt;Open Guides&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;hetzner&#34;&gt;Hetzner&lt;/h1&gt;
+&lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://registry.terraform.io/providers/hetznercloud/hcloud/latest/docs&#34;&gt;Hetzner cloud provider&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://registry.terraform.io/providers/hetznercloud/hcloud/latest&#34;&gt;hcloud&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://registry.terraform.io/modules/cicdteam/k3s/hcloud/latest&#34;&gt;k3s for hcloud&lt;/a&gt;&lt;/li&gt;
