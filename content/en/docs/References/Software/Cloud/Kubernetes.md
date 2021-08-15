@@ -58,6 +58,7 @@ description: News and information about Kubernetes
 
 ## JupyterHub
 * [Manual deployment of JupyterHub on Kubernetes for a single machine](https://kienmn97.medium.com/manually-deploy-jupyterhub-on-kubernetes-for-a-single-machine-dbcd9c9e50a4)
+* [terraform-gcp-jupyterhub](https://github.com/BrownUniversity/terraform-gcp-jupyterhub)
 
 ## Keycloak
 * [Keycloak: Getting started](https://www.keycloak.org/getting-started)
