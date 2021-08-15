@@ -27,6 +27,10 @@ description: Resources for learning
 # Online schools
 * [Synthesis](https://www.synthesis.is/)
 
+# Assessment
+
+* [OK](https://github.com/okpy/ok)
+
 # Tutorials
 
 ## Codelab
