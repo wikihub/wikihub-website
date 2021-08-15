@@ -151,7 +151,7 @@
 &lt;li&gt;&lt;a href=&#34;https://www.keycloak.org/getting-started/getting-started-kube&#34;&gt;Keycloak on Kubernetes&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://up2u.readthedocs.io/sso/&#34;&gt;Up2U: single sign on&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/thomasdarimont/keycloak-project-example&#34;&gt;Keycloak project example&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://gist.github.com/bsamadi/cdefd1923f084c6174e4b399f2ce3e79&#34;&gt;keycloud-sso manifest&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gist.github.com/bsamadi/cdefd1923f084c6174e4b399f2ce3e79&#34;&gt;keycloud-codecentric manifest&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;kubectl&#34;&gt;Kubectl&lt;/h1&gt;
 &lt;ul&gt;
