@@ -62,6 +62,7 @@ description: News and information about Kubernetes
 
 ## BinderHub
 * [binderhub-deploy](https://github.com/alan-turing-institute/binderhub-deploy)
+* [pangeo-binder](https://github.com/pangeo-data/pangeo-binder)
 
 ## Keycloak
 * [Keycloak: Getting started](https://www.keycloak.org/getting-started)
