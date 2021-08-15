@@ -70,6 +70,7 @@ description: News and information about Kubernetes
 * [Up2U: single sign on](https://up2u.readthedocs.io/sso/)
 * [Keycloak project example](https://github.com/thomasdarimont/keycloak-project-example)
 * [keycloud-codecentric manifest](https://gist.github.com/bsamadi/cdefd1923f084c6174e4b399f2ce3e79)
+* [keycloak bitnami](https://github.com/argoproj/argo-cd/discussions/6641)
 
 # Kubectl
 
