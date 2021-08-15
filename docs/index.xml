@@ -1212,6 +1212,10 @@
 &lt;li&gt;&lt;code&gt;kubectl -n kube-system get secret&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;kubectl -n kube-system describe secret kubernetes-dashboard-token-xxxx&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h1 id=&#34;ssl-on-kubernetes&#34;&gt;SSL on Kubernetes&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/adg-vit/free-ssl-on-kubernetes-with-lets-encrypt-and-cert-manager-8a2466a611d9&#34;&gt;Free SSL on Kubernetes with Let’s Encrypt and cert-manager&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h1 id=&#34;kubeflow&#34;&gt;Kubeflow&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://yann-leguilly.gitlab.io/post/2020-03-04-kubeflow-on-laptop/&#34;&gt;Installing Kubeflow on a laptop&lt;/a&gt;&lt;/li&gt;
