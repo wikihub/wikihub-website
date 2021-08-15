@@ -82,6 +82,9 @@ description: News and information about Kubernetes
 * `kubectl -n kube-system get secret`
 * `kubectl -n kube-system describe secret kubernetes-dashboard-token-xxxx`
 
+# SSL on Kubernetes
+* [Free SSL on Kubernetes with Let’s Encrypt and cert-manager](https://medium.com/adg-vit/free-ssl-on-kubernetes-with-lets-encrypt-and-cert-manager-8a2466a611d9)
+
 # Kubeflow
 
 * [Installing Kubeflow on a laptop](https://yann-leguilly.gitlab.io/post/2020-03-04-kubeflow-on-laptop/)
