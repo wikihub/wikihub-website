@@ -74,6 +74,7 @@ description: News and information about Kubernetes
 
 ## ArgoCD
 * [ArgoCD on GitHub](https://github.com/argoproj/argo-cd)
+* [ArgoCd ingress configurations](https://argo-cd.readthedocs.io/en/stable/operator-manual/ingress/)
 
 # Kubectl
 
