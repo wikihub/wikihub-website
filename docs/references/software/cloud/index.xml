@@ -163,6 +163,7 @@
 &lt;h2 id=&#34;argocd&#34;&gt;ArgoCD&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/argoproj/argo-cd&#34;&gt;ArgoCD on GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://argo-cd.readthedocs.io/en/stable/operator-manual/ingress/&#34;&gt;ArgoCd ingress configurations&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;kubectl&#34;&gt;Kubectl&lt;/h1&gt;
 &lt;ul&gt;
