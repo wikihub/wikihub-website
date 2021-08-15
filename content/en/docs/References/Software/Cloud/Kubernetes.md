@@ -64,7 +64,7 @@ description: News and information about Kubernetes
 * [Keycloak on Kubernetes](https://www.keycloak.org/getting-started/getting-started-kube)
 * [Up2U: single sign on](https://up2u.readthedocs.io/sso/)
 * [Keycloak project example](https://github.com/thomasdarimont/keycloak-project-example)
-* [keycloud-sso manifest](https://gist.github.com/bsamadi/cdefd1923f084c6174e4b399f2ce3e79)
+* [keycloud-codecentric manifest](https://gist.github.com/bsamadi/cdefd1923f084c6174e4b399f2ce3e79)
 
 # Kubectl
 
