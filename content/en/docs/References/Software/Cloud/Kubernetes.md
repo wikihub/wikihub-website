@@ -72,6 +72,9 @@ description: News and information about Kubernetes
 * [keycloud-codecentric manifest](https://gist.github.com/bsamadi/cdefd1923f084c6174e4b399f2ce3e79)
 * [keycloak bitnami](https://github.com/argoproj/argo-cd/discussions/6641)
 
+## ArgoCD
+* [ArgoCD on GitHub](https://github.com/argoproj/argo-cd)
+
 # Kubectl
 
 * `kubectl get all --all-namespaces`
