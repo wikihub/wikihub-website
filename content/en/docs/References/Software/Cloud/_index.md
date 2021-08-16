@@ -125,7 +125,6 @@ description: News and information about cloud computing services
 
 ## Kubernetes
 - [Hcloud cloud controller manager](https://github.com/hetznercloud/hcloud-cloud-controller-manager)
-- [Weird problem with load balancers that I cannot figure out #222 (use-private-ip: "true")](https://github.com/hetznercloud/hcloud-cloud-controller-manager/issues/222)
 - [Install Kubernetes cluster](https://community.hetzner.com/tutorials/install-kubernetes-cluster)
 - [Production ready Kubernetes Cluster on Hetzer](https://helmundwalter.de/blog/production-ready-kubernetes-cluster-on-hetzer/)
 - [This Ghost Blog is now running with Let's Encrypt in a cheap bare-metal Kubernetes Cluster (on Hetzner Cloud)](https://rm3l.org/this-blog-is-now-running-in-a-bare-metal-kubernetes-cluster-this-is-what-i-did/)
@@ -140,3 +139,7 @@ description: News and information about cloud computing services
 - [Install a Kubernetes cluster on cloud servers](https://community.hetzner.com/tutorials/install-kubernetes-cluster)
 - [Vanilla Hetzner Kubeone build does not support load balancers #1110](https://github.com/kubermatic/kubeone/issues/1110)
 - [Getting Started With Kubermatic Kubernetes Platform Part 1](https://www.kubermatic.com/blog/getting-started-with-kubermatic-kubernetes-platform-part-1/)
+
+### Load Balancers
+- [Weird problem with load balancers that I cannot figure out #222 (use-private-ip: "true")](https://github.com/hetznercloud/hcloud-cloud-controller-manager/issues/222)
+- [hcloud load_balancer.go](https://github.com/hetznercloud/hcloud-cloud-controller-manager/blob/master/internal/annotation/load_balancer.go)
