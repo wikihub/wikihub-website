@@ -13,6 +13,7 @@ description: News and information about Kubernetes
 # Kubernetes
 
 *   [Introduction to Kubernetes](https://github.com/mrbobbytables/k8s-intro-tutorials)
+*   [Getting Started With Kubernetes and Container Orchestration](https://qconuk2019.container.training)
 *   [kind](https://kind.sigs.k8s.io/)
 *   [K8s device plugin by NVIDIA](https://github.com/NVIDIA/k8s-device-plugin)
 *   [Kubernetes cheat sheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
