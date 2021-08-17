@@ -94,6 +94,7 @@
 &lt;h1 id=&#34;kubernetes&#34;&gt;Kubernetes&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/mrbobbytables/k8s-intro-tutorials&#34;&gt;Introduction to Kubernetes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://qconuk2019.container.training&#34;&gt;Getting Started With Kubernetes and Container Orchestration&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://kind.sigs.k8s.io/&#34;&gt;kind&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/NVIDIA/k8s-device-plugin&#34;&gt;K8s device plugin by NVIDIA&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://kubernetes.io/docs/reference/kubectl/cheatsheet/&#34;&gt;Kubernetes cheat sheet&lt;/a&gt;&lt;/li&gt;
