@@ -161,6 +161,8 @@ description: News and information about Kubernetes
 
 # Load Balancers
 
+* [Using multiple SSL certificates in HTTPS load balancing with Ingress](https://cloud.google.com/kubernetes-engine/docs/how-to/ingress-multi-ssl)
+
 ## Metallb
 
 * [Metallb cloud compatibility](https://metallb.universe.tf/installation/clouds/)
