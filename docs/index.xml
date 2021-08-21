@@ -1297,6 +1297,9 @@
 &lt;li&gt;&lt;a href=&#34;https://blog.alexellis.io/kubernetes-in-10-minutes/&#34;&gt;Kubernetes on bare metal in 10 minutes&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;load-balancers&#34;&gt;Load Balancers&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://cloud.google.com/kubernetes-engine/docs/how-to/ingress-multi-ssl&#34;&gt;Using multiple SSL certificates in HTTPS load balancing with Ingress&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2 id=&#34;metallb&#34;&gt;Metallb&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://metallb.universe.tf/installation/clouds/&#34;&gt;Metallb cloud compatibility&lt;/a&gt;&lt;/li&gt;
