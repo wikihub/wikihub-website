@@ -143,3 +143,6 @@ description: News and information about cloud computing services
 ### Load Balancers
 - [Weird problem with load balancers that I cannot figure out #222 (use-private-ip: "true")](https://github.com/hetznercloud/hcloud-cloud-controller-manager/issues/222)
 - [hcloud load_balancer.go](https://github.com/hetznercloud/hcloud-cloud-controller-manager/blob/master/internal/annotation/load_balancer.go)
+
+## SSL Certificates
+* [SSL certificates on Hetzner](https://docs.hetzner.com/konsoleh/ssl/certificates)
