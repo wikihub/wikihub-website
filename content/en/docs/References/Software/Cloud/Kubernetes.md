@@ -26,6 +26,7 @@ description: News and information about Kubernetes
 * [Kubernetes Services explained | ClusterIP vs NodePort vs LoadBalancer vs Headless Service](https://youtu.be/T4Z7visMM4E)
 * [Kubernetes Ingress Tutorial for Beginners | simply explained | Kubernetes Tutorial 22](https://youtu.be/80Ew_fsV4rM)
 * [k8-helloworld-example](https://github.com/snjiaojiao/k8-helloworld-example)
+* [Docker development YouTube series](https://github.com/marcel-dempers/docker-development-youtube-series)
 
 # [Installing Kubernetes with deployment tools](https://kubernetes.io/docs/setup/production-environment/tools/)
 
