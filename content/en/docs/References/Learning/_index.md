@@ -87,8 +87,8 @@ Make a server and add an A record for auth.mechatronics3d.com and put the IP add
 * Open a new terminal
 * `sdk list java`
 * `sdk install java 11.0.11-open`
-* `keytool -genkey -alias localhost -keyalg RSA -keystore keycloak.jks -validity 10950`
-* `keytool -certreq -alias yourdomain -keystore keycloak.jks > keycloak.careq`
+* Generate a certificate: `keytool -genkey -alias localhost -keyalg RSA -keystore keycloak.jks -validity 10950`
+* Get a certificate: `keytool -certreq -alias yourdomain -keystore keycloak.jks > keycloak.careq`
 * `sudo snap install --classic certbot`
 * `sudo ln -s /snap/bin/certbot /usr/bin/certbot`
 * `certbot certonly --standalone -d auth.mechatronics3d.com` ([gist](https://gist.github.com/bsamadi/541bd6ced11111a251ecfd494dd30694))
