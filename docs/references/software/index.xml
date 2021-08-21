@@ -1217,6 +1217,10 @@ Don’t Worry, You Can’t Break It. We Promise.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/hetznercloud/hcloud-cloud-controller-manager/issues/222&#34;&gt;Weird problem with load balancers that I cannot figure out #222 (use-private-ip: &amp;ldquo;true&amp;rdquo;)&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/hetznercloud/hcloud-cloud-controller-manager/blob/master/internal/annotation/load_balancer.go&#34;&gt;hcloud load_balancer.go&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h2 id=&#34;ssl-certificates&#34;&gt;SSL Certificates&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.hetzner.com/konsoleh/ssl/certificates&#34;&gt;SSL certificates on Hetzner&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
       </description>
     </item>
