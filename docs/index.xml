@@ -1149,6 +1149,7 @@
 &lt;li&gt;&lt;a href=&#34;https://youtu.be/80Ew_fsV4rM&#34;&gt;Kubernetes Ingress Tutorial for Beginners | simply explained | Kubernetes Tutorial 22&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/snjiaojiao/k8-helloworld-example&#34;&gt;k8-helloworld-example&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/marcel-dempers/docker-development-youtube-series&#34;&gt;Docker development YouTube series&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/google-cloud/kubernetes-nodeport-vs-loadbalancer-vs-ingress-when-should-i-use-what-922f010849e0&#34;&gt;Kubernetes NodePort vs LoadBalancer vs Ingress? When should I use what?&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;installing-kubernetes-with-deployment-toolshttpskubernetesiodocssetupproduction-environmenttools&#34;&gt;&lt;a href=&#34;https://kubernetes.io/docs/setup/production-environment/tools/&#34;&gt;Installing Kubernetes with deployment tools&lt;/a&gt;&lt;/h1&gt;
 &lt;ul&gt;
