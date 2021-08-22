@@ -27,6 +27,7 @@ description: News and information about Kubernetes
 * [Kubernetes Ingress Tutorial for Beginners | simply explained | Kubernetes Tutorial 22](https://youtu.be/80Ew_fsV4rM)
 * [k8-helloworld-example](https://github.com/snjiaojiao/k8-helloworld-example)
 * [Docker development YouTube series](https://github.com/marcel-dempers/docker-development-youtube-series)
+* [Kubernetes NodePort vs LoadBalancer vs Ingress? When should I use what?](https://medium.com/google-cloud/kubernetes-nodeport-vs-loadbalancer-vs-ingress-when-should-i-use-what-922f010849e0)
 
 # [Installing Kubernetes with deployment tools](https://kubernetes.io/docs/setup/production-environment/tools/)
 
