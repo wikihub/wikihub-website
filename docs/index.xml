@@ -1098,7 +1098,7 @@
     </item>
     
     <item>
-      <title>Docs: Terraform</title>
+      <title>Docs: Hashicorp</title>
       <link>https://wikihub.github.io/docs/references/software/cloud/terraform/</link>
       <pubDate>Sat, 31 Jul 2021 00:00:00 +0000</pubDate>
       
@@ -1106,11 +1106,16 @@
       <description>
         
         
-        &lt;ul&gt;
+        &lt;h1 id=&#34;nomad&#34;&gt;Nomad&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://endler.dev/2019/maybe-you-dont-need-kubernetes/&#34;&gt;Maybe You Don&amp;rsquo;t Need Kubernetes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;terraform&#34;&gt;Terraform&lt;/h1&gt;
+&lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://learn.hashicorp.com/tutorials/terraform/install-cli?in=terraform/certification-associate-tutorials&#34;&gt;Installing Terraform&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/open-guides/og-aws&#34;&gt;Open Guides&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id=&#34;hetzner&#34;&gt;Hetzner&lt;/h1&gt;
+&lt;h2 id=&#34;terraform-for-hetzner&#34;&gt;Terraform for Hetzner&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://registry.terraform.io/providers/hetznercloud/hcloud/latest/docs&#34;&gt;Hetzner cloud provider&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://registry.terraform.io/providers/hetznercloud/hcloud/latest&#34;&gt;hcloud&lt;/a&gt;&lt;/li&gt;
