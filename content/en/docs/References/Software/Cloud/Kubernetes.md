@@ -90,6 +90,7 @@ description: News and information about Kubernetes
 
 # SSL on Kubernetes
 * [Free SSL on Kubernetes with Let’s Encrypt and cert-manager](https://medium.com/adg-vit/free-ssl-on-kubernetes-with-lets-encrypt-and-cert-manager-8a2466a611d9)
+* [Confirm that your domain is running HTTPS: `http://ssllabs.com/ssltest/analyze.html?d=<YOUR-DOMAIN>`](https://zero-to-jupyterhub.readthedocs.io/en/latest/administrator/security.html)
 
 # Kubeflow
 
