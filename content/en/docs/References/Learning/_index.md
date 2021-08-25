@@ -44,6 +44,10 @@ description: Resources for learning
 *   [Katacoda](https://katacoda.com)
 *   [Katacoda: create](https://katacoda.com/create)
 
+## DevOps
+
+*   [KodeKloud](https://kodekloud.com/)
+
 ## Databases
 
 *   [Introduction to databases](https://github.com/ipeirotis/introduction-to-databases/tree/739f25fd9891523bc949f5aeda2c515f5d2b6858)
