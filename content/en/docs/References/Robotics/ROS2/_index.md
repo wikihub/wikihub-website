@@ -78,6 +78,7 @@ description: News and information about web applications for ROS2
 # Deployment
 * [Exploring ROS2 with Kubernetes](https://ubuntu.com/blog/exploring-ros-2-with-kubernetes)
 * [ROS2 on Kubernetes: a simple talker and listener setup](https://ubuntu.com/blog/ros-2-on-kubernetes-a-simple-talker-and-listener-setup)
+* [ROS Docker; 6 reasons why they are not a good fit](https://ubuntu.com/blog/ros-docker)
 
 # Simulation
 * [Ignition vs Gazebo](https://allisonthackston.com/articles/ignition-vs-gazebo.html)
