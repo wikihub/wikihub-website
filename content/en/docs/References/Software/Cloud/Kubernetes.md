@@ -19,6 +19,7 @@ description: News and information about Kubernetes
 *   [Kubernetes cheat sheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
 *   [kubectl for Docker users](https://kubernetes.io/docs/reference/kubectl/docker-cli-to-kubectl/)
 *   [cert-manager](https://cert-manager.io/)
+*   [Cluster in the cloud](https://cluster-in-the-cloud.readthedocs.io/en/latest/index.html)
 
 # Learning
 
