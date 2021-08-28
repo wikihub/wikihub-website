@@ -32,6 +32,7 @@ description: News and information about Kubernetes
 
 ## Ingress
 * [Ingress annotations](https://github.com/kubernetes/ingress-nginx/blob/main/docs/user-guide/nginx-configuration/annotations.md)
+* [Ultimate Guide to Kubernetes Ingress Controllers](https://platform9.com/blog/ultimate-guide-to-kubernetes-ingress-controllers/)
 
 # [Installing Kubernetes with deployment tools](https://kubernetes.io/docs/setup/production-environment/tools/)
 
