@@ -119,6 +119,7 @@
 &lt;h2 id=&#34;ingress&#34;&gt;Ingress&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/kubernetes/ingress-nginx/blob/main/docs/user-guide/nginx-configuration/annotations.md&#34;&gt;Ingress annotations&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://platform9.com/blog/ultimate-guide-to-kubernetes-ingress-controllers/&#34;&gt;Ultimate Guide to Kubernetes Ingress Controllers&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;installing-kubernetes-with-deployment-toolshttpskubernetesiodocssetupproduction-environmenttools&#34;&gt;&lt;a href=&#34;https://kubernetes.io/docs/setup/production-environment/tools/&#34;&gt;Installing Kubernetes with deployment tools&lt;/a&gt;&lt;/h1&gt;
 &lt;ul&gt;
