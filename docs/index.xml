@@ -1160,6 +1160,7 @@
 &lt;li&gt;&lt;a href=&#34;https://github.com/snjiaojiao/k8-helloworld-example&#34;&gt;k8-helloworld-example&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/marcel-dempers/docker-development-youtube-series&#34;&gt;Docker development YouTube series&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://medium.com/google-cloud/kubernetes-nodeport-vs-loadbalancer-vs-ingress-when-should-i-use-what-922f010849e0&#34;&gt;Kubernetes NodePort vs LoadBalancer vs Ingress? When should I use what?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.olivercoding.com/2021-01-02-kubernetes-home/&#34;&gt;Series: Kubernetes at home&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;ingress&#34;&gt;Ingress&lt;/h2&gt;
 &lt;ul&gt;
