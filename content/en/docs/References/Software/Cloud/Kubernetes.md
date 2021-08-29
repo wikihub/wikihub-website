@@ -21,6 +21,9 @@ description: News and information about Kubernetes
 *   [cert-manager](https://cert-manager.io/)
 *   [Cluster in the cloud](https://cluster-in-the-cloud.readthedocs.io/en/latest/index.html)
 
+## Hosted kubernetes
+* [Platform - Certified Kubernetes - Hosted](https://landscape.cncf.io/card-mode?category=certified-kubernetes-hosted&grouping=category)
+
 # Learning
 
 * [Getting started](https://www.kubeflow.org/docs/started/getting-started/)
