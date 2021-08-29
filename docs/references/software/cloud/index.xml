@@ -107,6 +107,10 @@
 &lt;li&gt;&lt;a href=&#34;https://cert-manager.io/&#34;&gt;cert-manager&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://cluster-in-the-cloud.readthedocs.io/en/latest/index.html&#34;&gt;Cluster in the cloud&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h2 id=&#34;hosted-kubernetes&#34;&gt;Hosted kubernetes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://landscape.cncf.io/card-mode?category=certified-kubernetes-hosted&amp;amp;grouping=category&#34;&gt;Platform - Certified Kubernetes - Hosted&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h1 id=&#34;learning&#34;&gt;Learning&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.kubeflow.org/docs/started/getting-started/&#34;&gt;Getting started&lt;/a&gt;&lt;/li&gt;
