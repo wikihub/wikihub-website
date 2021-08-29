@@ -444,15 +444,59 @@
     </item>
     
     <item>
-      <title>Docs: </title>
+      <title>Docs: Google Cloud Platform</title>
       <link>https://wikihub.github.io/docs/references/software/cloud/gcp/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 28 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>https://wikihub.github.io/docs/references/software/cloud/gcp/</guid>
       <description>
         
         
-        
+        &lt;h1 id=&#34;google-cloud-platform&#34;&gt;Google Cloud Platform&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/GoogleCloudPlatform/awesome-google-cloud&#34;&gt;Awesome Google Cloud&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/tmrts/awesome-google-cloud&#34;&gt;Awesome Google Cloud Platform&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/user/googlecloudplatform&#34;&gt;GCP YouTube Channel&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/GoogleCloudPlatform&#34;&gt;GCP on GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://codelabs.developers.google.com/cloud&#34;&gt;Google Cloud Codelabs and Challenges&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/src-d/jgscm&#34;&gt;Jupyter FS in Google Cloud Storage&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;analytics-and-machine-learning&#34;&gt;Analytics and Machine Learning&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://cloud.google.com/ml-engine/docs/tensorflow/getting-started-training-prediction&#34;&gt;Getting Started&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cloud.google.com/sdk/gcloud/reference/ml-engine/&#34;&gt;gcloud ml-engine documentation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cloud.google.com/automl/&#34;&gt;Cloud AutoML&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;natural-language-processing&#34;&gt;Natural Language Processing&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://cloud.google.com/natural-language/?hl=en_US&amp;amp;_ga=2.250591430.-1790910342.1536084171&#34;&gt;Google Cloud Natural Language&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://console.cloud.google.com/apis/library/language.googleapis.com&#34;&gt;Cloud Natural Language API&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;bigquery&#34;&gt;BigQuery&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://googlecloudplatform.github.io/google-cloud-python/latest/bigquery/usage.html&#34;&gt;Python Reference&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.kaggle.com/rtatman/sql-scavenger-hunt-handbook&#34;&gt;Kaggle SQL Scavenger Hunt&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/eh2699/Kaggle-SQL-Scavenger-Hunt/blob/9b365697ddfdf911e25d70185c81eb2849b5fb03/kaggle_day5_github_repos.ipynb&#34;&gt;github_repo example&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/SohierDane/BigQuery_Helper&#34;&gt;bq_helper&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.kaggle.com/sohier/introduction-to-the-bq-helper-package&#34;&gt;Introduction to bq_helper&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://lugassy.net/how-moving-from-pub-sub-to-avro-saved-us-38-976-year-ec6c33ea7d08&#34;&gt;How moving from Pub/Sub to AVRO saved us $38,976/year&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;google-dataproc&#34;&gt;Google Dataproc&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://cloud.google.com/dataproc/docs/concepts/configuring-clusters/optional-components&#34;&gt;Optional Components&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/google-cloud/moving-data-with-apache-sqoop-in-google-cloud-dataproc-4056b8fa2600&#34;&gt;Moving Data with Apache Sqoop in Google Cloud Dataproc&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://tech.travelaudience.com/from-kafka-to-bigquery-with-spark-on-dataproc-in-scala-49c81756e291&#34;&gt;From Kafka to BigQuery with Spark (on Dataproc) in Scala&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cloud.google.com/dataproc/docs/concepts/versioning/dataproc-versions&#34;&gt;Dataproc Versions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://stackoverflow.com/questions/46104668/how-can-i-include-additional-jars-when-starting-a-google-dataproc-cluster-to-use&#34;&gt;How can I include additional jars when starting a Google DataProc cluster to use with Jupyter notebooks?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;kubernetes&#34;&gt;Kubernetes&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://learn.hashicorp.com/tutorials/vault/kubernetes-google-cloud-gke?in=vault/kubernetes&#34;&gt;Vault Installation to Google Kubernetes Engine via Helm&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
       </description>
     </item>
     
