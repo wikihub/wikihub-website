@@ -17,7 +17,7 @@ description: Resources for learning using notebooks
 # Running Jupyter Servers
 * [Science Box](https://sciencebox.web.cern.ch/sciencebox/)
 * [JupyterHub](https://github.com/jupyterhub/jupyterhub)
-* [The littlest JuperHub](https://github.com/jupyterhub/the-littlest-jupyterhub)
+* [The littlest JuperHub](https://github.com/jupyterhub/the-littlest-jupyterhub) ([tljh](https://tljh.jupyter.org/en/latest/))
 * [Zero to JupyterHub k8s](https://github.com/jupyterhub/zero-to-jupyterhub-k8s)
 * [ContainDS Dashboards](https://cdsdashboards.readthedocs.io/en/stable/#)
 
