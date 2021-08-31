@@ -24,6 +24,10 @@ description: News and information about learning ROS
 * [rqt graph – visualize and debug your ROS graph](https://roboticsbackend.com/rqt-graph-visualize-and-debug-your-ros-graph/)
 * [rosgraph (command-line)](https://wiki.ros.org/rosgraph)
 
+## Creating ROS packages
+
+* [Creating a ROS package](https://erlerobot.github.io/erle_gitbook/en/ros/tutorials/creating_a_ros_package.html)
+
 # Tutorials
 * [Top free tutorials to learn ROS](https://robocademy.com/2020/04/28/top-free-tutorials-to-learn-ros-robot-operating-system/)
 * [ROS/Gazebo simulator as the external simulator for ArduCopter](http://docs.erlerobotics.com/simulation/intro)
