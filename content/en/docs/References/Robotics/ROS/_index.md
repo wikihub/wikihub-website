@@ -136,7 +136,7 @@ description: News and information about ROS and its applications
 * [ROS Docker demos](https://github.com/ruffsl/ros_docker_demos)
 * [Udacity RoboND Docker container](https://github.com/bpinaya/robond-docker)
 * [JuliaMPC MAVs](https://github.com/JuliaMPC/MAVs)
-* [ROS Docker examples](https://github.com/peterpolidoro/docker-library-docs/tree/master/ros)
+* [ROS Docker examples](https://github.com/docker-library/docs/tree/master/ros)
 
 # Sylabs
 
