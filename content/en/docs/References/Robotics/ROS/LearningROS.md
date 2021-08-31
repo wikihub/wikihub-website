@@ -27,6 +27,7 @@ description: News and information about learning ROS
 ## Creating ROS packages
 
 * [Creating a ROS package](https://erlerobot.github.io/erle_gitbook/en/ros/tutorials/creating_a_ros_package.html)
+* [rosdep](https://docs.ros.org/en/independent/api/rosdep/html/commands.html)
 
 # Tutorials
 * [Top free tutorials to learn ROS](https://robocademy.com/2020/04/28/top-free-tutorials-to-learn-ros-robot-operating-system/)
