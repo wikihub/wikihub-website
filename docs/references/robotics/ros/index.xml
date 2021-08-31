@@ -208,6 +208,7 @@
 &lt;h2 id=&#34;creating-ros-packages&#34;&gt;Creating ROS packages&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://erlerobot.github.io/erle_gitbook/en/ros/tutorials/creating_a_ros_package.html&#34;&gt;Creating a ROS package&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.ros.org/en/independent/api/rosdep/html/commands.html&#34;&gt;rosdep&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;tutorials&#34;&gt;Tutorials&lt;/h1&gt;
 &lt;ul&gt;
