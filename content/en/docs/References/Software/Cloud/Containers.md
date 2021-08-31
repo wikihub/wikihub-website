@@ -25,6 +25,7 @@ description: News and information about containers
 * [Changing the entrypoint](https://docs.docker.com/engine/reference/run/#entrypoint-default-command-to-execute-at-runtime)
 * [Processes in containers should not run as root](https://medium.com/@mccode/processes-in-containers-should-not-run-as-root-2feae3f0df3b)
 * [Create a new image from a container’s changes](https://docs.docker.com/engine/reference/commandline/commit/)
+* [Docker library](https://github.com/docker-library/docs/tree/master/)
 
 ## Prune  
 * Remove all the images without a tag: `docker rmi $(docker images -f dangling=true -q)`
