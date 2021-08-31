@@ -44,6 +44,10 @@ description: Linux resources
 
 *   [Grub2 troubleshooting](https://help.ubuntu.com/community/Grub2/Troubleshooting)
 
+# Makefile
+
+* [Ignoring errors](https://robertbasic.com/blog/ignore-errors-in-makefile/)
+
 # Regular Expressions
 
 *   [regexr.com](https://regexr.com/)
