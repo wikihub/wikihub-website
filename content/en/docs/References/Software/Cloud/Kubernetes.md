@@ -34,6 +34,7 @@ description: News and information about Kubernetes
 * [Kubernetes NodePort vs LoadBalancer vs Ingress? When should I use what?](https://medium.com/google-cloud/kubernetes-nodeport-vs-loadbalancer-vs-ingress-when-should-i-use-what-922f010849e0)
 * [Series: Kubernetes at home](https://www.olivercoding.com/2021-01-02-kubernetes-home/)
 * [Kubernetes platform book](https://imti.co/kubernetes-platform-book/)
+* [Ultimate kubernetes bootcamp](https://schoolofdevops.github.io/ultimate-kubernetes-bootcamp/)
 
 ## Ingress
 * [Ingress annotations](https://github.com/kubernetes/ingress-nginx/blob/main/docs/user-guide/nginx-configuration/annotations.md)
