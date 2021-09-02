@@ -8,6 +8,10 @@ description: News and information about software development and necessary tools
 
 ---
 
+# Coding interviews
+
+* [Awesome interview questions](https://github.com/DopplerHQ/awesome-interview-questions)
+
 # Software Project Management
 
 *   [Aha!](https://www.aha.io/)
