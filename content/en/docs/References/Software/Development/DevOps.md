@@ -15,6 +15,7 @@ description: News and information about DevOps technologies and tools
 
 ## [Jenkins](https://www.jenkins.io/)
 * [Jenkins on AWS](https://www.jenkins.io/doc/tutorials/tutorial-for-installing-jenkins-on-AWS/)
+* [Ansible role for Jenkins](https://github.com/geerlingguy/ansible-role-jenkins)
 
 ## [AWS CodeBuild](https://docs.aws.amazon.com/codebuild/latest/userguide/welcome.html)
 
