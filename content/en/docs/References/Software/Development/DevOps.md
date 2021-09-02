@@ -8,6 +8,9 @@ description: News and information about DevOps technologies and tools
 
 ---
 
+* [Awesome Sysadmin](https://github.com/awesome-foss/awesome-sysadmin)
+* [Awesome selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+
 # Build pipelines
 
 ## [Jenkins](https://www.jenkins.io/)
