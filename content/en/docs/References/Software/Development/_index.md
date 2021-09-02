@@ -71,14 +71,6 @@ description: News and information about software development and necessary tools
 
 *   [Bitbucket Authentication, 2FA and OAuth](https://github.com/microsoft/Git-Credential-Manager-for-Windows/blob/master/Docs/Bitbucket.md)
 
-# Build pipelines
-
-## [Jenkins](https://www.jenkins.io/)
-
-## [AWS CodeBuild](https://docs.aws.amazon.com/codebuild/latest/userguide/welcome.html)
-
-* [Use AWS CodeBuild with Jenkins](https://docs.aws.amazon.com/codebuild/latest/userguide/jenkins-plugin.html)
-
 # Makefile
 
 *   [Makefile for lazy developers](https://localheinz.com/blog/2018/01/24/makefile-for-lazy-developers/)
