@@ -19,5 +19,27 @@
       
     
     
+    <item>
+      <title>Docs: DevOps</title>
+      <link>https://wikihub.github.io/docs/references/software/development/devops/</link>
+      <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/software/development/devops/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;build-pipelines&#34;&gt;Build pipelines&lt;/h1&gt;
+&lt;h2 id=&#34;jenkinshttpswwwjenkinsio&#34;&gt;&lt;a href=&#34;https://www.jenkins.io/&#34;&gt;Jenkins&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.jenkins.io/doc/tutorials/tutorial-for-installing-jenkins-on-AWS/&#34;&gt;Jenkins on AWS&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;aws-codebuildhttpsdocsawsamazoncomcodebuildlatestuserguidewelcomehtml&#34;&gt;&lt;a href=&#34;https://docs.aws.amazon.com/codebuild/latest/userguide/welcome.html&#34;&gt;AWS CodeBuild&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.aws.amazon.com/codebuild/latest/userguide/jenkins-plugin.html&#34;&gt;Use AWS CodeBuild with Jenkins&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
   </channel>
 </rss>
