@@ -44,6 +44,7 @@
 &lt;li&gt;&lt;a href=&#34;https://aws.amazon.com/blogs/devops/setting-up-a-ci-cd-pipeline-by-integrating-jenkins-with-aws-codebuild-and-aws-codedeploy/&#34;&gt;Setting up a CI/CD pipeline by integrating Jenkins with AWS CodeBuild and AWS CodeDeploy&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://aws.amazon.com/blogs/opensource/continuous-integration-using-jenkins-and-hashicorp-terraform-on-amazon-eks/&#34;&gt;Continuous Integration using Jenkins and HashiCorp Terraform on Amazon EKS&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://cloud.google.com/architecture/managing-infrastructure-as-code-with-terraform-jenkins-and-gitops&#34;&gt;Managing infrastructure as code with Terraform, Jenkins, and GitOps&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/@kalyanshettynetra/install-jenkins-on-amazon-linux-2-instance-52105b5bc7e1&#34;&gt;Install Jenkins on Amazon Linux 2 instance&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;aws-codebuildhttpsdocsawsamazoncomcodebuildlatestuserguidewelcomehtml&#34;&gt;&lt;a href=&#34;https://docs.aws.amazon.com/codebuild/latest/userguide/welcome.html&#34;&gt;AWS CodeBuild&lt;/a&gt;&lt;/h2&gt;
 &lt;ul&gt;
