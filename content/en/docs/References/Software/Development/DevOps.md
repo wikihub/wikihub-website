@@ -22,6 +22,7 @@ description: News and information about DevOps technologies and tools
 * [Setting up a CI/CD pipeline by integrating Jenkins with AWS CodeBuild and AWS CodeDeploy](https://aws.amazon.com/blogs/devops/setting-up-a-ci-cd-pipeline-by-integrating-jenkins-with-aws-codebuild-and-aws-codedeploy/)
 * [Continuous Integration using Jenkins and HashiCorp Terraform on Amazon EKS](https://aws.amazon.com/blogs/opensource/continuous-integration-using-jenkins-and-hashicorp-terraform-on-amazon-eks/)
 * [Managing infrastructure as code with Terraform, Jenkins, and GitOps](https://cloud.google.com/architecture/managing-infrastructure-as-code-with-terraform-jenkins-and-gitops)
+* [Install Jenkins on Amazon Linux 2 instance](https://medium.com/@kalyanshettynetra/install-jenkins-on-amazon-linux-2-instance-52105b5bc7e1)
 
 ## [AWS CodeBuild](https://docs.aws.amazon.com/codebuild/latest/userguide/welcome.html)
 
