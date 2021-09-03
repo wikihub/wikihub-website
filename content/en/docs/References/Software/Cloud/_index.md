@@ -34,6 +34,10 @@ description: News and information about cloud computing services
 
 * [opctl](https://opctl.io/docs/)
 
+# Cloud services
+
+* [VPS Benchmarks](https://www.vpsbenchmarks.com/)
+
 # Amazon Web Services
 
 ## Courses
