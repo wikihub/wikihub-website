@@ -1218,10 +1218,10 @@
 &lt;/ul&gt;
 &lt;h1 id=&#34;ros-build-farmhttpswikirosorgbuildfarm&#34;&gt;&lt;a href=&#34;https://wiki.ros.org/buildfarm&#34;&gt;ROS Build Farm&lt;/a&gt;&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/ros-infrastructure/buildfarm_deployment&#34;&gt;Build farm deployment&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/ros-infrastructure/buildfarm_deployment_config&#34;&gt;buildfarm_deployment_config&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/ros-infrastructure/ros_buildfarm&#34;&gt;ros_buildfarm&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://build.ros2.org/&#34;&gt;build.ros2.org&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/ros-infrastructure/cookbook-ros-buildfarm&#34;&gt;cookbook-ros-buildfarm&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/ros-infrastructure/chef-ros-buildfarm&#34;&gt;chef-ros-buildfarm&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;ros-infrastructurehttpsgithubcomros-infrastructure&#34;&gt;&lt;a href=&#34;https://github.com/ros-infrastructure&#34;&gt;ROS Infrastructure&lt;/a&gt;&lt;/h1&gt;
 &lt;ul&gt;
