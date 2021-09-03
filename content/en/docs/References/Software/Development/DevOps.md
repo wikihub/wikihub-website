@@ -10,6 +10,7 @@ description: News and information about DevOps technologies and tools
 
 * [Awesome Sysadmin](https://github.com/awesome-foss/awesome-sysadmin)
 * [Awesome selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+* [DevOps exercises](https://github.com/bregman-arie/devops-exercises)
 
 # Chef
 * [Chef supermarket](https://supermarket.chef.io/)
