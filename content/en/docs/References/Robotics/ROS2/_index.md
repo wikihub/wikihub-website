@@ -13,6 +13,8 @@ description: News and information about web applications for ROS2
 
 # [ROS Build Farm](https://wiki.ros.org/buildfarm)
 * [Build farm deployment](https://github.com/ros-infrastructure/buildfarm_deployment)
+* [buildfarm_deployment_config](https://github.com/ros-infrastructure/buildfarm_deployment_config)
+* [ros_buildfarm](https://github.com/ros-infrastructure/ros_buildfarm)
 
 # [ROS Infrastructure](https://github.com/ros-infrastructure)
 * [ros-tooling](https://github.com/ros-tooling)
