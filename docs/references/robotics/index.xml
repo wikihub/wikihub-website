@@ -1308,13 +1308,14 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://design.ros2.org/articles/ros2_access_control_policies.html&#34;&gt;ROS2 access control policies&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id=&#34;turtlebot-3&#34;&gt;TurtleBot 3&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://emanual.robotis.com/docs/en/platform/turtlebot3/ros2_simulation/&#34;&gt;ROS2 simulation for TurtleBot 3&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
 &lt;h1 id=&#34;monitoring-and-visualization&#34;&gt;Monitoring and Visualization&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://prometheus.io/&#34;&gt;Prometheus&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;robots&#34;&gt;Robots&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://emanual.robotis.com/docs/en/platform/turtlebot3/ros2_simulation/&#34;&gt;ROS2 simulation for TurtleBot 3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/SMARTlab-Purdue/SMARTmBOT&#34;&gt;SMARTmBOT&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
