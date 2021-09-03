@@ -37,6 +37,7 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.jenkins.io/doc/tutorials/tutorial-for-installing-jenkins-on-AWS/&#34;&gt;Jenkins on AWS&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/geerlingguy/ansible-role-jenkins&#34;&gt;Ansible role for Jenkins&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://aws.amazon.com/blogs/devops/setting-up-a-ci-cd-pipeline-by-integrating-jenkins-with-aws-codebuild-and-aws-codedeploy/&#34;&gt;Setting up a CI/CD pipeline by integrating Jenkins with AWS CodeBuild and AWS CodeDeploy&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;aws-codebuildhttpsdocsawsamazoncomcodebuildlatestuserguidewelcomehtml&#34;&gt;&lt;a href=&#34;https://docs.aws.amazon.com/codebuild/latest/userguide/welcome.html&#34;&gt;AWS CodeBuild&lt;/a&gt;&lt;/h2&gt;
 &lt;ul&gt;
