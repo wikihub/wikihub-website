@@ -28,3 +28,11 @@ description: News and information about DevOps technologies and tools
 ## [AWS CodeBuild](https://docs.aws.amazon.com/codebuild/latest/userguide/welcome.html)
 
 * [Use AWS CodeBuild with Jenkins](https://docs.aws.amazon.com/codebuild/latest/userguide/jenkins-plugin.html)
+
+# ARM
+
+* [Graviton2 AWS managed services](https://github.com/aws/aws-graviton-getting-started/blob/main/managed_services.md)
+* [Announcing 32/64-bit Arm Runner Support for AWS Graviton2](https://about.gitlab.com/blog/2020/05/15/gitlab-arm-aws-graviton2-solution/)
+* [AWS Graviton2 getting started](https://github.com/aws/aws-graviton-getting-started/blob/main/isv.md)
+* [Operating Systems available for Graviton based instances](https://github.com/aws/aws-graviton-getting-started/blob/main/os.md#operating-systems-available-for-graviton-based-instances)
+* [Container-based workloads on Graviton](https://github.com/aws/aws-graviton-getting-started/blob/main/containers.md)
