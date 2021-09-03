@@ -11,6 +11,9 @@ description: News and information about web applications for ROS2
 * [ROS2 Planet](https://planet.ros.org/)
 * [ROS2 Planning](https://github.com/ros-planning)
 
+# ROS Build Farm
+* [Build farm deployment](https://github.com/ros-infrastructure/buildfarm_deployment)
+
 # [ROS Infrastructure](https://github.com/ros-infrastructure)
 * [ros-tooling](https://github.com/ros-tooling)
 * [ros-tooling website](https://ros-tooling.github.io/)
