@@ -32,6 +32,10 @@
 &lt;li&gt;&lt;a href=&#34;https://github.com/awesome-foss/awesome-sysadmin&#34;&gt;Awesome Sysadmin&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/awesome-selfhosted/awesome-selfhosted&#34;&gt;Awesome selfhosted&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h1 id=&#34;chef&#34;&gt;Chef&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://supermarket.chef.io/&#34;&gt;Chef supermarket&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h1 id=&#34;build-pipelines&#34;&gt;Build pipelines&lt;/h1&gt;
 &lt;h2 id=&#34;jenkinshttpswwwjenkinsio&#34;&gt;&lt;a href=&#34;https://www.jenkins.io/&#34;&gt;Jenkins&lt;/a&gt;&lt;/h2&gt;
 &lt;ul&gt;
