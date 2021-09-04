@@ -50,6 +50,7 @@
 &lt;li&gt;&lt;a href=&#34;https://github.com/mlabouardy/aws-pipeline&#34;&gt;aws-pipeline&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/gulec2000/jenkins-python-project/blob/main/jenkins-server-cfn-template.yml&#34;&gt;This Cloudformation Template creates a Jenkins Server using JDK 11 on EC2 Instance.&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://issues.jenkins.io/browse/JENKINS-39960&#34;&gt;Jenkins EC2 plugin: security group and subnet ID&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://issues.jenkins.io/browse/JENKINS-50181&#34;&gt;ssh-agent/ssh-credentials-plugin failing because ssh-add expects a newline in the keyfile&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;aws-codebuildhttpsdocsawsamazoncomcodebuildlatestuserguidewelcomehtml&#34;&gt;&lt;a href=&#34;https://docs.aws.amazon.com/codebuild/latest/userguide/welcome.html&#34;&gt;AWS CodeBuild&lt;/a&gt;&lt;/h2&gt;
 &lt;ul&gt;
