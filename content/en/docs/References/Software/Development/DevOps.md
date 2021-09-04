@@ -32,6 +32,7 @@ description: News and information about DevOps technologies and tools
 * [Jenkins EC2 plugin: security group and subnet ID](https://issues.jenkins.io/browse/JENKINS-39960)
 * [ssh-agent/ssh-credentials-plugin failing because ssh-add expects a newline in the keyfile](https://issues.jenkins.io/browse/JENKINS-50181)
 * [How to Create a Bitbucket Cloud Branch Source Multibranch Pipeline in Jenkins](https://www.youtube.com/watch?v=LNfthmZuRDI)
+* [Complete Jenkins Pipeline Tutorial | Jenkinsfile explained](https://www.youtube.com/watch?v=7KCS70sCoK0)
 
 ## [AWS CodeBuild](https://docs.aws.amazon.com/codebuild/latest/userguide/welcome.html)
 
