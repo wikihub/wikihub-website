@@ -26,6 +26,7 @@ description: News and information about DevOps technologies and tools
 * [Install Jenkins on Amazon Linux 2 instance](https://medium.com/@kalyanshettynetra/install-jenkins-on-amazon-linux-2-instance-52105b5bc7e1)
 * [Build a complete CI/CD Pipeline and its infrastructure with AWS — Jenkins — Bitbucket — Docker — Terraform → Part 1](https://faun.pub/build-a-complete-ci-cd-pipeline-and-its-infrastructure-with-aws-jenkins-bitbucket-docker-bd29968a99b6)
 * [aws-pipeline](https://github.com/mlabouardy/aws-pipeline)
+* [This Cloudformation Template creates a Jenkins Server using JDK 11 on EC2 Instance.](https://github.com/gulec2000/jenkins-python-project/blob/main/jenkins-server-cfn-template.yml)
 
 ## [AWS CodeBuild](https://docs.aws.amazon.com/codebuild/latest/userguide/welcome.html)
 
