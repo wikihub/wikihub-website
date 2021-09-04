@@ -28,6 +28,7 @@ description: News and information about DevOps technologies and tools
 * [aws-pipeline](https://github.com/mlabouardy/aws-pipeline)
 * [This Cloudformation Template creates a Jenkins Server using JDK 11 on EC2 Instance.](https://github.com/gulec2000/jenkins-python-project/blob/main/jenkins-server-cfn-template.yml)
 * [Jenkins EC2 plugin: security group and subnet ID](https://issues.jenkins.io/browse/JENKINS-39960)
+* [ssh-agent/ssh-credentials-plugin failing because ssh-add expects a newline in the keyfile](https://issues.jenkins.io/browse/JENKINS-50181)
 
 ## [AWS CodeBuild](https://docs.aws.amazon.com/codebuild/latest/userguide/welcome.html)
 
