@@ -47,6 +47,7 @@
 &lt;li&gt;&lt;a href=&#34;https://cloud.google.com/architecture/managing-infrastructure-as-code-with-terraform-jenkins-and-gitops&#34;&gt;Managing infrastructure as code with Terraform, Jenkins, and GitOps&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://medium.com/@kalyanshettynetra/install-jenkins-on-amazon-linux-2-instance-52105b5bc7e1&#34;&gt;Install Jenkins on Amazon Linux 2 instance&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://faun.pub/build-a-complete-ci-cd-pipeline-and-its-infrastructure-with-aws-jenkins-bitbucket-docker-bd29968a99b6&#34;&gt;Build a complete CI/CD Pipeline and its infrastructure with AWS — Jenkins — Bitbucket — Docker — Terraform → Part 1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://aws.amazon.com/blogs/compute/cost-optimize-your-jenkins-ci-cd-pipelines-using-ec2-spot-instances/&#34;&gt;Cost Optimize your Jenkins CI/CD pipelines using EC2 Spot Instances&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/mlabouardy/aws-pipeline&#34;&gt;aws-pipeline&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/gulec2000/jenkins-python-project/blob/main/jenkins-server-cfn-template.yml&#34;&gt;This Cloudformation Template creates a Jenkins Server using JDK 11 on EC2 Instance.&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://issues.jenkins.io/browse/JENKINS-39960&#34;&gt;Jenkins EC2 plugin: security group and subnet ID&lt;/a&gt;&lt;/li&gt;
