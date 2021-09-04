@@ -34,6 +34,8 @@ description: News and information about DevOps technologies and tools
 * [How to Create a Bitbucket Cloud Branch Source Multibranch Pipeline in Jenkins](https://www.youtube.com/watch?v=LNfthmZuRDI)
 * [Complete Jenkins Pipeline Tutorial | Jenkinsfile explained](https://www.youtube.com/watch?v=7KCS70sCoK0)
 * [Trigger Jenkins builds using Jira Automation](https://community.atlassian.com/t5/Jira-Software-questions/Trigger-Jenkins-builds-using-Jira-Automation/qaq-p/1740830)
+* [How to Display Jenkins Build Status Badge on GitHub](https://www.vegait.rs/media-center/blog/how-to-display-jenkins-build-status-badge-on-github)
+* [ros_buildfarm](https://github.com/ros-infrastructure/ros_buildfarm)
 
 ## [AWS CodeBuild](https://docs.aws.amazon.com/codebuild/latest/userguide/welcome.html)
 
