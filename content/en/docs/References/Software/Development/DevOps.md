@@ -26,6 +26,7 @@ description: News and information about DevOps technologies and tools
 * [Install Jenkins on Amazon Linux 2 instance](https://medium.com/@kalyanshettynetra/install-jenkins-on-amazon-linux-2-instance-52105b5bc7e1)
 * [Build a complete CI/CD Pipeline and its infrastructure with AWS — Jenkins — Bitbucket — Docker — Terraform → Part 1](https://faun.pub/build-a-complete-ci-cd-pipeline-and-its-infrastructure-with-aws-jenkins-bitbucket-docker-bd29968a99b6)
 * [Cost Optimize your Jenkins CI/CD pipelines using EC2 Spot Instances](https://aws.amazon.com/blogs/compute/cost-optimize-your-jenkins-ci-cd-pipelines-using-ec2-spot-instances/)
+* [Jenkins Agent Service](http://www.stablecoder.ca/2018/03/23/jenkins-runner-systemctl.html)
 * [aws-pipeline](https://github.com/mlabouardy/aws-pipeline)
 * [This Cloudformation Template creates a Jenkins Server using JDK 11 on EC2 Instance.](https://github.com/gulec2000/jenkins-python-project/blob/main/jenkins-server-cfn-template.yml)
 * [Jenkins EC2 plugin: security group and subnet ID](https://issues.jenkins.io/browse/JENKINS-39960)
