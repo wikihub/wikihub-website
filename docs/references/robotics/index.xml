@@ -1216,9 +1216,13 @@
 &lt;li&gt;&lt;a href=&#34;https://planet.ros.org/&#34;&gt;ROS2 Planet&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/ros-planning&#34;&gt;ROS2 Planning&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h1 id=&#34;jenkins&#34;&gt;Jenkins&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/lgsvl/simulator&#34;&gt;LGSVL&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/ros2/ci&#34;&gt;ros2/ci&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h1 id=&#34;ros-build-farmhttpswikirosorgbuildfarm&#34;&gt;&lt;a href=&#34;https://wiki.ros.org/buildfarm&#34;&gt;ROS Build Farm&lt;/a&gt;&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/ros2/ci&#34;&gt;ros2/ci&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/ros-infrastructure/ros_buildfarm&#34;&gt;ros_buildfarm&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://build.ros2.org/&#34;&gt;build.ros2.org&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/ros-infrastructure/cookbook-ros-buildfarm&#34;&gt;cookbook-ros-buildfarm&lt;/a&gt;&lt;/li&gt;
