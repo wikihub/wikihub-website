@@ -34,6 +34,8 @@ description: News and information about web applications for ROS2
 * [ROS / ROS 2 Cross Compile Tool](https://cross-compile.readthedocs.io/en/latest/)
 * [ROS1 Bridge](https://github.com/ros2/ros1_bridge/blob/foxy/README.md)
 
+## Jupyter Notebooks
+* [Jupyter ROS2](https://github.com/zmk5/jupyter-ros2)
 
 ## [Allison Thackston](https://allisonthackston.com/articles/)
 * [Dockerfiles by Allison Thackston](https://allisonthackston.com/dockerfiles/)
