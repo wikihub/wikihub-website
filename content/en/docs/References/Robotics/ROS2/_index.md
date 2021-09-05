@@ -82,6 +82,7 @@ description: News and information about web applications for ROS2
 
 ## Projects
 * [CaBot](https://github.com/CMU-cabot/cabot/tree/b576a450ee1bebbae1e7cc8a53a7835538198ad2)
+* [Nanosaur](https://nanosaur.ai/)
 
 # Deployment
 * [Exploring ROS2 with Kubernetes](https://ubuntu.com/blog/exploring-ros-2-with-kubernetes)
