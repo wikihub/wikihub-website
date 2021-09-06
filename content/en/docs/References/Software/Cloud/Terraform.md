@@ -20,3 +20,6 @@ description: News and information about Terraform, Nomad, Vault, Consul
 * [Hetzner cloud provider](https://registry.terraform.io/providers/hetznercloud/hcloud/latest/docs)
 * [hcloud](https://registry.terraform.io/providers/hetznercloud/hcloud/latest)
 * [k3s for hcloud](https://registry.terraform.io/modules/cicdteam/k3s/hcloud/latest)
+
+# Vault
+* [Vault on Kubernetes](https://learn.hashicorp.com/collections/vault/kubernetes)
