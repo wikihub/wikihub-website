@@ -1137,6 +1137,10 @@
 &lt;li&gt;&lt;a href=&#34;https://registry.terraform.io/providers/hetznercloud/hcloud/latest&#34;&gt;hcloud&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://registry.terraform.io/modules/cicdteam/k3s/hcloud/latest&#34;&gt;k3s for hcloud&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h1 id=&#34;vault&#34;&gt;Vault&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://learn.hashicorp.com/collections/vault/kubernetes&#34;&gt;Vault on Kubernetes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
       </description>
     </item>
