@@ -77,11 +77,15 @@ description: Resources for learning
 # Learning Management Systems
 
 * [Up2U](https://up2u.readthedocs.io/)
-* [ScienceBox](https://sciencebox.web.cern.ch/sciencebox/)
 * [Courselit](https://github.com/recurzery/courselit)
 * [edapp](https://www.edapp.com/)
 * [GARR](https://cloud.garr.it/)
 * [GARR Charms](https://git.garr.it/cloud/charms)
+
+## CERN
+
+* [CERNBox](https://github.com/cernbox)
+* [ScienceBox](https://sciencebox.web.cern.ch/sciencebox/)
 
 ## Up2U
 
