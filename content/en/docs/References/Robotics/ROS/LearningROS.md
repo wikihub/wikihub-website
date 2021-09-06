@@ -56,6 +56,7 @@ description: News and information about learning ROS
 * [The Robotics Back-End](https://roboticsbackend.com/)
 * [CSE 468-568 Robotic Algorithms](https://medium.com/cse-468-568-robotic-algorithms)
 * [Metrorobots](http://metrorobots.com/)
+* [AWS robomaker robotics curriculum](https://github.com/aws-robotics/aws-robomaker-robotics-curriculum)
 
 # Notebooks for Robots
 * [Robot Stack](https://github.com/RoboStack)
