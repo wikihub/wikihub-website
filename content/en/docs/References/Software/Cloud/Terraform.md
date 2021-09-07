@@ -23,3 +23,4 @@ description: News and information about Terraform, Nomad, Vault, Consul
 
 # Vault
 * [Vault on Kubernetes](https://learn.hashicorp.com/collections/vault/kubernetes)
+* [Securing your apps without touching the code!](https://github.com/nehrman/hashiconfEU-2019)
