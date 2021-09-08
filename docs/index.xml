@@ -1142,6 +1142,7 @@
 &lt;li&gt;&lt;a href=&#34;https://learn.hashicorp.com/collections/vault/kubernetes&#34;&gt;Vault on Kubernetes&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/nehrman/hashiconfEU-2019&#34;&gt;Securing your apps without touching the code!&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.cinqict.nl/blog/automate-the-renewal-of-tls-certificates-with-vault&#34;&gt;Automate the renewal of TLS certificates with Vault and Cert-Manager&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/hashicorp/vault-k8s&#34;&gt;vault-k8s&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
