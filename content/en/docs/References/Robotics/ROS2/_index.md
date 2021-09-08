@@ -16,12 +16,19 @@ description: News and information about web applications for ROS2
 * [ros2/ci](https://github.com/ros2/ci)
 * [buildfarm_deployment](https://github.com/ros-infrastructure/buildfarm_deployment)
 
+# Continuous Integration
+
+* [ROS CI](https://wiki.ros.org/CIs)
+
 # [ROS Build Farm](https://wiki.ros.org/buildfarm)
 * [ros_buildfarm](https://github.com/ros-infrastructure/ros_buildfarm)
-* [build.ros2.org](https://build.ros2.org/)
 * [cookbook-ros-buildfarm](https://github.com/ros-infrastructure/cookbook-ros-buildfarm)
 * [chef-ros-buildfarm](https://github.com/ros-infrastructure/chef-ros-buildfarm)
 * [ros_buildfarm](https://github.com/ros-infrastructure/ros_buildfarm)
+* [Setup environment to deploy configuration](https://github.com/ros-infrastructure/ros_buildfarm/blob/master/doc/environment.rst)
+
+## ROS 1
+* [build.ros2.org](https://build.ros2.org/)
 
 # [ROS Infrastructure](https://github.com/ros-infrastructure)
 * [ros-tooling](https://github.com/ros-tooling)
