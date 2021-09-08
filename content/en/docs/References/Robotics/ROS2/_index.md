@@ -14,6 +14,7 @@ description: News and information about web applications for ROS2
 # Jenkins
 * [LGSVL](https://github.com/lgsvl/simulator)
 * [ros2/ci](https://github.com/ros2/ci)
+* [buildfarm_deployment](https://github.com/ros-infrastructure/buildfarm_deployment)
 
 # [ROS Build Farm](https://wiki.ros.org/buildfarm)
 * [ros_buildfarm](https://github.com/ros-infrastructure/ros_buildfarm)
