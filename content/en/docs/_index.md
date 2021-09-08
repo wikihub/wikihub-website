@@ -15,3 +15,4 @@ These are the main topics:
 * [Internet of Things]({{< ref "/docs/References/Hardware/IoT.md" >}})
 * [Machine Learning]({{< ref "/docs/References/Software/MachineLearning.md" >}})
 * [Robotics]({{< ref "/docs/References/Robotics" >}})
+* [DevOps]({{< ref "/docs/References/Software/Development/DevOps.md" >}})
