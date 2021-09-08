@@ -1430,7 +1430,11 @@
 &lt;/ul&gt;
 &lt;h1 id=&#34;companies&#34;&gt;Companies&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://sdk.rethinkrobotics.com/intera/Community_Research&#34;&gt;Rethink Robotics&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sdk.rethinkrobotics.com/intera/Community_Research&#34;&gt;Rethink Robotics&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://sdk.rethinkrobotics.com/intera/Community_Research&#34;&gt;Rethink Robotics Community Research&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.shadowrobot.com/&#34;&gt;Shadow Robot&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.hbrobotics.org/&#34;&gt;HomeBrew Robotics Club&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
