@@ -25,7 +25,10 @@ description: News and information about web applications for ROS2
 * [cookbook-ros-buildfarm](https://github.com/ros-infrastructure/cookbook-ros-buildfarm)
 * [chef-ros-buildfarm](https://github.com/ros-infrastructure/chef-ros-buildfarm)
 * [ros_buildfarm](https://github.com/ros-infrastructure/ros_buildfarm)
+* [buildfarm_deployment](https://github.com/ros-infrastructure/buildfarm_deployment)
+* [buildfarm_deployment_config](https://github.com/ros-infrastructure/buildfarm_deployment_config)
 * [Setup environment to deploy configuration](https://github.com/ros-infrastructure/ros_buildfarm/blob/master/doc/environment.rst)
+* [wiki ROS buildfarm](https://wiki.ros.org/buildfarm)
 
 ## ROS 1
 * [build.ros2.org](https://build.ros2.org/)
