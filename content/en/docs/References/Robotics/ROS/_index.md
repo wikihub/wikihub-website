@@ -80,6 +80,7 @@ description: News and information about ROS and its applications
 
 # Companies
 
+* [Rethink Robotics](https://sdk.rethinkrobotics.com/intera/Community_Research)
 * [HomeBrew Robotics Club](http://www.hbrobotics.org/)
 
 ## Facebook
