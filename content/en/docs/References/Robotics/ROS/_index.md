@@ -81,6 +81,7 @@ description: News and information about ROS and its applications
 # Companies
 
 * [Rethink Robotics](https://sdk.rethinkrobotics.com/intera/Community_Research)
+* [Shadow Robot](https://www.shadowrobot.com/)
 * [HomeBrew Robotics Club](http://www.hbrobotics.org/)
 
 ## Facebook
