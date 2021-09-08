@@ -71,6 +71,7 @@ description: News and information about containers
 * [Eliot](https://docs.eliot.run/)
 * [Pouch container](https://pouchcontainer.io/)
 * [Containerd](https://containerd.io/)
+* [jFrog](https://jfrog.com/)
 
 # Singularity
 * [Singularity Documentation](https://www.sylabs.io/docs/)
