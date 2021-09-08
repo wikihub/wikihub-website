@@ -80,6 +80,7 @@ description: News and information about ROS and its applications
 
 # Companies
 
+* [PickNikRobotics](https://github.com/PickNikRobotics)
 * [Rethink Robotics](https://sdk.rethinkrobotics.com/intera/Community_Research)
   * [Rethink Robotics Community Research](https://sdk.rethinkrobotics.com/intera/Community_Research)
 * [Shadow Robot](https://www.shadowrobot.com/)
