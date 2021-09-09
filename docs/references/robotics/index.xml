@@ -1221,6 +1221,7 @@
 &lt;li&gt;&lt;a href=&#34;https://github.com/lgsvl/simulator&#34;&gt;LGSVL&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/ros2/ci&#34;&gt;ros2/ci&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/ros-infrastructure/buildfarm_deployment&#34;&gt;buildfarm_deployment&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/ros-infrastructure/ros_buildfarm_config/blob/production/PRIORITY_NOTES.md&#34;&gt;Job priorities&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;continuous-integration&#34;&gt;Continuous Integration&lt;/h1&gt;
 &lt;ul&gt;
