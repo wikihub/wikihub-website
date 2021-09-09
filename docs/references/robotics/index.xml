@@ -1227,6 +1227,11 @@
 &lt;li&gt;&lt;a href=&#34;https://wiki.ros.org/CIs&#34;&gt;ROS CI&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://ci.ros2.org/&#34;&gt;ci.ros2.org&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://build.ros2.org/&#34;&gt;build.ros2.org&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/ros2&#34;&gt;ROS2 on GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;testing&#34;&gt;Testing&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://autowarefoundation.gitlab.io/autoware.auto/AutowareAuto/testing-in-general.html&#34;&gt;Autoware.Auto: Testing in general&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;ros-build-farmhttpswikirosorgbuildfarm&#34;&gt;&lt;a href=&#34;https://wiki.ros.org/buildfarm&#34;&gt;ROS Build Farm&lt;/a&gt;&lt;/h1&gt;
 &lt;ul&gt;
@@ -1288,14 +1293,6 @@
 &lt;li&gt;&lt;a href=&#34;https://micro.ros.org/docs/concepts/middleware/rosserial/&#34;&gt;Micro XRCE-DDS compared to rosserial&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://micro.ros.org/docs/tutorials/advanced/create_new_type/&#34;&gt;How to include a custom ROS message in micro-ROS&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://micro-xrce-dds.docs.eprosima.com/en/latest/introduction.html&#34;&gt;eProsima Micro XRCE-DDS&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;ros2-continuous-integration&#34;&gt;ROS2 Continuous Integration&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/ros2&#34;&gt;ROS2 on GitHub&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;testing&#34;&gt;Testing&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://autowarefoundation.gitlab.io/autoware.auto/AutowareAuto/testing-in-general.html&#34;&gt;Autoware.Auto: Testing in general&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;ros2-and-containers&#34;&gt;ROS2 and Containers&lt;/h2&gt;
 &lt;ul&gt;
