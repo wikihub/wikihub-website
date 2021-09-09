@@ -21,6 +21,10 @@ description: News and information about web applications for ROS2
 * [ROS CI](https://wiki.ros.org/CIs)
 * [ci.ros2.org](https://ci.ros2.org/)
 * [build.ros2.org](https://build.ros2.org/)
+* [ROS2 on GitHub](https://github.com/ros2)
+
+# Testing
+* [Autoware.Auto: Testing in general](https://autowarefoundation.gitlab.io/autoware.auto/AutowareAuto/testing-in-general.html)
 
 # [ROS Build Farm](https://wiki.ros.org/buildfarm)
 * [cookbook-ros-buildfarm](https://github.com/ros-infrastructure/cookbook-ros-buildfarm)
@@ -73,12 +77,6 @@ description: News and information about web applications for ROS2
 * [Micro XRCE-DDS compared to rosserial](https://micro.ros.org/docs/concepts/middleware/rosserial/)
 * [How to include a custom ROS message in micro-ROS](https://micro.ros.org/docs/tutorials/advanced/create_new_type/)
 * [eProsima Micro XRCE-DDS](https://micro-xrce-dds.docs.eprosima.com/en/latest/introduction.html)
-
-## ROS2 Continuous Integration
-* [ROS2 on GitHub](https://github.com/ros2)
-
-## Testing
-* [Autoware.Auto: Testing in general](https://autowarefoundation.gitlab.io/autoware.auto/AutowareAuto/testing-in-general.html)
 
 ## ROS2 and Containers
 * [Running ROS 2 nodes in Docker](https://docs.ros.org/en/foxy/Guides/Run-2-nodes-in-single-or-separate-docker-containers.html)
