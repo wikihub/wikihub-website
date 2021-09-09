@@ -19,6 +19,7 @@ description: News and information about web applications for ROS2
 # Continuous Integration
 
 * [ROS CI](https://wiki.ros.org/CIs)
+* [build.ros2.org](https://build.ros2.org/)
 
 # [ROS Build Farm](https://wiki.ros.org/buildfarm)
 * [cookbook-ros-buildfarm](https://github.com/ros-infrastructure/cookbook-ros-buildfarm)
@@ -29,9 +30,6 @@ description: News and information about web applications for ROS2
 * [Setup environment to deploy configuration](https://github.com/ros-infrastructure/ros_buildfarm/blob/master/doc/environment.rst)
 * [wiki ROS buildfarm](https://wiki.ros.org/buildfarm)
 * [ROS build farm based on Docker](https://github.com/ros-infrastructure/ros_buildfarm/blob/master/doc/index.rst)
-
-## ROS 1
-* [build.ros2.org](https://build.ros2.org/)
 
 # [ROS Infrastructure](https://github.com/ros-infrastructure)
 * [ros-tooling](https://github.com/ros-tooling)
