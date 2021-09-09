@@ -21,7 +21,6 @@ description: News and information about web applications for ROS2
 * [ROS CI](https://wiki.ros.org/CIs)
 * [ci.ros2.org](https://ci.ros2.org/)
 * [build.ros2.org](https://build.ros2.org/)
-* [ROS2 on GitHub](https://github.com/ros2)
 
 # Testing
 * [Autoware.Auto: Testing in general](https://autowarefoundation.gitlab.io/autoware.auto/AutowareAuto/testing-in-general.html)
@@ -42,6 +41,7 @@ description: News and information about web applications for ROS2
 * [setup-ros-docker](https://github.com/ros-tooling/setup-ros-docker)
 
 # Development
+* [ROS2 on GitHub](https://github.com/ros2)
 * [Build ROS2 from source](https://docs.ros.org/en/foxy/Installation/Ubuntu-Development-Setup.html)
 * [Installation troubleshooting](https://docs.ros.org/en/foxy/Guides/Installation-Troubleshooting.html)
 * [ROS2 Launch File Example](https://roboticsbackend.com/ros2-launch-file-example/)
