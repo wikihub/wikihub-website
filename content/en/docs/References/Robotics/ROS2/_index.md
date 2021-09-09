@@ -15,6 +15,7 @@ description: News and information about web applications for ROS2
 * [LGSVL](https://github.com/lgsvl/simulator)
 * [ros2/ci](https://github.com/ros2/ci)
 * [buildfarm_deployment](https://github.com/ros-infrastructure/buildfarm_deployment)
+* [Job priorities](https://github.com/ros-infrastructure/ros_buildfarm_config/blob/production/PRIORITY_NOTES.md)
 
 # Continuous Integration
 
