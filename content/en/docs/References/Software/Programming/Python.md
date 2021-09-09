@@ -13,6 +13,12 @@ description: Resources for the Python language
 
 # Learning Python
 
+* [Python Tutorial](https://www.w3schools.com/python/)
+
+## Books
+
+* [Problem solving with Python](https://problemsolvingwithpython.com/)
+
 ## Top 4 Github Repos to Learn Python (or copy some code!)
 
  1. [All algorithms implemented in Python by The Algorithms](https://lnkd.in/guaDFtA)
