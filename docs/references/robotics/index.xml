@@ -1227,7 +1227,6 @@
 &lt;li&gt;&lt;a href=&#34;https://wiki.ros.org/CIs&#34;&gt;ROS CI&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://ci.ros2.org/&#34;&gt;ci.ros2.org&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://build.ros2.org/&#34;&gt;build.ros2.org&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/ros2&#34;&gt;ROS2 on GitHub&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;testing&#34;&gt;Testing&lt;/h1&gt;
 &lt;ul&gt;
@@ -1252,6 +1251,7 @@
 &lt;/ul&gt;
 &lt;h1 id=&#34;development&#34;&gt;Development&lt;/h1&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/ros2&#34;&gt;ROS2 on GitHub&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://docs.ros.org/en/foxy/Installation/Ubuntu-Development-Setup.html&#34;&gt;Build ROS2 from source&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://docs.ros.org/en/foxy/Guides/Installation-Troubleshooting.html&#34;&gt;Installation troubleshooting&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://roboticsbackend.com/ros2-launch-file-example/&#34;&gt;ROS2 Launch File Example&lt;/a&gt;&lt;/li&gt;
