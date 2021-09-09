@@ -46,6 +46,7 @@ description: News and information about learning ROS
 * [ROS Online Course by ROBOTIS](https://www.youtube.com/playlist?list=PLRG6WP3c31_U7TFGduEIJWVtkOw6AJjFf)
 * [Hello Real World with ROS](https://online-learning.tudelft.nl/courses/hello-real-world-with-ros-robot-operating-systems/)
 * [Cosi119a - Autonomous Robotics Lab](http://campusrover.org.s3-website-us-west-2.amazonaws.com/)
+* [Creating robots using ROS2 navigation](https://pubhtml5.com/zlck/eqay)
 
 # Books
 
