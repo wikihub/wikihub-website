@@ -19,6 +19,7 @@ description: News and information about web applications for ROS2
 # Continuous Integration
 
 * [ROS CI](https://wiki.ros.org/CIs)
+* [ci.ros2.org](https://ci.ros2.org/)
 * [build.ros2.org](https://build.ros2.org/)
 
 # [ROS Build Farm](https://wiki.ros.org/buildfarm)
