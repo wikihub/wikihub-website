@@ -21,7 +21,6 @@ description: News and information about web applications for ROS2
 * [ROS CI](https://wiki.ros.org/CIs)
 
 # [ROS Build Farm](https://wiki.ros.org/buildfarm)
-* [ros_buildfarm](https://github.com/ros-infrastructure/ros_buildfarm)
 * [cookbook-ros-buildfarm](https://github.com/ros-infrastructure/cookbook-ros-buildfarm)
 * [chef-ros-buildfarm](https://github.com/ros-infrastructure/chef-ros-buildfarm)
 * [ros_buildfarm](https://github.com/ros-infrastructure/ros_buildfarm)
