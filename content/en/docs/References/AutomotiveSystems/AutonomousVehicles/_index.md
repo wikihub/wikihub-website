@@ -72,6 +72,7 @@ description: Autonomous Vehicles
 * [Invest in Ontario](https://www.investinontario.com/tags/autonomous-vehicles)
 * [CAVCOE](http://www.cavcoe.com/index.html)
 * [AVIN](https://www.avinhub.ca/)
+* [events](https://airtable.com/shrNmTIA2QlPFGZGV/tbl1vGKXh6x3MEc47)
 * [CAVI](https://www.unmannedsystems.ca/canadian-automated-vehicles-institute-launched/)
 * [Ottawa Cluster](https://www.ottawaavcluster.com/)
 * [CAV Canada](https://www.cavcanada.ca/)
