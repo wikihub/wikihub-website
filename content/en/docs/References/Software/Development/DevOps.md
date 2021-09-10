@@ -22,6 +22,7 @@ description: News and information about DevOps technologies and tools
 
 ## [Jenkins](https://www.jenkins.io/)
 * [Jenkins on AWS](https://www.jenkins.io/doc/tutorials/tutorial-for-installing-jenkins-on-AWS/)
+* [Awesome Jenkins](https://github.com/sahilsk/awesome-jenkins)
 * [Ansible role for Jenkins](https://github.com/geerlingguy/ansible-role-jenkins)
 * [Setting up a CI/CD pipeline by integrating Jenkins with AWS CodeBuild and AWS CodeDeploy](https://aws.amazon.com/blogs/devops/setting-up-a-ci-cd-pipeline-by-integrating-jenkins-with-aws-codebuild-and-aws-codedeploy/)
 * [Continuous Integration using Jenkins and HashiCorp Terraform on Amazon EKS](https://aws.amazon.com/blogs/opensource/continuous-integration-using-jenkins-and-hashicorp-terraform-on-amazon-eks/)
