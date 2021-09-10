@@ -45,6 +45,7 @@
 &lt;h2 id=&#34;jenkinshttpswwwjenkinsio&#34;&gt;&lt;a href=&#34;https://www.jenkins.io/&#34;&gt;Jenkins&lt;/a&gt;&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.jenkins.io/doc/tutorials/tutorial-for-installing-jenkins-on-AWS/&#34;&gt;Jenkins on AWS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/sahilsk/awesome-jenkins&#34;&gt;Awesome Jenkins&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/geerlingguy/ansible-role-jenkins&#34;&gt;Ansible role for Jenkins&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://aws.amazon.com/blogs/devops/setting-up-a-ci-cd-pipeline-by-integrating-jenkins-with-aws-codebuild-and-aws-codedeploy/&#34;&gt;Setting up a CI/CD pipeline by integrating Jenkins with AWS CodeBuild and AWS CodeDeploy&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://aws.amazon.com/blogs/opensource/continuous-integration-using-jenkins-and-hashicorp-terraform-on-amazon-eks/&#34;&gt;Continuous Integration using Jenkins and HashiCorp Terraform on Amazon EKS&lt;/a&gt;&lt;/li&gt;
