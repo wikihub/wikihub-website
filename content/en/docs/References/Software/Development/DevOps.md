@@ -15,6 +15,9 @@ description: News and information about DevOps technologies and tools
 # Chef
 * [Chef supermarket](https://supermarket.chef.io/)
 
+# Puppet
+* [puppet-jenkins](https://forge.puppet.com/modules/puppet/jenkins)
+
 # Build pipelines
 
 ## [Jenkins](https://www.jenkins.io/)
