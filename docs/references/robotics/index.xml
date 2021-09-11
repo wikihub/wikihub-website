@@ -1229,6 +1229,7 @@
 &lt;li&gt;&lt;a href=&#34;https://ci.ros2.org/&#34;&gt;ci.ros2.org&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/ros2/ci/blob/master/CI_BUILDERS.md&#34;&gt;Documentation for CI Builders&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://docs.ros.org/en/galactic/Guides/Package-maintainer-guide.html&#34;&gt;ROS 2 Package Maintainer Guide&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/ros-infrastructure/ros_buildfarm/blob/master/doc/jobs/ci_jobs.rst&#34;&gt;CI jobs&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://build.ros2.org/&#34;&gt;build.ros2.org&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;testing&#34;&gt;Testing&lt;/h1&gt;
