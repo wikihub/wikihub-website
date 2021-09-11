@@ -23,6 +23,7 @@ description: News and information about web applications for ROS2
 * [ci.ros2.org](https://ci.ros2.org/)
 * [Documentation for CI Builders](https://github.com/ros2/ci/blob/master/CI_BUILDERS.md)
 * [ROS 2 Package Maintainer Guide](https://docs.ros.org/en/galactic/Guides/Package-maintainer-guide.html)
+* [CI jobs](https://github.com/ros-infrastructure/ros_buildfarm/blob/master/doc/jobs/ci_jobs.rst)
 * [build.ros2.org](https://build.ros2.org/)
 
 # Testing
