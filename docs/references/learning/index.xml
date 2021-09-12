@@ -87,8 +87,9 @@
 &lt;li&gt;&lt;a href=&#34;https://ipypublish.readthedocs.io/en/latest/&#34;&gt;iPyPublish&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.mkdocs.org/&#34;&gt;MkDocs&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id=&#34;running-jupyter-servers&#34;&gt;Running Jupyter Servers&lt;/h1&gt;
+&lt;h1 id=&#34;machine-learning-hub&#34;&gt;Machine Learning Hub&lt;/h1&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.primehub.io/&#34;&gt;PrimeHub&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://sciencebox.web.cern.ch/sciencebox/&#34;&gt;Science Box&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/jupyterhub/jupyterhub&#34;&gt;JupyterHub&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/jupyterhub/the-littlest-jupyterhub&#34;&gt;The littlest JuperHub&lt;/a&gt; (&lt;a href=&#34;https://tljh.jupyter.org/en/latest/&#34;&gt;tljh&lt;/a&gt;)&lt;/li&gt;
