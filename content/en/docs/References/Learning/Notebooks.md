@@ -15,6 +15,7 @@ description: Resources for learning using notebooks
 * [MkDocs](https://www.mkdocs.org/)
 
 # Machine Learning Hub
+* [Argoflow](https://github.com/argoflow)
 * [PrimeHub](https://docs.primehub.io/)
 * [Science Box](https://sciencebox.web.cern.ch/sciencebox/)
 * [JupyterHub](https://github.com/jupyterhub/jupyterhub)
