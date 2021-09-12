@@ -14,7 +14,8 @@ description: Resources for learning using notebooks
 * [iPyPublish](https://ipypublish.readthedocs.io/en/latest/)
 * [MkDocs](https://www.mkdocs.org/)
 
-# Running Jupyter Servers
+# Machine Learning Hub
+* [PrimeHub](https://docs.primehub.io/)
 * [Science Box](https://sciencebox.web.cern.ch/sciencebox/)
 * [JupyterHub](https://github.com/jupyterhub/jupyterhub)
 * [The littlest JuperHub](https://github.com/jupyterhub/the-littlest-jupyterhub) ([tljh](https://tljh.jupyter.org/en/latest/))
