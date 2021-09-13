@@ -12,6 +12,7 @@ description: Linux resources
 *   [30 bash script examples](https://linuxhint.com/30_bash_script_examples/)
 *   [Linux Command Line Pipes and Redirection](https://youtu.be/mV_8GbzwZMM)
 *   [Beginner's Guide to the Bash Terminal](https://youtu.be/oxuRxtrO2Ag)
+*   [Bash Scripting Full Course 3 Hours](https://youtu.be/e7BufAVwDiM)
 *   [chmod calculator](https://chmod-calculator.com/)
 *   [jq](https://stedolan.github.io/jq/)
 *   [locale](https://www.thomas-krenn.com/en/wiki/Configure_Locales_in_Ubuntu)
