@@ -33,7 +33,8 @@ description: News and information about robot platforms
 * [LeRover](https://www.leorover.tech/)
 * [YZ robots](http://www.yzrobot.cn/en/robot-list.html)
 * [FROG](https://www.frogrobot.eu)
-    * [Fun Robotic Outdoor Guide: Functional Requirements, Interaction and Constraints](https://www.frogrobot.eu/wordpress/wp-content/uploads/2014/03/D1.1_Final.pdf) 
+    * [Fun Robotic Outdoor Guide: Functional Requirements, Interaction and Constraints](https://www.frogrobot.eu/wordpress/wp-content/uploads/2014/03/D1.1_Final.pdf)
+* [DASLAB](http://daslab.illinois.edu/)
 
 ## Mecanum wheels
 * [YDLIDAR X2 360° Laser Scanner Robot (with Batteries)](https://www.robotshop.com/ca/en/ydlidar-x2-360-laser-scanner-robot-w-batteries.html)
@@ -143,6 +144,7 @@ description: News and information about robot platforms
 * [Neobotix](https://www.neobotix-roboter.de/mobile-manipulatoren-uebersicht.html)
 * [Kinova Movo](https://www.kinovarobotics.com/en/products/mobile-manipulators)
 * [Fetch Mobile Manipulator](https://fetchrobotics.com/robotics-platforms/fetch-mobile-manipulator/)
+* [Toyota Human Service Robot](https://www.youtube.com/watch?v=9b5T4yJvVfs)
 
 # Legged Robots
 
