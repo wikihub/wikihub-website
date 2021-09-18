@@ -1046,7 +1046,11 @@
 &lt;h1 id=&#34;mobile-robots&#34;&gt;Mobile Robots&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.superdroidrobots.com/shop/category.aspx/wheeled-robots/51/&#34;&gt;Superdroid mobile robots&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.clearpathrobotics.com/&#34;&gt;Clearpath Robotics&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.clearpathrobotics.com/&#34;&gt;Clearpath Robotics&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.clearpathrobotics.com/assets/guides/melodic/husky/index.html&#34;&gt;Ckearpath Robotics - Husky&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.aionrobotics.com/&#34;&gt;Aion Robotics&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.servosila.com/en/&#34;&gt;Servosila&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.sampson-jeff.com/eep/&#34;&gt;Earth Explorer&lt;/a&gt;&lt;/li&gt;
