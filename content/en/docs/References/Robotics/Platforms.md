@@ -20,6 +20,7 @@ description: News and information about robot platforms
 
 * [Superdroid mobile robots](https://www.superdroidrobots.com/shop/category.aspx/wheeled-robots/51/)
 * [Clearpath Robotics](https://www.clearpathrobotics.com/)
+  * [Ckearpath Robotics - Husky](https://www.clearpathrobotics.com/assets/guides/melodic/husky/index.html)
 * [Aion Robotics](https://www.aionrobotics.com/)
 * [Servosila](https://www.servosila.com/en/)
 * [Earth Explorer](http://www.sampson-jeff.com/eep/)
