@@ -11,6 +11,7 @@ description: Resources for NVIDIA robotics and the Isaac framework
 # CUDA
 
 * [How To Install CUDA 10 (together with 9.2) on Ubuntu 18.04 with support for NVIDIA 20XX Turing GPUs](https://www.pugetsystems.com/labs/hpc/How-To-Install-CUDA-10-together-with-9-2-on-Ubuntu-18-04-with-support-for-NVIDIA-20XX-Turing-GPUs-1236/)
+* [CUDA Education](https://cudaeducation.com/)
 
 # Jetson
 
