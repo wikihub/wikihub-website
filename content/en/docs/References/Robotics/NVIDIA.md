@@ -42,6 +42,9 @@ description: Resources for NVIDIA robotics and the Isaac framework
 # JetRacer
 * [JetRacer](https://github.com/NVIDIA-AI-IOT/jetracer)
 
+# RACeCARX
+* RACeCARX](https://github.com/MarkBroerkens/RACECARX)
+
 # Isaac
 
 * [Isaac SDK documentation](https://docs.nvidia.com/isaac/isaac/doc/index.html)
