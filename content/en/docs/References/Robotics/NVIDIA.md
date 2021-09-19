@@ -27,6 +27,12 @@ description: Resources for NVIDIA robotics and the Isaac framework
 * [Jetson Zoo](https://elinux.org/Jetson_Zoo)
 * [Jetson Nano / Xavier NX baseboard](https://github.com/antmicro/jetson-nano-baseboard)
 
+## Xavier NX
+* [Upgrading NVIDIA Jetson Xavier NX to Ubuntu 20.04](https://viking-drone.com/wiki/upgrading-nvidia-jetson-xavier-nx-to-ubuntu-20-04/)
+
+## Xavier AGX
+* [Upgrade NVIDIA Jetson Xavier AGX from Ubuntu Bionic Beaver to Focal Fossa](https://superuser.com/questions/268776/how-do-i-configure-ssh-so-it-doesnt-try-all-the-identity-files-automatically)
+
 # JetBot
 * [JetBot](https://github.com/NVIDIA-AI-IOT/jetbot/wiki)
 
