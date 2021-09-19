@@ -595,6 +595,8 @@
 &lt;/ul&gt;
 &lt;h2 id=&#34;xavier-agx&#34;&gt;Xavier AGX&lt;/h2&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/atinfinity/sdk_manager_docker&#34;&gt;SDK Manager in Docker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://forums.developer.nvidia.com/t/jetson-agx-xavier-flash-failure/73917&#34;&gt;&lt;code&gt;cd ~/nvidia/nvidia_sdk/JetPack_4.6_Linux_JETSON_AGX_XAVIER_TARGETS/Linux_for_Tegra; sudo ./flash.sh jetson-xavier mmcblk0p1&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://superuser.com/questions/268776/how-do-i-configure-ssh-so-it-doesnt-try-all-the-identity-files-automatically&#34;&gt;Upgrade NVIDIA Jetson Xavier AGX from Ubuntu Bionic Beaver to Focal Fossa&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;jetbot&#34;&gt;JetBot&lt;/h1&gt;
