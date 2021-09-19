@@ -35,6 +35,7 @@ description: Resources for NVIDIA robotics and the Isaac framework
 * [SDK Manager in Docker](https://github.com/atinfinity/sdk_manager_docker)
 * [`cd ~/nvidia/nvidia_sdk/JetPack_4.6_Linux_JETSON_AGX_XAVIER_TARGETS/Linux_for_Tegra; sudo ./flash.sh jetson-xavier mmcblk0p1`](https://forums.developer.nvidia.com/t/jetson-agx-xavier-flash-failure/73917)
 * [Upgrade NVIDIA Jetson Xavier AGX from Ubuntu Bionic Beaver to Focal Fossa](https://superuser.com/questions/268776/how-do-i-configure-ssh-so-it-doesnt-try-all-the-identity-files-automatically)
+* [forcecr](https://www.forecr.io/)
 
 # JetBot
 * [JetBot](https://github.com/NVIDIA-AI-IOT/jetbot/wiki)
