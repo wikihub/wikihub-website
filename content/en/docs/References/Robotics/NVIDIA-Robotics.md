@@ -17,5 +17,8 @@ description: Resources for NVIDIA robotics and the Isaac framework
 # RACECARX
 * RACeCARX](https://github.com/MarkBroerkens/RACECARX)
 
+# Python
+* [Miniforge](https://github.com/conda-forge/miniforge)
+
 # Robot Computers
 * [Intel® NUC Board NUC7i7DNBE](https://ark.intel.com/content/www/us/en/ark/products/130394/intel-nuc-board-nuc7i7dnbe.html)
