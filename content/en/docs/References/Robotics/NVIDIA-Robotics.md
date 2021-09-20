@@ -20,5 +20,9 @@ description: Resources for NVIDIA robotics and the Isaac framework
 # Python
 * [Miniforge](https://github.com/conda-forge/miniforge)
 
+# ROS
+* [Jetson Containers](https://github.com/dusty-nv/jetson-containers/)
+* [ROS2 Jetson](https://github.com/NVIDIA-AI-IOT/ros2_jetson)
+
 # Robot Computers
 * [Intel® NUC Board NUC7i7DNBE](https://ark.intel.com/content/www/us/en/ark/products/130394/intel-nuc-board-nuc7i7dnbe.html)
