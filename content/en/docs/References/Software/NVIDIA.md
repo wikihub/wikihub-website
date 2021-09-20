@@ -18,6 +18,8 @@ description: Resources for NVIDIA applications
 
 # Jetson
 
+* [Jetson Zoo](https://elinux.org/Jetson_Zoo)
+
 ## JetPack
 * [Jetson Repo](https://repo.download.nvidia.com/jetson/)
 * [Linux Tegra Archive](https://developer.nvidia.com/embedded/linux-tegra-archive)
