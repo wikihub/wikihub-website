@@ -1,0 +1,39 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WIKIHUB – Machine Learning</title>
+    <link>https://wikihub.github.io/docs/references/software/machinelearning/</link>
+    <description>Recent Hugo news from gohugo.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 22 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://wikihub.github.io/img/hugo.png</url>
+      <title>GoHugo.io</title>
+      <link>https://wikihub.github.io/docs/references/software/machinelearning/</link>
+    </image>
+    
+	  <atom:link href="https://wikihub.github.io/docs/references/software/machinelearning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: Machine Vision</title>
+      <link>https://wikihub.github.io/docs/references/software/machinelearning/machinevision/</link>
+      <pubDate>Sun, 19 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/software/machinelearning/machinevision/</guid>
+      <description>
+        
+        
+        &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://opendatacam.github.io/opendatacam/&#34;&gt;opendatacam&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

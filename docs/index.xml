@@ -1662,6 +1662,10 @@
 &lt;li&gt;&lt;a href=&#34;https://lnkd.in/gJHjc5X&#34;&gt;Ds-cheatsheets by Favio André Vázquez&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://lnkd.in/gfn6GxN&#34;&gt;DataScienceResources by jb&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
+&lt;h1 id=&#34;code&#34;&gt;Code&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://pythonrepo.com/&#34;&gt;PythonRepo&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
       </description>
     </item>
@@ -1684,278 +1688,16 @@
     </item>
     
     <item>
-      <title>Docs: Machine Learning</title>
-      <link>https://wikihub.github.io/docs/references/software/machinelearning/</link>
-      <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
+      <title>Docs: Machine Vision</title>
+      <link>https://wikihub.github.io/docs/references/software/machinelearning/machinevision/</link>
+      <pubDate>Sun, 19 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://wikihub.github.io/docs/references/software/machinelearning/</guid>
+      <guid>https://wikihub.github.io/docs/references/software/machinelearning/machinevision/</guid>
       <description>
         
         
-        &lt;h1 id=&#34;awesome-machine-learning&#34;&gt;Awesome Machine Learning&lt;/h1&gt;
-&lt;p&gt;A collection of awesome machine learning goodies&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://blog.oursky.com/2018/02/14/tensorflow-business-applications-ai-hong-kong/&#34;&gt;What can TensorFlow really do?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://montrealartificialintelligence.com/academy/#The-First-World-Class-Overview-of-AI-for-the-General-Public&#34;&gt;The First World Class Overview of AI for the General Public&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://wiki.fast.ai/index.php/Main_Page&#34;&gt;Fast.ai&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.deepideas.net/deep-learning-from-scratch-theory-and-implementation/&#34;&gt;Deep Learning From Scratch: Theory and Implementation&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463&#34;&gt;Cheat sheets for AI, neural networks, machine learning, deep learning and big data&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sgfin.github.io/learning-resources/&#34;&gt;Resources for learning statistics and machine learning&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/dformoso/machine-learning-mindmap&#34;&gt;Machine Learning Mind Map&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://deep-learning-drizzle.github.io/&#34;&gt;Deep Learning Drizzle&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://arxiv.org/abs/1710.09553&#34;&gt;Rethinking generalization requires revisiting old ideas: statistical mechanics approaches and complex learning behavior&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;podcast&#34;&gt;Podcast&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://behindthetech.libsynpro.com/003-andrew-ng-influential-leader-in-artificial-intelligence&#34;&gt;Andrew Ng: Influential leader in artificial intelligence&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.integrate.ai/podcast/&#34;&gt;Integrate.ai&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;elearning&#34;&gt;eLearning&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/playlist?list=PLAwxTw4SYaPkQXg8TkVdIvYv4HfLG7SiH&#34;&gt;Introduction to Machine Learning&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=qeHZOdmJvFU&amp;amp;list=PLZ9qNFMHZ-A4rycgrgOYma6zxF4BZGGPW&#34;&gt;Coursera: Machine Learning by Andrew Ng&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599&#34;&gt;Stanford CS229: Machine Learning by Andrew Ng&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://cs231n.stanford.edu/&#34;&gt;CS231n: Convolutional Neural Networks for Visual Recognition&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://medium.com/analytics-vidhya/python-implementation-of-andrew-ngs-machine-learning-course-part-2-1-1a666f049ad6&#34;&gt;Python Implementation of Andrew Ng’s Machine Learning Course&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://colah.github.io/&#34;&gt;Colah&amp;rsquo;s Blog&lt;/a&gt;: Christopher Olah writes about machine learning&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://pythonprogramming.net/introduction-deep-learning-python-tensorflow-keras/&#34;&gt;Introduction to Deep Learning - Deep Learning basics with Python, TensorFlow and Keras&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://pythonprogramming.net/machine-learning-tutorials/&#34;&gt;Machine Learning Tutorials&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/channel/UC5zx8Owijmv-bbhAK6Z9apg&#34;&gt;Artificial Intelligence - All in One&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://ai.google/education/&#34;&gt;Google AI Education&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.diveintodeeplearning.org/&#34;&gt;Dive into Deep Learning&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;books&#34;&gt;Books&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://shop.oreilly.com/product/0636920052289.do&#34;&gt;Hands-On Machine Learning with Scikit-Learn and TensorFlow&lt;/a&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/ageron/handson-ml&#34;&gt;A series of Jupyter notebooks&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.deeplearningbook.org/&#34;&gt;Deep Learning&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;platforms&#34;&gt;Platforms&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://deepcognition.ai/features/deep-learning-studio/&#34;&gt;Deep Learning Studio&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://cloud.google.com/ai-hub/&#34;&gt;Google Cloud AI Hub&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;applications&#34;&gt;Applications&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/NirantK/awesome-project-ideas&#34;&gt;Project ideas&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;autonomous-driving&#34;&gt;Autonomous driving&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/phamngoclinh96/SemanticSegmentationModel&#34;&gt;Semantic segmentation&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;natural-language-processinghttpswikihubgithubiodocsreferencessoftwarenlp&#34;&gt;&lt;a href=&#34;https://wikihub.github.io/docs/references/software/nlp/&#34;&gt;Natural Language Processing&lt;/a&gt;&lt;/h2&gt;
-&lt;h1 id=&#34;tools&#34;&gt;Tools&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.opendeep.org&#34;&gt;OpenDeep&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/szilard/survey-ml-tools&#34;&gt;Small survey on ML tools&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;tensorflowhttpswwwtensorfloworg&#34;&gt;&lt;a href=&#34;https://www.tensorflow.org/&#34;&gt;TensorFlow&lt;/a&gt;&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/Hvass-Labs/TensorFlow-Tutorials&#34;&gt;TensorFlow Tutorials&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/jtoy/awesome-tensorflow&#34;&gt;Awesome TensorFlow&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.tensorflow.org/hub/&#34;&gt;TensorFlow Hub&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.tensorflow.org/tfx/&#34;&gt;TFX&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib&#34;&gt;TensorFlow User Contributions&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://playground.tensorflow.org/&#34;&gt;TensorFlow Playground&lt;/a&gt;: Tinker With a Neural Network Right Here in Your Browser.
-Don’t Worry, You Can’t Break It. We Promise.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.kdnuggets.com/2018/02/google-colab-free-gpu-tutorial-tensorflow-keras-pytorch.html&#34;&gt;Deep Learning Development with Google Colab, TensorFlow, Keras &amp;amp; PyTorch&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://cloud.google.com/ml-engine/docs/tensorflow/flowers-tutorial&#34;&gt;Image Classification using Flowers dataset&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.weave.works/blog/troubleshooting-a-tensorflow-predictive-model-microservice-with-weave-cloud&#34;&gt;Troubleshooting a TensorFlow Predictive Model Microservice with Weave Cloud&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;kerashttpskerasio&#34;&gt;&lt;a href=&#34;https://keras.io/&#34;&gt;Keras&lt;/a&gt;&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/soumendra/awesome-keras&#34;&gt;Awesome Keras&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/fchollet/keras-resources&#34;&gt;Keras Resources&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;google-colabhttpscolabresearchgooglecom&#34;&gt;&lt;a href=&#34;https://colab.research.google.com/&#34;&gt;Google Colab&lt;/a&gt;&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.dlology.com/blog/how-to-run-object-detection-and-segmentation-on-video-fast-for-free/&#34;&gt;How to run object detection and segmentation on video fast for free&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.dlology.com/blog/quick-guide-to-run-tensorboard-in-google-colab/&#34;&gt;Quick guide to run TensorBoard in Google Colab&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;jupyter&#34;&gt;Jupyter&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/GoogleCloudPlatform/gke-jupyter-classroom&#34;&gt;JupyterHub in Classrooms&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://datadrivendesign.wordpress.com/2017/10/16/dockerized-jupyterhub-deep-learning-notebooks-with-gpu-access-tensorflow-1-3-cudnn-6-0-cuda-8-0/&#34;&gt;Dockerized Jupyterhub Deep Learning Notebooks with GPU Access&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/jupyterhub/nbgitpuller&#34;&gt;Jupyter ServerExtension to sync a git repository one-way to a local path&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://data.berkeley.edu/education/jupyterhub-ecosystem&#34;&gt;JupyterHub Ecosystem&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;xgboosthttpsxgboostai&#34;&gt;&lt;a href=&#34;https://xgboost.ai/&#34;&gt;XGBoost&lt;/a&gt;&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.analyticsvidhya.com/blog/2018/09/an-end-to-end-guide-to-understand-the-math-behind-xgboost/&#34;&gt;An End-to-End Guide to Understand the Math behind XGBoost&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;scalahttpswwwscala-langorg&#34;&gt;&lt;a href=&#34;https://www.scala-lang.org/&#34;&gt;Scala&lt;/a&gt;&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://medium.com/activewizards-machine-learning-company/top-15-scala-libraries-for-data-science-in-2018-4b2cb5c5367e&#34;&gt;Top 15 Scala Libraries for Data Science in 2018&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=v8IQ-X2HkGE&#34;&gt;Keynote: The Last Hope for Scala&amp;rsquo;s Infinity War - John A. De Goes&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://docs.google.com/document/d/1yz9xtABfyRei2wTj--HMeV9DUOgx_BMw6kLgIBjgDME/edit&#34;&gt;Sean Glover&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;apache-spark-mllibhttpssparkapacheorgmllib&#34;&gt;&lt;a href=&#34;https://spark.apache.org/mllib/&#34;&gt;Apache Spark MLlib&lt;/a&gt;&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://academy.databricks.com/&#34;&gt;Databricks courses&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/scottcode/pyspark-uploader&#34;&gt;PySpark Uploader&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://console.bluemix.net/docs/services/AnalyticsforApacheSpark&#34;&gt;Analytics for Apache Spark&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://medium.com/ibm-watson-data-lab/real-time-sentiment-analysis-of-twitter-hashtags-with-spark-7ee6ca5c1585&#34;&gt;Real time sentiment analysis of twitter hashtags with Spark&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=h-B0VCkoRkE&#34;&gt;Productionizing Spark ML pipelines with the portable format for analytics&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://codait.github.io/spark-bench/&#34;&gt;Spark Bench&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://medium.com/ibm-watson-data-lab/real-time-sentiment-analysis-of-twitter-hashtags-with-spark-7ee6ca5c1585&#34;&gt;Sentiment Analysis of Twitter Hashtags With Spark&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://towardsdatascience.com/building-a-linear-regression-with-pyspark-and-mllib-d065c3ba246a&#34;&gt;Building A Linear Regression with PySpark and MLlib&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/GoogleCloudPlatform/cloud-dataproc/tree/master/spark-tensorflow&#34;&gt;Spark TensorFlow Example&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/tensorflow/ecosystem/tree/master/spark/spark-tensorflow-connector&#34;&gt;spark-tensorflow-connector&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://towardsdatascience.com/python-pandas-vs-scala-how-to-handle-dataframes-part-ii-d3e5efe8287d&#34;&gt;Pandas vs Spark&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://blog.sicara.com/get-started-pyspark-jupyter-guide-tutorial-ae2fe84f594f&#34;&gt;Get Started with PySpark and Jupyter Notebook in 3 Minutes&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://codelabs.developers.google.com/codelabs/cpb102-dataproc-with-gcp&#34;&gt;Dataproc cluster with Datalab and the Google Python Client API&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://s3.amazonaws.com/assets.datacamp.com/blog_assets/PySpark_Cheat_Sheet_Python.pdf&#34;&gt;Spark Cheat Sheet&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;databrickshttpsdatabrickscom&#34;&gt;&lt;a href=&#34;https://databricks.com/&#34;&gt;Databricks&lt;/a&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=WaxMj5_SLUI&#34;&gt;Introduction to Databricks&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=gg-lEJ4sBaA&#34;&gt;Databricks Delta: A Unified Management System for Real-time Big Data&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=wQfm4P23Hew&#34;&gt;Real-Time Data Pipelines Made Easy with Structured Streaming in Apache Spark&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://community.cloud.databricks.com&#34;&gt;Databricks Community&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;java&#34;&gt;Java&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://search.maven.org&#34;&gt;Search Maven packages&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/elgalu/jupyter-spark-117&#34;&gt;Jupyter Spark 117 - jar files&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;mleap&#34;&gt;MLeap&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://mleap-docs.combust.ml/&#34;&gt;MLeap documentation&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/combust/mleap/tree/master/mleap-benchmark&#34;&gt;MLeap Benchmark&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/combust/mleap-demo&#34;&gt;MLeap demo&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.slideshare.net/Hadoop_Summit/mleap-deploy-spark-ml-pipelines-to-production-api-servers&#34;&gt;MLeap deploy Spark ML pipelines to production API servers&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;courses&#34;&gt;Courses&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/learning/extending-hadoop-for-data-science-streaming-spark-storm-and-kafka/advanced-spark-streaming-with-mleap&#34;&gt;Advanced Spark streaming with MLeap&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;kuberneteshttpskubernetesio&#34;&gt;&lt;a href=&#34;https://kubernetes.io/&#34;&gt;Kubernetes&lt;/a&gt;&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://cloud.google.com/kubernetes-engine/kubernetes-comic/&#34;&gt;Start from here!&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.kubeflow.org/&#34;&gt;Kubeflow&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://codelabs.developers.google.com/codelabs/kubeflow-introduction/#0&#34;&gt;Introduction to Kubeflow on Google Kubernetes Engine&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://cloud.google.com/kubernetes-engine/docs/tutorials/hello-app&#34;&gt;Deploying a containerized web application&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://danielfrg.com/blog/2018/10/model-management-polyaxon-argo-seldon/&#34;&gt;Polyaxon, Argo and Seldon for model training, package and deployment in Kubernetes&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.cncf.io/&#34;&gt;Cloud Native Computing Foundation&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://jujucharms.com/u/cmars/k8s-tf-demo/&#34;&gt;Juju k8s-tf-demo&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://ksonnet.io/&#34;&gt;ksonnet&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=swiPWUxBvSc&#34;&gt;Continuously Train &amp;amp; Deploy Spark ML and Tensorflow AI Models from Jupyter Notebook to Production&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://aws.amazon.com/blogs/opensource/kubeflow-amazon-eks/&#34;&gt;Kubeflow on EKS&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/Azure/kubeflow-labs&#34;&gt;Kubeflow labs on Azure&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://deploy.kubeflow.cloud&#34;&gt;Deploy Kubeflow on GCP&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/gojektech/feast&#34;&gt;Feast&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;ffdlhttpsgithubcomibmffdl&#34;&gt;&lt;a href=&#34;https://github.com/IBM/FfDL&#34;&gt;FfDL&lt;/a&gt;&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://developer.ibm.com/patterns/deploy-and-use-a-multi-framework-deep-learning-platform-on-kubernetes/&#34;&gt;Deploy and use a multi-framework deep learning platform on Kubernetes&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://developer.ibm.com/code/2018/06/12/serve-it-hot-deploy-your-ffdl-trained-models-using-seldon/&#34;&gt;Serve it hot! Deploy your FfDL trained models using Seldon&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/CODAIT&#34;&gt;IBM CODAIT - Center for Open-source Data &amp;amp; AI Technologies&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;jupyter-1&#34;&gt;Jupyter&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://z2jh.jupyter.org/en/stable/&#34;&gt;Zero to JupyterHub with Kubernetes&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;cloud-foundry&#34;&gt;Cloud Foundry&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://datascienceoncloudfoundry.com/&#34;&gt;Data Science on Cloud Foundry&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://content.pivotal.io/blog/data-science-how-to-text-analytics-as-a-service&#34;&gt;Data Science How-To: Text Analytics-as-a-Service&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.cloudfoundry.org/the-foundry/car-diagnostic-api/&#34;&gt;Car diagnostic API&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.cloudfoundry.org/the-foundry/portfolio-optimization/&#34;&gt;Portfolio Optimization&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://content.pivotal.io/blog/operationalizing-pyspark-data-science-models-on-pivotal-cloud-foundry&#34;&gt;Operationalizing PySpark Data Science Models on Pivotal Cloud Foundry&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/datitran/PySpark-App-CF/blob/master/linear_regression.ipynb&#34;&gt;Linear Regression&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/datitran/PySpark-App-CF&#34;&gt;PySpark App CF&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/andreasf/pyspark-buildpack&#34;&gt;PySpark buildpack&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/cloudfoundry/python-buildpack&#34;&gt;Python buildpack&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;daskhttpsdaskorg&#34;&gt;&lt;a href=&#34;https://dask.org/&#34;&gt;Dask&lt;/a&gt;&lt;/h2&gt;
-&lt;h2 id=&#34;graphistryhttpswwwgraphistrycom&#34;&gt;&lt;a href=&#34;https://www.graphistry.com/&#34;&gt;Graphistry&lt;/a&gt;&lt;/h2&gt;
-&lt;h1 id=&#34;machine-learning-algorithms&#34;&gt;Machine Learning Algorithms&lt;/h1&gt;
-&lt;h2 id=&#34;recursive-neural-networks&#34;&gt;Recursive Neural Networks&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/&#34;&gt;Time Series Prediction with LSTM Recurrent Neural Networks in Python with Keras&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://medium.com/google-cloud/how-to-do-time-series-prediction-using-rnns-and-tensorflow-and-cloud-ml-engine-2ad2eeb189e8&#34;&gt;How to do time series prediction using RNNs, TensorFlow and Cloud ML Engine&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;reinforcement-learning&#34;&gt;Reinforcement Learning&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/google/dopamine&#34;&gt;Dopamine&lt;/a&gt;: a research framework for fast prototyping of reinforcement learning algorithms&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/rll/rllab&#34;&gt;RL Lab&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://web.mit.edu/dimitrib/www/RLbook.html&#34;&gt;Reinforcement Learning and Optimal Control&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;automl&#34;&gt;AutoML&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/hibayesian/awesome-automl-papers&#34;&gt;Awesome AutoML&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.kdnuggets.com/2016/08/winning-automl-challenge-auto-sklearn.html&#34;&gt;Auto-sklearn&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;machine-learning-in-production&#34;&gt;Machine Learning in Production&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=-eZkegBnyMU&#34;&gt;Databricks Delta: A Unified Management System for Real-time Big Data&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://databricks.com/glossary/what-is-databricks-runtime&#34;&gt;Databricks runtime&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://azure.microsoft.com/en-ca/services/databricks/&#34;&gt;Azure Databricks&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://databricks.com/session/mleap-productionize-data-science-workflows-using-spark&#34;&gt;MLeap: Productionize Data Science Workflows Using Spark&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/combust&#34;&gt;Combust&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://rapids.ai/&#34;&gt;Rapids.ai&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.h2o.ai/&#34;&gt;H2O&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://algorithmia.com/&#34;&gt;Algorithmia&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.seldon.io/&#34;&gt;Seldon&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.anaconda.com/enterprise/&#34;&gt;Anaconda Enterprise&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://aws.amazon.com/sagemaker/&#34;&gt;Amazon SageMaker&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://azure.microsoft.com/en-ca/overview/machine-learning/&#34;&gt;Azure Machine Learning&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.ibm.com/cloud/machine-learning&#34;&gt;IBM Watson Machine Learning&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://pytorch.org/blog/the-road-to-1_0/&#34;&gt;The road to 1.0: production ready PyTorch&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://chainer.org/&#34;&gt;Chainer&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://mapr.com/products/analytics-ml/&#34;&gt;MapR Analytics and ML&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.omni.sc/&#34;&gt;Omniscience&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://ursalabs.org/&#34;&gt;URSA LABS&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.altexsoft.com/blog/datascience/comparing-machine-learning-as-a-service-amazon-microsoft-azure-google-cloud-ai-ibm-watson/&#34;&gt;Comparing Machine Learning as a Service: Amazon, Microsoft Azure, Google Cloud AI, IBM Watson&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;edge-computing&#34;&gt;Edge Computing&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://sylabs.io/&#34;&gt;Sylabs (Singularity)&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;tensorflow&#34;&gt;TensorFlow&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://stevenwhang.com/tfx_paper.pdf&#34;&gt;TFX: A TensorFlow-Based Production-Scale Machine Learning Platform&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;benchmarks&#34;&gt;Benchmarks&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/szilard/benchm-ml&#34;&gt;Simple/limited/incomplete benchmark for scalability, speed and accuracy of machine learning libraries for classification&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;model-exchange&#34;&gt;Model exchange&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://dmg.org/pmml/v4-3/GeneralStructure.html&#34;&gt;PMML&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://dmg.org/pfa/index.html&#34;&gt;PFA&lt;/a&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.kdnuggets.com/2016/01/portable-format-analytics-models-production.html&#34;&gt;Portable Format for Analytics: moving models to production&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/CODAIT/aardpfark&#34;&gt;Aardpfark&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://onnx.ai/&#34;&gt;ONNX&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/documentation/coreml&#34;&gt;CoreML&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;platforms-1&#34;&gt;Platforms&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.floydhub.com/&#34;&gt;FloydHub&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;datasets&#34;&gt;Datasets&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://cloud.google.com/bigquery/public-data/&#34;&gt;Google BigQuery Public Datasets&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.reddit.com/r/bigquery/wiki/datasets&#34;&gt;Datasets publicly available on Google BigQuery&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/awesomedata/awesome-public-datasets&#34;&gt;Awesome Public Datasets&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://catalog.data.gov/dataset/fleet-maintenance&#34;&gt;Fleet maintenance&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://cloud.google.com/genomics/docs/public-datasets/&#34;&gt;Google Genomics Public Dataset&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://cloud.google.com/bigquery/sample-tables&#34;&gt;Google Sample Datasets&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://archive.ics.uci.edu/ml/index.php&#34;&gt;UC Irvine Machine Learning Repository&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;research&#34;&gt;Research&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://bair.berkeley.edu/&#34;&gt;BAIR&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;companies&#34;&gt;Companies&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.dka.global/ai-in-uk-report&#34;&gt;AI in UK Report 2018&lt;/a&gt;&lt;/li&gt;
+        &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://opendatacam.github.io/opendatacam/&#34;&gt;opendatacam&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
@@ -2324,11 +2066,11 @@ Don’t Worry, You Can’t Break It. We Promise.&lt;/li&gt;
     </item>
     
     <item>
-      <title>Docs: NVIDIA Robotics</title>
-      <link>https://wikihub.github.io/docs/references/robotics/nvidia/</link>
+      <title>Docs: NVIDIA</title>
+      <link>https://wikihub.github.io/docs/references/software/nvidia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://wikihub.github.io/docs/references/robotics/nvidia/</guid>
+      <guid>https://wikihub.github.io/docs/references/software/nvidia/</guid>
       <description>
         
         
@@ -2336,14 +2078,24 @@ Don’t Worry, You Can’t Break It. We Promise.&lt;/li&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/NVIDIA-AI-IOT&#34;&gt;NVIDIA AI IoT&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h1 id=&#34;iot&#34;&gt;IoT&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://mender.io/&#34;&gt;Mender&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h1 id=&#34;cuda&#34;&gt;CUDA&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.pugetsystems.com/labs/hpc/How-To-Install-CUDA-10-together-with-9-2-on-Ubuntu-18-04-with-support-for-NVIDIA-20XX-Turing-GPUs-1236/&#34;&gt;How To Install CUDA 10 (together with 9.2) on Ubuntu 18.04 with support for NVIDIA 20XX Turing GPUs&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://cudaeducation.com/&#34;&gt;CUDA Education&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;jetson&#34;&gt;Jetson&lt;/h1&gt;
-&lt;h2 id=&#34;jet-pack&#34;&gt;Jet Pack&lt;/h2&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://elinux.org/Jetson_Zoo&#34;&gt;Jetson Zoo&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;jetpack&#34;&gt;JetPack&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://repo.download.nvidia.com/jetson/&#34;&gt;Jetson Repo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.nvidia.com/embedded/linux-tegra-archive&#34;&gt;Linux Tegra Archive&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.nvidia.com/jetson/archives/l4t-archived/l4t-3261/index.html#page/Tegra%20Linux%20Driver%20Package%20Development%20Guide/updating_jetson_and_host.html#wwpID0E0XI0HA&#34;&gt;Updating Jetson Linux with Image-Based Over-the-Air Update - JetPack 4.6&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://docs.nvidia.com/jetson/l4t/index.html#page/Tegra%20Linux%20Driver%20Package%20Development%20Guide/updating_jetson_and_host.html#wwpID0E0PB0HA&#34;&gt;Upgrade to a new minor release&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;nano&#34;&gt;Nano&lt;/h2&gt;
@@ -2367,18 +2119,6 @@ Don’t Worry, You Can’t Break It. We Promise.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://superuser.com/questions/268776/how-do-i-configure-ssh-so-it-doesnt-try-all-the-identity-files-automatically&#34;&gt;Upgrade NVIDIA Jetson Xavier AGX from Ubuntu Bionic Beaver to Focal Fossa&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.forecr.io/&#34;&gt;forcecr&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id=&#34;jetbot&#34;&gt;JetBot&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/NVIDIA-AI-IOT/jetbot/wiki&#34;&gt;JetBot&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;jetracer&#34;&gt;JetRacer&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/NVIDIA-AI-IOT/jetracer&#34;&gt;JetRacer&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;racecarx&#34;&gt;RACeCARX&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;RACeCARX](&lt;a href=&#34;https://github.com/MarkBroerkens/RACECARX&#34;&gt;https://github.com/MarkBroerkens/RACECARX&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
 &lt;h1 id=&#34;isaac&#34;&gt;Isaac&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://docs.nvidia.com/isaac/isaac/doc/index.html&#34;&gt;Isaac SDK documentation&lt;/a&gt;&lt;/li&gt;
@@ -2396,6 +2136,43 @@ Don’t Worry, You Can’t Break It. We Promise.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://industrialpc.com/product-category/embedded/gpu-computers/&#34;&gt;Industrial PC&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.onlogic.com/hx600/&#34;&gt;OnLogic&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.neousys-tech.com/en/discover/gpu-embedded-computing&#34;&gt;Neousys GPU Computing Systems&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;robot-computers&#34;&gt;Robot Computers&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://ark.intel.com/content/www/us/en/ark/products/130394/intel-nuc-board-nuc7i7dnbe.html&#34;&gt;Intel® NUC Board NUC7i7DNBE&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: NVIDIA Robotics</title>
+      <link>https://wikihub.github.io/docs/references/robotics/nvidia-robotics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/robotics/nvidia-robotics/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;ros&#34;&gt;ROS&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/NVIDIA-AI-IOT/ros2_jetson&#34;&gt;ros2_jetson&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;jetbot&#34;&gt;JetBot&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/NVIDIA-AI-IOT/jetbot/wiki&#34;&gt;JetBot&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;jetracer&#34;&gt;JetRacer&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/NVIDIA-AI-IOT/jetracer&#34;&gt;JetRacer&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;racecarx&#34;&gt;RACECARX&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;RACeCARX](&lt;a href=&#34;https://github.com/MarkBroerkens/RACECARX&#34;&gt;https://github.com/MarkBroerkens/RACECARX&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;python&#34;&gt;Python&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/conda-forge/miniforge&#34;&gt;Miniforge&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;robot-computers&#34;&gt;Robot Computers&lt;/h1&gt;
 &lt;ul&gt;
@@ -2713,28 +2490,6 @@ Don’t Worry, You Can’t Break It. We Promise.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.thomaswhelan.ie/#publications&#34;&gt;Thomas Whelan&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.thomaswhelan.ie/Handa14icra.pdf&#34;&gt;A Benchmark for RGB-D Visual Odometry, 3D Reconstruction and SLAM&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://youtu.be/xlDbuw6skag&#34;&gt;ICRA21 Workshop on Visual-Inertial Navigation Systems&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Docs: SLAM</title>
-      <link>https://wikihub.github.io/docs/references/robotics/slam/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://wikihub.github.io/docs/references/robotics/slam/</guid>
-      <description>
-        
-        
-        &lt;h1 id=&#34;slam-devices&#34;&gt;SLAM devices&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://geoslam.com/&#34;&gt;GeoSLAM&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.slamtec.com/en/Lidar/Mapper&#34;&gt;SLAMTEC Mapper&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;courses&#34;&gt;Courses&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=U6vr3iNrwRA&amp;amp;list=PLgnQpQtFTOGQrZ4O5QzbIHgl3b1JHimN_&#34;&gt;SLAM course (2013/14; Cyrill Stachniss)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
