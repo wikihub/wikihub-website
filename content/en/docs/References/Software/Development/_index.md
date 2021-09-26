@@ -61,6 +61,7 @@ description: News and information about software development and necessary tools
 ## Submodules
 
 *   [Git submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules)
+*   Sync submodules: `git submodule sync --recursive`
 *   Update submodules: `git submodule update --init --recursive`
 
 ## Visual Studio Code
