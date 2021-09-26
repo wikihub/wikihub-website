@@ -1082,6 +1082,7 @@ Don’t Worry, You Can’t Break It. We Promise.&lt;/li&gt;
 &lt;h2 id=&#34;submodules&#34;&gt;Submodules&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://git-scm.com/book/en/v2/Git-Tools-Submodules&#34;&gt;Git submodules&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Sync submodules: &lt;code&gt;git submodule sync --recursive&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;Update submodules: &lt;code&gt;git submodule update --init --recursive&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;visual-studio-code&#34;&gt;Visual Studio Code&lt;/h2&gt;
