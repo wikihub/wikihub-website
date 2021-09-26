@@ -11,4 +11,4 @@ description: News and information about learning ROS 2
 * [Implementing Robotics Applications with ROS 2 and AI on the NVIDIA Jetson Platform](https://developer.nvidia.com/blog/implementing-robotics-applications-with-ros-2-and-ai-on-jetson-platform-2/)
 
 # Development
-* [devrt/ros-devcontainer-vscode](git clone https://github.com/devrt/ros-devcontainer-vscode.git)
+* [devrt/ros-devcontainer-vscode](https://github.com/devrt/ros-devcontainer-vscode.git)
