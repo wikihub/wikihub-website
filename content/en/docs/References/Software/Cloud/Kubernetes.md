@@ -23,6 +23,7 @@ description: News and information about Kubernetes
 
 ## Hosted kubernetes
 * [Platform - Certified Kubernetes - Hosted](https://landscape.cncf.io/card-mode?category=certified-kubernetes-hosted&grouping=category)
+* [Civo](https://www.civo.com/)
 
 # Learning
 
