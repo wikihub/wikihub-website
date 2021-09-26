@@ -20,7 +20,7 @@ description: News and information about software development and necessary tools
 *   [Gloomaps](https://www.gloomaps.com/)
 
 # IDE
-
+* [Theia IDE](https://theia-ide.org/)
 * [Eclipse Theia](https://github.com/eclipse-theia/theia)
 
 # Diagrams and charts
