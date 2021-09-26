@@ -20,6 +20,7 @@ description: News and information about software development and necessary tools
 *   [Gloomaps](https://www.gloomaps.com/)
 
 # IDE
+* [Eclipse Codewind](https://www.eclipse.org/codewind/)
 * [Eclipse Che: The Kubernetes-Native IDE for Developer Teams](http://www.eclipse.org/che/)
 * [Theia IDE](https://theia-ide.org/)
 * [Eclipse Theia](https://github.com/eclipse-theia/theia)
