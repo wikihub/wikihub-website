@@ -19,6 +19,10 @@ description: News and information about software development and necessary tools
 *   [Miro](https://miro.com/)
 *   [Gloomaps](https://www.gloomaps.com/)
 
+# IDE
+
+* [Eclipse Theia](https://github.com/eclipse-theia/theia)
+
 # Diagrams and charts
 
 *   [Gantt chart using Mermaid](https://mermaid-js.github.io/mermaid/#/)
