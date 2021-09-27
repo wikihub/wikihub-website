@@ -8,6 +8,11 @@ description: Resources on embedded systems and single board computers
 * [Awesome embedded](https://github.com/nhivp/Awesome-Embedded)
 * [Embedded computing news](https://www.embedded-computing.com/)
 
+# IDE
+
+* [Platform.io](https://platform.io/)
+* [XOD](https://xod.io/)
+
 # Single Board Microcontrollers
 * [Mbed platforms](https://os.mbed.com/platforms/)
 * [PlatformIO boards](https://platformio.org/boards)
