@@ -651,6 +651,7 @@ Don’t Worry, You Can’t Break It. We Promise.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;continuous-integration&#34;&gt;Continuous Integration&lt;/h1&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.jenkins.io/&#34;&gt;Jenkins&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://circleci.com&#34;&gt;Circle CI&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://drone.io/&#34;&gt;Drone.io&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;GitHub Actions
