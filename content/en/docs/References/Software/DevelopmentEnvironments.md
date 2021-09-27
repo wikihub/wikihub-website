@@ -19,7 +19,7 @@ description: Resources about development environments
 *   [GitPod](https://www.gitpod.io/)
 
 # Continuous Integration
-
+*   [Jenkins](https://www.jenkins.io/)
 *   [Circle CI](http://circleci.com)
 *   [Drone.io](https://drone.io/)
 *   GitHub Actions
