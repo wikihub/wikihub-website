@@ -2,7 +2,7 @@
 title: "Skills"
 linkTitle: "Skills"
 weight: 20
-description: Resources on skils
+description: Resources on skills
 ---
 
 # Presentation
