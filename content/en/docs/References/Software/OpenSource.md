@@ -8,6 +8,7 @@ description: Resources about open source software
 ---
 
 * [Open Source at Google](https://opensource.google/)
+* [GitHub Open Source Guides](https://opensource.guide/)
 
 # Open Source Education
 * [The Open Source Initiative (OSI)](https://opensource.org/osi-open-source-education)
