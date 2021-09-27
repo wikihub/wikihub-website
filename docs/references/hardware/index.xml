@@ -225,6 +225,11 @@
 &lt;li&gt;&lt;a href=&#34;https://github.com/nhivp/Awesome-Embedded&#34;&gt;Awesome embedded&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.embedded-computing.com/&#34;&gt;Embedded computing news&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h1 id=&#34;ide&#34;&gt;IDE&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://platform.io/&#34;&gt;Platform.io&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://xod.io/&#34;&gt;XOD&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h1 id=&#34;single-board-microcontrollers&#34;&gt;Single Board Microcontrollers&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://os.mbed.com/platforms/&#34;&gt;Mbed platforms&lt;/a&gt;&lt;/li&gt;
