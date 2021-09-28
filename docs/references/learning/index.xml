@@ -153,7 +153,11 @@
       <description>
         
         
-        &lt;h1 id=&#34;interactive-slides&#34;&gt;Interactive Slides&lt;/h1&gt;
+        &lt;h1 id=&#34;markdown&#34;&gt;Markdown&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/eddelbuettel/binb&#34;&gt;binb&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;interactive-slides&#34;&gt;Interactive Slides&lt;/h1&gt;
 &lt;h1 id=&#34;recorded-presentations&#34;&gt;Recorded Presentations&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://slideslive.com/&#34;&gt;Slides Live&lt;/a&gt;&lt;/li&gt;
