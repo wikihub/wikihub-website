@@ -7,6 +7,9 @@ description: Resources for learning with slides
 
 ---
 
+# Markdown
+*   [binb](https://github.com/eddelbuettel/binb)
+
 # Interactive Slides
 
 # Recorded Presentations
