@@ -192,3 +192,8 @@ Make a server and add an A record for auth.mechatronics3d.com and put the IP add
 - Anonymous votes: [http://adoodle.org](http://adoodle.org)
 - Surveys: [http://limesurvey.org](http://limesurvey.org)
 - Whiteboard?
+
+# Microlearning
+* [Anki](https://apps.ankiweb.net/)
+* [Computer science flash cards](https://github.com/jwasham/computer-science-flash-cards)
+* [Flash cards](https://github.com/ashwanikumar04/flash-cards)
