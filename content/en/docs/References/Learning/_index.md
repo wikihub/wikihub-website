@@ -8,10 +8,10 @@ description: Resources for learning
 ---
 
 * [Top tools for learning](https://www.toptools4learning.com/)
-*   [Digital Promise](https://digitalpromise.org/initiative/instructional-coaching/instructional-coaching-playbook/about-this-playbook/)
+* [Digital Promise](https://digitalpromise.org/initiative/instructional-coaching/instructional-coaching-playbook/about-this-playbook/)
 
 # eLearning
-
+*   [ITCR_Documentation_and_Usability](https://jhudatascience.org/ITCR_Documentation_and_Usability/index.html)
 *   [Computing Education Research Blog](https://computinged.wordpress.com/)
 *   [Walking Randomly](http://www.walkingrandomly.com/)
 
