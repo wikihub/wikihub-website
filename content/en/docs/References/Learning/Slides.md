@@ -9,6 +9,7 @@ description: Resources for learning with slides
 
 # Markdown
 *   [binb](https://github.com/eddelbuettel/binb)
+*   [HK-journalist](https://github.com/li-xin-yi/HK-journalist)
 
 # Interactive Slides
 
