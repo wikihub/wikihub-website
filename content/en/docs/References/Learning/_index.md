@@ -31,9 +31,6 @@ description: Resources for learning
 
 * [OK](https://github.com/okpy/ok)
 
-# Screen recorders
-* [Best Linux screen recorders](https://itsfoss.com/best-linux-screen-recorders/)
-
 # Code Tutorials
 
 * [Cocalc comparison](https://cocalc.com/doc/compare.html)
