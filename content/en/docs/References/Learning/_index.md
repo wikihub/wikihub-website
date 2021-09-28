@@ -67,7 +67,7 @@ description: Resources for learning
 *   [Learning Tools Interoperability](https://en.wikipedia.org/wiki/Learning_Tools_Interoperability)
 
 # Authoring Tools
-
+* [DaSL course template bookdown](https://github.com/jhudsl/DaSL_Course_Template_Bookdown)
 * [Jupyter4edu](https://jupyter4edu.github.io/jupyter-edu-book/)
 * [Authorea](https://www.authorea.com)
 * [Scalar](https://scalar.me/anvc/features/overview/)
