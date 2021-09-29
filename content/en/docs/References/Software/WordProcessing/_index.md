@@ -65,6 +65,7 @@ description: News and information about word processing tools
 * [Dexy](http://www.dexy.it/docs/what-is-dexy.html)
 * [Pandoc filters](https://github.com/jgm/pandocfilters)
 * [panwriter](https://panwriter.com/)
+* [patat](https://github.com/jaspervdj/patat)
 
 # Reference Management
 
