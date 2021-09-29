@@ -64,6 +64,7 @@ description: News and information about word processing tools
 * [Pandoc](http://johnmacfarlane.net/pandoc/)
 * [Dexy](http://www.dexy.it/docs/what-is-dexy.html)
 * [Pandoc filters](https://github.com/jgm/pandocfilters)
+* [panwriter](https://panwriter.com/)
 
 # Reference Management
 
