@@ -38,6 +38,7 @@ description: News and information about word processing tools
 
 # Tools
 
+* [The doc tools](https://www.thedoctools.com/word-macros-tips/word-macros/create-style-name-list/)
 * Word Processing
     * [DocOnce](https://github.com/hplgit/doconce)
     * [Docutils](http://docutils.sourceforge.net/)
