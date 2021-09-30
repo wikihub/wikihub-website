@@ -46,6 +46,7 @@
         
         &lt;h1 id=&#34;speech-synthesis&#34;&gt;Speech Synthesis&lt;/h1&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.nvidia.com/deeplearning/nemo/user-guide/docs/en/stable/tts/intro.html&#34;&gt;NVIDIA Nemo&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.resemble.ai/&#34;&gt;Resemble.ai&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;text-to-speech&#34;&gt;Text to Speech&lt;/h1&gt;
