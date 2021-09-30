@@ -104,6 +104,10 @@
 &lt;li&gt;&lt;a href=&#34;https://github.com/jupyterhub/zero-to-jupyterhub-k8s&#34;&gt;Zero to JupyterHub k8s&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://cdsdashboards.readthedocs.io/en/stable/#&#34;&gt;ContainDS Dashboards&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h1 id=&#34;binders&#34;&gt;Binders&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://ivory.idyll.org/blog/2016-mybinder.html&#34;&gt;Is mybinder 95% of the way to next-gen computational science publishing, or only 90%?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h1 id=&#34;running-jupyter-on-the-cloud&#34;&gt;Running Jupyter on the cloud&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://cocalc.com&#34;&gt;CoCalc (previously SageMathCloud)&lt;/a&gt;&lt;/li&gt;
