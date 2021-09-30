@@ -36,3 +36,6 @@ description: Resources for the Python language
 
 # Code
 * [PythonRepo](https://pythonrepo.com/)
+
+# requirements.txt
+* [Using pip and requirements.txt to install from the HEAD of a Github branch](https://codeinthehole.com/tips/using-pip-and-requirementstxt-to-install-from-the-head-of-a-github-branch/)
