@@ -9,6 +9,7 @@ description: Resources for learning using notebooks
 
 * [Stencila](https://stenci.la/)
 * [Binder](https://mybinder.readthedocs.io/en/latest/)
+* [Is mybinder 95% of the way to next-gen computational science publishing, or only 90%?](http://ivory.idyll.org/blog/2016-mybinder.html)
 
 # Education
 * [Teaching and Learning with Jupyter](https://blog.jupyter.org/teaching-and-learning-with-jupyter-c1d965f7b93a)
@@ -28,9 +29,6 @@ description: Resources for learning using notebooks
 * [Plugin for The Littlest JupyterHub to build multiple user environments with repo2dockerrepo2docker](https://github.com/plasmabio/tljh-repo2docker)
 * [Zero to JupyterHub k8s](https://github.com/jupyterhub/zero-to-jupyterhub-k8s)
 * [ContainDS Dashboards](https://cdsdashboards.readthedocs.io/en/stable/#)
-
-# Binders
-* [Is mybinder 95% of the way to next-gen computational science publishing, or only 90%?](http://ivory.idyll.org/blog/2016-mybinder.html)
 
 # Running Jupyter on the cloud
 * [CoCalc (previously SageMathCloud)](https://cocalc.com) 
