@@ -39,9 +39,10 @@ jobs:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./public
         commit_message: 'auto commit [ci skip]'
-    - name: Hugo for GitHub Organization Pages
-      uses: StevenACoffman/hugo-deploy-gh-org-pages@v1.0.4
-      env:
-        DEPLOY_KEY_PRIVATE: ${{ secrets.DEPLOY_KEY_PRIVATE }}
-        EMAIL: ${{ secrets.EMAIL }}
-        HUGO_VERSION: 0.71.1
+    - name: Deploy
+      uses: peaceiris/actions-gh-pages@v3.7.3
+      with:
+        personal_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./public
+        external_repository: wikihub/wikihub.github.io
+        publish_branch: master
