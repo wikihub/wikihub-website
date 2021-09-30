@@ -45,6 +45,6 @@ jobs:
       uses: jsumners/gh-action-hugo-deploy@v1.0.0
       with:
         # The repository the build output will be committed to
-        destination_repo: git@github.com:wikihub/wikihub.github.io.git 
+        destination_repo: https://github.com/wikihub/wikihub.github.io 
         # A GitHub API token with read and commit access to the destination repo
         destination_token: ${{ secrets.GITHUB_TOKEN }}
