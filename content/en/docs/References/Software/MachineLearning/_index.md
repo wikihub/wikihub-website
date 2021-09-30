@@ -57,6 +57,9 @@ A collection of awesome machine learning goodies
 - [OpenDeep](http://www.opendeep.org)
 - [Small survey on ML tools](https://github.com/szilard/survey-ml-tools)
 
+## PyTorch
+* [PyTorch Lightning](https://www.pytorchlightning.ai/)
+
 ## [TensorFlow](https://www.tensorflow.org/)
  
  - [TensorFlow Tutorials](https://github.com/Hvass-Labs/TensorFlow-Tutorials)
