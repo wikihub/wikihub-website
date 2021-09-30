@@ -6,6 +6,9 @@ weight: 70
 description: News and information about Speech synthesis and voice analysis
 ---
 
+# Speech Synthesis
+* [Resemble.ai](https://www.resemble.ai/)
+
 # Text to Speech
 * [NVIDIA Blog: Speech Synthesis](https://developer.nvidia.com/blog/tag/speech-synthesis/)
 * [Building a Text-to-Speech Service that Sounds like You, Using NVIDIA NGC and NVIDIA A100 GPUs](https://www.nvidia.com/en-us/on-demand/session/gtcspring21-s32117/)
