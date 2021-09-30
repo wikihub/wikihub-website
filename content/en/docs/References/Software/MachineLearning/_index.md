@@ -58,7 +58,7 @@ A collection of awesome machine learning goodies
 - [Small survey on ML tools](https://github.com/szilard/survey-ml-tools)
 
 ## PyTorch
-* [PyTorch Lightning](https://www.pytorchlightning.ai/)
+* [PyTorch Lightning](https://www.pytorchlightning.ai/) by [Grid.ai](https://www.grid.ai/)
 
 ## [TensorFlow](https://www.tensorflow.org/)
  
