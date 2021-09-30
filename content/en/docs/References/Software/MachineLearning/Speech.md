@@ -16,6 +16,7 @@ description: News and information about Speech synthesis and voice analysis
 * [NVIDIA Nemo Jupyter Notebooks](https://github.com/NVIDIA/NeMo#tutorials)
 * [I AM AI](https://www.youtube.com/playlist?list=PLZHnYvH1qtObE_PjzaAFqS_CpmumGx5cW)
 * [Voice swap sample](https://github.com/NVIDIA/NeMo/blob/stable/tutorials/VoiceSwapSample.ipynb)
+* [Generate Natural Sounding Speech from Text in Real-Time](https://developer.nvidia.com/blog/generate-natural-sounding-speech-from-text-in-real-time/)
 
 # Text to Speech
 * [NVIDIA Blog: Speech Synthesis](https://developer.nvidia.com/blog/tag/speech-synthesis/)
