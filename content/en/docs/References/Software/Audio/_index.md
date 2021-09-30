@@ -6,4 +6,3 @@ weight: 70
 description: News and information about audio programming
 ---
 
-* [alexar](https://github.com/jhudsl/alexar)
