@@ -29,6 +29,9 @@ description: Resources for learning using notebooks
 * [Zero to JupyterHub k8s](https://github.com/jupyterhub/zero-to-jupyterhub-k8s)
 * [ContainDS Dashboards](https://cdsdashboards.readthedocs.io/en/stable/#)
 
+# Binders
+* [Is mybinder 95% of the way to next-gen computational science publishing, or only 90%?](http://ivory.idyll.org/blog/2016-mybinder.html)
+
 # Running Jupyter on the cloud
 * [CoCalc (previously SageMathCloud)](https://cocalc.com) 
 * [Gryd](https://gryd.us)
