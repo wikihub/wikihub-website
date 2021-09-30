@@ -7,6 +7,7 @@ description: News and information about Speech synthesis and voice analysis
 ---
 
 # Speech Synthesis
+* [NeMo - Text to Speech](https://ngc.nvidia.com/catalog/collections/nvidia:nemo_tts)
 * [NVIDIA Nemo](https://docs.nvidia.com/deeplearning/nemo/user-guide/docs/en/stable/tts/intro.html)
   * [NVIDIA Nemo example scripts](https://github.com/NVIDIA/NeMo/tree/main/examples)
   * [NVIDIA Nemo Jupyter Notebooks](https://github.com/NVIDIA/NeMo#tutorials)
