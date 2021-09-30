@@ -45,6 +45,9 @@
         
         
         &lt;h1 id=&#34;text-to-speech&#34;&gt;Text to Speech&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.nvidia.com/en-us/on-demand/session/gtcspring21-s32117/&#34;&gt;Building a Text-to-Speech Service that Sounds like You, Using NVIDIA NGC and NVIDIA A100 GPUs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h1 id=&#34;conversation&#34;&gt;Conversation&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/jhudsl/alexar&#34;&gt;alexar&lt;/a&gt;&lt;/li&gt;
