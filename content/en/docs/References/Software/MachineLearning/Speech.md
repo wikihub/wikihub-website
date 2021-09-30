@@ -7,12 +7,15 @@ description: News and information about Speech synthesis and voice analysis
 ---
 
 # Speech Synthesis
+* [Resemble.ai](https://www.resemble.ai/)
+
+## NVIDIA Nemo
 * [NeMo - Text to Speech](https://ngc.nvidia.com/catalog/collections/nvidia:nemo_tts)
 * [NVIDIA Nemo](https://docs.nvidia.com/deeplearning/nemo/user-guide/docs/en/stable/tts/intro.html)
-  * [NVIDIA Nemo example scripts](https://github.com/NVIDIA/NeMo/tree/main/examples)
-  * [NVIDIA Nemo Jupyter Notebooks](https://github.com/NVIDIA/NeMo#tutorials)
+* [NVIDIA Nemo example scripts](https://github.com/NVIDIA/NeMo/tree/main/examples)
+* [NVIDIA Nemo Jupyter Notebooks](https://github.com/NVIDIA/NeMo#tutorials)
 * [I AM AI](https://www.youtube.com/playlist?list=PLZHnYvH1qtObE_PjzaAFqS_CpmumGx5cW)
-* [Resemble.ai](https://www.resemble.ai/)
+* [Voice swap sample](https://github.com/NVIDIA/NeMo/blob/stable/tutorials/VoiceSwapSample.ipynb)
 
 # Text to Speech
 * [NVIDIA Blog: Speech Synthesis](https://developer.nvidia.com/blog/tag/speech-synthesis/)
