@@ -100,6 +100,7 @@
 &lt;li&gt;&lt;a href=&#34;https://sciencebox.web.cern.ch/sciencebox/&#34;&gt;Science Box&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/jupyterhub/jupyterhub&#34;&gt;JupyterHub&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/jupyterhub/the-littlest-jupyterhub&#34;&gt;The littlest JuperHub&lt;/a&gt; (&lt;a href=&#34;https://tljh.jupyter.org/en/latest/&#34;&gt;tljh&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/plasmabio/tljh-repo2docker&#34;&gt;Plugin for The Littlest JupyterHub to build multiple user environments with repo2dockerrepo2docker&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/jupyterhub/zero-to-jupyterhub-k8s&#34;&gt;Zero to JupyterHub k8s&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://cdsdashboards.readthedocs.io/en/stable/#&#34;&gt;ContainDS Dashboards&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
