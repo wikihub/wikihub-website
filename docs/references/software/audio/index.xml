@@ -19,5 +19,44 @@
       
     
     
+    <item>
+      <title>Docs: Speech</title>
+      <link>https://wikihub.github.io/docs/references/software/audio/speech/</link>
+      <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/software/audio/speech/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;speech-synthesis&#34;&gt;Speech Synthesis&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.resemble.ai/&#34;&gt;Resemble.ai&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;nvidia-nemo&#34;&gt;NVIDIA Nemo&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://ngc.nvidia.com/catalog/collections/nvidia:nemo_tts&#34;&gt;NeMo - Text to Speech&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.nvidia.com/deeplearning/nemo/user-guide/docs/en/stable/tts/intro.html&#34;&gt;NVIDIA Nemo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/NVIDIA/NeMo/tree/main/examples&#34;&gt;NVIDIA Nemo example scripts&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/NVIDIA/NeMo#tutorials&#34;&gt;NVIDIA Nemo Jupyter Notebooks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/playlist?list=PLZHnYvH1qtObE_PjzaAFqS_CpmumGx5cW&#34;&gt;I AM AI&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/NVIDIA/NeMo/blob/stable/tutorials/VoiceSwapSample.ipynb&#34;&gt;Voice swap sample&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.nvidia.com/blog/generate-natural-sounding-speech-from-text-in-real-time/&#34;&gt;Generate Natural Sounding Speech from Text in Real-Time&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=RknIx6XmffA&#34;&gt;All the Feels: NVIDIA Shares Expressive Speech Synthesis Research at Interspeech&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;text-to-speech&#34;&gt;Text to Speech&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.nvidia.com/blog/tag/speech-synthesis/&#34;&gt;NVIDIA Blog: Speech Synthesis&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.nvidia.com/en-us/on-demand/session/gtcspring21-s32117/&#34;&gt;Building a Text-to-Speech Service that Sounds like You, Using NVIDIA NGC and NVIDIA A100 GPUs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://blogs.nvidia.com/blog/2021/08/31/conversational-ai-research-speech-synthesis-interspeech/&#34;&gt;All the Feels: NVIDIA Shares Expressive Speech Synthesis Research at Interspeech&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.nvidia.com/isaac/archive/2020.1/packages/audio/doc/text_to_speech.html&#34;&gt;Text to speech: Isaac SDK&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;conversation&#34;&gt;Conversation&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/jhudsl/alexar&#34;&gt;alexar&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
   </channel>
 </rss>
