@@ -7,6 +7,7 @@ description: News and information about Speech synthesis and voice analysis
 ---
 
 # Speech Synthesis
+* [NVIDIA Nemo](https://docs.nvidia.com/deeplearning/nemo/user-guide/docs/en/stable/tts/intro.html)
 * [Resemble.ai](https://www.resemble.ai/)
 
 # Text to Speech
