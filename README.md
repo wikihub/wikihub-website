@@ -1,2 +1,2 @@
-# wikihub-website
-Source code for the website
+# Wikihub
+Source code for the [Wikihub website](https://wikihub.github.io/)
