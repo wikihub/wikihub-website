@@ -46,6 +46,7 @@
         
         &lt;h1 id=&#34;text-to-speech&#34;&gt;Text to Speech&lt;/h1&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.nvidia.com/blog/tag/speech-synthesis/&#34;&gt;NVIDIA Blog: Speech Synthesis&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.nvidia.com/en-us/on-demand/session/gtcspring21-s32117/&#34;&gt;Building a Text-to-Speech Service that Sounds like You, Using NVIDIA NGC and NVIDIA A100 GPUs&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://blogs.nvidia.com/blog/2021/08/31/conversational-ai-research-speech-synthesis-interspeech/&#34;&gt;All the Feels: NVIDIA Shares Expressive Speech Synthesis Research at Interspeech&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://docs.nvidia.com/isaac/archive/2020.1/packages/audio/doc/text_to_speech.html&#34;&gt;Text to speech: Isaac SDK&lt;/a&gt;&lt;/li&gt;
