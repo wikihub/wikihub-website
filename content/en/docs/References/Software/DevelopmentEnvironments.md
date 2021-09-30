@@ -73,3 +73,6 @@ description: Resources about development environments
 # Package Management
 
 *   [Homebrew](https://docs.brew.sh/Homebrew-on-Linux)
+
+# Secrets
+* [Sharing AWS credentials](https://stackoverflow.com/questions/36354423/what-is-the-best-way-to-pass-aws-credentials-to-a-docker-container)
