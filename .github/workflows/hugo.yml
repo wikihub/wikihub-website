@@ -39,12 +39,16 @@ jobs:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./public
         commit_message: 'auto commit [ci skip]'
-    - name: Deploy Hugo Site
-      # You may pin to the exact commit or the version.
-      # uses: jsumners/gh-action-hugo-deploy@9b0a88921ca60d0b731c6ef99c254f33f726d44c
-      uses: jsumners/gh-action-hugo-deploy@v1.0.0
+    - name: Hugo Deploy GitHub Pages
+    # You may pin to the exact commit or the version.
+    # uses: benmatselby/hugo-deploy-gh-pages@7c17fd574c2d6a3308cc2b0e433e99e9c2e454b5
+      uses: benmatselby/hugo-deploy-gh-pages@v1.12.0
       with:
-        # The repository the build output will be committed to
-        destination_repo: wikihub/wikihub.github.io 
-        # A GitHub API token with read and commit access to the destination repo
-        destination_token: ${{ secrets.GITHUB_TOKEN }}
+      # The version of hugo to use.
+        hugo_version: '0.71.1'
+        # If set to `true`, use the *extended* version of hugo.
+        hugo_extended: true
+        # Your PAT to authorise the action to do things.
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        # The repo name you want to clone and push to.
+        target_repo: wikihub/wikihub.github.io
