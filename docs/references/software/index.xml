@@ -719,6 +719,10 @@ Don’t Worry, You Can’t Break It. We Promise.&lt;/li&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://docs.brew.sh/Homebrew-on-Linux&#34;&gt;Homebrew&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h1 id=&#34;secrets&#34;&gt;Secrets&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://stackoverflow.com/questions/36354423/what-is-the-best-way-to-pass-aws-credentials-to-a-docker-container&#34;&gt;Sharing AWS credentials&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
       </description>
     </item>
