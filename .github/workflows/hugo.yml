@@ -39,9 +39,12 @@ jobs:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./public
         commit_message: 'auto commit [ci skip]'
-    - name: deploy changes to a repo
-      uses: tagus/git-deploy@v0.1
+    - name: Deploy Hugo Site
+      # You may pin to the exact commit or the version.
+      # uses: jsumners/gh-action-hugo-deploy@9b0a88921ca60d0b731c6ef99c254f33f726d44c
+      uses: jsumners/gh-action-hugo-deploy@v1.0.0
       with:
-        changes: ./public
-        repository: git@github.com:wikihub/wikihub.github.io.git
-        github_token: ${{ secrets.GITHUB_TOKEN }}
+        # The repository the build output will be committed to
+        destination_repo: git@github.com:wikihub/wikihub.github.io.git 
+        # A GitHub API token with read and commit access to the destination repo
+        destination_token: ${{ secrets.GITHUB_TOKEN }}
