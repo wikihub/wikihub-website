@@ -1,5 +1,5 @@
 ---
-title: "Speech"
+title: "Speech Synthesis"
 linkTitle: "Speech"
 date: 2021-05-06
 weight: 70
