@@ -39,3 +39,9 @@ jobs:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./public
         commit_message: 'auto commit [ci skip]'
+    - name: deploy changes to a repo
+      uses: tagus/git-deploy@v0.1
+      with:
+        changes: ./public
+        repository: git@github.com:wikihub/wikihub.github.io.git
+        github_token: ${{ secrets.GITHUB_TOKEN }}
