@@ -40,6 +40,4 @@ jobs:
         publish_dir: ./public
         commit_message: 'auto commit [ci skip]'
     - name: Hugo for GitHub Organization Pages
-      # You may pin to the exact commit or the version.
-      # uses: StevenACoffman/hugo-deploy-gh-org-pages@7c9ce11c0fd3a1be6908b2745fd666e1f7c5ffdb
       uses: StevenACoffman/hugo-deploy-gh-org-pages@v1.0.4
