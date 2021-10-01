@@ -411,6 +411,10 @@
 &lt;li&gt;&lt;a href=&#34;https://docs.docker.com/engine/reference/commandline/commit/&#34;&gt;Create a new image from a container’s changes&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/docker-library/docs/tree/master/&#34;&gt;Docker library&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h2 id=&#34;learning&#34;&gt;Learning&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://learning.cyverse.org/projects/cyverse-container-camp/en/2020/index.html&#34;&gt;CyVerse Container Camp 2020&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2 id=&#34;prune&#34;&gt;Prune&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Remove all the images without a tag: &lt;code&gt;docker rmi $(docker images -f dangling=true -q)&lt;/code&gt;&lt;/li&gt;
