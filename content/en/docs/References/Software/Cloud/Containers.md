@@ -27,6 +27,9 @@ description: News and information about containers
 * [Create a new image from a container’s changes](https://docs.docker.com/engine/reference/commandline/commit/)
 * [Docker library](https://github.com/docker-library/docs/tree/master/)
 
+## Learning
+* [CyVerse Container Camp 2020](https://learning.cyverse.org/projects/cyverse-container-camp/en/2020/index.html)
+
 ## Prune  
 * Remove all the images without a tag: `docker rmi $(docker images -f dangling=true -q)`
 * Remove <none> images: `docker rmi $(docker images |grep "<none>"|awk '$1=="<none>" {print $3}')`
