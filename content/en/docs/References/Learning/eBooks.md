@@ -11,3 +11,4 @@ description: Resources for writing eBooks
 
 # [Coko Foundation](https://coko.foundation/)
 *   [Editoria](https://editoria.pub/)
+*   [Micropubs demo by Yannis (PubSweet community demos #1)](https://youtu.be/pSRL3uVaJAw)
