@@ -7,7 +7,18 @@ description: News and information about Markdown
 
 ---
 
-# Papers
+# Rmarkdown
+* [Rmarkdown Cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/)
+* [The Mockup Blog](https://themockup.blog/)
+* [Bookdown](https://bookdown.org)
+* [Blogdown](https://bookdown.org/yihui/blogdown/)
+* [Pagedown](https://pagedown.rbind.io/)
+* [Posterdown](https://brentthorne.github.io/posterdown_html_showcase/)
+* [pkgdown](https://pkgdown.r-lib.org/)
+* [vitae](https://pkg.mitchelloharawild.com/vitae/)
+* [Xaringan](https://slides.yihui.org/xaringan/#1)
+
+# Research Markdown Papers
 
 *   [Plain Text Papers Pandoc](http://kieranhealy.org/blog/archives/2014/01/23/plain-text/)
 *   [Rendering Markdown, Asciidoc and Friends automatically while Editing](http://noone.org/blog/English/Computer/Web/Rendering%20Markdown,%20Asciidoc%20and%20Friends%20automatically%20while%20Editing.futile)
