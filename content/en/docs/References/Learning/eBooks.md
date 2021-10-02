@@ -8,3 +8,4 @@ description: Resources for writing eBooks
 ---
 
 *   [Builder book](https://builderbook.org/)
+*   [Editoria](https://editoria.pub/)
