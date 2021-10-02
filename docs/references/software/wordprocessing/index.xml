@@ -272,7 +272,19 @@ package&lt;/a&gt;&lt;/li&gt;
       <description>
         
         
-        &lt;h1 id=&#34;papers&#34;&gt;Papers&lt;/h1&gt;
+        &lt;h1 id=&#34;rmarkdown&#34;&gt;Rmarkdown&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://bookdown.org/yihui/rmarkdown-cookbook/&#34;&gt;Rmarkdown Cookbook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://themockup.blog/&#34;&gt;The Mockup Blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://bookdown.org&#34;&gt;Bookdown&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://bookdown.org/yihui/blogdown/&#34;&gt;Blogdown&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pagedown.rbind.io/&#34;&gt;Pagedown&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://brentthorne.github.io/posterdown_html_showcase/&#34;&gt;Posterdown&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pkgdown.r-lib.org/&#34;&gt;pkgdown&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pkg.mitchelloharawild.com/vitae/&#34;&gt;vitae&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://slides.yihui.org/xaringan/#1&#34;&gt;Xaringan&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;research-markdown-papers&#34;&gt;Research Markdown Papers&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://kieranhealy.org/blog/archives/2014/01/23/plain-text/&#34;&gt;Plain Text Papers Pandoc&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://noone.org/blog/English/Computer/Web/Rendering%20Markdown,%20Asciidoc%20and%20Friends%20automatically%20while%20Editing.futile&#34;&gt;Rendering Markdown, Asciidoc and Friends automatically while Editing&lt;/a&gt;&lt;/li&gt;
