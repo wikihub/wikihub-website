@@ -17,6 +17,7 @@ description: News and information about Markdown
 * [pkgdown](https://pkgdown.r-lib.org/)
 * [vitae](https://pkg.mitchelloharawild.com/vitae/)
 * [Xaringan](https://slides.yihui.org/xaringan/#1)
+* [Garrick Aden-Buie - Making Extra Great Slides with xaringan, xaringanthemer and xaringanExtra](https://youtu.be/FHy6NseH8yk)
 
 # Research Markdown Papers
 
