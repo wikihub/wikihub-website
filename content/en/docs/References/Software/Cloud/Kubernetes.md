@@ -94,6 +94,9 @@ description: News and information about Kubernetes
 * [ArgoCD on GitHub](https://github.com/argoproj/argo-cd)
 * [ArgoCd ingress configurations](https://argo-cd.readthedocs.io/en/stable/operator-manual/ingress/)
 
+# GitOps
+* [CodeFresh](https://codefresh.io/)
+
 # Kubectl
 
 * `kubectl get all --all-namespaces`
