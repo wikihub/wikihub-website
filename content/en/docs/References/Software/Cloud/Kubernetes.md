@@ -242,6 +242,7 @@ description: News and information about Kubernetes
 
 # [Kompose](https://kompose.io/)
 * [Compose to kubernetes simplified with kompose](https://www.opcito.com/blogs/compose-to-kubernetes-simplified-with-kompose)
+* [Kompose troubleshooting](https://www.alibabacloud.com/help/doc-detail/120298.htm)
 
 # Kubeflow
 
