@@ -1399,7 +1399,10 @@
 &lt;li&gt;&lt;a href=&#34;https://gitkube.sh/&#34;&gt;Gitkube&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/MinikubeAddon/watchpod&#34;&gt;Watchpod&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/Mirantis/k8s-devbox&#34;&gt;k8s-devbox&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://kompose.io/&#34;&gt;Kompose&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;komposehttpskomposeio&#34;&gt;&lt;a href=&#34;https://kompose.io/&#34;&gt;Kompose&lt;/a&gt;&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.opcito.com/blogs/compose-to-kubernetes-simplified-with-kompose&#34;&gt;Compose to kubernetes simplified with kompose&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;kubeflow-1&#34;&gt;Kubeflow&lt;/h1&gt;
 &lt;ul&gt;
