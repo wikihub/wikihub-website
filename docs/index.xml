@@ -1404,6 +1404,7 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.opcito.com/blogs/compose-to-kubernetes-simplified-with-kompose&#34;&gt;Compose to kubernetes simplified with kompose&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.alibabacloud.com/help/doc-detail/120298.htm&#34;&gt;Kompose troubleshooting&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.digitalocean.com/community/tutorials/how-to-migrate-a-docker-compose-workflow-to-kubernetes&#34;&gt;How To Migrate a Docker Compose Workflow to Kubernetes&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;kubeflow-1&#34;&gt;Kubeflow&lt;/h1&gt;
 &lt;ul&gt;
