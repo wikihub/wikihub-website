@@ -239,7 +239,9 @@ description: News and information about Kubernetes
 *   [Gitkube](https://gitkube.sh/)
 *   [Watchpod](https://github.com/MinikubeAddon/watchpod)
 *   [k8s-devbox](https://github.com/Mirantis/k8s-devbox)
-*   [Kompose](https://kompose.io/)
+
+# [Kompose](https://kompose.io/)
+* [Compose to kubernetes simplified with kompose](https://www.opcito.com/blogs/compose-to-kubernetes-simplified-with-kompose)
 
 # Kubeflow
 
