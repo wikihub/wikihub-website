@@ -214,6 +214,10 @@
 &lt;li&gt;&lt;a href=&#34;https://github.com/argoproj/argo-cd&#34;&gt;ArgoCD on GitHub&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://argo-cd.readthedocs.io/en/stable/operator-manual/ingress/&#34;&gt;ArgoCd ingress configurations&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h1 id=&#34;gitops&#34;&gt;GitOps&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://codefresh.io/&#34;&gt;CodeFresh&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h1 id=&#34;kubectl&#34;&gt;Kubectl&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;code&gt;kubectl get all --all-namespaces&lt;/code&gt;&lt;/li&gt;
@@ -323,7 +327,7 @@
 &lt;li&gt;&lt;a href=&#34;https://blog.alexellis.io/kubernetes-in-10-minutes/&#34;&gt;Kubernetes on bare-metal in 10 minutes&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://metal.equinix.com/solutions/kubernetes/&#34;&gt;Run K8s on Bare Metal&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id=&#34;gitops&#34;&gt;GitOps&lt;/h1&gt;
+&lt;h1 id=&#34;gitops-1&#34;&gt;GitOps&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.gitops.tech/&#34;&gt;GitOps&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/weaveworks/awesome-gitops&#34;&gt;GitOps awesome&lt;/a&gt;&lt;/li&gt;
