@@ -7,8 +7,11 @@ description: Resources for learning using notebooks
 
 # Research
 
+* [OpenDreamKit](https://opendreamkit.org/)
 * [Stencila](https://stenci.la/)
 * [Binder](https://mybinder.readthedocs.io/en/latest/)
+* [Whole Tale](https://wholetale.org/)
+* [Code Ocean](https://codeocean.com/)
 * [Is mybinder 95% of the way to next-gen computational science publishing, or only 90%?](http://ivory.idyll.org/blog/2016-mybinder.html)
 
 # Education
