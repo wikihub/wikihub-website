@@ -30,6 +30,7 @@ description: News and information about containers
 ## Learning
 * [CyVerse Container Camp 2020](https://learning.cyverse.org/projects/cyverse-container-camp/en/2020/index.html)
 * [Docker and Python](https://ep2020.europython.eu/media/conference/slides/4bVczWt-docker-and-python-making-them-play-nicely-and-securely-for-dat_veC0l2l.pdf)
+* [What's Docker?](https://runnable.com/docker/)
 
 ## Prune  
 * Remove all the images without a tag: `docker rmi $(docker images -f dangling=true -q)`
