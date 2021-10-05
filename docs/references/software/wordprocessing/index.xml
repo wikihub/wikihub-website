@@ -272,7 +272,11 @@ package&lt;/a&gt;&lt;/li&gt;
       <description>
         
         
-        &lt;h1 id=&#34;rmarkdown&#34;&gt;Rmarkdown&lt;/h1&gt;
+        &lt;h1 id=&#34;markdown&#34;&gt;Markdown&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.markdownguide.org/&#34;&gt;Markdown Guide&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;rmarkdown&#34;&gt;Rmarkdown&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://bookdown.org/yihui/rmarkdown-cookbook/&#34;&gt;Rmarkdown Cookbook&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://themockup.blog/&#34;&gt;The Mockup Blog&lt;/a&gt;&lt;/li&gt;
