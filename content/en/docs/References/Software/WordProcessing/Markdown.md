@@ -7,6 +7,9 @@ description: News and information about Markdown
 
 ---
 
+# Markdown
+* [Markdown Guide](https://www.markdownguide.org/)
+
 # Rmarkdown
 * [Rmarkdown Cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/)
 * [The Mockup Blog](https://themockup.blog/)
