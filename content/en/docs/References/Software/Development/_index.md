@@ -57,7 +57,7 @@ description: News and information about software development and necessary tools
 * Adding a new origin to a repository:
    * `git remote add origin <address>`
    * `git push origin <branchname>`
-* Adding a new tag:
+* [Adding a new tag](https://devconnected.com/how-to-create-git-tags/):
    * `git tag v0.0.1`
    * `git push origin v0.0.1`
 
