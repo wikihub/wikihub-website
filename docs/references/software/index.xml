@@ -1109,6 +1109,12 @@ Don’t Worry, You Can’t Break It. We Promise.&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;git push origin &amp;lt;branchname&amp;gt;&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
+&lt;li&gt;Adding a new tag:
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;git tag v0.0.1&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;git push origin v0.0.1&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;pruning&#34;&gt;Pruning&lt;/h2&gt;
 &lt;ul&gt;
