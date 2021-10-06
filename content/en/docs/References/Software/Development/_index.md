@@ -57,6 +57,9 @@ description: News and information about software development and necessary tools
 * Adding a new origin to a repository:
    * `git remote add origin <address>`
    * `git push origin <branchname>`
+* Adding a new tag:
+   * `git tag v0.0.1`
+   * `git push origin v0.0.1`
 
 ## Pruning
 * [How to Use prune to Clean Up Remote Branches in Git](https://www.git-tower.com/learn/git/faq/cleanup-remote-branches-with-git-prune/)
