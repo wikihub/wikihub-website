@@ -1109,7 +1109,7 @@ Don’t Worry, You Can’t Break It. We Promise.&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;git push origin &amp;lt;branchname&amp;gt;&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;Adding a new tag:
+&lt;li&gt;&lt;a href=&#34;https://devconnected.com/how-to-create-git-tags/&#34;&gt;Adding a new tag&lt;/a&gt;:
 &lt;ul&gt;
 &lt;li&gt;&lt;code&gt;git tag v0.0.1&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;git push origin v0.0.1&lt;/code&gt;&lt;/li&gt;
