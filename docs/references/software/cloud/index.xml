@@ -419,6 +419,7 @@
 &lt;li&gt;&lt;a href=&#34;https://medium.com/@mccode/processes-in-containers-should-not-run-as-root-2feae3f0df3b&#34;&gt;Processes in containers should not run as root&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://docs.docker.com/engine/reference/commandline/commit/&#34;&gt;Create a new image from a container’s changes&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/docker-library/docs/tree/master/&#34;&gt;Docker library&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://stackoverflow.com/questions/36354423/what-is-the-best-way-to-pass-aws-credentials-to-a-docker-container&#34;&gt;What is the best way to pass AWS credentials to a Docker container?&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;learning&#34;&gt;Learning&lt;/h2&gt;
 &lt;ul&gt;
