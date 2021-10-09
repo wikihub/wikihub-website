@@ -27,6 +27,7 @@ description: News and information about containers
 * [Create a new image from a container’s changes](https://docs.docker.com/engine/reference/commandline/commit/)
 * [Docker library](https://github.com/docker-library/docs/tree/master/)
 * [What is the best way to pass AWS credentials to a Docker container?](https://stackoverflow.com/questions/36354423/what-is-the-best-way-to-pass-aws-credentials-to-a-docker-container)
+* [Pandoc Ubuntu Docker: a reference to learn more about Docker](https://github.com/pandoc/dockerfiles/blob/master/ubuntu/Dockerfile)
 
 ## Learning
 * [CyVerse Container Camp 2020](https://learning.cyverse.org/projects/cyverse-container-camp/en/2020/index.html)
