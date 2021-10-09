@@ -127,6 +127,7 @@
 &lt;/ul&gt;
 &lt;h1 id=&#34;notebook-tools&#34;&gt;Notebook Tools&lt;/h1&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://pandoc.org/MANUAL.html#jupyter-notebooks&#34;&gt;Pandoc Jupyter Notebooks&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://nteract.io/&#34;&gt;nteract&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/nteract&#34;&gt;nteract on Github&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://semiotic.nteract.io/&#34;&gt;Semiotic&lt;/a&gt;&lt;/li&gt;
