@@ -68,7 +68,11 @@ description: News and information about Markdown
 *   [Firepad](https://firepad.io/)
 *   [Hackmd](https://hackmd.io/)
 *   [Socrates](http://socrates.io)
-* [Remark](https://github.com/remarkjs/remark)
+*   [Remark](https://github.com/remarkjs/remark)
+
+# Web Components
+
+* [markdown-it](https://markdown-it.github.io/)
 
 # Blog
 
