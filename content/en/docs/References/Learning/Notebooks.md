@@ -45,6 +45,7 @@ description: Resources for learning using notebooks
 * [Google Colaboratory](https://colab.research.google.com/ )
 
 # Notebook Tools
+* [Pandoc Jupyter Notebooks](https://pandoc.org/MANUAL.html#jupyter-notebooks)
 * [nteract](https://nteract.io/)
 * [nteract on Github](https://github.com/nteract)
 * [Semiotic](https://semiotic.nteract.io/)
