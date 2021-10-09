@@ -100,6 +100,11 @@ description: News and information about Markdown
 *   [Rippledoc](http://www.unexpected-vortices.com/sw/rippledoc/index.html)
 *   [wkhtmltopdf](http://wkhtmltopdf.org/)
 
+# Media
+
+* [Text2Talk](https://github.com/eLearningHub/text2talk)
+* [video-to-markdown](https://github.com/marcomontalbano/video-to-markdown)
+
 # Resources
 
 *   [What is Markdown](http://whatismarkdown.com/)
