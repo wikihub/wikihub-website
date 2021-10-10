@@ -12,6 +12,7 @@ description: News and information about Speech synthesis and voice analysis
 * [espnet](https://github.com/espnet/espnet)
 * [Merlin](https://github.com/CSTR-Edinburgh/merlin)
 * [aeneas: automagically synchronize audio and text (aka forced alignment)](https://www.readbeyond.it/aeneas/)
+* [awesome-speech-recognition-speech-synthesis-papers](https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers)
 
 ## Speech Synthesis
 * [Resemble.ai](https://www.resemble.ai/)
