@@ -44,7 +44,7 @@ description: News and information about Speech synthesis and voice analysis
 * [Kalliope Project](https://kalliope-project.github.io/)
 * [Dragonfire](https://github.com/DragonComputer/Dragonfire)
 
-## NVIDIA Nemo
+## NVIDIA
 * [NeMo - Text to Speech](https://ngc.nvidia.com/catalog/collections/nvidia:nemo_tts)
 * [NVIDIA Nemo](https://docs.nvidia.com/deeplearning/nemo/user-guide/docs/en/stable/tts/intro.html)
 * [NVIDIA Nemo example scripts](https://github.com/NVIDIA/NeMo/tree/main/examples)
@@ -54,6 +54,7 @@ description: News and information about Speech synthesis and voice analysis
 * [Voice swap sample](https://github.com/NVIDIA/NeMo/blob/stable/tutorials/VoiceSwapSample.ipynb)
 * [Generate Natural Sounding Speech from Text in Real-Time](https://developer.nvidia.com/blog/generate-natural-sounding-speech-from-text-in-real-time/)
 * [All the Feels: NVIDIA Shares Expressive Speech Synthesis Research at Interspeech](https://www.youtube.com/watch?v=RknIx6XmffA)
+* [Flowtron: an Autoregressive Flow-based Generative Network for Text-to-Speech Synthesis](https://nv-adlr.github.io/Flowtron)
 
 # Text to Speech
 * [NVIDIA Blog: Speech Synthesis](https://developer.nvidia.com/blog/tag/speech-synthesis/)
