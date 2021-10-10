@@ -8,6 +8,9 @@ description: News and information about Speech synthesis and voice analysis
 
 # Speech Synthesis
 * [Resemble.ai](https://www.resemble.ai/)
+* [Mozilla TTS](https://github.com/mozilla/TTS/)
+* [W3 Speak](https://www.w3.org/TR/speech-synthesis/#edef_speak)
+* [Text to speech: SSML by Google](https://cloud.google.com/text-to-speech/docs/ssml)
 
 ## NVIDIA Nemo
 * [NeMo - Text to Speech](https://ngc.nvidia.com/catalog/collections/nvidia:nemo_tts)
