@@ -5,6 +5,10 @@ date: 2021-05-06
 weight: 50
 description: News and information about Speech synthesis and voice analysis
 ---
+
+# Datasets
+* [LJ Speech Dataset](https://keithito.com/LJ-Speech-Dataset/)
+
 # Audio Players
 * [sox](http://sox.sourceforge.net/)
 
