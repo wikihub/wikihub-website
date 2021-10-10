@@ -598,6 +598,14 @@
 &lt;li&gt;&lt;a href=&#34;https://www.sierrawireless.com/&#34;&gt;Sierra Wireless&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.libelium.com&#34;&gt;Libelium&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h1 id=&#34;smart-homes&#34;&gt;Smart Homes&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.snips.ai/reference/hermes&#34;&gt;Hermes protocol&lt;/a&gt; compatible services (&lt;a href=&#34;https://snips.ai/&#34;&gt;Snips.AI&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.home-assistant.io/&#34;&gt;Home Assistant&lt;/a&gt; and &lt;a href=&#34;https://www.home-assistant.io/hassio/&#34;&gt;Hass.io&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://nodered.org&#34;&gt;Node-RED&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.jeedom.com&#34;&gt;Jeedom&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.openhab.org&#34;&gt;OpenHAB&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h1 id=&#34;open-source&#34;&gt;Open Source&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://legato.io/&#34;&gt;Legato&lt;/a&gt;&lt;/li&gt;
