@@ -105,7 +105,7 @@
 &lt;li&gt;&lt;a href=&#34;https://kalliope-project.github.io/&#34;&gt;Kalliope Project&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/DragonComputer/Dragonfire&#34;&gt;Dragonfire&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;nvidia-nemo&#34;&gt;NVIDIA Nemo&lt;/h2&gt;
+&lt;h2 id=&#34;nvidia&#34;&gt;NVIDIA&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://ngc.nvidia.com/catalog/collections/nvidia:nemo_tts&#34;&gt;NeMo - Text to Speech&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://docs.nvidia.com/deeplearning/nemo/user-guide/docs/en/stable/tts/intro.html&#34;&gt;NVIDIA Nemo&lt;/a&gt;&lt;/li&gt;
@@ -116,6 +116,7 @@
 &lt;li&gt;&lt;a href=&#34;https://github.com/NVIDIA/NeMo/blob/stable/tutorials/VoiceSwapSample.ipynb&#34;&gt;Voice swap sample&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://developer.nvidia.com/blog/generate-natural-sounding-speech-from-text-in-real-time/&#34;&gt;Generate Natural Sounding Speech from Text in Real-Time&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=RknIx6XmffA&#34;&gt;All the Feels: NVIDIA Shares Expressive Speech Synthesis Research at Interspeech&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://nv-adlr.github.io/Flowtron&#34;&gt;Flowtron: an Autoregressive Flow-based Generative Network for Text-to-Speech Synthesis&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;text-to-speech&#34;&gt;Text to Speech&lt;/h1&gt;
 &lt;ul&gt;
