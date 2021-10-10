@@ -1477,6 +1477,7 @@
 &lt;li&gt;&lt;a href=&#34;https://github.com/docker-library/docs/tree/master/&#34;&gt;Docker library&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://stackoverflow.com/questions/36354423/what-is-the-best-way-to-pass-aws-credentials-to-a-docker-container&#34;&gt;What is the best way to pass AWS credentials to a Docker container?&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/pandoc/dockerfiles/blob/master/ubuntu/Dockerfile&#34;&gt;Pandoc Ubuntu Docker: a reference to learn more about Docker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cloudsavvyit.com/10912/how-to-use-docker-restart-policies-to-keep-containers-running/&#34;&gt;How to Use Docker Restart Policies to Keep Containers Running&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;learning&#34;&gt;Learning&lt;/h2&gt;
 &lt;ul&gt;
