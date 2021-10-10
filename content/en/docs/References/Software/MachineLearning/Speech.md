@@ -12,6 +12,9 @@ description: News and information about Speech synthesis and voice analysis
 * [W3 Speak](https://www.w3.org/TR/speech-synthesis/#edef_speak)
 * [Text to speech: SSML by Google](https://cloud.google.com/text-to-speech/docs/ssml)
 
+# Speech Toolkits
+* [espnet](https://github.com/espnet/espnet)
+
 # Voice assistants
 * [leon](https://github.com/leon-ai/leon)
 
