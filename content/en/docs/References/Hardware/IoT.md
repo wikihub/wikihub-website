@@ -13,6 +13,13 @@ description: News and information about Internet of Things and its applications
 * [Sierra Wireless](https://www.sierrawireless.com/)
 * [Libelium](http://www.libelium.com)
 
+# Smart Homes
+* [Hermes protocol](https://docs.snips.ai/reference/hermes) compatible services ([Snips.AI](https://snips.ai/))
+* [Home Assistant](https://www.home-assistant.io/) and [Hass.io](https://www.home-assistant.io/hassio/)
+* [Node-RED](https://nodered.org)
+* [Jeedom](https://www.jeedom.com)
+* [OpenHAB](https://www.openhab.org)
+
 # Open Source
 
 * [Legato](https://legato.io/)
