@@ -26,6 +26,7 @@ description: News and information about Speech synthesis and voice analysis
 
 ## Voice assistants
 * [leon](https://github.com/leon-ai/leon)
+* [Dragonfire](https://github.com/DragonComputer/Dragonfire)
 
 ## NVIDIA Nemo
 * [NeMo - Text to Speech](https://ngc.nvidia.com/catalog/collections/nvidia:nemo_tts)
