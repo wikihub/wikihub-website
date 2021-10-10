@@ -12,6 +12,9 @@ description: News and information about Speech synthesis and voice analysis
 * [W3 Speak](https://www.w3.org/TR/speech-synthesis/#edef_speak)
 * [Text to speech: SSML by Google](https://cloud.google.com/text-to-speech/docs/ssml)
 
+# Voice assistants
+* [leon](https://github.com/leon-ai/leon)
+
 ## NVIDIA Nemo
 * [NeMo - Text to Speech](https://ngc.nvidia.com/catalog/collections/nvidia:nemo_tts)
 * [NVIDIA Nemo](https://docs.nvidia.com/deeplearning/nemo/user-guide/docs/en/stable/tts/intro.html)
