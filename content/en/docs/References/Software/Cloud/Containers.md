@@ -28,6 +28,7 @@ description: News and information about containers
 * [Docker library](https://github.com/docker-library/docs/tree/master/)
 * [What is the best way to pass AWS credentials to a Docker container?](https://stackoverflow.com/questions/36354423/what-is-the-best-way-to-pass-aws-credentials-to-a-docker-container)
 * [Pandoc Ubuntu Docker: a reference to learn more about Docker](https://github.com/pandoc/dockerfiles/blob/master/ubuntu/Dockerfile)
+* [How to Use Docker Restart Policies to Keep Containers Running](https://www.cloudsavvyit.com/10912/how-to-use-docker-restart-policies-to-keep-containers-running/)
 
 ## Learning
 * [CyVerse Container Camp 2020](https://learning.cyverse.org/projects/cyverse-container-camp/en/2020/index.html)
