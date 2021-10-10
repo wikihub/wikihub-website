@@ -47,6 +47,9 @@
         &lt;h1 id=&#34;speech-synthesis&#34;&gt;Speech Synthesis&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.resemble.ai/&#34;&gt;Resemble.ai&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/mozilla/TTS/&#34;&gt;Mozilla TTS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.w3.org/TR/speech-synthesis/#edef_speak&#34;&gt;W3 Speak&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cloud.google.com/text-to-speech/docs/ssml&#34;&gt;Text to speech: SSML by Google&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;nvidia-nemo&#34;&gt;NVIDIA Nemo&lt;/h2&gt;
 &lt;ul&gt;
