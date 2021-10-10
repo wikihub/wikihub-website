@@ -44,7 +44,16 @@
       <description>
         
         
-        &lt;h1 id=&#34;speech-synthesis&#34;&gt;Speech Synthesis&lt;/h1&gt;
+        &lt;h1 id=&#34;audio-players&#34;&gt;Audio Players&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://sox.sourceforge.net/&#34;&gt;sox&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;speech-toolkits&#34;&gt;Speech Toolkits&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/espnet/espnet&#34;&gt;espnet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.readbeyond.it/aeneas/&#34;&gt;aeneas: automagically synchronize audio and text (aka forced alignment)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;speech-synthesis&#34;&gt;Speech Synthesis&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.resemble.ai/&#34;&gt;Resemble.ai&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/mozilla/TTS/&#34;&gt;Mozilla TTS&lt;/a&gt;&lt;/li&gt;
@@ -56,12 +65,7 @@
 &lt;li&gt;&lt;a href=&#34;https://github.com/TensorSpeech/TensorFlowTTS&#34;&gt;TensorFlowTTS&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://gtts.readthedocs.io/en/latest/&#34;&gt;gTTS&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id=&#34;speech-toolkits&#34;&gt;Speech Toolkits&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/espnet/espnet&#34;&gt;espnet&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.readbeyond.it/aeneas/&#34;&gt;aeneas: automagically synchronize audio and text (aka forced alignment)&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;voice-assistants&#34;&gt;Voice assistants&lt;/h1&gt;
+&lt;h2 id=&#34;voice-assistants&#34;&gt;Voice assistants&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/leon-ai/leon&#34;&gt;leon&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
