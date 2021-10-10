@@ -30,6 +30,7 @@ description: News and information about Speech synthesis and voice analysis
 * [TensorFlowTTS](https://github.com/TensorSpeech/TensorFlowTTS)
 * [gTTS](https://gtts.readthedocs.io/en/latest/)
 * [larynx](https://github.com/rhasspy/larynx)
+* [Parallel WaveGAN](https://kan-bayashi.github.io/ParallelWaveGAN/)
 
 ### Persian
 * [Tihu](https://github.com/tihu-nlp/tihu)
