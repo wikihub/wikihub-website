@@ -24,6 +24,7 @@ description: News and information about Speech synthesis and voice analysis
 * [TensorFlowTTS](https://github.com/TensorSpeech/TensorFlowTTS)
 * [gTTS](https://gtts.readthedocs.io/en/latest/)
 * [larynx](https://github.com/rhasspy/larynx)
+* [AlisterTA: Persian-text-to-speech](https://github.com/AlisterTA/Persian-text-to-speech)
 
 ## Voice assistants
 * [leon](https://github.com/leon-ai/leon)
