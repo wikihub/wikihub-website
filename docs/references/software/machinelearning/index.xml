@@ -51,6 +51,10 @@
 &lt;li&gt;&lt;a href=&#34;https://www.w3.org/TR/speech-synthesis/#edef_speak&#34;&gt;W3 Speak&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://cloud.google.com/text-to-speech/docs/ssml&#34;&gt;Text to speech: SSML by Google&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h1 id=&#34;speech-toolkits&#34;&gt;Speech Toolkits&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/espnet/espnet&#34;&gt;espnet&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h1 id=&#34;voice-assistants&#34;&gt;Voice assistants&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/leon-ai/leon&#34;&gt;leon&lt;/a&gt;&lt;/li&gt;
