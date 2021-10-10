@@ -11,6 +11,7 @@ description: News and information about Speech synthesis and voice analysis
 # Speech Toolkits
 * [espnet](https://github.com/espnet/espnet)
 * [Merlin](https://github.com/CSTR-Edinburgh/merlin)
+* [Silero Models](https://github.com/snakers4/silero-models)
 * [aeneas: automagically synchronize audio and text (aka forced alignment)](https://www.readbeyond.it/aeneas/)
 * [awesome-speech-recognition-speech-synthesis-papers](https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers)
 
