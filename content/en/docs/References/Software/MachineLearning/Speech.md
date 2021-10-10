@@ -11,9 +11,15 @@ description: News and information about Speech synthesis and voice analysis
 * [Mozilla TTS](https://github.com/mozilla/TTS/)
 * [W3 Speak](https://www.w3.org/TR/speech-synthesis/#edef_speak)
 * [Text to speech: SSML by Google](https://cloud.google.com/text-to-speech/docs/ssml)
+* [tacotron](https://github.com/keithito/tacotron)
+* [coqui-ai TTS](https://github.com/coqui-ai/TTS)
+* [Coqui: Freeing Speech](https://coqui.ai/)
+* [TensorFlowTTS](https://github.com/TensorSpeech/TensorFlowTTS)
+
 
 # Speech Toolkits
 * [espnet](https://github.com/espnet/espnet)
+* [aeneas: automagically synchronize audio and text (aka forced alignment)](https://www.readbeyond.it/aeneas/)
 
 # Voice assistants
 * [leon](https://github.com/leon-ai/leon)
