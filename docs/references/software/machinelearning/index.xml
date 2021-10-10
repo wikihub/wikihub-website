@@ -36,6 +36,22 @@
     </item>
     
     <item>
+      <title>Docs: NLP</title>
+      <link>https://wikihub.github.io/docs/references/software/machinelearning/nlp/</link>
+      <pubDate>Sun, 10 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/software/machinelearning/nlp/</guid>
+      <description>
+        
+        
+        &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://web.stanford.edu/class/cs224n/&#34;&gt;CS224n: Natural Language Processing with Deep Learning&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Docs: Speech</title>
       <link>https://wikihub.github.io/docs/references/software/machinelearning/speech/</link>
       <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
