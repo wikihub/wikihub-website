@@ -15,6 +15,7 @@ description: News and information about Speech synthesis and voice analysis
 * [coqui-ai TTS](https://github.com/coqui-ai/TTS)
 * [Coqui: Freeing Speech](https://coqui.ai/)
 * [TensorFlowTTS](https://github.com/TensorSpeech/TensorFlowTTS)
+* [gTTS](https://gtts.readthedocs.io/en/latest/)
 
 
 # Speech Toolkits
