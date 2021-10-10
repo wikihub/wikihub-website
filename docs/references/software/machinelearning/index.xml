@@ -60,6 +60,7 @@
 &lt;li&gt;&lt;a href=&#34;https://ngc.nvidia.com/catalog/collections/nvidia:nemo_tts&#34;&gt;NeMo - Text to Speech&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://docs.nvidia.com/deeplearning/nemo/user-guide/docs/en/stable/tts/intro.html&#34;&gt;NVIDIA Nemo&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/NVIDIA/NeMo/tree/main/examples&#34;&gt;NVIDIA Nemo example scripts&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ngc.nvidia.com/catalog/models/nvidia:nemottsmodels&#34;&gt;Nemo TTS models&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/NVIDIA/NeMo#tutorials&#34;&gt;NVIDIA Nemo Jupyter Notebooks&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.youtube.com/playlist?list=PLZHnYvH1qtObE_PjzaAFqS_CpmumGx5cW&#34;&gt;I AM AI&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/NVIDIA/NeMo/blob/stable/tutorials/VoiceSwapSample.ipynb&#34;&gt;Voice swap sample&lt;/a&gt;&lt;/li&gt;
