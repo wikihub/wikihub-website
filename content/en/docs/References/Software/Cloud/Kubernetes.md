@@ -94,6 +94,12 @@ description: News and information about Kubernetes
 * [ArgoCD on GitHub](https://github.com/argoproj/argo-cd)
 * [ArgoCd ingress configurations](https://argo-cd.readthedocs.io/en/stable/operator-manual/ingress/)
 
+## Gitpod
+
+* [gitpod-docker-k3s](https://github.com/corneliusludmann/gitpod-docker-k3s)
+* [gitpod workspace with k3s](https://github.com/fntlnz/gitpod-k3s)
+* [k3s template for gitpod workspaces](https://github.com/gitpod-io/template-k3s)
+
 # GitOps
 * [CodeFresh](https://codefresh.io/)
 
