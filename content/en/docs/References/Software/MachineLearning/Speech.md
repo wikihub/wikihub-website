@@ -29,6 +29,7 @@ description: News and information about Speech synthesis and voice analysis
 * [Tihu](https://github.com/tihu-nlp/tihu)
 * [AlisterTA: Persian-text-to-speech](https://github.com/AlisterTA/Persian-text-to-speech)
 * [Persian pronounciation](https://github.com/mehdihosseinimoghadam/Persian-Pronounciation)
+* [Persian_Tacotron2](https://github.com/majidAdibian77/persian_tacotron)
 
 ## Voice assistants
 * [leon](https://github.com/leon-ai/leon)
