@@ -5,8 +5,14 @@ date: 2021-05-06
 weight: 50
 description: News and information about Speech synthesis and voice analysis
 ---
+# Audio Players
+* [sox](http://sox.sourceforge.net/)
 
-# Speech Synthesis
+# Speech Toolkits
+* [espnet](https://github.com/espnet/espnet)
+* [aeneas: automagically synchronize audio and text (aka forced alignment)](https://www.readbeyond.it/aeneas/)
+
+## Speech Synthesis
 * [Resemble.ai](https://www.resemble.ai/)
 * [Mozilla TTS](https://github.com/mozilla/TTS/)
 * [W3 Speak](https://www.w3.org/TR/speech-synthesis/#edef_speak)
@@ -17,12 +23,7 @@ description: News and information about Speech synthesis and voice analysis
 * [TensorFlowTTS](https://github.com/TensorSpeech/TensorFlowTTS)
 * [gTTS](https://gtts.readthedocs.io/en/latest/)
 
-
-# Speech Toolkits
-* [espnet](https://github.com/espnet/espnet)
-* [aeneas: automagically synchronize audio and text (aka forced alignment)](https://www.readbeyond.it/aeneas/)
-
-# Voice assistants
+## Voice assistants
 * [leon](https://github.com/leon-ai/leon)
 
 ## NVIDIA Nemo
