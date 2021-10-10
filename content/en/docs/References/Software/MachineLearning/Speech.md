@@ -10,6 +10,7 @@ description: News and information about Speech synthesis and voice analysis
 
 # Speech Toolkits
 * [espnet](https://github.com/espnet/espnet)
+* [Merlin](https://github.com/CSTR-Edinburgh/merlin)
 * [aeneas: automagically synchronize audio and text (aka forced alignment)](https://www.readbeyond.it/aeneas/)
 
 ## Speech Synthesis
