@@ -50,10 +50,15 @@
 &lt;li&gt;&lt;a href=&#34;https://github.com/mozilla/TTS/&#34;&gt;Mozilla TTS&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.w3.org/TR/speech-synthesis/#edef_speak&#34;&gt;W3 Speak&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://cloud.google.com/text-to-speech/docs/ssml&#34;&gt;Text to speech: SSML by Google&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/keithito/tacotron&#34;&gt;tacotron&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/coqui-ai/TTS&#34;&gt;coqui-ai TTS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://coqui.ai/&#34;&gt;Coqui: Freeing Speech&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/TensorSpeech/TensorFlowTTS&#34;&gt;TensorFlowTTS&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;speech-toolkits&#34;&gt;Speech Toolkits&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/espnet/espnet&#34;&gt;espnet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.readbeyond.it/aeneas/&#34;&gt;aeneas: automagically synchronize audio and text (aka forced alignment)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;voice-assistants&#34;&gt;Voice assistants&lt;/h1&gt;
 &lt;ul&gt;
