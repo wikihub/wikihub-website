@@ -23,6 +23,7 @@ description: News and information about Speech synthesis and voice analysis
 * [Coqui: Freeing Speech](https://coqui.ai/)
 * [TensorFlowTTS](https://github.com/TensorSpeech/TensorFlowTTS)
 * [gTTS](https://gtts.readthedocs.io/en/latest/)
+* [larynx](https://github.com/rhasspy/larynx)
 
 ## Voice assistants
 * [leon](https://github.com/leon-ai/leon)
