@@ -1247,6 +1247,12 @@
 &lt;li&gt;&lt;a href=&#34;https://github.com/argoproj/argo-cd&#34;&gt;ArgoCD on GitHub&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://argo-cd.readthedocs.io/en/stable/operator-manual/ingress/&#34;&gt;ArgoCd ingress configurations&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h2 id=&#34;gitpod&#34;&gt;Gitpod&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/corneliusludmann/gitpod-docker-k3s&#34;&gt;gitpod-docker-k3s&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/fntlnz/gitpod-k3s&#34;&gt;gitpod workspace with k3s&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/gitpod-io/template-k3s&#34;&gt;k3s template for gitpod workspaces&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h1 id=&#34;gitops&#34;&gt;GitOps&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://codefresh.io/&#34;&gt;CodeFresh&lt;/a&gt;&lt;/li&gt;
