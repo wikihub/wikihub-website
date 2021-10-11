@@ -40,6 +40,7 @@ description: News and information about Speech synthesis and voice analysis
 * [Persian_Tacotron2](https://github.com/majidAdibian77/persian_tacotron)
 * [Ariana](http://www.nevisasoft.com/other-products/ariana)
 * [Gata](https://www.msgata.com/Products/TextToSpeech)
+* [Amer Andish](https://amerandish.com/)
 
 ## Voice assistants
 * [leon](https://github.com/leon-ai/leon)
