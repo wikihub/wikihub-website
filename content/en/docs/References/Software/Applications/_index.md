@@ -9,3 +9,4 @@ description: News and information about web applications and marketplaces
 # GitHub Actions
 
 * [awesome-actions](https://github.com/sdras/awesome-actions)
+* [aws-actions](https://github.com/aws-actions)
