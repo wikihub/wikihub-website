@@ -132,6 +132,23 @@
     </item>
     
     <item>
+      <title>Docs: Applications</title>
+      <link>https://wikihub.github.io/docs/references/software/applications/</link>
+      <pubDate>Sun, 10 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/software/applications/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;github-actions&#34;&gt;GitHub Actions&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/sdras/awesome-actions&#34;&gt;awesome-actions&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Docs: Machine Learning</title>
       <link>https://wikihub.github.io/docs/references/software/machinelearning/</link>
       <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
