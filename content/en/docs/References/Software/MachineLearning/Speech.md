@@ -33,10 +33,13 @@ description: News and information about Speech synthesis and voice analysis
 * [Parallel WaveGAN](https://kan-bayashi.github.io/ParallelWaveGAN/)
 
 ### Persian
+* [Lilak project](http://lilak-project.com)
 * [Tihu](https://github.com/tihu-nlp/tihu)
 * [AlisterTA: Persian-text-to-speech](https://github.com/AlisterTA/Persian-text-to-speech)
 * [Persian pronounciation](https://github.com/mehdihosseinimoghadam/Persian-Pronounciation)
 * [Persian_Tacotron2](https://github.com/majidAdibian77/persian_tacotron)
+* [Ariana](http://www.nevisasoft.com/other-products/ariana)
+* [Gata](https://www.msgata.com/Products/TextToSpeech)
 
 ## Voice assistants
 * [leon](https://github.com/leon-ai/leon)
