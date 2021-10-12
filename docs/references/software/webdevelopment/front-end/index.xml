@@ -35,5 +35,110 @@
       </description>
     </item>
     
+    <item>
+      <title>Docs: React</title>
+      <link>https://wikihub.github.io/docs/references/software/webdevelopment/front-end/react/</link>
+      <pubDate>Sat, 20 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/software/webdevelopment/front-end/react/</guid>
+      <description>
+        
+        
+        &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://create-react-app.dev/&#34;&gt;Set up a modern web app by running one command.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ant.design/docs/react/introduce&#34;&gt;Ant Design&lt;/a&gt; - An enterprise-class UI design language and React-based implementation.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blueprintjs.com/&#34;&gt;Blueprint&lt;/a&gt; - A React-based UI toolkit for the web. It is optimized for building complex, data-dense web interfaces for desktop applications.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/dvajs/dva&#34;&gt;dva&lt;/a&gt; - React and Redux based, lightweight and Elm-style framework.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.electrode.io/&#34;&gt;Electrode&lt;/a&gt; - A platform for building universal React/Node.js applications with standardized structure, best practices, and modern technologies baked in.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://elemental-ui.com/&#34;&gt;Elemental UI&lt;/a&gt; - A UI Toolkit for React.js Websites and Apps.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://getessence.io&#34;&gt;Essence&lt;/a&gt; - The Essential Material Design Framework.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://grommet.github.io/&#34;&gt;Grommet&lt;/a&gt; - The most advanced UX framework for enterprise applications.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/streamich/libreact&#34;&gt;libreact&lt;/a&gt; - a collection of most essential React utilities you will probably need in any project.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.material-ui.com/&#34;&gt;Material-UI&lt;/a&gt; - A Set of React Components that Implement Google&amp;rsquo;s Material Design.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://react-md.mlaursen.com/&#34;&gt;react-md&lt;/a&gt; - A set of React components and sass files for implementing Google&amp;rsquo;s Material Design.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://react-mdl.github.io/react-mdl/&#34;&gt;React-MDL&lt;/a&gt; - A set of React components build on top of Material Design Lite.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://react-toolbox.com&#34;&gt;React Toolbox&lt;/a&gt; - A set of React components that implement Google&amp;rsquo;s Material Design specification.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://microsoft.github.io/reactxp/&#34;&gt;ReactXP&lt;/a&gt; - A library for cross-platform app development using React and React Native.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://jxnblk.com/rebass/&#34;&gt;Rebass&lt;/a&gt; - Configurable React Stateless Functional UI Components.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://blitzjs.com/&#34;&gt;Blitz.js&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;documentation&#34;&gt;Documentation&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://reactjs.org/docs/getting-started.html&#34;&gt;React: Getting Started&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;react-native&#34;&gt;React Native&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://gitlab.com/hmajid2301/stegappasaurus/-/tree/master&#34;&gt;Stegappasaurus&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;gatsbyhttpswwwgatsbyjscomget-started&#34;&gt;&lt;a href=&#34;https://www.gatsbyjs.com/get-started&#34;&gt;Gatsby&lt;/a&gt;&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/Neha/gatsbyjs-codelab&#34;&gt;Gatsby Codelab&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/himalay/himalay.github.io/blob/develop/.github/workflows/workflow.yml&#34;&gt;GitHub Action for Gatsby&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.jamstackcms.io/&#34;&gt;JAMstack CMS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/LekoArts/gatsby-starter-portfolio-emma&#34;&gt;Gatsby starter portfolio emma&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://awesomeopensource.com/projects/gatsby-starter&#34;&gt;Gatsby starters&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.freecodecamp.org/news/how-to-set-up-gatsbyjs-authentication-with-auth0-d07abdd5a4f4/&#34;&gt;How to set up Gatsbyjs authentication with Auth0&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/doczjs/docz/tree/master/core/gatsby-theme-docz&#34;&gt;Gatsby and Docz&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.freecodecamp.org/news/building-jamstack-apps/&#34;&gt;Building JAMstack apps&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;gatsbyjs-learning&#34;&gt;Gatsby.js Learning&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://dev.to/t/gatsby&#34;&gt;Dev.to Gatsby&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://hashnode.com/n/gatsby&#34;&gt;Hashnode Gatsby&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://stackoverflow.com/questions/tagged/gatsby&#34;&gt;Stack overflow&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;dynamic-gatsby&#34;&gt;Dynamic Gatsby&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.gatsbyjs.org/blog/2018-12-17-turning-the-static-dynamic/&#34;&gt;Turning the static dynamic&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/sw-yx/jamstack-hackathon-starter&#34;&gt;Dynamic Gatsby hackaton starter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=zeVC-gD3u7M&#34;&gt;Beyond static&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;headless-cms&#34;&gt;Headless CMS&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://strapi.io/blog/strapi-starter-gatsby-blog-v2&#34;&gt;Strapi Gatsby blog starter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.smashingmagazine.com/2020/04/web-app-headless-cms-react/&#34;&gt;Building A Web App With Headless CMS And React&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;authentication&#34;&gt;Authentication&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://jonsully.net/blog/announcing-react-netlify-identity-gotrue/&#34;&gt;Announcing React-Netlify-Identity-Gotrue!&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.gatsbyjs.org/tutorial/authentication-tutorial/&#34;&gt;Gatsby authentication tutorial&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.gatsbyjs.org/docs/building-a-site-with-authentication/&#34;&gt;Building a site with Gatsby with authentication&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.gatsbyjs.org/docs/client-only-routes-and-user-authentication/&#34;&gt;Gatsby client only routes and user authentication&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.gatsbyjs.org/blog/2019-03-21-add-auth0-to-gatsby-livestream/&#34;&gt;Add Authentication to Your Gatsby Apps With Auth0&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://auth0.com/blog/securing-gatsby-with-auth0/&#34;&gt;Securing Gatsby with Auth0&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.freecodecamp.org/news/how-to-set-up-gatsbyjs-authentication-with-auth0-d07abdd5a4f4/&#34;&gt;How to set up GatsbyJS authentication with Auth0&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://hashinteractive.com/blog/gatsby-authentication-with-strapi-io/&#34;&gt;Gatsby authentication with Strapi.io&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/Swizec/useAuth&#34;&gt;useAuth&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/sw-yx/jamstack-hackathon-starter/&#34;&gt;Netlify Identify&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://hasura.io/&#34;&gt;Hasura&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.prisma.io/&#34;&gt;Prisma&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/hello-nyxo/nyxo-website&#34;&gt;Nyxo website&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;aws&#34;&gt;AWS&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://egghead.io/courses/building-serverless-web-applications-with-react-aws-amplify&#34;&gt;Building serverless web applications with react AWS amplify&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dev.to/olegchursin/gatsby-auth-with-aws-amplify-pfa&#34;&gt;Gatsby auth with AWS Amplify&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://nyxo.app/gatsby-netlify-amplify-part-1&#34;&gt;Gatsby, Netlify and AWS Amplify&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;deploy&#34;&gt;Deploy&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/rafgraph/spa-github-pages&#34;&gt;Single Page Apps for GitHub Pages&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;nextjs&#34;&gt;Next.js&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/vercel/next.js/tree/master/examples&#34;&gt;Next.js examples&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.netlify.com/blog/2020/05/04/building-a-markdown-blog-with-next-9.4-and-netlify/&#34;&gt;Next.js tutorial&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/unicodeveloper/awesome-nextjs&#34;&gt;Awesome Next.js&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/serverless-nextjs/serverless-next.js&#34;&gt;Serverless Next.js&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;state-management&#34;&gt;State management&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://redux.js.org/&#34;&gt;Redux&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://labcodes.com.br/blog/en-us/development/decoupling-logic-from-react-components/&#34;&gt;Decoupling logic from react components&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
   </channel>
 </rss>
