@@ -19,3 +19,6 @@ description: News and information about web applications and marketplaces
 * [Build your first GitHub App](https://docs.github.com/en/developers/apps/guides/using-the-github-api-in-your-app)
 * [Requirements for listing an app](https://docs.github.com/en/developers/github-marketplace/creating-apps-for-github-marketplace/requirements-for-listing-an-app)
 * [GitHub.jl](https://github.com/JuliaWeb/GitHub.jl)
+
+## GitHub API
+* [Libraries](https://docs.github.com/en/rest/overview/libraries)
