@@ -20,6 +20,7 @@ description: News and information about web applications and marketplaces
 * [Requirements for listing an app](https://docs.github.com/en/developers/github-marketplace/creating-apps-for-github-marketplace/requirements-for-listing-an-app)
 
 ## GitHub API
+* [REST API for Actions](https://docs.github.com/en/rest/reference/actions)
 * [Libraries](https://docs.github.com/en/rest/overview/libraries)
 * [octokit.js](https://github.com/octokit/octokit.js)
 * [GitHub.jl](https://github.com/JuliaWeb/GitHub.jl)
