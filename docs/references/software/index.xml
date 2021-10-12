@@ -140,13 +140,18 @@
       <description>
         
         
-        &lt;h1 id=&#34;github-actions&#34;&gt;GitHub Actions&lt;/h1&gt;
+        &lt;h1 id=&#34;github&#34;&gt;GitHub&lt;/h1&gt;
+&lt;h2 id=&#34;github-actions&#34;&gt;GitHub Actions&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://docs.github.com/en/developers/github-marketplace&#34;&gt;GitHub Marketplace documentation&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://docs.github.com/en/developers/apps/guides/using-the-github-api-in-your-app&#34;&gt;Build your first GitHub App&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://docs.github.com/en/actions/creating-actions/publishing-actions-in-github-marketplace&#34;&gt;Publishing actions in GitHub Marketplace&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/sdras/awesome-actions&#34;&gt;awesome-actions&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/aws-actions&#34;&gt;aws-actions&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;github-apps&#34;&gt;GitHub Apps&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.github.com/en/developers/github-marketplace&#34;&gt;GitHub Marketplace documentation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.github.com/en/developers/apps/guides/using-the-github-api-in-your-app&#34;&gt;Build your first GitHub App&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/JuliaWeb/GitHub.jl&#34;&gt;GitHub.jl&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
