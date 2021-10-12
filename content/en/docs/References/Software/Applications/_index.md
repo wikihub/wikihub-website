@@ -19,6 +19,8 @@ description: News and information about web applications and marketplaces
 * [GitHub Marketplace documentation](https://docs.github.com/en/developers/github-marketplace)
 * [Build your first GitHub App](https://docs.github.com/en/developers/apps/guides/using-the-github-api-in-your-app)
 * [Requirements for listing an app](https://docs.github.com/en/developers/github-marketplace/creating-apps-for-github-marketplace/requirements-for-listing-an-app)
+* [Probot](https://probot.github.io/)
+* [Probot is a framework for building GitHub Apps in Node.js.](https://probot.github.io/docs/)
 
 ## GitHub API
 * [REST API for Actions](https://docs.github.com/en/rest/reference/actions)
