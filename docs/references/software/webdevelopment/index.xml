@@ -352,43 +352,5 @@
       </description>
     </item>
     
-    <item>
-      <title>Docs: Vue.js</title>
-      <link>https://wikihub.github.io/docs/references/software/webdevelopment/vuejs/</link>
-      <pubDate>Sat, 20 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://wikihub.github.io/docs/references/software/webdevelopment/vuejs/</guid>
-      <description>
-        
-        
-        &lt;h1 id=&#34;vuejshttpsvuejsorg&#34;&gt;&lt;a href=&#34;https://vuejs.org/&#34;&gt;Vue.js&lt;/a&gt;&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/vuejs/awesome-vue&#34;&gt;Awesome Vue&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://vuepress.vuejs.org/&#34;&gt;VuePress&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.vuescript.com/&#34;&gt;VueScript.com&lt;/a&gt; - Aims to offer latest free Vue.js components for web application developers.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://auth0.com/blog/build-an-app-with-vuejs/&#34;&gt;Build an App with Vue.js: From Authentication to Calling an API&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://material.balmjs.com/&#34;&gt;BalmUI&lt;/a&gt; - next generation Material UI for Vue.js.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://element.eleme.io/&#34;&gt;Element&lt;/a&gt; - a Vue.js 2.0 UI Toolkit for Web.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.iviewui.com/&#34;&gt;iView&lt;/a&gt; - a high quality UI Toolkit built on Vue.js.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://josephuspaye.github.io/Keen-UI/&#34;&gt;Keen UI&lt;/a&gt; - a lightweight collection of essential UI components written with Vue.js and inspired by Material Design.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://museui.github.io/&#34;&gt;Muse UI&lt;/a&gt; - a Vue 2.0 and Material Design based UI component library.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://quasar-framework.org/&#34;&gt;Quasar Framework&lt;/a&gt; - build responsive websites, hybrid mobile Apps (that look native!) and Electron apps using same code, with VueJs 2.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://vuetifyjs.com/&#34;&gt;Vuetify.js&lt;/a&gt; - a component framework for Vue.js 2.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://vuematerial.github.io/&#34;&gt;Vue Material&lt;/a&gt; - lightweight framework built exactly according to the Material Design specs. It aims to deliver a collection of reusable components and a series of UI Elements to build applications with support to all modern Web Browsers through Vue 2.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;nuxt&#34;&gt;Nuxt&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/nuxt-community/awesome-nuxt&#34;&gt;Awesome Nuxt.js (community)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/Developerayo/awesome-nuxtjs&#34;&gt;Awesome Nuxt.js&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://awesome-nuxt.js.org/&#34;&gt;Awesome Nuxt.js.org&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;static-websites&#34;&gt;Static websites&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://gridsome.org/&#34;&gt;Gridsome&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
   </channel>
 </rss>
