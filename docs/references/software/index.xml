@@ -156,6 +156,7 @@
 &lt;h2 id=&#34;github-api&#34;&gt;GitHub API&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://docs.github.com/en/rest/overview/libraries&#34;&gt;Libraries&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/octokit/octokit.js&#34;&gt;octokit.js&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/JuliaWeb/GitHub.jl&#34;&gt;GitHub.jl&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
