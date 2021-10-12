@@ -19,5 +19,21 @@
       
     
     
+    <item>
+      <title>Docs: Angular</title>
+      <link>https://wikihub.github.io/docs/references/software/webdevelopment/front-end/angular/</link>
+      <pubDate>Sat, 20 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/software/webdevelopment/front-end/angular/</guid>
+      <description>
+        
+        
+        &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://alligator.io/angular/angular-pwa/&#34;&gt;Intro to Progressive Web Apps (PWAs) in Angular&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
   </channel>
 </rss>
