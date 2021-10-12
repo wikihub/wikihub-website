@@ -14,7 +14,7 @@ description: News and information about web applications and marketplaces
 * [aws-actions](https://github.com/aws-actions)
 
 ## GitHub Apps
-
+* [Building a GitHub App](https://blog.scottlogic.com/2017/05/22/gifbot-github-integration.html)
 * [GitHub Marketplace documentation](https://docs.github.com/en/developers/github-marketplace)
 * [Build your first GitHub App](https://docs.github.com/en/developers/apps/guides/using-the-github-api-in-your-app)
 * [Requirements for listing an app](https://docs.github.com/en/developers/github-marketplace/creating-apps-for-github-marketplace/requirements-for-listing-an-app)
