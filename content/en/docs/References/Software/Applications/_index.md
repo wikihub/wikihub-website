@@ -21,4 +21,5 @@ description: News and information about web applications and marketplaces
 
 ## GitHub API
 * [Libraries](https://docs.github.com/en/rest/overview/libraries)
+* [octokit.js](https://github.com/octokit/octokit.js)
 * [GitHub.jl](https://github.com/JuliaWeb/GitHub.jl)
