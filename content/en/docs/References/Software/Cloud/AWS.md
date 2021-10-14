@@ -12,3 +12,4 @@ description: News and information about Amazon Web Services
 * [EC2 Workshops](https://ec2spotworkshops.com/)
 * [AWS Toolkit](https://docs.aws.amazon.com/toolkit-for-vscode/latest/userguide/toolkit-navigation.html)
 * [CodeGuru Reviewer](https://github.com/marketplace/actions/codeguru-reviewer)
+* [Capsule](https://github.com/ModusCreateOrg/capsule)
