@@ -16,6 +16,7 @@ description: News and information about learning ROS 2
 # Jupyter Notebooks
 * [jupyterlab-ros](https://github.com/RoboStack/jupyterlab-ros)
 * [jupyterlab_rosjoy](https://github.com/DerThorsten/jupyterlab_rosjoy)
+* [ROSIN Tutorials](https://github.com/RobInLabUJI/ROSIN-Tutorials)
 
 # Development
 * [devrt/ros-devcontainer-vscode](https://github.com/devrt/ros-devcontainer-vscode.git)
