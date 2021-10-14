@@ -23,3 +23,4 @@ description: News and information about learning ROS 2
 
 # Cloud Robotics
 * [ROSbots](https://github.com/ROSbots)
+* [Hadabot](https://blog.hadabot.com/)
