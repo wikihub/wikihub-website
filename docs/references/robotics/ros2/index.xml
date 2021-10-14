@@ -35,6 +35,10 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://developer.nvidia.com/blog/implementing-robotics-applications-with-ros-2-and-ai-on-jetson-platform-2/&#34;&gt;Implementing Robotics Applications with ROS 2 and AI on the NVIDIA Jetson Platform&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h1 id=&#34;aws&#34;&gt;AWS&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/aws-robotics/aws-robomaker-robotics-curriculum&#34;&gt;AWS RoboMaker Robotics Curriculum&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h1 id=&#34;development&#34;&gt;Development&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/devrt/ros-devcontainer-vscode.git&#34;&gt;devrt/ros-devcontainer-vscode&lt;/a&gt;&lt;/li&gt;
