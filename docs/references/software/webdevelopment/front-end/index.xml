@@ -62,6 +62,10 @@
 &lt;li&gt;&lt;a href=&#34;http://jxnblk.com/rebass/&#34;&gt;Rebass&lt;/a&gt; - Configurable React Stateless Functional UI Components.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://blitzjs.com/&#34;&gt;Blitz.js&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h1 id=&#34;static-web-applications&#34;&gt;Static Web Applications&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/MicrosoftDocs/mslearn-staticwebapp/tree/main/react-app&#34;&gt;MSLearn StaticWebApp&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h1 id=&#34;documentation&#34;&gt;Documentation&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://reactjs.org/docs/getting-started.html&#34;&gt;React: Getting Started&lt;/a&gt;&lt;/li&gt;
