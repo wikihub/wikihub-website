@@ -21,6 +21,7 @@ description: Linux resources
 
 # Users
 * [How to create modify and delete users account on Linux](https://linuxconfig.org/how-to-create-modify-and-delete-users-account-on-linux)
+* [How to Change Username in Ubuntu Linux](https://www.configserverfirewall.com/ubuntu-linux/change-username/)
 
 # Kernel
 * [Mainline – Another Tool to Install Latest Kernel in Ubuntu / Linux Mint](https://ubuntuhandbook.org/index.php/2020/08/mainline-install-latest-kernel-ubuntu-linux-mint/)
