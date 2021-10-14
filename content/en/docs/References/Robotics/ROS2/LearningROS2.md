@@ -13,5 +13,9 @@ description: News and information about learning ROS 2
 # AWS
 * [AWS RoboMaker Robotics Curriculum](https://github.com/aws-robotics/aws-robomaker-robotics-curriculum)
 
+# Jupyter Notebooks
+* [jupyterlab-ros](https://github.com/RoboStack/jupyterlab-ros)
+* [jupyterlab_rosjoy](https://github.com/DerThorsten/jupyterlab_rosjoy)
+
 # Development
 * [devrt/ros-devcontainer-vscode](https://github.com/devrt/ros-devcontainer-vscode.git)
