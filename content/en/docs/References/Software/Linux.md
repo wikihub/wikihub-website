@@ -82,6 +82,7 @@ description: Linux resources
 *   [VNC server on EC2](https://askubuntu.com/questions/1068370/vnc-grey-screen-16-04-tightvnc-xfce4-solved)
 *   [It would be good if this worked](https://askubuntu.com/questions/800302/vncserver-grey-screen-ubuntu-16-04-lts)
 *   [Gnome VNC](https://cloudcone.com/docs/article/install-desktop-vnc-ubuntu-16-04/)
+*   [Apache Guacamole](https://guacamole.apache.org/)
 
 # Folder Sync
 
