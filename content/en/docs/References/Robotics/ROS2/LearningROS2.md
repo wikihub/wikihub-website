@@ -20,3 +20,6 @@ description: News and information about learning ROS 2
 
 # Development
 * [devrt/ros-devcontainer-vscode](https://github.com/devrt/ros-devcontainer-vscode.git)
+
+# Cloud Robotics
+* [ROSbots](https://github.com/ROSbots)
