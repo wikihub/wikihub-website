@@ -25,6 +25,8 @@ description: News and information about React development
 *   [Rebass](http://jxnblk.com/rebass/) - Configurable React Stateless Functional UI Components.
 *   [Blitz.js](https://blitzjs.com/)
 
+# Static Web Applications
+* [MSLearn StaticWebApp](https://github.com/MicrosoftDocs/mslearn-staticwebapp/tree/main/react-app)
 
 # Documentation
 * [React: Getting Started](https://reactjs.org/docs/getting-started.html)
