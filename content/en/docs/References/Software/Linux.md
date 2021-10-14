@@ -18,6 +18,7 @@ description: Linux resources
 *   [locale](https://www.thomas-krenn.com/en/wiki/Configure_Locales_in_Ubuntu)
 *   [Symbolic link](https://linuxhint.com/create_symbolic_link_ubuntu/)
 *   [How to change a USER and GROUP ID on Linux for all owned files](https://www.cyberciti.biz/faq/linux-change-user-group-uid-gid-for-all-owned-files/)
+*   [7 Methods to Generate a Strong Password in Ubuntu](https://vitux.com/7-methods-to-generate-a-strong-password-in-ubuntu/)
 
 # Users
 * [How to create modify and delete users account on Linux](https://linuxconfig.org/how-to-create-modify-and-delete-users-account-on-linux)
