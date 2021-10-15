@@ -5,6 +5,9 @@ weight: 30
 description: Resources for robotics
 ---
 
+# Database
+* [Weekly Robotics](https://weeklyrobotics.com/awesome-wr)
+
 # Roadmaps
 
 * [A roadmap for US robotics](https://www.hichristensen.com/pdf/roadmap-2020.pdf)
