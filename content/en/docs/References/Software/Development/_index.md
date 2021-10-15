@@ -67,6 +67,11 @@ description: News and information about software development and necessary tools
 * [Pruning](https://git-scm.com/docs/git-fetch)
 * [Fast file removal](https://stackoverflow.com/questions/2100907/how-to-remove-delete-a-large-file-from-commit-history-in-git-repository)
 * [Delete the git history](https://www.willandskill.se/en/deleting-your-git-commit-history-without-removing-repo-on-github-bitbucket/)
+* [bfg-repo-cleaner is much faster than pruning](https://rtyley.github.io/bfg-repo-cleaner/#usage)
+
+## Large files
+* [An open source Git extension for versioning large files](https://git-lfs.github.com/)
+* [Manage large files with Git Large File Storage (LFS)](https://support.atlassian.com/bitbucket-cloud/docs/manage-large-files-with-git-large-file-storage-lfs/)
 
 ## Submodules
 
