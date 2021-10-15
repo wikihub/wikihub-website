@@ -59,6 +59,9 @@ description: Resources for NVIDIA applications
 
 * [Nucleus Docker](https://docs.omniverse.nvidia.com/prod_nucleus/prod_nucleus/installation/docker/stacks/core/2020.3.0/review.html)
 
+# Omniverse
+* [cleaup tool](https://docs.omniverse.nvidia.com/prod_utilities/prod_utilities/cleanup-tool.html#:~:text=Cleanup-Tool%20%C2%B6%20The%20Launcher%20Clean-Up%20Tool%20will%20put,installed%20applications%2C%20connectors%2C%20file%20utilities%2C%20and%20collaboration%20tools)
+
 # Industrial GPU Computing
 * [Rugged Science](https://www.ruggedscience.com/industrial-computers/nvidia-gpu-computers)
 * [Premio](https://premioinc.com/pages/industrial-gpu-computer)
