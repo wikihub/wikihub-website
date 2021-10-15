@@ -20,6 +20,9 @@ description: Linux resources
 *   [How to change a USER and GROUP ID on Linux for all owned files](https://www.cyberciti.biz/faq/linux-change-user-group-uid-gid-for-all-owned-files/)
 *   [7 Methods to Generate a Strong Password in Ubuntu](https://vitux.com/7-methods-to-generate-a-strong-password-in-ubuntu/)
 
+# Storage
+* [Sort folders based on their size: `du -h | sort -h`](https://askubuntu.com/questions/1224/how-do-i-determine-the-total-size-of-a-directory-folder-from-the-command-line)
+
 # Users
 * [How to create modify and delete users account on Linux](https://linuxconfig.org/how-to-create-modify-and-delete-users-account-on-linux)
 * [How to Change Username in Ubuntu Linux](https://www.configserverfirewall.com/ubuntu-linux/change-username/)
