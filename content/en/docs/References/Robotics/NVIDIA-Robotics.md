@@ -7,6 +7,7 @@ description: Resources for NVIDIA robotics and the Isaac framework
 
 # Jetson Nano
 * [Installing 8821CU driver](https://gist.github.com/TOTON95/b445509399a0d0314d2bc4079527f5a8)
+* [rtl8821CU](https://github.com/brektrou/rtl8821CU)
 
 # ROS
 * [ros2_jetson](https://github.com/NVIDIA-AI-IOT/ros2_jetson)
