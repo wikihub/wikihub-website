@@ -566,7 +566,11 @@
       <description>
         
         
-        &lt;h1 id=&#34;ros&#34;&gt;ROS&lt;/h1&gt;
+        &lt;h1 id=&#34;jetson-nano&#34;&gt;Jetson Nano&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://gist.github.com/TOTON95/b445509399a0d0314d2bc4079527f5a8&#34;&gt;Installing 8821CU driver&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;ros&#34;&gt;ROS&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/NVIDIA-AI-IOT/ros2_jetson&#34;&gt;ros2_jetson&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
