@@ -39,7 +39,7 @@ description: News and information about learning ROS
 * [ROS Tutorials by Tiziano Fiorenzani](https://www.youtube.com/watch?v=N6K2LWG2kRI&list=PLuteWQUGtU9BU0sQIVqRQa24p-pSBCYNv)
 
 # Talks
-* [Connect Linaro](https://connect.linaro.org/resources/
+* [Connect Linaro](https://connect.linaro.org/resources/)
 
 # Courses
 
