@@ -29,6 +29,7 @@ description: News and information about cloud computing services
 - [Softaculous](https://www.softaculous.com/apps/)
 - [AMPPS](https://www.ampps.com/apps)
 - [Yunohost](https://yunohost.org/#/apps)
+- [Meet the Self-Hosters, Taking Back the Internet One Server at a Time](https://www.vice.com/en/article/pkb4ng/meet-the-self-hosters-taking-back-the-internet-one-server-at-a-time)
 
 # Development Operations
 
