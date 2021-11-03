@@ -31,6 +31,7 @@ description: News and information about cloud computing services
 - [Yunohost](https://yunohost.org/#/apps)
 - [Meet the Self-Hosters, Taking Back the Internet One Server at a Time](https://www.vice.com/en/article/pkb4ng/meet-the-self-hosters-taking-back-the-internet-one-server-at-a-time)
 - [/r/selfhosted/](https://old.reddit.com/r/selfhosted/)
+- [The self-hosted dilemma - Home server or the cloud?](https://arvind.io/posts/self-hosted-home-server-vs-cloud/)
 
 # Development Operations
 
