@@ -19,7 +19,7 @@ description: Autonomous Vehicles
 * [Autonomous Vehicle Control Documentation](https://media.readthedocs.org/pdf/phddocs/latest/phddocs.pdf)
 * [MIT SMART](http://dspace.mit.edu/bitstream/handle/1721.1/98419/IROS15_1943_finalVersion.pdf?sequence=1)
 
-## Companies
+# Companies
 
 * [Drive.ai](https://www.drive.ai/)
     * [Drive.ai report](http://spectrum.ieee.org/video/transportation/self-driving/driveai-deep-learning-first-autonomous-driving)
@@ -42,6 +42,24 @@ description: Autonomous Vehicles
 * [Huawei Mobile Automation Engine](https://www.huawei.com/en/press-events/news/2018/11/auto-driving-mobile-network-solution-mae)
 * [Ridecell](https://ridecell.com/)
 * [StreetDrone](https://github.com/streetdrone-home/SD-TwizyModel)
+
+# Autonomous Trucks
+* [Starsky Robotics](https://en.wikipedia.org/wiki/Starsky_Robotics)
+* [Embark Trucks](https://embarktrucks.com/)
+* [Einride](https://www.einride.tech/)
+* [TuSimple](https://www.tusimple.com/)
+* [Ike Robotics acquired by Nuro](https://www.msn.com/en-us/news/technology/nuro-acquires-autonomous-trucking-startup-ike/ar-BB1cbcm8)
+* [Plus.ai](https://plus.ai/)
+* [Gatik](https://gatik.ai/)
+* [Daimler Trucks](https://en.wikipedia.org/wiki/Daimler_AG)
+* [Volvo Trucks](https://en.wikipedia.org/wiki/Volvo_Trucks)
+* [Navistar](https://www.freightwaves.com/news/equipment/navistar-lays-out-a-vision-for-the-future)
+* [Paccar](https://www.ttnews.com/articles/paccar-ceo-outlines-path-toward-zero-emission-trucks-automated-driving)
+* [Ford Otosan](https://www.fordotosan.com.tr/en)
+* [Peloton Technology](https://en.wikipedia.org/wiki/Peloton_Technology)
+* [Aurora](https://medium.com/aurora-blog/developing-the-aurora-driver-for-trucks-870664916daa)
+* [Kodiak.ai](https://kodiak.ai/)
+* [Boxbot](https://www.trucks.com/2019/06/06/boxbot-rautonomous-delivery-system/)
 
 # Drive by Wire
 
