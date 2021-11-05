@@ -191,6 +191,7 @@ description: News and information about Kubernetes
 # Ingress
 
 *   [Inlets](https://docs.inlets.dev/)
+*   [A Tour of Inlets - A Tunnel Built for the Cloud](https://blog.zespre.com/inlets-the-cloud-native-tunnel.html)
 
 # Bare Metal
 
