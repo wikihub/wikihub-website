@@ -139,9 +139,7 @@ description: News and information about Kubernetes
 
 # [Kustomize](https://kustomize.io/)
 
-# Ubuntu
-
-## Juju
+# Juju
 
 * [Juju is an Open Source Charmed Operator Framework.](https://juju.is/docs/olm/controllers)
 * [CharmHub](https://charmhub.io/)
@@ -154,12 +152,12 @@ description: News and information about Kubernetes
    * [Metallb installation](https://metallb.universe.tf/installation/)
    * `juju config metallb-controller iprange=<IPRANGE>`
 
-## Kind
+# Kind
 
 * [Local Kubernetes with kind, Helm & Dashboard](https://medium.com/@munza/local-kubernetes-with-kind-helm-dashboard-41152e4b3b3d)
 * [Installing Che on kind](https://www.eclipse.org/che/docs/che-7/installation-guide/installing-che-on-kind/)
 
-## [Microk8s](https://microk8s.io/)
+# [Microk8s](https://microk8s.io/)
 * There is an [issue](https://github.com/ubuntu/microk8s/issues/1754) with the November 2020 version of Microk8s. For now, you need to his command: `sudo snap install microk8s --classic --channel=latest/edge`
 * [Install a local kubernetes with microk8s](https://ubuntu.com/tutorials/install-a-local-kubernetes-with-microk8s#1-overview)
 * [Install Microk8s](https://ubuntu.com/kubernetes/install)
@@ -174,7 +172,7 @@ description: News and information about Kubernetes
 * You can also change the username and password. For example: `microk8s juju config dex-auth static-username=admin`
 * [Installing Kubeflow](https://gist.github.com/etheleon/80414516c7fbc7147a5718b9897b1518)
 
-## Rancher k3s
+# Rancher k3s
 
 * [Set up K3s in High Availability using k3d](https://rancher.com/blog/2020/set-up-k3s-high-availability-using-k3d)
 * [k3s-demo](https://github.com/vfarcic/k3d-demo)
@@ -183,12 +181,16 @@ description: News and information about Kubernetes
 * [k3s-traefik-v2-kubernetes-crd](https://github.com/sleighzy/k3s-traefik-v2-kubernetes-crd)
 * [raspberry-pi-k3s-homelab](https://github.com/sleighzy/raspberry-pi-k3s-homelab)
 
-## k0s Project
+# k0s Project
 * [k0s project](https://k0sproject.io/)
 
-## Minikube
+# Minikube
 *   [Deploy using MiniKube on Linux](https://www.kubeflow.org/docs/started/workstation/minikube-linux/)
 *   [Minikube cheat sheet](http://www.openkb.info/2018/10/minikube-cheat-sheet.html)
+
+# Ingress
+
+*   [Inlets](https://docs.inlets.dev/)
 
 # Bare Metal
 
@@ -241,7 +243,6 @@ description: News and information about Kubernetes
 # Tools
 
 *   [kubectl](https://kubernetes.io/docs/reference/kubectl/overview/)
-*   [Inlets](https://docs.inlets.dev/)
 *   [kubefwd](https://kubefwd.com/)
 *   [Okteto](https://okteto.com/)
 *   [Forge](https://forge.sh/)
