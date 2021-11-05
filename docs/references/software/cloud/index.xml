@@ -173,6 +173,10 @@
 &lt;li&gt;&lt;a href=&#34;https://community.bitnami.com/&#34;&gt;Bitnami community&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://blog.alexellis.io/kubernetes-marketplace-two-year-update/&#34;&gt;Two year update: Building an Open Source Marketplace for Kubernetes&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h2 id=&#34;arkade&#34;&gt;arkade&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/alexellis/arkade&#34;&gt;arkade - The Open Source Kubernetes Marketplace&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2 id=&#34;jaas&#34;&gt;JAAS&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://jaas.ai/kubeflow/bundle/270&#34;&gt;Kubeflow Charm&lt;/a&gt;&lt;/li&gt;
