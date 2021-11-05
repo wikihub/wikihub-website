@@ -1188,6 +1188,9 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/kubernetes/ingress-nginx/blob/main/docs/user-guide/nginx-configuration/annotations.md&#34;&gt;Ingress annotations&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://platform9.com/blog/ultimate-guide-to-kubernetes-ingress-controllers/&#34;&gt;Ultimate Guide to Kubernetes Ingress Controllers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://goteleport.com/teleport/download/&#34;&gt;Teleport&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.inlets.dev/&#34;&gt;Inlets&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.zespre.com/inlets-the-cloud-native-tunnel.html&#34;&gt;A Tour of Inlets - A Tunnel Built for the Cloud&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;installing-kubernetes-with-deployment-toolshttpskubernetesiodocssetupproduction-environmenttools&#34;&gt;&lt;a href=&#34;https://kubernetes.io/docs/setup/production-environment/tools/&#34;&gt;Installing Kubernetes with deployment tools&lt;/a&gt;&lt;/h1&gt;
 &lt;ul&gt;
@@ -1353,11 +1356,6 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.kubeflow.org/docs/started/workstation/minikube-linux/&#34;&gt;Deploy using MiniKube on Linux&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.openkb.info/2018/10/minikube-cheat-sheet.html&#34;&gt;Minikube cheat sheet&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;ingress-1&#34;&gt;Ingress&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://docs.inlets.dev/&#34;&gt;Inlets&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://blog.zespre.com/inlets-the-cloud-native-tunnel.html&#34;&gt;A Tour of Inlets - A Tunnel Built for the Cloud&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;bare-metal&#34;&gt;Bare Metal&lt;/h1&gt;
 &lt;ul&gt;
