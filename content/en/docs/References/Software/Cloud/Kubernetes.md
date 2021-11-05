@@ -40,6 +40,10 @@ description: News and information about Kubernetes
 ## Ingress
 * [Ingress annotations](https://github.com/kubernetes/ingress-nginx/blob/main/docs/user-guide/nginx-configuration/annotations.md)
 * [Ultimate Guide to Kubernetes Ingress Controllers](https://platform9.com/blog/ultimate-guide-to-kubernetes-ingress-controllers/)
+* [Teleport](https://goteleport.com/teleport/download/)
+* [Inlets](https://docs.inlets.dev/)
+* [A Tour of Inlets - A Tunnel Built for the Cloud](https://blog.zespre.com/inlets-the-cloud-native-tunnel.html)
+
 
 # [Installing Kubernetes with deployment tools](https://kubernetes.io/docs/setup/production-environment/tools/)
 
@@ -187,11 +191,6 @@ description: News and information about Kubernetes
 # Minikube
 *   [Deploy using MiniKube on Linux](https://www.kubeflow.org/docs/started/workstation/minikube-linux/)
 *   [Minikube cheat sheet](http://www.openkb.info/2018/10/minikube-cheat-sheet.html)
-
-# Ingress
-
-*   [Inlets](https://docs.inlets.dev/)
-*   [A Tour of Inlets - A Tunnel Built for the Cloud](https://blog.zespre.com/inlets-the-cloud-native-tunnel.html)
 
 # Bare Metal
 
