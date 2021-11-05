@@ -174,6 +174,7 @@ description: News and information about Kubernetes
 * [Set up K3s in High Availability using k3d](https://rancher.com/blog/2020/set-up-k3s-high-availability-using-k3d)
 * [k3s-demo](https://github.com/vfarcic/k3d-demo)
 * [How to Use Flags and Environment Variables](https://rancher.com/docs/k3s/latest/en/installation/install-options/how-to-flags/)
+* [k3d](https://k3d.io/)
 
 ## k0s Project
 * [k0s project](https://k0sproject.io/)
