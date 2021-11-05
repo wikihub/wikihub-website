@@ -574,5 +574,39 @@
       </description>
     </item>
     
+    <item>
+      <title>Docs: Serverless</title>
+      <link>https://wikihub.github.io/docs/references/software/cloud/serverless/</link>
+      <pubDate>Sun, 11 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/software/cloud/serverless/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;infrastructure&#34;&gt;Infrastructure&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.openfaas.com/&#34;&gt;OpenFaaS&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;python&#34;&gt;Python&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/Miserlou/Zappa&#34;&gt;Zappa&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;sms&#34;&gt;SMS&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://aws.amazon.com/blogs/compute/building-a-serverless-weather-bot-with-two-way-sms-aws-sam-and-aws-lambda/&#34;&gt;Building a serverless weather bot with two-way SMS, AWS SAM, and AWS Lambda&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/think-serverless/building-a-serverless-sms-sender-in-10-minutes-44e1c9ce326e&#34;&gt;Building a serverless SMS sender in 10 minutes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;gps&#34;&gt;GPS&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://aws.amazon.com/blogs/publicsector/creating-a-serverless-gps-monitoring-and-alerting-solution/&#34;&gt;Creating a serverless GPS monitoring and alerting solution&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/DanGOTO100/Serverless-GPS-monitoring-and-alerting-Multi-device&#34;&gt;Serverless GPS monitoring and alerting multi device&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://towardsdatascience.com/how-i-built-a-tiny-real-time-telematics-application-on-aws-a9956f5afe65&#34;&gt;How I built a (tiny) real-time Telematics application on AWS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://theiotmagazine.com/gps-tracking-with-lorawan-and-aws-153cb03b13f6&#34;&gt;GPS tracking with LoRaWAN and AWS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.missioncloud.com/blog/how-to-build-your-personal-serverless-location-tracking-system-with-aws-lambda&#34;&gt;How to Build Your Personal Serverless Location Tracking System with AWS Lambda&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
   </channel>
 </rss>
