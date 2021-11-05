@@ -10,7 +10,8 @@ description: News and information about serverless technologies
 
 # Infrastructure
 
-*   [OpenFaaS](https://www.openfaas.com/)
+* [Serverless Cloud Native Landscape](https://landscape.cncf.io/serverless?zoom=150)
+* [OpenFaaS](https://www.openfaas.com/)
 
 # Python
 
