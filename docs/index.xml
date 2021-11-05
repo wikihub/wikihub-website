@@ -1246,6 +1246,7 @@
 &lt;li&gt;&lt;a href=&#34;https://github.com/thomasdarimont/keycloak-project-example&#34;&gt;Keycloak project example&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://gist.github.com/bsamadi/cdefd1923f084c6174e4b399f2ce3e79&#34;&gt;keycloud-codecentric manifest&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/argoproj/argo-cd/discussions/6641&#34;&gt;keycloak bitnami&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/sleighzy/k3s-traefik-forward-auth-openid-connect&#34;&gt;k3s-traefik-forward-auth-openid-connect&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;argocd&#34;&gt;ArgoCD&lt;/h2&gt;
 &lt;ul&gt;
