@@ -177,6 +177,7 @@ description: News and information about Kubernetes
 * [How to Use Flags and Environment Variables](https://rancher.com/docs/k3s/latest/en/installation/install-options/how-to-flags/)
 * [k3d](https://k3d.io/)
 * [k3s-traefik-v2-kubernetes-crd](https://github.com/sleighzy/k3s-traefik-v2-kubernetes-crd)
+* [raspberry-pi-k3s-homelab](https://github.com/sleighzy/raspberry-pi-k3s-homelab)
 
 ## k0s Project
 * [k0s project](https://k0sproject.io/)
