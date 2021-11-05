@@ -6,6 +6,9 @@ weight: 70
 description: News and information about self-hosted applications
 ---
 
+# Kubernetes
+* [Self-hosting Kubernetes on your Raspberry Pi](https://blog.alexellis.io/self-hosting-kubernetes-on-your-raspberry-pi/)
+
 # Self-Hosted Web Applications
 - [Awesome selfhosted](https://github.com/Kickball/awesome-selfhosted)
 - [Sandstorm](https://apps.sandstorm.io/)
