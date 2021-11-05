@@ -175,6 +175,7 @@ description: News and information about Kubernetes
 * [k3s-demo](https://github.com/vfarcic/k3d-demo)
 * [How to Use Flags and Environment Variables](https://rancher.com/docs/k3s/latest/en/installation/install-options/how-to-flags/)
 * [k3d](https://k3d.io/)
+* [k3s-traefik-v2-kubernetes-crd](https://github.com/sleighzy/k3s-traefik-v2-kubernetes-crd)
 
 ## k0s Project
 * [k0s project](https://k0sproject.io/)
