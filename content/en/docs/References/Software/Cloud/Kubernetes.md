@@ -90,6 +90,7 @@ description: News and information about Kubernetes
 * [Keycloak project example](https://github.com/thomasdarimont/keycloak-project-example)
 * [keycloud-codecentric manifest](https://gist.github.com/bsamadi/cdefd1923f084c6174e4b399f2ce3e79)
 * [keycloak bitnami](https://github.com/argoproj/argo-cd/discussions/6641)
+* [k3s-traefik-forward-auth-openid-connect](https://github.com/sleighzy/k3s-traefik-forward-auth-openid-connect)
 
 ## ArgoCD
 * [ArgoCD on GitHub](https://github.com/argoproj/argo-cd)
