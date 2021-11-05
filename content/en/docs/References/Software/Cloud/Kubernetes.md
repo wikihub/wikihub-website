@@ -57,6 +57,9 @@ description: News and information about Kubernetes
 * [Bitnami community](https://community.bitnami.com/)
 * [Two year update: Building an Open Source Marketplace for Kubernetes](https://blog.alexellis.io/kubernetes-marketplace-two-year-update/)
 
+## arkade
+* [arkade - The Open Source Kubernetes Marketplace](https://github.com/alexellis/arkade)
+
 ## JAAS
 * [Kubeflow Charm](https://jaas.ai/kubeflow/bundle/270)
 * [Gitlab k8s](https://jaas.ai/u/aisrael/gitlab-k8s/bundle/1)
