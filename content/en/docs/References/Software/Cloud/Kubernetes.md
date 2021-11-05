@@ -55,6 +55,7 @@ description: News and information about Kubernetes
 * [ArtifactHub](https://artifacthub.io)
 * [Bitnami](https://bitnami.com)
 * [Bitnami community](https://community.bitnami.com/)
+* [Two year update: Building an Open Source Marketplace for Kubernetes](https://blog.alexellis.io/kubernetes-marketplace-two-year-update/)
 
 ## JAAS
 * [Kubeflow Charm](https://jaas.ai/kubeflow/bundle/270)
