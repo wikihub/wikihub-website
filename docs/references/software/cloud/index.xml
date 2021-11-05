@@ -526,7 +526,11 @@
       <description>
         
         
-        &lt;h1 id=&#34;self-hosted-web-applications&#34;&gt;Self-Hosted Web Applications&lt;/h1&gt;
+        &lt;h1 id=&#34;kubernetes&#34;&gt;Kubernetes&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.alexellis.io/self-hosting-kubernetes-on-your-raspberry-pi/&#34;&gt;Self-hosting Kubernetes on your Raspberry Pi&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;self-hosted-web-applications&#34;&gt;Self-Hosted Web Applications&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/Kickball/awesome-selfhosted&#34;&gt;Awesome selfhosted&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://apps.sandstorm.io/&#34;&gt;Sandstorm&lt;/a&gt;&lt;/li&gt;
