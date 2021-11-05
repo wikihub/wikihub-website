@@ -198,6 +198,7 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://kienmn97.medium.com/manually-deploy-jupyterhub-on-kubernetes-for-a-single-machine-dbcd9c9e50a4&#34;&gt;Manual deployment of JupyterHub on Kubernetes for a single machine&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/BrownUniversity/terraform-gcp-jupyterhub&#34;&gt;terraform-gcp-jupyterhub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jupyterhub.readthedocs.io/en/stable/api/app.html#jupyterhub.app.JupyterHub.base_url&#34;&gt;JupyterHub Documentation&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;binderhub&#34;&gt;BinderHub&lt;/h2&gt;
 &lt;ul&gt;
