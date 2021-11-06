@@ -375,6 +375,7 @@
 &lt;h1 id=&#34;tools&#34;&gt;Tools&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://kubernetes.io/docs/reference/kubectl/overview/&#34;&gt;kubectl&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://kube-vip.io/&#34;&gt;kube-vip&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://kubefwd.com/&#34;&gt;kubefwd&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://okteto.com/&#34;&gt;Okteto&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://forge.sh/&#34;&gt;Forge&lt;/a&gt;&lt;/li&gt;
