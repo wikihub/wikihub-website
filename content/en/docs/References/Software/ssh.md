@@ -19,6 +19,7 @@ description: Resources about ssh connections
 *   [ssh config](https://linux.die.net/man/5/ssh_config)
 *   [ssh jump host](https://wiki.gentoo.org/wiki/SSH_jump_host)
 *   [sshpass](https://www.redhat.com/sysadmin/ssh-automation-sshpass)
+*   Remove a known host: `ssh-keygen -f "~/.ssh/known_hosts" -R "${IP_ADDRESS}"`
 
 # macOS
 * [macOS keeps asking my ssh passphrase](https://superuser.com/questions/1127067/macos-keeps-asking-my-ssh-passphrase-since-i-updated-to-sierra)
