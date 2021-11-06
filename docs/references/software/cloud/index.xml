@@ -314,6 +314,9 @@
 &lt;li&gt;&lt;a href=&#34;https://k3d.io/&#34;&gt;k3d&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/sleighzy/k3s-traefik-v2-kubernetes-crd&#34;&gt;k3s-traefik-v2-kubernetes-crd&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/sleighzy/raspberry-pi-k3s-homelab&#34;&gt;raspberry-pi-k3s-homelab&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://registry.terraform.io/modules/cicdteam/k3s/hcloud/latest&#34;&gt;Terraform: k3s on hcloud&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/cicdteam/terraform-hcloud-k3s&#34;&gt;terraform-hcloud-k3s&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/alexellis/k3sup&#34;&gt;k3sup&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;k0s-project&#34;&gt;k0s Project&lt;/h1&gt;
 &lt;ul&gt;
