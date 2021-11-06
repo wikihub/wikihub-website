@@ -184,6 +184,9 @@ description: News and information about Kubernetes
 * [k3d](https://k3d.io/)
 * [k3s-traefik-v2-kubernetes-crd](https://github.com/sleighzy/k3s-traefik-v2-kubernetes-crd)
 * [raspberry-pi-k3s-homelab](https://github.com/sleighzy/raspberry-pi-k3s-homelab)
+* [Terraform: k3s on hcloud](https://registry.terraform.io/modules/cicdteam/k3s/hcloud/latest)
+* [terraform-hcloud-k3s](https://github.com/cicdteam/terraform-hcloud-k3s)
+* [k3sup](https://github.com/alexellis/k3sup)
 
 # k0s Project
 * [k0s project](https://k0sproject.io/)
