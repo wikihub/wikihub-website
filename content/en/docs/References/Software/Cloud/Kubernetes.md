@@ -243,6 +243,7 @@ description: News and information about Kubernetes
 # Tools
 
 *   [kubectl](https://kubernetes.io/docs/reference/kubectl/overview/)
+*   [kube-vip](https://kube-vip.io/)
 *   [kubefwd](https://kubefwd.com/)
 *   [Okteto](https://okteto.com/)
 *   [Forge](https://forge.sh/)
