@@ -20,6 +20,8 @@ description: >
 # [Docker](https://hub.docker.com/orgs/nubonetics/repositories)
 
 * [nubonetics/text2talk](https://gitlab.com/nubolearning/text2talk)
+* nubonetics/hugo-node
+* nubonetics/gitlab-hugo-node
 
 # Behzad
 
