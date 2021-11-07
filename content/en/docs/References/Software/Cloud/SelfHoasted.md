@@ -8,6 +8,7 @@ description: News and information about self-hosted applications
 
 # Kubernetes
 * [Self-hosting Kubernetes on your Raspberry Pi](https://blog.alexellis.io/self-hosting-kubernetes-on-your-raspberry-pi/)
+* [k8s at home](https://k8s-at-home.com/)
 
 # Self-Hosted Web Applications
 - [Awesome selfhosted](https://github.com/Kickball/awesome-selfhosted)
