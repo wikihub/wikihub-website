@@ -21,6 +21,7 @@ description: >
 
 * [eLearningHub (GitHub)](https://github.com/eLearningHub)
 * [eLearningHub (Gitlab)](https://gitlab.com/elearninghub)
+* [WikiHub](https://github.com/wikihub)
 * [Upskillset](https://gitlab.com/upskillset)
 * [Machine Learning Gym](https://gitlab.com/machine-learning-gym)
 * [Earthquake Toolkit](https://github.com/EarthquakeToolkit)
