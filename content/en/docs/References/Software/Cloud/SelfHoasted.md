@@ -11,6 +11,9 @@ description: News and information about self-hosted applications
 * [k8s at home](https://k8s-at-home.com/)
 * [awesome home kubernetes](https://github.com/k8s-at-home/awesome-home-kubernetes)
 
+## Ingress
+* [ngrok alternatives](https://www.softwaretestinghelp.com/ngrok-alternatives/)
+
 # Self-Hosted Web Applications
 - [Awesome selfhosted](https://github.com/Kickball/awesome-selfhosted)
 - [Sandstorm](https://apps.sandstorm.io/)
