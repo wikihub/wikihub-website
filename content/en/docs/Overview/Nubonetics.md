@@ -10,3 +10,9 @@ description: >
 
 * [Nubonetics Organization on GitHub](https://github.com/nubonetics)
 * [docs-actions](https://github.com/nubonetics/docs-actions)
+
+# Gitlab
+
+* [NuboticsDevOps](https://gitlab.com/nubodev)
+* [Nubonetics ADE](https://gitlab.com/nubonetics-ade)
+* [NuboLearning](https://gitlab.com/nubolearning)
