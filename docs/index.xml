@@ -19,6 +19,24 @@
     
     
     <item>
+      <title>Docs: Nubonetics</title>
+      <link>https://wikihub.github.io/docs/overview/nubonetics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/overview/nubonetics/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;github&#34;&gt;GitHub&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/nubonetics&#34;&gt;Nubonetics Organization on GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/nubonetics/docs-actions&#34;&gt;docs-actions&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Docs: Autonomous Racing</title>
       <link>https://wikihub.github.io/docs/references/automotivesystems/autonomousvehicles/autonomousracing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -2501,75 +2519,6 @@
 &lt;h2 id=&#34;quebec&#34;&gt;Quebec&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://smtech.ca/boutique/fr&#34;&gt;SMTech&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Docs: Robotic Algorithms</title>
-      <link>https://wikihub.github.io/docs/references/robotics/algorithms/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://wikihub.github.io/docs/references/robotics/algorithms/</guid>
-      <description>
-        
-        
-        &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/OrebroUniversity&#34;&gt;Orebro University&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iliad-project.eu/&#34;&gt;Iliad project&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;cloud&#34;&gt;Cloud&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.freedomrobotics.ai/&#34;&gt;Freedom Robotics&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;perception&#34;&gt;Perception&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://nuitrack.com/&#34;&gt;Nuitrack&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;datasets&#34;&gt;Datasets&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://vision.in.tum.de/data/datasets/rgbd-dataset/tools&#34;&gt;Useful tools for the RGB-D benchmark&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://vision.in.tum.de/data/datasets/rgbd-dataset/download&#34;&gt;TUM RGB-D datasets&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;navigation&#34;&gt;Navigation&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/Boeing/modular_navigation&#34;&gt;Boeing modular navigation&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;mapping&#34;&gt;Mapping&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/googlecartographer/cartographer&#34;&gt;Cartographer&lt;/a&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://google-cartographer-ros.readthedocs.io/en/latest/&#34;&gt;Cartographer ROS&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/raulmur/ORB_SLAM2&#34;&gt;ORB SLAM2&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://introlab.github.io/find-object/&#34;&gt;Find Object&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/ethz-asl/voxblox&#34;&gt;Voxblox&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://wiki.ros.org/pointcloud_to_laserscan&#34;&gt;pointcloud to laserscan&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;rtab-map&#34;&gt;RTAB Map&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://introlab.github.io/rtabmap/&#34;&gt;RTAB-Map&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://robohub.org/real-time-appearance-based-mapping-in-action-at-the-microsoft-kinect-challenge-iros-2014/&#34;&gt;RTAB mapping in action&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://git.mistlab.ca/mistlab/documentation/wikis/how-to-use-rtab-map-for-3d-mapping&#34;&gt;How to use RTAB-Map by Mistlab&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;planning&#34;&gt;Planning&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/Forrest-Z?tab=repositories&#34;&gt;Forrest-Z collection&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/NEU-ZJX?tab=repositories&#34;&gt;NEU-ZJX collection&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://lavalle.pl/planning/book.pdf&#34;&gt;Planning algorithms&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;slam&#34;&gt;SLAM&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/googlecartographer/cartographer&#34;&gt;Cartographer: 2D and 3D SLAM&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;visual-slam&#34;&gt;Visual SLAM&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/tzutalin/awesome-visual-slam&#34;&gt;Awesome visual SLAM&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.thomaswhelan.ie/#publications&#34;&gt;Thomas Whelan&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.thomaswhelan.ie/Handa14icra.pdf&#34;&gt;A Benchmark for RGB-D Visual Odometry, 3D Reconstruction and SLAM&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://youtu.be/xlDbuw6skag&#34;&gt;ICRA21 Workshop on Visual-Inertial Navigation Systems&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
