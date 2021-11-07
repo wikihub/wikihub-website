@@ -19,6 +19,10 @@ description: >
 
 # Behzad
 
+* [eLearningHub (GitHub)](https://github.com/eLearningHub)
+* [eLearningHub (Gitlab)](https://gitlab.com/elearninghub)
 * [Upskillset](https://gitlab.com/upskillset)
-* [eLearningHub](https://gitlab.com/elearninghub)
 * [Machine Learning Gym](https://gitlab.com/machine-learning-gym)
+* [Earthquake Toolkit](https://github.com/EarthquakeToolkit)
+* [Mechatronics3D](https://github.com/Mechatronics3D)
+* [SymbolicNMPC](https://github.com/SymbolicNMPC)
