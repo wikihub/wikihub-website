@@ -1354,6 +1354,22 @@
     </item>
     
     <item>
+      <title>Docs: Software</title>
+      <link>https://wikihub.github.io/docs/references/robotics/software/</link>
+      <pubDate>Thu, 18 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/robotics/software/</guid>
+      <description>
+        
+        
+        &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.nubotics.io/&#34;&gt;Nubotics&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Docs: ROS</title>
       <link>https://wikihub.github.io/docs/references/robotics/ros/</link>
       <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
