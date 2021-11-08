@@ -11,3 +11,7 @@ description: News and information about edge computing
 
 # Blogs
 * [HBFS Robotics](https://hbfsrobotics.com/blog)
+
+# Clusters
+* [Cubie Board](http://cubieboard.org/)
+* [TuringPi](https://turingpi.com/)
