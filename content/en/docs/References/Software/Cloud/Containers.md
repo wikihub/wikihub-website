@@ -29,6 +29,7 @@ description: News and information about containers
 * [What is the best way to pass AWS credentials to a Docker container?](https://stackoverflow.com/questions/36354423/what-is-the-best-way-to-pass-aws-credentials-to-a-docker-container)
 * [Pandoc Ubuntu Docker: a reference to learn more about Docker](https://github.com/pandoc/dockerfiles/blob/master/ubuntu/Dockerfile)
 * [How to Use Docker Restart Policies to Keep Containers Running](https://www.cloudsavvyit.com/10912/how-to-use-docker-restart-policies-to-keep-containers-running/)
+* [Using Alpine can make Python Docker builds 50× slower](https://pythonspeed.com/articles/alpine-docker-python/)
 
 ## Learning
 * [CyVerse Container Camp 2020](https://learning.cyverse.org/projects/cyverse-container-camp/en/2020/index.html)
