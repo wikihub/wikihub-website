@@ -558,6 +558,32 @@
     </item>
     
     <item>
+      <title>Docs: Navigation</title>
+      <link>https://wikihub.github.io/docs/references/robotics/navigation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/robotics/navigation/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;navigation&#34;&gt;Navigation&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://discuss.ardupilot.org/t/project-rough-terrain-navigation-using-deep-reinforcement-learning-part-1/77016&#34;&gt;Rough terrain navigation using Deep Reinforcement Learning Part 1&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;slam-devices&#34;&gt;SLAM devices&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://geoslam.com/&#34;&gt;GeoSLAM&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.slamtec.com/en/Lidar/Mapper&#34;&gt;SLAMTEC Mapper&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;courses&#34;&gt;Courses&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=U6vr3iNrwRA&amp;amp;list=PLgnQpQtFTOGQrZ4O5QzbIHgl3b1JHimN_&#34;&gt;SLAM course (2013/14; Cyrill Stachniss)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Docs: NVIDIA Robotics</title>
       <link>https://wikihub.github.io/docs/references/robotics/nvidia-robotics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -912,28 +938,6 @@
 &lt;li&gt;&lt;a href=&#34;http://www.thomaswhelan.ie/#publications&#34;&gt;Thomas Whelan&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.thomaswhelan.ie/Handa14icra.pdf&#34;&gt;A Benchmark for RGB-D Visual Odometry, 3D Reconstruction and SLAM&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://youtu.be/xlDbuw6skag&#34;&gt;ICRA21 Workshop on Visual-Inertial Navigation Systems&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Docs: SLAM</title>
-      <link>https://wikihub.github.io/docs/references/robotics/slam/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://wikihub.github.io/docs/references/robotics/slam/</guid>
-      <description>
-        
-        
-        &lt;h1 id=&#34;slam-devices&#34;&gt;SLAM devices&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://geoslam.com/&#34;&gt;GeoSLAM&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.slamtec.com/en/Lidar/Mapper&#34;&gt;SLAMTEC Mapper&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;courses&#34;&gt;Courses&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=U6vr3iNrwRA&amp;amp;list=PLgnQpQtFTOGQrZ4O5QzbIHgl3b1JHimN_&#34;&gt;SLAM course (2013/14; Cyrill Stachniss)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>

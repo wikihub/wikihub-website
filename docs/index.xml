@@ -2174,6 +2174,32 @@
     </item>
     
     <item>
+      <title>Docs: Navigation</title>
+      <link>https://wikihub.github.io/docs/references/robotics/navigation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/robotics/navigation/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;navigation&#34;&gt;Navigation&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://discuss.ardupilot.org/t/project-rough-terrain-navigation-using-deep-reinforcement-learning-part-1/77016&#34;&gt;Rough terrain navigation using Deep Reinforcement Learning Part 1&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;slam-devices&#34;&gt;SLAM devices&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://geoslam.com/&#34;&gt;GeoSLAM&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.slamtec.com/en/Lidar/Mapper&#34;&gt;SLAMTEC Mapper&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;courses&#34;&gt;Courses&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=U6vr3iNrwRA&amp;amp;list=PLgnQpQtFTOGQrZ4O5QzbIHgl3b1JHimN_&#34;&gt;SLAM course (2013/14; Cyrill Stachniss)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Docs: NVIDIA</title>
       <link>https://wikihub.github.io/docs/references/software/nvidia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -2351,203 +2377,6 @@
 &lt;h1 id=&#34;teams&#34;&gt;Teams&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://monashuas.org/&#34;&gt;Monash UAS&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Docs: RC Cars</title>
-      <link>https://wikihub.github.io/docs/references/robotics/rccars/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://wikihub.github.io/docs/references/robotics/rccars/</guid>
-      <description>
-        
-        
-        &lt;h1 id=&#34;rc-car-manufacturers&#34;&gt;RC Car Manufacturers&lt;/h1&gt;
-&lt;h2 id=&#34;kyosho&#34;&gt;Kyosho&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.kyoshoamerica.com/32336PW-MINI-Z-RWD-TOYOTA-86-White_p_26021.html&#34;&gt;Mini Z&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;atomic&#34;&gt;Atomic&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.rcatomic.com&#34;&gt;Atomic&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.rcatomic.com/atomic/index.php?main_page=index&amp;amp;cPath=47_318&#34;&gt;AMZ&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;traxxas&#34;&gt;Traxxas&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://latrax.com/products/prerunner&#34;&gt;LaTrax&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;tamiya&#34;&gt;Tamiya&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.tamiya.com/english/rc/rc.htm&#34;&gt;Tamiya RC models&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Tamiya Mini 4WD FM-A&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;carson&#34;&gt;Carson&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.carson-modelsport.com/en/home/&#34;&gt;Carson model sport&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;lego-technic&#34;&gt;LEGO Technic&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://buwizz.com/&#34;&gt;BuWizz&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;team-associated&#34;&gt;Team Associated&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.associatedelectrics.com/&#34;&gt;Associated Electrics&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;sinhobby&#34;&gt;Sinhobby&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.sinohobby.com/Default.aspx&#34;&gt;Sinhobby Mini Q&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;wltoys&#34;&gt;WLToys&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://wltoys.co/&#34;&gt;WLToys&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://wltoys.co/product/wltoys-k989-1-28-2-4g-4wd-brushed-rc-rally-car-rtr/&#34;&gt;K989&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;maisto&#34;&gt;Maisto&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.maisto.com/&#34;&gt;Maisto&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;rc-car-parts&#34;&gt;RC Car Parts&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://teamorion.com/en/&#34;&gt;Team Orion&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;rc-car-classes&#34;&gt;RC Car Classes&lt;/h1&gt;
-&lt;h2 id=&#34;mini-z&#34;&gt;Mini Z&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=hXH8iTWgpDo&#34;&gt;1/28 RC Roundup - 01 | Speed Test&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://mini-zracer.com/&#34;&gt;Mini Z Racer&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Transmitter: CYRF6936&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;mini-z-rc-cars&#34;&gt;Mini Z RC Cars&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Mini Z Sports MR03 (16 km/h)&lt;/li&gt;
-&lt;li&gt;Mini Z FWD (21 km/h)&lt;/li&gt;
-&lt;li&gt;WLtoys K989 (27 km/h)&lt;/li&gt;
-&lt;li&gt;Mini Q Q7 RTR (21 km/h)&lt;/li&gt;
-&lt;li&gt;Mini Q Q7 Brushless 3500KV (21 km/h)&lt;/li&gt;
-&lt;li&gt;Mini Q Q7 Brushless 6000KV (34 km/h)&lt;/li&gt;
-&lt;li&gt;Mini Q Q1 Brushless 7500KV (41 km/h)&lt;/li&gt;
-&lt;li&gt;Mini Q Q2 (17 km/h)&lt;/li&gt;
-&lt;li&gt;Atomic AMZ 3500KV (20 km/h)&lt;/li&gt;
-&lt;li&gt;Firelap IW04M (8 km/h)&lt;/li&gt;
-&lt;li&gt;Tamiya Mini 4WD FM-A (17 km/h)&lt;/li&gt;
-&lt;li&gt;Tamiya Mini 4WD AR (32 m/h)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;mini-z-tracks&#34;&gt;Mini Z Tracks&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=LGhbbVlsIak&#34;&gt;Mini z Racing @Bruckner / 2016-05-20 / Open A-Main&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;computer-controlled-cars&#34;&gt;Computer Controlled Cars&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://flytron.com/rc-electronics/56-compufly-usbtoppm-converter.html&#34;&gt;USB2PPM&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/pascallanger/DIY-Multiprotocol-TX-Module&#34;&gt;DIY Multiprotocol TX Module&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;fpv-rc-cars&#34;&gt;FPV RC Cars&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.amazon.ca/T%C3%A9l%C3%A9commande-t%C3%A9l%C3%A9command%C3%A9e-voitures-tout-terrain-v%C3%A9hicule/dp/B081Z37LW6/ref=sr_1_29&#34;&gt;RC Car Remote Control,Wi-Fi Camera 720P HD, 1/16 LED Light 4x4 Buggy&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;steering-wheel&#34;&gt;Steering Wheel&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://wiki.aalto.fi/pages/viewpage.action?pageId=105420066&#34;&gt;Aalto University&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;rc-car-projects&#34;&gt;RC Car Projects&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.jetsonhacks.com/category/robotics/jetson-racecar/&#34;&gt;Jetson RC car&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://docs.donkeycar.com/&#34;&gt;Donkey Car&lt;/a&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://store.donkeycar.com/collections/accessories&#34;&gt;Donkey Car store&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://makezine.com/projects/build-autonomous-rc-car-raspberry-pi/&#34;&gt;Donkey Car on Makezine&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/intel/sawr&#34;&gt;Simple Autonomous Wheeled Robot (SAWR)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://medium.com/intro-to-artificial-intelligence/self-driving-rc-car-using-robotic-operating-system-ros-c63a6d102c08&#34;&gt;Self-driving RC car using Robotic Operating System(ROS)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/germain-hug/Autonomous-RC-Car&#34;&gt;Autonomous RC car by germain-hug&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/GigaFlopsis/rc_car_ros&#34;&gt;rc_car_ros with RPLiDAR&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/RoblabWhGe/rc_bot&#34;&gt;rc_bot&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://jnazaren.github.io/racecar_project_page/&#34;&gt;Race car project with Hokuyo LiDAR&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://linklab-uva.github.io/autonomousracing/&#34;&gt;F1/10 autonomous racing&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://racecarj.com/&#34;&gt;RACECAR/J&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;papers&#34;&gt;Papers&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://deepai.org/publication/mir-vehicle-cost-effective-research-platform-for-autonomous-vehicle-applications&#34;&gt;MIR Vehicle at DeepAI&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;race-car&#34;&gt;Race Car&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://learn.sparkfun.com/tutorials/building-an-autonomous-vehicle-the-batmobile/all&#34;&gt;Building an autonomous vehicle by SparkFun&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;3d-printed-rc-cars&#34;&gt;3D printed RC cars&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://hackaday.com/2019/04/09/nearly-entirely-3d-printed-rc-car-is-4wd-fun/&#34;&gt;Nearly entirely 3D printed RC car&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.thingiverse.com/thing:3546277&#34;&gt;3D printed RC car V3&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.thingiverse.com/thing:4332095&#34;&gt;BlueCArd&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.thingiverse.com/thing:3749485&#34;&gt;CARduino&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=ulJYxnqg5uE&#34;&gt;3D printed mini car&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=poAqHuJEFzU&amp;amp;list=PLSais_tJnMDB7eW5cRBJyd--KQbyus_eS&#34;&gt;3D FUNS&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.thingiverse.com/thing:2772823&#34;&gt;3DRC 1/24 AWD Drift car&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.thingiverse.com/MazeMieter/collections/fully-3d-printable-rc-cars&#34;&gt;Fully 3D printable RC cars&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;research&#34;&gt;Research&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=Hf68uPoXJOY&#34;&gt;Computer controlled RC car racing - ETHZ&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=QWY7sV9sjkA&#34;&gt;ORCA - ETHZ&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;duckie-town&#34;&gt;Duckie Town&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.duckietown.org/&#34;&gt;Dockie Town&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.duckietown.org/archives/49554&#34;&gt;Community Spotlight: Arian Houshmand – Control Algorithms for Traffic&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;quanser&#34;&gt;Quanser&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://quanserinc.app.box.com/s/mpra4hhr0684atd4yl2crhsjowsmcg8g&#34;&gt;QCar&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;open-source-projects&#34;&gt;Open source projects&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.instructables.com/id/ROSbot-Autonomous-Robot-With-LiDAR/&#34;&gt;ROSbot&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://mit-racecar.github.io/hardware/&#34;&gt;MIT Racecar&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://mushr.io/&#34;&gt;MuSHR&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://racecarj.com/&#34;&gt;RACECAR/J&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://f1tenth.org/build.html&#34;&gt;F1/10&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.barc-project.com/&#34;&gt;BARC&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;controllers&#34;&gt;Controllers&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://tinycircuits.com/collections/processors/products/robotzero&#34;&gt;RobotZero&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://tinycircuits.com/collections/communication/products/wifi-tinyshield-atwinc1500&#34;&gt;WiFi TinyShield&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://store.arduino.cc/usa/mkr-wan-1300&#34;&gt;Arduino MKR WAN&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://store.arduino.cc/usa/mkr-wifi-1010&#34;&gt;Arduino MKR WiFi&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://store.arduino.cc/usa/arduino-mkr-imu-shield&#34;&gt;Arduino MKR IMU Shield&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://store.arduino.cc/usa/nano-33-ble-sense&#34;&gt;Arduino Nano 33 BLE Sense&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://store.arduino.cc/usa/nano-33-iot&#34;&gt;Arduino Nano 33 IoT&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;news&#34;&gt;News&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.reddit.com/r/MiniZ/&#34;&gt;Reddit Mini Z&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.rcgroups.com/forums/channels.php?id=17&#34;&gt;RC Groups&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;businesses&#34;&gt;Businesses&lt;/h1&gt;
-&lt;h2 id=&#34;usa&#34;&gt;USA&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.kyoshoamerica.com&#34;&gt;Kyosho America&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://hobbyking.com/en_us&#34;&gt;Hobby King&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;canada&#34;&gt;Canada&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.advancehobbies.com/&#34;&gt;Advance Hobbies&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.canadahobbies.ca/&#34;&gt;Canada Hobbies&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;toronto&#34;&gt;Toronto&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.minicarclubofcanada.com/&#34;&gt;Mini Car Club of Canada (MC3)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.handracing.ca/MiniZ-Tournaments.php&#34;&gt;Hand Racing&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.runtimerc.ca/&#34;&gt;Runtime RC&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://pinnaclehobby.ca/&#34;&gt;Pinnacle Hobby&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;quebec&#34;&gt;Quebec&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://smtech.ca/boutique/fr&#34;&gt;SMTech&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
