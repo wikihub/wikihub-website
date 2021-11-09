@@ -1751,7 +1751,10 @@
       <description>
         
         
-        &lt;h1 id=&#34;installing-python&#34;&gt;Installing Python&lt;/h1&gt;
+        &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://awesome-python.com/&#34;&gt;Awesome Python&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;installing-python&#34;&gt;Installing Python&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://phoenixnap.com/kb/how-to-install-python-3-ubuntu&#34;&gt;Install Python3.8&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://askubuntu.com/questions/1025793/running-pip3-importerror-cannot-import-name-main&#34;&gt;Use python -m pip install instead of pip install&lt;/a&gt;&lt;/li&gt;
