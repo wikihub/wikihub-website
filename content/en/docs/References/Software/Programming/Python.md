@@ -8,6 +8,7 @@ description: Resources for the Python language
 * [Awesome Python](https://awesome-python.com/)
 
 # Command Line Interface
+* [click](https://click.palletsprojects.com/en/latest/)
 * [cement](https://builtoncement.com/)
 
 # Installing Python
