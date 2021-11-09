@@ -1631,6 +1631,22 @@
     </item>
     
     <item>
+      <title>Docs: Go</title>
+      <link>https://wikihub.github.io/docs/references/software/programming/go/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/software/programming/go/</guid>
+      <description>
+        
+        
+        &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://awesome-go.com/&#34;&gt;Awesome Go&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Docs: Graphic Design</title>
       <link>https://wikihub.github.io/docs/references/software/graphicdesign/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -2334,53 +2350,6 @@
 &lt;h1 id=&#34;robot-computers&#34;&gt;Robot Computers&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://ark.intel.com/content/www/us/en/ark/products/130394/intel-nuc-board-nuc7i7dnbe.html&#34;&gt;Intel® NUC Board NUC7i7DNBE&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Docs: Quadrotors</title>
-      <link>https://wikihub.github.io/docs/references/robotics/quadrotors/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://wikihub.github.io/docs/references/robotics/quadrotors/</guid>
-      <description>
-        
-        
-        &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://store.bitcraze.io/products/crazyflie-2-1&#34;&gt;CrazyFlie&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/PX4&#34;&gt;PX4&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://ardupilot.org/dev/index.html&#34;&gt;Ardupilot&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.proficnc.com/&#34;&gt;ProfiCNC&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.hex.aero/&#34;&gt;Hex&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.robotshop.com/ca/en/uav-drone-flight-controllers.html&#34;&gt;RobotShop drone flight controller&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;pixhawk&#34;&gt;Pixhawk&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.cubepilot.org/#/home&#34;&gt;CubePilot&lt;/a&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://docs.cubepilot.org/user-guides/&#34;&gt;CubePilot user guides&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;drones&#34;&gt;Drones&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.bestbuy.ca/en-ca/product/dji-mavic-pro-quadcopter-drone-with-4k-uhd-camera-controller-fly-more-bundle-platinum-bilingual/11624405&#34;&gt;DJI Mavic Pro with 4k camera&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.dell.com/en-ca/shop/dji-mavic-pro-platinum-quadcopter-wi-fi/apd/aa035232/gaming-gaming-accessories?gacd=9683780-3004-5761040-0-0&#34;&gt;DJI Mavic Pro Platinum - Quadcopter - Wi-Fi&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.dell.com/en-ca/shop/dji-mavic-2-pro-quadcopter-wi-fi/apd/aa410884/gaming-gaming-accessories?ref=p13n_ena_pdp_vv&amp;amp;c=ca&amp;amp;cs=cadhs1&amp;amp;l=en&amp;amp;s=dhs&#34;&gt;DJI Mavic 2 Pro - Quadcopter - Wi-Fi&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;software&#34;&gt;Software&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://ardupilot.org/&#34;&gt;ArduPilot&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;frameworks&#34;&gt;Frameworks&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.dronecode.org/projects/&#34;&gt;Drone Code&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;teams&#34;&gt;Teams&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://monashuas.org/&#34;&gt;Monash UAS&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
