@@ -2297,7 +2297,11 @@
       <description>
         
         
-        &lt;h1 id=&#34;jetson-nano&#34;&gt;Jetson Nano&lt;/h1&gt;
+        &lt;h1 id=&#34;training&#34;&gt;Training&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.nvidia.com/teaching-kits&#34;&gt;NVIDIA Training Kit&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;jetson-nano&#34;&gt;Jetson Nano&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://gist.github.com/TOTON95/b445509399a0d0314d2bc4079527f5a8&#34;&gt;Installing 8821CU driver&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/brektrou/rtl8821CU&#34;&gt;rtl8821CU&lt;/a&gt;&lt;/li&gt;
