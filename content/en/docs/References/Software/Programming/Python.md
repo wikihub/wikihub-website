@@ -5,6 +5,8 @@ weight: 25
 description: Resources for the Python language
 ---
 
+* [Awesome Python](https://awesome-python.com/)
+
 # Installing Python
 
 - [Install Python3.8](https://phoenixnap.com/kb/how-to-install-python-3-ubuntu)
