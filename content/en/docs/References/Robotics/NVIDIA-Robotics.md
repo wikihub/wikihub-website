@@ -5,6 +5,10 @@ weight: 30
 description: Resources for NVIDIA robotics and the Isaac framework
 ---
 
+# Training
+
+* [NVIDIA Training Kit](https://developer.nvidia.com/teaching-kits)
+
 # Jetson Nano
 * [Installing 8821CU driver](https://gist.github.com/TOTON95/b445509399a0d0314d2bc4079527f5a8)
 * [rtl8821CU](https://github.com/brektrou/rtl8821CU)
