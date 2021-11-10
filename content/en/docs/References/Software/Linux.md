@@ -30,6 +30,10 @@ description: Linux resources
 # Kernel
 * [Mainline – Another Tool to Install Latest Kernel in Ubuntu / Linux Mint](https://ubuntuhandbook.org/index.php/2020/08/mainline-install-latest-kernel-ubuntu-linux-mint/)
 
+# Services:
+
+* List services: `service  --status-all`
+
 # Package Managers
 
 ## APT
