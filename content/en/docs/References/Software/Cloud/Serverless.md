@@ -12,6 +12,7 @@ description: News and information about serverless technologies
 
 * [Serverless Cloud Native Landscape](https://landscape.cncf.io/serverless?zoom=150)
 * [OpenFaaS](https://www.openfaas.com/)
+* [Knative](https://knative.dev/blog/articles/knative-1.0/)
 
 # Python
 
