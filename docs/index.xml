@@ -1302,10 +1302,11 @@
 &lt;li&gt;&lt;a href=&#34;https://github.com/argoproj/argo-cd/discussions/6641&#34;&gt;keycloak bitnami&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/sleighzy/k3s-traefik-forward-auth-openid-connect&#34;&gt;k3s-traefik-forward-auth-openid-connect&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;argocd&#34;&gt;ArgoCD&lt;/h2&gt;
+&lt;h2 id=&#34;cicd&#34;&gt;CI/CD&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/argoproj/argo-cd&#34;&gt;ArgoCD on GitHub&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://argo-cd.readthedocs.io/en/stable/operator-manual/ingress/&#34;&gt;ArgoCd ingress configurations&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://tekton.dev/&#34;&gt;Tekton&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;gitpod&#34;&gt;Gitpod&lt;/h2&gt;
 &lt;ul&gt;
