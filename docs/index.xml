@@ -1387,6 +1387,7 @@
 &lt;/ul&gt;
 &lt;h1 id=&#34;rancher-k3s&#34;&gt;Rancher k3s&lt;/h1&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://rancher.com/docs/k3s/latest/en/quick-start/&#34;&gt;K3s: Quick start&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://rancher.com/blog/2020/set-up-k3s-high-availability-using-k3d&#34;&gt;Set up K3s in High Availability using k3d&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/vfarcic/k3d-demo&#34;&gt;k3s-demo&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://rancher.com/docs/k3s/latest/en/installation/install-options/how-to-flags/&#34;&gt;How to Use Flags and Environment Variables&lt;/a&gt;&lt;/li&gt;
