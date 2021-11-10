@@ -100,9 +100,10 @@ description: News and information about Kubernetes
 * [keycloak bitnami](https://github.com/argoproj/argo-cd/discussions/6641)
 * [k3s-traefik-forward-auth-openid-connect](https://github.com/sleighzy/k3s-traefik-forward-auth-openid-connect)
 
-## ArgoCD
+## CI/CD
 * [ArgoCD on GitHub](https://github.com/argoproj/argo-cd)
 * [ArgoCd ingress configurations](https://argo-cd.readthedocs.io/en/stable/operator-manual/ingress/)
+* [Tekton](https://tekton.dev/)
 
 ## Gitpod
 
