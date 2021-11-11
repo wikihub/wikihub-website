@@ -14,6 +14,10 @@ description: News and information about serverless technologies
 * [OpenFaaS](https://www.openfaas.com/)
 * [Knative](https://knative.dev/blog/articles/knative-1.0/)
 
+# Function as a Service
+
+* [Kyma project](https://github.com/kyma-project)
+
 # Python
 
 *   [Zappa](https://github.com/Miserlou/Zappa)
