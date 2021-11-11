@@ -1784,6 +1784,24 @@
     </item>
     
     <item>
+      <title>Docs: Node.js</title>
+      <link>https://wikihub.github.io/docs/references/software/programming/node.js/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/software/programming/node.js/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;yarn&#34;&gt;Yarn&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.w3schools.com/nodejs/&#34;&gt;Node.js W3 School&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://classic.yarnpkg.com/en/docs/cli/global/&#34;&gt;yarn cli global&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Docs: Python</title>
       <link>https://wikihub.github.io/docs/references/software/programming/python/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -2259,95 +2277,6 @@
 &lt;h1 id=&#34;courses&#34;&gt;Courses&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=U6vr3iNrwRA&amp;amp;list=PLgnQpQtFTOGQrZ4O5QzbIHgl3b1JHimN_&#34;&gt;SLAM course (2013/14; Cyrill Stachniss)&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Docs: NVIDIA</title>
-      <link>https://wikihub.github.io/docs/references/software/nvidia/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://wikihub.github.io/docs/references/software/nvidia/</guid>
-      <description>
-        
-        
-        &lt;h1 id=&#34;nvidia-ai-iot&#34;&gt;NVIDIA AI IoT&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/NVIDIA-AI-IOT&#34;&gt;NVIDIA AI IoT&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;iot&#34;&gt;IoT&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://mender.io/&#34;&gt;Mender&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;cuda&#34;&gt;CUDA&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.pugetsystems.com/labs/hpc/How-To-Install-CUDA-10-together-with-9-2-on-Ubuntu-18-04-with-support-for-NVIDIA-20XX-Turing-GPUs-1236/&#34;&gt;How To Install CUDA 10 (together with 9.2) on Ubuntu 18.04 with support for NVIDIA 20XX Turing GPUs&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://cudaeducation.com/&#34;&gt;CUDA Education&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;jetson&#34;&gt;Jetson&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://elinux.org/Jetson_Zoo&#34;&gt;Jetson Zoo&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;docker-images&#34;&gt;Docker images&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/dusty-nv/jetson-containers/&#34;&gt;Jetson Containers&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/NVIDIA-AI-IOT/ros2_jetson&#34;&gt;ROS2 Jetson&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;jetpack&#34;&gt;JetPack&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://repo.download.nvidia.com/jetson/&#34;&gt;Jetson Repo&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://developer.nvidia.com/embedded/linux-tegra-archive&#34;&gt;Linux Tegra Archive&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://docs.nvidia.com/jetson/archives/l4t-archived/l4t-3261/index.html#page/Tegra%20Linux%20Driver%20Package%20Development%20Guide/updating_jetson_and_host.html#wwpID0E0XI0HA&#34;&gt;Updating Jetson Linux with Image-Based Over-the-Air Update - JetPack 4.6&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://docs.nvidia.com/jetson/l4t/index.html#page/Tegra%20Linux%20Driver%20Package%20Development%20Guide/updating_jetson_and_host.html#wwpID0E0PB0HA&#34;&gt;Upgrade to a new minor release&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;nano&#34;&gt;Nano&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.jetsonhacks.com/2019/04/14/jetson-nano-use-more-memory/&#34;&gt;Make a swap file&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.clarenceho.net/2019/05/building-visual-studio-code-on-jetson.html&#34;&gt;Building Visual Studio Code&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://devtalk.nvidia.com/default/topic/1046610/jetson-tx2/what-3d-camera-is-recommended-for-use-with-jetson-tx2-/&#34;&gt;Depth cameras for NVIDIA Jetson&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://elinux.org/Jetson/Cameras#Stereo_Cameras&#34;&gt;Stereo cameras for Jetson&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://elinux.org/Jetson_Zoo&#34;&gt;Jetson Zoo&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/antmicro/jetson-nano-baseboard&#34;&gt;Jetson Nano / Xavier NX baseboard&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;xavier-nx&#34;&gt;Xavier NX&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://viking-drone.com/wiki/upgrading-nvidia-jetson-xavier-nx-to-ubuntu-20-04/&#34;&gt;Upgrading NVIDIA Jetson Xavier NX to Ubuntu 20.04&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;xavier-agx&#34;&gt;Xavier AGX&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/yqlbu/jetson-packages-family&#34;&gt;jetson-packages-family&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/atinfinity/sdk_manager_docker&#34;&gt;SDK Manager in Docker&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://forums.developer.nvidia.com/t/jetson-agx-xavier-flash-failure/73917&#34;&gt;&lt;code&gt;cd ~/nvidia/nvidia_sdk/JetPack_4.6_Linux_JETSON_AGX_XAVIER_TARGETS/Linux_for_Tegra; sudo ./flash.sh jetson-xavier mmcblk0p1&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://superuser.com/questions/268776/how-do-i-configure-ssh-so-it-doesnt-try-all-the-identity-files-automatically&#34;&gt;Upgrade NVIDIA Jetson Xavier AGX from Ubuntu Bionic Beaver to Focal Fossa&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.forecr.io/&#34;&gt;forcecr&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;isaac&#34;&gt;Isaac&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://docs.nvidia.com/isaac/isaac/doc/index.html&#34;&gt;Isaac SDK documentation&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://docs.nvidia.com/isaac/isaac_sim/index.html&#34;&gt;Isaac Sim documentation&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://devtalk.nvidia.com/default/topic/1057245/quick-start-carter-in-isaacsim-document-don-t-work-/?offset=3&#34;&gt;The issue with maps in quick start with Carter&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;nucleus&#34;&gt;Nucleus&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://docs.omniverse.nvidia.com/prod_nucleus/prod_nucleus/installation/docker/stacks/core/2020.3.0/review.html&#34;&gt;Nucleus Docker&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;omniverse&#34;&gt;Omniverse&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://docs.omniverse.nvidia.com/prod_utilities/prod_utilities/cleanup-tool.html#:~:text=Cleanup-Tool%20%C2%B6%20The%20Launcher%20Clean-Up%20Tool%20will%20put,installed%20applications%2C%20connectors%2C%20file%20utilities%2C%20and%20collaboration%20tools&#34;&gt;cleaup tool&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;industrial-gpu-computing&#34;&gt;Industrial GPU Computing&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.ruggedscience.com/industrial-computers/nvidia-gpu-computers&#34;&gt;Rugged Science&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://premioinc.com/pages/industrial-gpu-computer&#34;&gt;Premio&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://industrialpc.com/product-category/embedded/gpu-computers/&#34;&gt;Industrial PC&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.onlogic.com/hx600/&#34;&gt;OnLogic&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.neousys-tech.com/en/discover/gpu-embedded-computing&#34;&gt;Neousys GPU Computing Systems&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;robot-computers&#34;&gt;Robot Computers&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://ark.intel.com/content/www/us/en/ark/products/130394/intel-nuc-board-nuc7i7dnbe.html&#34;&gt;Intel® NUC Board NUC7i7DNBE&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
