@@ -385,9 +385,12 @@
 &lt;li&gt;&lt;a href=&#34;https://github.com/ubergarm/l2tp-ipsec-vpn-client&#34;&gt;l2tp-ipsec-vpn-client: Docker&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://hub.docker.com/r/linuxserver/openvpn-as&#34;&gt;OpenVPN client: Docker&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/trailofbits/algo&#34;&gt;Algo&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.wireguard.com/&#34;&gt;WireGuard&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;What is my IP?: &lt;code&gt;curl https://ipinfo.io/ip&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.ivpn.net/knowledgebase/linux/linux-autostart-openvpn-in-systemd-ubuntu/&#34;&gt;Start OpenVPN at startup&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;wireguardhttpswwwwireguardcom&#34;&gt;&lt;a href=&#34;https://www.wireguard.com/&#34;&gt;WireGuard&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.wireguardconfig.com/&#34;&gt;WireGuard config&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;ssh-tunnel&#34;&gt;SSH Tunnel&lt;/h1&gt;
 &lt;ul&gt;
