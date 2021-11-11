@@ -86,10 +86,13 @@
 &lt;li&gt;&lt;a href=&#34;https://github.com/doczjs/docz/tree/master/core/gatsby-theme-docz&#34;&gt;Gatsby and Docz&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.freecodecamp.org/news/building-jamstack-apps/&#34;&gt;Building JAMstack apps&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;h2 id=&#34;documentation-1&#34;&gt;Documentation&lt;/h2&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.gatsbyjs.com/tutorial/writing-documentation-with-docz/&#34;&gt;Writing documentation with Docz&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://codebushi.com/gatsby-starters-and-themes/&#34;&gt;Code Bushi&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://gatsby-theme-document.netlify.app/&#34;&gt;document&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.gatsbyjs.com/plugins/gatsby-theme-apollo-docs/&#34;&gt;gatsby-theme-apollo-docs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://smooth-doc.com/&#34;&gt;smooth-doc&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;gatsbyjs-learning&#34;&gt;Gatsby.js Learning&lt;/h2&gt;
 &lt;ul&gt;
