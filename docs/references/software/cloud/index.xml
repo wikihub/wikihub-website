@@ -650,6 +650,10 @@
 &lt;li&gt;&lt;a href=&#34;https://www.openfaas.com/&#34;&gt;OpenFaaS&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://knative.dev/blog/articles/knative-1.0/&#34;&gt;Knative&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h1 id=&#34;function-as-a-service&#34;&gt;Function as a Service&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/kyma-project&#34;&gt;Kyma project&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h1 id=&#34;python&#34;&gt;Python&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/Miserlou/Zappa&#34;&gt;Zappa&lt;/a&gt;&lt;/li&gt;
