@@ -1235,6 +1235,10 @@
 &lt;li&gt;&lt;a href=&#34;https://imti.co/kubernetes-platform-book/&#34;&gt;Kubernetes platform book&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://schoolofdevops.github.io/ultimate-kubernetes-bootcamp/&#34;&gt;Ultimate kubernetes bootcamp&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h2 id=&#34;example-applications&#34;&gt;Example Applications&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/helkey/url-shorten&#34;&gt;URL Shortener Design Doc&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2 id=&#34;ingress&#34;&gt;Ingress&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/kubernetes/ingress-nginx/blob/main/docs/user-guide/nginx-configuration/annotations.md&#34;&gt;Ingress annotations&lt;/a&gt;&lt;/li&gt;
