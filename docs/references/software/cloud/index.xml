@@ -145,6 +145,10 @@
 &lt;li&gt;&lt;a href=&#34;https://landscape.cncf.io/card-mode?category=certified-kubernetes-hosted&amp;amp;grouping=category&#34;&gt;Platform - Certified Kubernetes - Hosted&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.civo.com/&#34;&gt;Civo&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h1 id=&#34;raspberry-pi&#34;&gt;Raspberry Pi&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.alexellis.io/test-drive-k3s-on-raspberry-pi/&#34;&gt;Test drive k3s on raspberry pi&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h1 id=&#34;learning&#34;&gt;Learning&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.kubeflow.org/docs/started/getting-started/&#34;&gt;Getting started&lt;/a&gt;&lt;/li&gt;
