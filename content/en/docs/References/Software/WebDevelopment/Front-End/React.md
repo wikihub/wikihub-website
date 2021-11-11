@@ -37,6 +37,7 @@ description: News and information about React development
 
 # [Gatsby](https://www.gatsbyjs.com/get-started)
 
+*   [Gatsby docs](https://www.gatsbyjs.com/docs/)
 *   [Gatsby Codelab](https://github.com/Neha/gatsbyjs-codelab)
 *   [GitHub Action for Gatsby](https://github.com/himalay/himalay.github.io/blob/develop/.github/workflows/workflow.yml)
 *   [JAMstack CMS](https://www.jamstackcms.io/)
