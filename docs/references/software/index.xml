@@ -1158,6 +1158,7 @@ Don’t Worry, You Can’t Break It. We Promise.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://git-scm.com/book/en/v2/Git-Basics-Tagging#:~:text=Sharing%20Tags&amp;amp;text=You%20will%20have%20to%20explicitly,git%20push%20origin%20.&amp;amp;text=If%20you%20have%20a%20lot,to%20the%20git%20push%20command.&#34;&gt;git push &amp;ndash;tags&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://stackoverflow.com/questions/4850717/how-to-cancel-a-local-git-commit&#34;&gt;Removing a local commit&lt;/a&gt;: &lt;code&gt;git reset HEAD~1&lt;/code&gt; (&lt;a href=&#34;https://devconnected.com/how-to-undo-last-git-commit/&#34;&gt;Undo Last Git Commit with reset&lt;/a&gt;)&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://coolaj86.com/articles/vanilla-devops-git-credentials-ultimate-guide/&#34;&gt;The Ultimate Guide to Git Credentials&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Update the origin: &lt;code&gt;git remote set-url origin &amp;lt;address&amp;gt;&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;Adding a new origin to a repository:
 &lt;ul&gt;
 &lt;li&gt;&lt;code&gt;git remote add origin &amp;lt;address&amp;gt;&lt;/code&gt;&lt;/li&gt;
