@@ -26,6 +26,9 @@ description: News and information about Kubernetes
 * [Platform - Certified Kubernetes - Hosted](https://landscape.cncf.io/card-mode?category=certified-kubernetes-hosted&grouping=category)
 * [Civo](https://www.civo.com/)
 
+# Raspberry Pi
+* [Test drive k3s on raspberry pi](https://blog.alexellis.io/test-drive-k3s-on-raspberry-pi/)
+
 # Learning
 
 * [Getting started](https://www.kubeflow.org/docs/started/getting-started/)
