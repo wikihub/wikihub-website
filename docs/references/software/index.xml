@@ -1335,6 +1335,7 @@ Don’t Worry, You Can’t Break It. We Promise.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;kubernetes&#34;&gt;Kubernetes&lt;/h2&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/xetys/hetzner-kube&#34;&gt;hetzner-kube&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/hetznercloud/hcloud-cloud-controller-manager&#34;&gt;Hcloud cloud controller manager&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://community.hetzner.com/tutorials/install-kubernetes-cluster&#34;&gt;Install Kubernetes cluster&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://helmundwalter.de/blog/production-ready-kubernetes-cluster-on-hetzer/&#34;&gt;Production ready Kubernetes Cluster on Hetzer&lt;/a&gt;&lt;/li&gt;
