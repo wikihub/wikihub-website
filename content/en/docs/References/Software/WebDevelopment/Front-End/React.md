@@ -47,6 +47,11 @@ description: News and information about React development
 *   [Gatsby and Docz](https://github.com/doczjs/docz/tree/master/core/gatsby-theme-docz)
 *   [Building JAMstack apps](https://www.freecodecamp.org/news/building-jamstack-apps/)
 
+## Themes
+
+* [Code Bushi](https://codebushi.com/gatsby-starters-and-themes/)
+* [document](https://gatsby-theme-document.netlify.app/)
+
 ## Gatsby.js Learning
 
 *   [Dev.to Gatsby](https://dev.to/t/gatsby)
