@@ -8,6 +8,10 @@ description: >
 
 # Role models
 
+## Academia
+
+* [Stephen P. Boyd](https://web.stanford.edu/~boyd/)
+
 ## Software developers
 
 * [Alex Ellis](https://www.alexellis.io/)
