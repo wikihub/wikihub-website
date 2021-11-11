@@ -6,13 +6,15 @@ description: >
   A list of awesome personas
 ---
 
-# Role models
+# Technology
 
-## Academia
+* [Elon Musk](https://www.tesla.com/elon-musk)
+
+# Academia
 
 * [Stephen P. Boyd](https://web.stanford.edu/~boyd/)
 
-## Software developers
+# Software developers
 
 * [Alex Ellis](https://www.alexellis.io/)
 * [Sankarsan Kampa](https://traction.one/)
