@@ -41,6 +41,10 @@ description: News and information about Kubernetes
 * [Kubernetes platform book](https://imti.co/kubernetes-platform-book/)
 * [Ultimate kubernetes bootcamp](https://schoolofdevops.github.io/ultimate-kubernetes-bootcamp/)
 
+## Example Applications
+
+* [URL Shortener Design Doc](https://github.com/helkey/url-shorten)
+
 ## Ingress
 * [Ingress annotations](https://github.com/kubernetes/ingress-nginx/blob/main/docs/user-guide/nginx-configuration/annotations.md)
 * [Ultimate Guide to Kubernetes Ingress Controllers](https://platform9.com/blog/ultimate-guide-to-kubernetes-ingress-controllers/)
