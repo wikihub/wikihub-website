@@ -59,5 +59,24 @@
       </description>
     </item>
     
+    <item>
+      <title>Docs: Personas</title>
+      <link>https://wikihub.github.io/docs/overview/personas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/overview/personas/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;role-models&#34;&gt;Role models&lt;/h1&gt;
+&lt;h2 id=&#34;software-developers&#34;&gt;Software developers&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.alexellis.io/&#34;&gt;Alex Ellis&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://traction.one/&#34;&gt;Sankarsan Kampa&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
   </channel>
 </rss>
