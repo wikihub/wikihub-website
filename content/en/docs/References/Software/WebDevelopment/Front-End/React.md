@@ -54,6 +54,7 @@ description: News and information about React development
 * [document](https://gatsby-theme-document.netlify.app/)
 * [gatsby-theme-apollo-docs](https://www.gatsbyjs.com/plugins/gatsby-theme-apollo-docs/)
 * [smooth-doc](https://smooth-doc.com/)
+* [Reflex.js](https://reflexjs.org/docs)
 
 ## Gatsby.js Learning
 
