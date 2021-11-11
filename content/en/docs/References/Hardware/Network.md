@@ -28,9 +28,12 @@ description: Network and Internet resources
 * [l2tp-ipsec-vpn-client: Docker](https://github.com/ubergarm/l2tp-ipsec-vpn-client)
 * [OpenVPN client: Docker](https://hub.docker.com/r/linuxserver/openvpn-as)
 * [Algo](https://github.com/trailofbits/algo)
-* [WireGuard](https://www.wireguard.com/)
 * What is my IP?: `curl https://ipinfo.io/ip`
 * [Start OpenVPN at startup](https://www.ivpn.net/knowledgebase/linux/linux-autostart-openvpn-in-systemd-ubuntu/)
+
+## [WireGuard](https://www.wireguard.com/)
+
+* [WireGuard config](https://www.wireguardconfig.com/)
 
 # SSH Tunnel
 * [Creating a permanent ssh tunnel](https://www.brandonchecketts.com/archives/creating-a-permanent-ssh-tunnel-between-linux-servers)
