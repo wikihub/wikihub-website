@@ -78,7 +78,7 @@ privacy_policy = ""
 github_repo = "https://github.com/wikihub/wikihub-website"
 
 # Google Custom Search Engine ID. Remove or comment out to disable search.
-gcs_engine_id = "002714214824939399291:5_ltfhcysmc"
+gcs_engine_id = "f0aaca4d8769f2e80"
 
 # User interface configuration
 [params.ui]
