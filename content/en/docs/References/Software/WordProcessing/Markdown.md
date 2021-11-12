@@ -31,9 +31,24 @@ description: News and information about Markdown
 
 # Documentations
 
+*   [Antora](https://antora.org/)
+*   [Asciidoctor](https://docs.asciidoctor.org)
 *   [DocumentUp](http://documentup.com/)
 *   [MkDocs](http://www.mkdocs.org/)
 *   [Read the Docs](https://readthedocs.org/)
+
+# Parsers
+
+* [Remarkable](https://github.com/jonschlinkert/remarkable)
+
+# Diagrams
+
+* [Draw Diagrams With Markdown](https://support.typora.io/Draw-Diagrams-With-Markdown)
+* [Sprite](https://sprite.link/edit/Z3JhcGggVEIKICBzdGFydChTdGFydCkKCiAgc3RhcnQgPT0%2BIGxvZ2luW0xvZ2luXQoKICBsb2dpbiA9PT4gYXV0aHtBdXRob3JpemVkP30KCiAgYXV0aCAtLSBObyAgLS0%2BIHRvb01hbnlUcmllc3tBdHRlbXB0ZWQgMyB0aW1lcz99CiAgYXV0aCA9PSBZZXMgPT0%2BIGdyYW50ZWRbQWNjZXNzIGdyYW50ZWRdCgogIGdyYW50ZWQgPT0%2BIGV4aXR7RXhpdCBtb2R1bGU%2FfQoKICBleGl0IC0tIE5vICAtLT4gZ3JhbnRlZAogIGV4aXQgPT0gWWVzID09PiBmaW5pc2goRW5kKQoKICB0b29NYW55VHJpZXMgLS0gTm8gIC0tPiBsb2dpbgogIHRvb01hbnlUcmllcyAtLSBZZXMgLS0%2BIGZpbmlzaAo%3D)
+* [Asciidoctor](https://docs.asciidoctor.org/diagram-extension/latest/)
+* [asciiflow](https://asciiflow.com)
+* [blockdiag](http://blockdiag.com)
+* [BPMN](https://bpmn.io/)
 
 # Markdown Servers
 
