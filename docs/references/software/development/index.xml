@@ -20,6 +20,22 @@
     
     
     <item>
+      <title>Docs: Design</title>
+      <link>https://wikihub.github.io/docs/references/software/development/design/</link>
+      <pubDate>Sat, 13 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/software/development/design/</guid>
+      <description>
+        
+        
+        &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cgap.org/research/slide-deck/smartphones-and-mobile-money-principles-uiux-design-10&#34;&gt;Smartphones and Mobile Money: Principles for UI/UX Design (1.0)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Docs: DevOps</title>
       <link>https://wikihub.github.io/docs/references/software/development/devops/</link>
       <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
