@@ -38,6 +38,7 @@ description: Resources for learning
 
 * [Cocalc comparison](https://cocalc.com/doc/compare.html)
 * [GitHub Education Pack](https://education.github.com/pack)
+* [Code Your Future](https://syllabus.codeyourfuture.io/)
 
 ## Codelab
 
