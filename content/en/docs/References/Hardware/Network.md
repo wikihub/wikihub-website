@@ -34,6 +34,7 @@ description: Network and Internet resources
 ## [WireGuard](https://www.wireguard.com/)
 
 * [WireGuard config](https://www.wireguardconfig.com/)
+* [Wireguard routing](https://kaspars.net/blog/wireguard-routing)
 
 # SSH Tunnel
 * [Creating a permanent ssh tunnel](https://www.brandonchecketts.com/archives/creating-a-permanent-ssh-tunnel-between-linux-servers)
