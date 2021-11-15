@@ -19,6 +19,7 @@ description: News and information about Internet of Things and its applications
 * [Node-RED](https://nodered.org)
 * [Jeedom](https://www.jeedom.com)
 * [OpenHAB](https://www.openhab.org)
+* [Solar Powered Raspberry Pi Camera](https://kaspars.net/blog/solar-raspberry-pi-camera)
 
 # Open Source
 
