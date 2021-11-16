@@ -953,6 +953,7 @@
 &lt;h2 id=&#34;zerotier&#34;&gt;Zerotier&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://gist.github.com/dwitzig/1c3f0a3ed215a5852a4dc40cc608e876&#34;&gt;Deploy k3s cluster on Vultr with RancherOS over ZeroTier network&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.danmanners.com/posts/k3s-digitalocean-zerotier-and-more/&#34;&gt;Part 1: K3s, Zerotier, DigitalOcean, and more&amp;hellip;Oh my!&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;ssh-tunnel&#34;&gt;SSH Tunnel&lt;/h1&gt;
 &lt;ul&gt;
