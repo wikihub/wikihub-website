@@ -31,6 +31,7 @@ description: Network and Internet resources
 * What is my IP?: `curl https://ipinfo.io/ip`
 * [Start OpenVPN at startup](https://www.ivpn.net/knowledgebase/linux/linux-autostart-openvpn-in-systemd-ubuntu/)
 * [Outline](https://getoutline.org/)
+* [Cloudflare](https://pkg.cloudflareclient.com/)
 
 ## [WireGuard](https://www.wireguard.com/)
 
