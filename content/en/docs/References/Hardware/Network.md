@@ -46,6 +46,10 @@ description: Network and Internet resources
 * [How to Deploy a Highly Available WireGuard® Network Management Server on Kubernetes](https://itnext.io/how-to-deploy-a-highly-available-wireguard-network-management-server-on-kubernetes-294e23c7abcb)
 * [Getting Started with Netmaker: A WireGuard® Virtual Networking Platform](https://itnext.io/getting-started-with-netmaker-a-wireguard-virtual-networking-platform-3d563fbd87f0)
 
+## Zerotier
+
+* [Deploy k3s cluster on Vultr with RancherOS over ZeroTier network](https://gist.github.com/dwitzig/1c3f0a3ed215a5852a4dc40cc608e876)
+
 # SSH Tunnel
 * [Creating a permanent ssh tunnel](https://www.brandonchecketts.com/archives/creating-a-permanent-ssh-tunnel-between-linux-servers)
 * [labtunnel](https://github.com/renxida/labtunnel)
