@@ -38,6 +38,10 @@ description: Network and Internet resources
 * [WireGuard config](https://www.wireguardconfig.com/)
 * [Wireguard routing](https://kaspars.net/blog/wireguard-routing)
 * [Wireguard-manager](https://github.com/complexorganizations/wireguard-manager)
+
+## Netmaker
+
+* [Netmaker client installation](https://docs.netmaker.org/client-installation.html)
 * [How to deploy a single Kubernetes cluster across multiple clouds using k3s and WireGuard](https://itnext.io/how-to-deploy-a-single-kubernetes-cluster-across-multiple-clouds-using-k3s-and-wireguard-a5ae176a6e81)
 * [How to Deploy a Highly Available WireGuard® Network Management Server on Kubernetes](https://itnext.io/how-to-deploy-a-highly-available-wireguard-network-management-server-on-kubernetes-294e23c7abcb)
 * [Getting Started with Netmaker: A WireGuard® Virtual Networking Platform](https://itnext.io/getting-started-with-netmaker-a-wireguard-virtual-networking-platform-3d563fbd87f0)
