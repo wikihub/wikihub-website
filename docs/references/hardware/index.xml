@@ -392,6 +392,7 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.wireguardconfig.com/&#34;&gt;WireGuard config&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://kaspars.net/blog/wireguard-routing&#34;&gt;Wireguard routing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://itnext.io/how-to-deploy-a-single-kubernetes-cluster-across-multiple-clouds-using-k3s-and-wireguard-a5ae176a6e81&#34;&gt;How to deploy a single Kubernetes cluster across multiple clouds using k3s and WireGuard&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;ssh-tunnel&#34;&gt;SSH Tunnel&lt;/h1&gt;
 &lt;ul&gt;
