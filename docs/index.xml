@@ -950,6 +950,10 @@
 &lt;li&gt;&lt;a href=&#34;https://itnext.io/how-to-deploy-a-highly-available-wireguard-network-management-server-on-kubernetes-294e23c7abcb&#34;&gt;How to Deploy a Highly Available WireGuard® Network Management Server on Kubernetes&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://itnext.io/getting-started-with-netmaker-a-wireguard-virtual-networking-platform-3d563fbd87f0&#34;&gt;Getting Started with Netmaker: A WireGuard® Virtual Networking Platform&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h2 id=&#34;zerotier&#34;&gt;Zerotier&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://gist.github.com/dwitzig/1c3f0a3ed215a5852a4dc40cc608e876&#34;&gt;Deploy k3s cluster on Vultr with RancherOS over ZeroTier network&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h1 id=&#34;ssh-tunnel&#34;&gt;SSH Tunnel&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.brandonchecketts.com/archives/creating-a-permanent-ssh-tunnel-between-linux-servers&#34;&gt;Creating a permanent ssh tunnel&lt;/a&gt;&lt;/li&gt;
