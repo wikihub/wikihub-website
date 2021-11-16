@@ -396,6 +396,8 @@
 &lt;li&gt;&lt;a href=&#34;https://kaspars.net/blog/wireguard-routing&#34;&gt;Wireguard routing&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/complexorganizations/wireguard-manager&#34;&gt;Wireguard-manager&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://itnext.io/how-to-deploy-a-single-kubernetes-cluster-across-multiple-clouds-using-k3s-and-wireguard-a5ae176a6e81&#34;&gt;How to deploy a single Kubernetes cluster across multiple clouds using k3s and WireGuard&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://itnext.io/how-to-deploy-a-highly-available-wireguard-network-management-server-on-kubernetes-294e23c7abcb&#34;&gt;How to Deploy a Highly Available WireGuard® Network Management Server on Kubernetes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://itnext.io/getting-started-with-netmaker-a-wireguard-virtual-networking-platform-3d563fbd87f0&#34;&gt;Getting Started with Netmaker: A WireGuard® Virtual Networking Platform&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;ssh-tunnel&#34;&gt;SSH Tunnel&lt;/h1&gt;
 &lt;ul&gt;
