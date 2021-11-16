@@ -50,6 +50,8 @@ description: Network and Internet resources
 
 * [Deploy k3s cluster on Vultr with RancherOS over ZeroTier network](https://gist.github.com/dwitzig/1c3f0a3ed215a5852a4dc40cc608e876)
 * [Part 1: K3s, Zerotier, DigitalOcean, and more...Oh my!](https://www.danmanners.com/posts/k3s-digitalocean-zerotier-and-more/)
+* [Part 2: Connecting Raspberry Pi's to DigitalOcean with ZeroTier](https://www.danmanners.com/posts/p2-k3s-digitalocean-zerotier-and-more/)
+* [Part 3: Deploying K3s and Updating Traefik](https://www.danmanners.com/posts/p3-k3s-digitalocean-zerotier-and-more/)
 
 # SSH Tunnel
 * [Creating a permanent ssh tunnel](https://www.brandonchecketts.com/archives/creating-a-permanent-ssh-tunnel-between-linux-servers)
