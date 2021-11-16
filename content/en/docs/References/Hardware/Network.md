@@ -35,6 +35,7 @@ description: Network and Internet resources
 
 * [WireGuard config](https://www.wireguardconfig.com/)
 * [Wireguard routing](https://kaspars.net/blog/wireguard-routing)
+* [How to deploy a single Kubernetes cluster across multiple clouds using k3s and WireGuard](https://itnext.io/how-to-deploy-a-single-kubernetes-cluster-across-multiple-clouds-using-k3s-and-wireguard-a5ae176a6e81)
 
 # SSH Tunnel
 * [Creating a permanent ssh tunnel](https://www.brandonchecketts.com/archives/creating-a-permanent-ssh-tunnel-between-linux-servers)
