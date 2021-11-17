@@ -200,6 +200,13 @@ description: News and information about Kubernetes
 * [k3os](https://github.com/rancher/k3os)
 * [k3s config](https://rancher.com/docs/k3s/latest/en/cluster-access/)
 
+## Netmaker
+* [How to deploy a single Kubernetes cluster across multiple clouds using k3s and WireGuard](https://itnext.io/how-to-deploy-a-single-kubernetes-cluster-across-multiple-clouds-using-k3s-and-wireguard-a5ae176a6e81)
+* [How to Deploy a Highly Available WireGuard® Network Management Server on Kubernetes](https://itnext.io/how-to-deploy-a-highly-available-wireguard-network-management-server-on-kubernetes-294e23c7abcb)
+
+## Zerotier
+* [Deploy k3s cluster on Vultr with RancherOS over ZeroTier network](https://gist.github.com/dwitzig/1c3f0a3ed215a5852a4dc40cc608e876)
+
 # k0s Project
 * [k0s project](https://k0sproject.io/)
 
