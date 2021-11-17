@@ -39,6 +39,7 @@ description: News and information about DevOps technologies and tools
 * [Complete Jenkins Pipeline Tutorial | Jenkinsfile explained](https://www.youtube.com/watch?v=7KCS70sCoK0)
 * [Trigger Jenkins builds using Jira Automation](https://community.atlassian.com/t5/Jira-Software-questions/Trigger-Jenkins-builds-using-Jira-Automation/qaq-p/1740830)
 * [How to Display Jenkins Build Status Badge on GitHub](https://www.vegait.rs/media-center/blog/how-to-display-jenkins-build-status-badge-on-github)
+* [Jenkins Job Builder](https://docs.openstack.org/infra/jenkins-job-builder/index.html)
 
 ## [AWS CodeBuild](https://docs.aws.amazon.com/codebuild/latest/userguide/welcome.html)
 
