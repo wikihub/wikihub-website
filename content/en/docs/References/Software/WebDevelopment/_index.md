@@ -44,7 +44,9 @@ description: News and information about web development technologies
 - [Gloomaps](https://www.gloomaps.com/)
 
 ## NPM
-
+* [Install Node.js Locally with Node Version Manager (nvm)](https://heynode.com/tutorial/install-nodejs-locally-nvm/)
+  * `curl -sL https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.0/install.sh -o install_nvm.sh`
+  * `nvm install --lts`
 * [Install Node.js with NVM](https://github.com/xtuple/nvm)
 * [Install Node.js with NVM](https://tecadmin.net/install-nodejs-with-nvm/)
 * [Upgrade Node.js with NVM](https://phoenixnap.com/kb/update-node-js-version)
