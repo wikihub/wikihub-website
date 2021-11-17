@@ -197,6 +197,7 @@ description: News and information about Kubernetes
 * [Terraform: k3s on hcloud](https://registry.terraform.io/modules/cicdteam/k3s/hcloud/latest)
 * [terraform-hcloud-k3s](https://github.com/cicdteam/terraform-hcloud-k3s)
 * [k3sup](https://github.com/alexellis/k3sup)
+* [k3os](https://github.com/rancher/k3os)
 
 # k0s Project
 * [k0s project](https://k0sproject.io/)
