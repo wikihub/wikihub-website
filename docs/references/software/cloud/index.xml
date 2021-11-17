@@ -336,6 +336,15 @@
 &lt;li&gt;&lt;a href=&#34;https://github.com/rancher/k3os&#34;&gt;k3os&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://rancher.com/docs/k3s/latest/en/cluster-access/&#34;&gt;k3s config&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h2 id=&#34;netmaker&#34;&gt;Netmaker&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://itnext.io/how-to-deploy-a-single-kubernetes-cluster-across-multiple-clouds-using-k3s-and-wireguard-a5ae176a6e81&#34;&gt;How to deploy a single Kubernetes cluster across multiple clouds using k3s and WireGuard&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://itnext.io/how-to-deploy-a-highly-available-wireguard-network-management-server-on-kubernetes-294e23c7abcb&#34;&gt;How to Deploy a Highly Available WireGuard® Network Management Server on Kubernetes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;zerotier&#34;&gt;Zerotier&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://gist.github.com/dwitzig/1c3f0a3ed215a5852a4dc40cc608e876&#34;&gt;Deploy k3s cluster on Vultr with RancherOS over ZeroTier network&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h1 id=&#34;k0s-project&#34;&gt;k0s Project&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://k0sproject.io/&#34;&gt;k0s project&lt;/a&gt;&lt;/li&gt;
