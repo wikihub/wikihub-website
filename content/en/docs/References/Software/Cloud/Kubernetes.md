@@ -62,6 +62,10 @@ description: News and information about Kubernetes
 # Storage
 * [portworx](https://portworx.com/)
 
+# Monitoring
+
+* [Multi-cluster monitoring](https://inlets.dev/blog/2020/12/15/multi-cluster-monitoring.html)
+
 # Applications
 
 * [ArtifactHub](https://artifacthub.io)
