@@ -14,6 +14,10 @@ description: News and information about self-hosted applications
 ## Ingress
 * [ngrok alternatives](https://www.softwaretestinghelp.com/ngrok-alternatives/)
 
+# Homelabs
+
+* [Smart Home Beginner: My smart home setup 2019](https://www.smarthomebeginner.com/my-smart-home-setup-2019/)
+
 # Self-Hosted Web Applications
 - [Awesome selfhosted](https://github.com/Kickball/awesome-selfhosted)
 - [Sandstorm](https://apps.sandstorm.io/)
