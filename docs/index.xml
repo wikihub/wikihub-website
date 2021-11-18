@@ -1291,6 +1291,10 @@
 &lt;li&gt;&lt;a href=&#34;https://docs.inlets.dev/&#34;&gt;Inlets&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://blog.zespre.com/inlets-the-cloud-native-tunnel.html&#34;&gt;A Tour of Inlets - A Tunnel Built for the Cloud&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h3 id=&#34;traefik&#34;&gt;Traefik&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://doc.traefik.io/traefik/https/acme/#using-letsencrypt-with-kubernetes&#34;&gt;Traefik doc&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h1 id=&#34;installing-kubernetes-with-deployment-toolshttpskubernetesiodocssetupproduction-environmenttools&#34;&gt;&lt;a href=&#34;https://kubernetes.io/docs/setup/production-environment/tools/&#34;&gt;Installing Kubernetes with deployment tools&lt;/a&gt;&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/&#34;&gt;Bootstrapping clusters with kubeadm&lt;/a&gt;&lt;/li&gt;
