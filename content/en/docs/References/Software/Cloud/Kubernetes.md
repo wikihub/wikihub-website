@@ -209,6 +209,10 @@ description: News and information about Kubernetes
 * [k3os](https://github.com/rancher/k3os)
 * [k3s config](https://rancher.com/docs/k3s/latest/en/cluster-access/)
 
+## Calico
+
+* [Calico: getting started](https://docs.projectcalico.org/getting-started/kubernetes/k3s/)
+
 ## Traefik
 
 * [k3s Traefik 2](https://refactored.xyz/k3s-traefik-2/)
