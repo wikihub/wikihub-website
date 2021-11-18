@@ -25,6 +25,10 @@ description: News and information about web development technologies
 
 * [Caddy](https://hub.docker.com/_/caddy)
 
+## Nginx
+
+* [Quick Web Server with Nginx on Docker Compose](https://dev.to/aminnairi/quick-web-server-with-nginx-on-docker-compose-43ol)
+
 # Install 
 
 ## Windows
