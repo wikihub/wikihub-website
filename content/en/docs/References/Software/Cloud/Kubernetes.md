@@ -98,6 +98,7 @@ description: News and information about Kubernetes
 * [Manual deployment of JupyterHub on Kubernetes for a single machine](https://kienmn97.medium.com/manually-deploy-jupyterhub-on-kubernetes-for-a-single-machine-dbcd9c9e50a4)
 * [terraform-gcp-jupyterhub](https://github.com/BrownUniversity/terraform-gcp-jupyterhub)
 * [JupyterHub Documentation](https://jupyterhub.readthedocs.io/en/stable/api/app.html#jupyterhub.app.JupyterHub.base_url)
+* [AI meets Kubernetes: install JupyterHub with Rancher](https://www.suse.com/c/rancher_blog/ai-meets-kubernetes-install-jupyterhub-with-rancher/)
 
 ## BinderHub
 * [binderhub-deploy](https://github.com/alan-turing-institute/binderhub-deploy)
