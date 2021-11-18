@@ -209,6 +209,10 @@ description: News and information about Kubernetes
 * [k3os](https://github.com/rancher/k3os)
 * [k3s config](https://rancher.com/docs/k3s/latest/en/cluster-access/)
 
+## Traefik
+
+* [k3s Traefik 2](https://refactored.xyz/k3s-traefik-2/)
+
 ## Netmaker
 * [How to deploy a single Kubernetes cluster across multiple clouds using k3s and WireGuard](https://itnext.io/how-to-deploy-a-single-kubernetes-cluster-across-multiple-clouds-using-k3s-and-wireguard-a5ae176a6e81)
 * [How to Deploy a Highly Available WireGuard® Network Management Server on Kubernetes](https://itnext.io/how-to-deploy-a-highly-available-wireguard-network-management-server-on-kubernetes-294e23c7abcb)
