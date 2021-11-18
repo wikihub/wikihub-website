@@ -1301,6 +1301,10 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://portworx.com/&#34;&gt;portworx&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h1 id=&#34;monitoring&#34;&gt;Monitoring&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://inlets.dev/blog/2020/12/15/multi-cluster-monitoring.html&#34;&gt;Multi-cluster monitoring&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h1 id=&#34;applications&#34;&gt;Applications&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://artifacthub.io&#34;&gt;ArtifactHub&lt;/a&gt;&lt;/li&gt;
