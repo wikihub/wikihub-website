@@ -1392,7 +1392,10 @@
 &lt;li&gt;&lt;a href=&#34;https://medium.com/adg-vit/free-ssl-on-kubernetes-with-lets-encrypt-and-cert-manager-8a2466a611d9&#34;&gt;Free SSL on Kubernetes with Let’s Encrypt and cert-manager&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://zero-to-jupyterhub.readthedocs.io/en/latest/administrator/security.html&#34;&gt;Confirm that your domain is running HTTPS: &lt;code&gt;http://ssllabs.com/ssltest/analyze.html?d=&amp;lt;YOUR-DOMAIN&amp;gt;&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://letsencrypt.org/docs/rate-limits/&#34;&gt;Let’s Encrypt provides rate limits to ensure fair usage by as many people as possible.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://cert-manager.io/docs/faq/acme/&#34;&gt;cert-manager troubleshooting&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;cert-manager-troubleshootinghttpscert-manageriodocsfaqacme&#34;&gt;&lt;a href=&#34;https://cert-manager.io/docs/faq/acme/&#34;&gt;cert-manager troubleshooting&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;dig +short example.com&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;kubeflow&#34;&gt;Kubeflow&lt;/h1&gt;
 &lt;ul&gt;
