@@ -23,7 +23,9 @@ description: News and information about web development technologies
 
 # Web servers
 
-* [Caddy](https://hub.docker.com/_/caddy)
+## [Caddy](https://hub.docker.com/_/caddy)
+
+* [Caddy is the first and only web server to use HTTPS automatically and by default.](https://caddyserver.com/docs/automatic-https)
 
 ## Nginx
 
