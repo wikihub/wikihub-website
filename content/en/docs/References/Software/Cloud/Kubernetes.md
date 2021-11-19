@@ -224,6 +224,10 @@ description: News and information about Kubernetes
 ## Zerotier
 * [Deploy k3s cluster on Vultr with RancherOS over ZeroTier network](https://gist.github.com/dwitzig/1c3f0a3ed215a5852a4dc40cc608e876)
 
+## Submariner
+
+* [Submariner and k3s](https://submariner.io/getting-started/quickstart/k3s/)
+
 # k0s Project
 * [k0s project](https://k0sproject.io/)
 
