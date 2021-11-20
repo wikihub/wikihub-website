@@ -181,6 +181,10 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/InseeFrLab/keycloakify&#34;&gt;Keycloakify&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h1 id=&#34;basic-authentication&#34;&gt;Basic Authentication&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/sleighzy/k3s-traefik-v2-kubernetes-crd#basic-authentication&#34;&gt;traefik-basic-auth&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h1 id=&#34;verified-identities&#34;&gt;Verified Identities&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.fintrac-canafe.gc.ca/guidance-directives/client-clientele/1-eng&#34;&gt;Know your client requirements&lt;/a&gt;&lt;/li&gt;
