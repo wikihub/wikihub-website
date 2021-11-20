@@ -177,6 +177,7 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://doc.traefik.io/traefik/https/acme/#using-letsencrypt-with-kubernetes&#34;&gt;Traefik doc&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.alexhyett.com/traefik-vs-nginx-docker-raspberry-pi&#34;&gt;Traefik vs Nginx for Reverse Proxy with Docker on a Raspberry Pi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/56kcloud/traefik-training&#34;&gt;Traefik training&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;installing-kubernetes-with-deployment-toolshttpskubernetesiodocssetupproduction-environmenttools&#34;&gt;&lt;a href=&#34;https://kubernetes.io/docs/setup/production-environment/tools/&#34;&gt;Installing Kubernetes with deployment tools&lt;/a&gt;&lt;/h1&gt;
 &lt;ul&gt;
