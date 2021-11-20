@@ -369,6 +369,10 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://gist.github.com/dwitzig/1c3f0a3ed215a5852a4dc40cc608e876&#34;&gt;Deploy k3s cluster on Vultr with RancherOS over ZeroTier network&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h2 id=&#34;consul&#34;&gt;Consul&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://johansiebens.dev/posts/2020/09/consul-service-mesh-across-a-private-raspberry-pi-and-a-public-cloud/&#34;&gt;Consul Service Mesh across a private Raspberry Pi and a public Cloud&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2 id=&#34;submariner&#34;&gt;Submariner&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://submariner.io/getting-started/quickstart/k3s/&#34;&gt;Submariner and k3s&lt;/a&gt;&lt;/li&gt;
