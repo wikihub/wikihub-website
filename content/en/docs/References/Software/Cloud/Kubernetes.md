@@ -56,6 +56,7 @@ description: News and information about Kubernetes
 
 * [Traefik doc](https://doc.traefik.io/traefik/https/acme/#using-letsencrypt-with-kubernetes)
 * [Traefik vs Nginx for Reverse Proxy with Docker on a Raspberry Pi](https://www.alexhyett.com/traefik-vs-nginx-docker-raspberry-pi)
+* [Traefik training](https://github.com/56kcloud/traefik-training)
 
 # [Installing Kubernetes with deployment tools](https://kubernetes.io/docs/setup/production-environment/tools/)
 
