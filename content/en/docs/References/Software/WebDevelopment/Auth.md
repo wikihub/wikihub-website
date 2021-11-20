@@ -18,6 +18,10 @@ description: News and information about authentication
 
 * [Keycloakify](https://github.com/InseeFrLab/keycloakify)
 
+# Basic Authentication
+
+* [traefik-basic-auth](https://github.com/sleighzy/k3s-traefik-v2-kubernetes-crd#basic-authentication)
+
 # Verified Identities
 
 * [Know your client requirements](https://www.fintrac-canafe.gc.ca/guidance-directives/client-clientele/1-eng)
