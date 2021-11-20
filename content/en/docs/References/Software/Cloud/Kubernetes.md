@@ -60,6 +60,7 @@ description: News and information about Kubernetes
 * [traefik-k8s-tls](https://github.com/traefik-tech-blog/traefik-k8s-tls)
 * [HTTPS on Kubernetes Using Traefik Proxy](https://traefik.io/blog/https-on-kubernetes-using-traefik-proxy/)
 * [Traefik tech blog](https://github.com/traefik-tech-blog)
+* [k3s-traefik-v2-kubernetes-crd](https://github.com/sleighzy/k3s-traefik-v2-kubernetes-crd)
 
 # [Installing Kubernetes with deployment tools](https://kubernetes.io/docs/setup/production-environment/tools/)
 
