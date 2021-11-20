@@ -10,6 +10,7 @@ description: News and information about Terraform, Nomad, Vault, Consul
 
 # Nomad
 * [Maybe You Don't Need Kubernetes](https://endler.dev/2019/maybe-you-dont-need-kubernetes/)
+* [Simplifying Infrastructure and Network Automation with HashiCorp and Traefik](https://info.traefik.io/webinar-hashicorp-traefik-infrastructure-automation)
 
 # Terraform
 
