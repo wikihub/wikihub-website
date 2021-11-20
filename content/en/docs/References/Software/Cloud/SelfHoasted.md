@@ -17,6 +17,7 @@ description: News and information about self-hosted applications
 # Homelabs
 
 * [Smart Home Beginner: My smart home setup 2019](https://www.smarthomebeginner.com/my-smart-home-setup-2019/)
+* [Ikarus](https://ikarus.sg/tag/kubernetes/)
 
 # Self-Hosted Web Applications
 - [Awesome selfhosted](https://github.com/Kickball/awesome-selfhosted)
