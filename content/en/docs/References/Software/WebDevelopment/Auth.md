@@ -22,6 +22,10 @@ description: News and information about authentication
 
 * [traefik-basic-auth](https://github.com/sleighzy/k3s-traefik-v2-kubernetes-crd#basic-authentication)
 
+# API Gateway
+
+* [Krakend](https://www.krakend.io/)
+
 # Verified Identities
 
 * [Know your client requirements](https://www.fintrac-canafe.gc.ca/guidance-directives/client-clientele/1-eng)
