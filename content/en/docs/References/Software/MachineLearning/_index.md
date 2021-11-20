@@ -22,6 +22,11 @@ A collection of awesome machine learning goodies
 - [Andrew Ng: Influential leader in artificial intelligence](https://behindthetech.libsynpro.com/003-andrew-ng-influential-leader-in-artificial-intelligence)
 - [Integrate.ai](https://www.integrate.ai/podcast/)
 
+# Platforms
+- [Deep Learning Studio](https://deepcognition.ai/features/deep-learning-studio/)
+- [Google Cloud AI Hub](https://cloud.google.com/ai-hub/)
+- [PrimeHub](https://docs.primehub.io/)
+
 # eLearning
 - [Introduction to Machine Learning](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkQXg8TkVdIvYv4HfLG7SiH)
 - [Coursera: Machine Learning by Andrew Ng](https://www.youtube.com/watch?v=qeHZOdmJvFU&list=PLZ9qNFMHZ-A4rycgrgOYma6zxF4BZGGPW)
@@ -39,10 +44,6 @@ A collection of awesome machine learning goodies
 - [Hands-On Machine Learning with Scikit-Learn and TensorFlow](http://shop.oreilly.com/product/0636920052289.do)
   -   [A series of Jupyter notebooks](https://github.com/ageron/handson-ml)
 -   [Deep Learning](http://www.deeplearningbook.org/)
-
-# Platforms
-- [Deep Learning Studio](https://deepcognition.ai/features/deep-learning-studio/)
-- [Google Cloud AI Hub](https://cloud.google.com/ai-hub/)
 
 # Applications
 - [Project ideas](https://github.com/NirantK/awesome-project-ideas)
