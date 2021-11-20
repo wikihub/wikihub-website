@@ -230,6 +230,10 @@ description: News and information about Kubernetes
 ## Zerotier
 * [Deploy k3s cluster on Vultr with RancherOS over ZeroTier network](https://gist.github.com/dwitzig/1c3f0a3ed215a5852a4dc40cc608e876)
 
+## Consul
+
+* [Consul Service Mesh across a private Raspberry Pi and a public Cloud](https://johansiebens.dev/posts/2020/09/consul-service-mesh-across-a-private-raspberry-pi-and-a-public-cloud/)
+
 ## Submariner
 
 * [Submariner and k3s](https://submariner.io/getting-started/quickstart/k3s/)
