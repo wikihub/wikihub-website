@@ -11,6 +11,10 @@ description: News and information about web applications for ROS2
 * [ROS2 Planet](https://planet.ros.org/)
 * [ROS2 Planning](https://github.com/ros-planning)
 
+# Architecture
+
+* [How do you Architect your Robots? State of the Practice and Guidelines for ROS-based Systems](https://github.com/S2-group/icse-seip-2020-replication-package/blob/master/ICSE_SEIP_2020.pdf)
+
 # Jenkins
 * [LGSVL](https://github.com/lgsvl/simulator)
 * [ros2/ci](https://github.com/ros2/ci)
