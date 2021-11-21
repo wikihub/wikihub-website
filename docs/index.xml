@@ -182,6 +182,24 @@
     </item>
     
     <item>
+      <title>Docs: Vehicle Dynamics</title>
+      <link>https://wikihub.github.io/docs/references/automotivesystems/vehicledynamics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/automotivesystems/vehicledynamics/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;python&#34;&gt;Python&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/TUMFTM/NeuralNetwork_for_VehicleDynamicsModeling&#34;&gt;Neural Network for Vehicle Dynamics Modeling&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/OpenTire/OpenTirePython&#34;&gt;OpenTIRE - The open-source mathematical tire modelling library&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Docs: 3D Graphics</title>
       <link>https://wikihub.github.io/docs/references/software/3dgraphics/</link>
       <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
@@ -2313,23 +2331,6 @@
 &lt;h2 id=&#34;battery&#34;&gt;Battery&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.battery.co.jp/&#34;&gt;Battery Japan&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Docs: Nav2</title>
-      <link>https://wikihub.github.io/docs/references/robotics/ros2/navigation/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://wikihub.github.io/docs/references/robotics/ros2/navigation/</guid>
-      <description>
-        
-        
-        &lt;h1 id=&#34;behaviour-tree&#34;&gt;Behaviour Tree&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.behaviortree.dev/&#34;&gt;BehaviorTree.CPP&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>

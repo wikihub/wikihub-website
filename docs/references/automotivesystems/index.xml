@@ -238,6 +238,24 @@
     </item>
     
     <item>
+      <title>Docs: Vehicle Dynamics</title>
+      <link>https://wikihub.github.io/docs/references/automotivesystems/vehicledynamics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/automotivesystems/vehicledynamics/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;python&#34;&gt;Python&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/TUMFTM/NeuralNetwork_for_VehicleDynamicsModeling&#34;&gt;Neural Network for Vehicle Dynamics Modeling&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/OpenTire/OpenTirePython&#34;&gt;OpenTIRE - The open-source mathematical tire modelling library&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Docs: Engine Control</title>
       <link>https://wikihub.github.io/docs/references/automotivesystems/enginecontrol/</link>
       <pubDate>Thu, 06 Feb 2020 00:00:00 +0000</pubDate>
