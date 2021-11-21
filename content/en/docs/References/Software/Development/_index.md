@@ -62,6 +62,7 @@ description: News and information about software development and necessary tools
 * [Adding a new tag](https://devconnected.com/how-to-create-git-tags/):
    * `git tag v0.0.1`
    * `git push origin v0.0.1`
+* [Learn git branching](https://learngitbranching.js.org/)
 
 ## Pruning
 * [How to Use prune to Clean Up Remote Branches in Git](https://www.git-tower.com/learn/git/faq/cleanup-remote-branches-with-git-prune/)
