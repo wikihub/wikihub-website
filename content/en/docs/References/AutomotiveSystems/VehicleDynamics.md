@@ -1,0 +1,11 @@
+---
+title: "Vehicle Dynamics"
+linkTitle: "Vehicle Dynamics"
+weight: 5
+description: Vehicle Dynamics
+---
+
+# Python
+
+* [Neural Network for Vehicle Dynamics Modeling](https://github.com/TUMFTM/NeuralNetwork_for_VehicleDynamicsModeling)
+* [OpenTIRE - The open-source mathematical tire modelling library](https://github.com/OpenTire/OpenTirePython)
