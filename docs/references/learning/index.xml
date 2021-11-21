@@ -82,7 +82,10 @@
       <description>
         
         
-        &lt;h1 id=&#34;research&#34;&gt;Research&lt;/h1&gt;
+        &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/markusschanta/awesome-jupyter&#34;&gt;Awesome Jupyter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;research&#34;&gt;Research&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://opendreamkit.org/&#34;&gt;OpenDreamKit&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://stenci.la/&#34;&gt;Stencila&lt;/a&gt;&lt;/li&gt;
