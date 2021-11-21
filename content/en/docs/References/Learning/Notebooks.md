@@ -26,6 +26,7 @@ description: Resources for learning using notebooks
 * [MkDocs](https://www.mkdocs.org/)
 
 # Machine Learning Hub
+* [CoCalc Kubernetes](https://github.com/sagemathinc/cocalc-kubernetes)
 * [Argoflow](https://github.com/argoflow)
 * [PrimeHub](https://docs.primehub.io/)
 * [Science Box](https://sciencebox.web.cern.ch/sciencebox/)
