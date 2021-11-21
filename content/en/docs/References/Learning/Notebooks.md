@@ -5,6 +5,8 @@ weight: 70
 description: Resources for learning using notebooks
 ---
 
+* [Awesome Jupyter](https://github.com/markusschanta/awesome-jupyter)
+
 # Research
 
 * [OpenDreamKit](https://opendreamkit.org/)
