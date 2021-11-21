@@ -1216,6 +1216,10 @@
 &lt;li&gt;&lt;a href=&#34;https://planet.ros.org/&#34;&gt;ROS2 Planet&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/ros-planning&#34;&gt;ROS2 Planning&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h1 id=&#34;architecture&#34;&gt;Architecture&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/S2-group/icse-seip-2020-replication-package/blob/master/ICSE_SEIP_2020.pdf&#34;&gt;How do you Architect your Robots? State of the Practice and Guidelines for ROS-based Systems&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h1 id=&#34;jenkins&#34;&gt;Jenkins&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/lgsvl/simulator&#34;&gt;LGSVL&lt;/a&gt;&lt;/li&gt;
