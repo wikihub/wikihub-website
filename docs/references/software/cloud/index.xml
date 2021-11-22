@@ -356,6 +356,7 @@
 &lt;li&gt;&lt;a href=&#34;https://github.com/rancher/k3os&#34;&gt;k3os&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://rancher.com/docs/k3s/latest/en/cluster-access/&#34;&gt;k3s config&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/k8s-at-home/template-cluster-k3s&#34;&gt;template-cluster-k3s&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/rxbn/k8s-gitops&#34;&gt;k8s-gitops&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;calico&#34;&gt;Calico&lt;/h2&gt;
 &lt;ul&gt;
