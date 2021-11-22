@@ -218,6 +218,7 @@ description: News and information about Kubernetes
 * [k3os](https://github.com/rancher/k3os)
 * [k3s config](https://rancher.com/docs/k3s/latest/en/cluster-access/)
 * [template-cluster-k3s](https://github.com/k8s-at-home/template-cluster-k3s)
+* [k8s-gitops](https://github.com/rxbn/k8s-gitops)
 
 ## Calico
 
