@@ -227,6 +227,7 @@ description: News and information about Kubernetes
 ## Traefik
 
 * [k3s Traefik 2](https://refactored.xyz/k3s-traefik-2/)
+* [traefik-v2-helm-secure-dashboard](https://www.katacoda.com/notsureifkevin/courses/k8s/traefik-v2-helm-secure-dashboard#)
 
 ## Netmaker
 * [How to deploy a single Kubernetes cluster across multiple clouds using k3s and WireGuard](https://itnext.io/how-to-deploy-a-single-kubernetes-cluster-across-multiple-clouds-using-k3s-and-wireguard-a5ae176a6e81)
