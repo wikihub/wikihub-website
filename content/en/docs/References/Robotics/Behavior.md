@@ -28,6 +28,7 @@ description: Resources about robotic behaviors
 * [Behavior Trees in Robotics and AI](https://btirai.github.io/)
 * [Beetree](github.com/futureneer/beetree)
 * [UnrealEngine Behavior Trees](https://docs.unrealengine.com/4.27/en-US/InteractiveExperiences/ArtificialIntelligence/BehaviorTrees/)
+* [Metacontrol for ROS2 systems (MROS)](https://robmosys.eu/mros/)
 
 # Finaite State Machines
 
