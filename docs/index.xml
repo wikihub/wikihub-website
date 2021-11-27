@@ -1549,6 +1549,10 @@
 &lt;li&gt;&lt;a href=&#34;https://github.com/k8s-at-home/template-cluster-k3s&#34;&gt;template-cluster-k3s&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/rxbn/k8s-gitops&#34;&gt;k8s-gitops&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h2 id=&#34;rancher&#34;&gt;Rancher&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://vmguru.com/2021/04/how-to-install-rancher-on-k3s/&#34;&gt;How to install Rancher on k3s&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2 id=&#34;calico&#34;&gt;Calico&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://docs.projectcalico.org/getting-started/kubernetes/k3s/&#34;&gt;Calico: getting started&lt;/a&gt;&lt;/li&gt;
