@@ -15,6 +15,11 @@ description: Resources about robotic behaviors
 * [BehaviorTree.CPP](https://www.behaviortree.dev/)
 * [Owyl](https://github.com/eykd/owyl)
 * [CoSTAR](https://github.com/cpaxton/costar_stack)
+* [Behavior trees IROS workshop](https://behavior-trees-iros-workshop.github.io/)
+* [RobMoSys](https://robmosys.eu/)
+* [CARVE](https://carve-robmosys.github.io/)
+* [MOOD2BE](https://robmosys.eu/mood2be/)
+* [Co4Robots](http://www.co4robots.eu/)
 
 # Finaite State Machines
 
