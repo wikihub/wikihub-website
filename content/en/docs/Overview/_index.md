@@ -19,3 +19,4 @@ For more content, visit:
 * [Systems Engineering Wiki](https://github.com/Mechatronics3D/SystemsEngineering)
 * [EduWiki](https://github.com/wikihub/eduwiki)
 * [Machine Learning Resources](http://machinelearning.mechatronics3d.com/pages/references/)
+* [Semantic Scholar](https://www.semanticscholar.org/me/research)
