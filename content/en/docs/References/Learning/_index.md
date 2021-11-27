@@ -13,6 +13,10 @@ description: Resources for learning
 # Hackathons
 * [Ultrahack](https://ultrahack.org/)
 
+# Research
+
+* [KMI](http://kmi.open.ac.uk/projects/)
+
 # eLearning
 *   [ITCR_Documentation_and_Usability](https://jhudatascience.org/ITCR_Documentation_and_Usability/index.html)
 *   [Computing Education Research Blog](https://computinged.wordpress.com/)
