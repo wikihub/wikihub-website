@@ -220,6 +220,10 @@ description: News and information about Kubernetes
 * [template-cluster-k3s](https://github.com/k8s-at-home/template-cluster-k3s)
 * [k8s-gitops](https://github.com/rxbn/k8s-gitops)
 
+## Rancher
+
+* [How to install Rancher on k3s](https://vmguru.com/2021/04/how-to-install-rancher-on-k3s/)
+
 ## Calico
 
 * [Calico: getting started](https://docs.projectcalico.org/getting-started/kubernetes/k3s/)
