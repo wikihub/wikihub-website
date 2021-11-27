@@ -494,6 +494,30 @@
     </item>
     
     <item>
+      <title>Docs: Behavior</title>
+      <link>https://wikihub.github.io/docs/references/robotics/behavior/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/robotics/behavior/</guid>
+      <description>
+        
+        
+        &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://behavior.stanford.edu/&#34;&gt;BEHAVIOR@Stanford&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;behavioral-logic&#34;&gt;Behavioral Logic&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://behaviorallogic.com/&#34;&gt;Behavioral Logic&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;behavior-trees&#34;&gt;Behavior Trees&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.behaviortree.dev/&#34;&gt;BehaviorTree.CPP&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Docs: C&#43;&#43;</title>
       <link>https://wikihub.github.io/docs/references/software/programming/cpp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -2264,80 +2288,6 @@
         &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://berkeleyopenrobotics.github.io/&#34;&gt;Berkeley Open Robotics&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.kinovarobotics.com/en&#34;&gt;Kinova&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Docs: Material Handling</title>
-      <link>https://wikihub.github.io/docs/references/robotics/materialhandling/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://wikihub.github.io/docs/references/robotics/materialhandling/</guid>
-      <description>
-        
-        
-        &lt;h1 id=&#34;articles&#34;&gt;Articles&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.toyota-industries.com/news/release/2019/02/12/002365/&#34;&gt;Toyota Industries and ANA to Test Japan’s First Autonomous Towing Tractors&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;utility-vehicles&#34;&gt;Utility Vehicles&lt;/h1&gt;
-&lt;h2 id=&#34;canada&#34;&gt;Canada&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.motrec.com/&#34;&gt;Motrec&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.evdoall.com/&#34;&gt;EVDOALL&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;china&#34;&gt;China&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.hcforklift.com/?portfolio=electric-tow-tractor-10-15t&#34;&gt;Hangcha&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;germany&#34;&gt;Germany&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.volk.de/en/start_en/&#34;&gt;Volk&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;italy&#34;&gt;Italy&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.alke.com/electric-vehicles&#34;&gt;Alke&#39;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.ata-modena.com/en/prodotti/ata-e200/?portfolioCats=43%2C44%2C46&#34;&gt;ATA Motors&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.simai.it/en/concept-simai-2/&#34;&gt;SIMAI&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;japan&#34;&gt;Japan&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.toyotaforklift.com/lifts/tow-tractors&#34;&gt;Toyota&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.kolec.co.jp/en/index.html&#34;&gt;Kolec&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.tcm-forklift.jp/products/pallet_trucks/trs30t-estrs60t-es_towing_tractor_sit-on.html&#34;&gt;TCM&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.sinfo-t.jp/eng/product_info/gse/toe.htm&#34;&gt;GSE&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;sweden&#34;&gt;Sweden&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://kalmarmotor.com/en/products/tow-tractors/fb-150/&#34;&gt;Kalmar Motor AB&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;uk&#34;&gt;UK&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.still.co.uk/platforms-tractors.0.0.html&#34;&gt;Still&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;usa&#34;&gt;USA&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.taylor-dunn.com/en-us/&#34;&gt;Taylor Dunn&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://packmule.com/&#34;&gt;Packmule&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.hyster.com/north-america/en-us/products/overview/tow-tractors/https://www.hyster.com/north-america/en-us/products/overview/tow-tractors/&#34;&gt;Hyster&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.yale.com/emea/en-gb/our-products/product-overview/tow-tractors/&#34;&gt;Yale&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;used&#34;&gt;Used&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.truck1.eu/material-handling-equipment/tow-tractors&#34;&gt;Truck1.eu&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://liftdepot.com/&#34;&gt;Lift Depot&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;components&#34;&gt;Components&lt;/h1&gt;
-&lt;h2 id=&#34;motors&#34;&gt;Motors&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.bosch-engineering.jp/en/de/specials_1/off_highway_electric_drive/off_highway_electric_drive_1.html&#34;&gt;Bosch Engineering&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.uqm.com/English/home/default.aspx&#34;&gt;UQM&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;battery&#34;&gt;Battery&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.battery.co.jp/&#34;&gt;Battery Japan&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
