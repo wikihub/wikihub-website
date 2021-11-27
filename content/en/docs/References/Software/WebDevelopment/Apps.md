@@ -11,6 +11,11 @@ description: Resources on mobile application development
 
 * [rollApp](https://www.rollapp.com)
 
+# WebAssembly
+
+* [WebAssembly](https://webassembly.org/)
+* [Emscripten](https://emscripten.org/index.html)
+
 # Frontend
 
 *   [Boilerplates](https://boilerplates.js.org/)
