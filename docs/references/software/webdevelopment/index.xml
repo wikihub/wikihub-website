@@ -48,6 +48,11 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.rollapp.com&#34;&gt;rollApp&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h1 id=&#34;webassembly&#34;&gt;WebAssembly&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://webassembly.org/&#34;&gt;WebAssembly&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://emscripten.org/index.html&#34;&gt;Emscripten&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h1 id=&#34;frontend&#34;&gt;Frontend&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://boilerplates.js.org/&#34;&gt;Boilerplates&lt;/a&gt;&lt;/li&gt;
