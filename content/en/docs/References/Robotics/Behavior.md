@@ -13,6 +13,7 @@ description: Resources about robotic behaviors
 
 # Behavior Trees
 * [BehaviorTree.CPP](https://www.behaviortree.dev/)
+* [Owyl](https://github.com/eykd/owyl)
 
 # Finaite State Machines
 
@@ -26,3 +27,4 @@ description: Resources about robotic behaviors
 * [IBM Rhapsody](https://evocean.com/products/ibm-rhapsody/)
 * [State Machine Compiler](http://smc.sourceforge.net/SmcFaq.htm)
 * [Visual Paradigm](https://www.visual-paradigm.com/features/uml-tool/)
+* [Statecharts: A Visual Formalism for Complex Systems](https://www.sinelabore.de/doku.php/wiki/features)
