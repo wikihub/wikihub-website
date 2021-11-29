@@ -29,6 +29,10 @@ description: News and information about Kubernetes
 # Raspberry Pi
 * [Test drive k3s on raspberry pi](https://blog.alexellis.io/test-drive-k3s-on-raspberry-pi/)
 
+# Monitoring
+
+* [Datahog](https://www.datadoghq.com/)
+
 # Learning
 
 * [Getting started](https://www.kubeflow.org/docs/started/getting-started/)
