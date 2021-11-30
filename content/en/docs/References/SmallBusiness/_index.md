@@ -34,3 +34,7 @@ description: Resources for running a small business
 # Patents
 
 * [Tutorial — Your patent application](https://www.ic.gc.ca/eic/site/cipointernet-internetopic.nsf/eng/wr01398.html)
+
+# USA
+
+* [SBIR](https://www.sbir.gov/)
