@@ -107,6 +107,10 @@ description: News and information about Kubernetes
 * [Example: Deploying WordPress and MySQL with Persistent Volumes](https://kubernetes.io/docs/tutorials/stateful-application/mysql-wordpress-persistent-volume/)
 * [How to Deploy WordPress and MySQL on Kubernetes](https://www.cloudytuts.com/tutorials/kubernetes/how-to-deploy-wordpress-and-mysql-on-kubernetes/)
 
+## Moodle
+
+* [Creating Multi-tenant Moodle service on Kubernetes using Operator Pattern](https://itnext.io/creating-multi-tenant-moodle-service-on-kubernetes-using-operator-pattern-a4fd418d47ad)
+
 ## JupyterHub
 * [Manual deployment of JupyterHub on Kubernetes for a single machine](https://kienmn97.medium.com/manually-deploy-jupyterhub-on-kubernetes-for-a-single-machine-dbcd9c9e50a4)
 * [terraform-gcp-jupyterhub](https://github.com/BrownUniversity/terraform-gcp-jupyterhub)
