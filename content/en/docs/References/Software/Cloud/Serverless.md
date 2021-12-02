@@ -17,6 +17,7 @@ description: News and information about serverless technologies
 # Function as a Service
 
 * [Kyma project](https://github.com/kyma-project)
+* [Inkscape and Potrace](https://github.com/minidocks/images/tree/master/inkscape)
 
 # Python
 
