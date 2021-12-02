@@ -24,6 +24,7 @@ description: News and information about Markdown
 
 # Research Markdown Papers
 
+*   [Pandoc Scholar](https://pandoc-scholar.github.io/)
 *   [Plain Text Papers Pandoc](http://kieranhealy.org/blog/archives/2014/01/23/plain-text/)
 *   [Rendering Markdown, Asciidoc and Friends automatically while Editing](http://noone.org/blog/English/Computer/Web/Rendering%20Markdown,%20Asciidoc%20and%20Friends%20automatically%20while%20Editing.futile)
 *   [Academic Markdown](https://github.com/smathot/academicmarkdown)
