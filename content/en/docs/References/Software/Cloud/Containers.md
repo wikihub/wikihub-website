@@ -7,6 +7,7 @@ description: News and information about containers
 ---
 # Podman
 * [Container Toolkit and Podman](https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/install-guide.html)
+* [Podman and Kubernetes](https://www.redhat.com/sysadmin/podman-inside-kubernetes)
 
 # Docker
 * [Docker reference](https://docs.docker.com/reference/)
