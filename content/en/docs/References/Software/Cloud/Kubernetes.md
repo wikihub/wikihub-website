@@ -121,6 +121,19 @@ description: News and information about Kubernetes
 ## Moodle
 
 * [Creating Multi-tenant Moodle service on Kubernetes using Operator Pattern](https://itnext.io/creating-multi-tenant-moodle-service-on-kubernetes-using-operator-pattern-a4fd418d47ad)
+* [Moodle helm chart by Bitnami](https://github.com/bitnami/charts/tree/master/bitnami/moodle/#installing-the-chart)
+* [moodle-kubernetes-tutorial](https://github.com/jbkc85/moodle-kubernetes-tutorial)
+* [moodle-k8s](https://github.com/jlabusch/moodle-k8s/blob/master/deploy.yaml)
+* [Moodle-on-kubernetes](https://github.com/harsh4870/Moodle-on-kubernetes)
+* [Moodle by cloud.garr.it](https://cloud.garr.it/containers/moodle/)
+* [Implementation of the Moodle e-learning platform from server selection to configuration](https://gsconlinepress.com/journals/gscaet/sites/default/files/GSCAET-2021-0023.pdf)
+* [How to Install Moodle with Nginx and Let's Encrypt SSL on Ubuntu 20.04](https://www.howtoforge.com/how-to-install-moodle-on-ubuntu-20-04/)
+* [Best Moodle hosting](https://geekflare.com/best-moodle-hosting/)
+* [Deploy Moodle With Docker](https://blog.programster.org/deploy-moodle-with-docker)
+* [wait-for-it.sh](https://github.com/vishnubob/wait-for-it/blob/master/wait-for-it.sh)
+* [bitnami-docker-moodle](https://github.com/bitnami/bitnami-docker-moodle)
+* [docker-raspi-server](https://github.com/keeganwhite/docker-raspi-server)
+* [Assessment MS](https://github.com/jakobschroeber/bachelor_thesis)
 
 ## JupyterHub
 * [Manual deployment of JupyterHub on Kubernetes for a single machine](https://kienmn97.medium.com/manually-deploy-jupyterhub-on-kubernetes-for-a-single-machine-dbcd9c9e50a4)
