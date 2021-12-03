@@ -42,6 +42,24 @@ description: News and information about containers
 * `docker run hello-world`
 * [Install nvidia-dcoker2](https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/install-guide.html)
 * `docker run --rm --gpus all nvidia/cuda:11.0-base nvidia-smi`
+* Set the default runtime `/etc/docker/daemon.json`:
+```
+{
+    "runtimes": {
+        "nvidia": {
+            "path": "nvidia-container-runtime",
+            "runtimeArgs": []
+        }
+    },
+    "default-runtime": "nvidia",
+    "runtimes": {
+        "nvidia": {
+            "path": "nvidia-container-runtime",
+            "runtimeArgs": []
+        }
+    }
+}
+```
 
 ## Images
 
