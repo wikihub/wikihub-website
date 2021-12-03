@@ -84,6 +84,7 @@ description: News and information about Kubernetes
 * [Rook](https://rook.io/)
 * [OpenEBS](https://openebs.io/)
 * [portworx](https://portworx.com/)
+* [Scality](https://www.scality.com/our-open-source-philosophy)
 
 # Monitoring
 
