@@ -546,8 +546,24 @@
 &lt;li&gt;&lt;code&gt;docker run hello-world&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/install-guide.html&#34;&gt;Install nvidia-dcoker2&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;docker run --rm --gpus all nvidia/cuda:11.0-base nvidia-smi&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Set the default runtime &lt;code&gt;/etc/docker/daemon.json&lt;/code&gt;:&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;images&#34;&gt;Images&lt;/h2&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;{
+    &amp;quot;runtimes&amp;quot;: {
+        &amp;quot;nvidia&amp;quot;: {
+            &amp;quot;path&amp;quot;: &amp;quot;nvidia-container-runtime&amp;quot;,
+            &amp;quot;runtimeArgs&amp;quot;: []
+        }
+    },
+    &amp;quot;default-runtime&amp;quot;: &amp;quot;nvidia&amp;quot;,
+    &amp;quot;runtimes&amp;quot;: {
+        &amp;quot;nvidia&amp;quot;: {
+            &amp;quot;path&amp;quot;: &amp;quot;nvidia-container-runtime&amp;quot;,
+            &amp;quot;runtimeArgs&amp;quot;: []
+        }
+    }
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;images&#34;&gt;Images&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://docs.linuxserver.io/&#34;&gt;linuxserver.io&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/minidocks&#34;&gt;minidocks&lt;/a&gt;&lt;/li&gt;
