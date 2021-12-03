@@ -200,6 +200,14 @@
 &lt;/ul&gt;
 &lt;h1 id=&#34;storage&#34;&gt;Storage&lt;/h1&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://min.io/&#34;&gt;MinIO&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/ngaxavi/mlflow-practices&#34;&gt;mlflow-practices&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ceph.io/en/&#34;&gt;Ceph&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://rook.io/&#34;&gt;Rook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://openebs.io/&#34;&gt;OpenEBS&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://portworx.com/&#34;&gt;portworx&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;monitoring-1&#34;&gt;Monitoring&lt;/h1&gt;
