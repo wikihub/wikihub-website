@@ -7,6 +7,7 @@ description: News and information about containers
 ---
 # Podman
 * [Container Toolkit and Podman](https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/install-guide.html)
+* [From Docker Compose to Kubernetes with Podman](https://www.redhat.com/sysadmin/compose-kubernetes-podman)
 * [Podman and Kubernetes](https://www.redhat.com/sysadmin/podman-inside-kubernetes)
 * `sudo podman run --rm --runtime=nvidia nvidia/cuda:11.0-base nvidia-smi`
 
