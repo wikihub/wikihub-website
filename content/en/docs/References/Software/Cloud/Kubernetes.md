@@ -134,6 +134,7 @@ description: News and information about Kubernetes
 * [bitnami-docker-moodle](https://github.com/bitnami/bitnami-docker-moodle)
 * [docker-raspi-server](https://github.com/keeganwhite/docker-raspi-server)
 * [Assessment MS](https://github.com/jakobschroeber/bachelor_thesis)
+* [Moodle Upgrade in Kubernetes Helm Chart Version](https://github.com/bitnami/charts/issues/5367)
 
 ## JupyterHub
 * [Manual deployment of JupyterHub on Kubernetes for a single machine](https://kienmn97.medium.com/manually-deploy-jupyterhub-on-kubernetes-for-a-single-machine-dbcd9c9e50a4)
