@@ -517,7 +517,6 @@
 &lt;li&gt;&lt;a href=&#34;https://docs.docker.com/engine/reference/builder/&#34;&gt;Dockerfile reference&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://docs.docker.com/develop/&#34;&gt;Develop with Docker&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://cnvrg.io/how-to-setup-docker-and-nvidia-docker-2-0-on-ubuntu-18-04/&#34;&gt;How to setup Docker and Nvidia-Docker 2.0 on Ubuntu 18.04&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Docker permission denied fix: &lt;code&gt;sudo usermod -aG docker ${USER}&lt;/code&gt; or &lt;code&gt;sudo chmod 666 /var/run/docker.sock&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://odewahn.github.io/docker-jumpstart/&#34;&gt;An Introduction to Docker&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://shanavasv.com/running-linux-apps-in-macos-using-docker/&#34;&gt;Running Linux apps in MacOS using docker&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://medium.com/@mreichelt/how-to-show-x11-windows-within-docker-on-mac-50759f4b65cb&#34;&gt;How to show X11 windows with Docker on Mac&lt;/a&gt;&lt;/li&gt;
@@ -534,6 +533,14 @@
 &lt;li&gt;&lt;a href=&#34;https://www.cloudsavvyit.com/10912/how-to-use-docker-restart-policies-to-keep-containers-running/&#34;&gt;How to Use Docker Restart Policies to Keep Containers Running&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://pythonspeed.com/articles/alpine-docker-python/&#34;&gt;Using Alpine can make Python Docker builds 50× slower&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://docs.docker.com/compose/gpu-support/&#34;&gt;GPU support on docker-compose&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;getting-started&#34;&gt;Getting started&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.docker.com/engine/install/ubuntu/&#34;&gt;Install Docker Engine on Ubuntu&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Docker permission denied fix: &lt;code&gt;sudo usermod -aG docker ${USER}&lt;/code&gt; or &lt;code&gt;sudo chmod 666 /var/run/docker.sock&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;docker run hello-world&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/install-guide.html&#34;&gt;Install nvidia-dcoker2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;docker run --rm --gpus all nvidia/cuda:11.0-base nvidia-smi&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;images&#34;&gt;Images&lt;/h2&gt;
 &lt;ul&gt;
