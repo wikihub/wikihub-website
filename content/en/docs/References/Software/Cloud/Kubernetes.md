@@ -79,6 +79,7 @@ description: News and information about Kubernetes
 # Storage
 * [MinIO](https://min.io/)
   * [mlflow-practices](https://github.com/ngaxavi/mlflow-practices)
+  * [MinIO docker-compose](https://github.com/zamberform/dev-tools-with-docker/blob/master/minio/docker-compose.yaml)
 * [Ceph](https://ceph.io/en/)
 * [Rook](https://rook.io/)
 * [OpenEBS](https://openebs.io/)
