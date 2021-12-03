@@ -1394,6 +1394,7 @@
 &lt;li&gt;&lt;a href=&#34;https://min.io/&#34;&gt;MinIO&lt;/a&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/ngaxavi/mlflow-practices&#34;&gt;mlflow-practices&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/zamberform/dev-tools-with-docker/blob/master/minio/docker-compose.yaml&#34;&gt;MinIO docker-compose&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://ceph.io/en/&#34;&gt;Ceph&lt;/a&gt;&lt;/li&gt;
