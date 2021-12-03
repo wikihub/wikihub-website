@@ -77,6 +77,11 @@ description: News and information about Kubernetes
 * [Installing Kubernetes with Kubespray](https://kubernetes.io/docs/setup/production-environment/tools/kubespray/)
 
 # Storage
+* [MinIO](https://min.io/)
+  * [mlflow-practices](https://github.com/ngaxavi/mlflow-practices)
+* [Ceph](https://ceph.io/en/)
+* [Rook](https://rook.io/)
+* [OpenEBS](https://openebs.io/)
 * [portworx](https://portworx.com/)
 
 # Monitoring
