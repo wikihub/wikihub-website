@@ -171,6 +171,11 @@ Make a server and add an A record for auth.mechatronics3d.com and put the IP add
 
 * [Mahara.org](https://mahara.org/)
 
+# Video Conferencing
+
+* [EduMeet](https://edumeet.org/)
+* [Jitsi](https://jitsi.org/)
+
 # Online course templates
 
 *   [Gatsby, Reveal.js and Binder](https://github.com/ines/course-starter-python)
