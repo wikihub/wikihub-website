@@ -136,6 +136,7 @@ description: News and information about Kubernetes
 * [Assessment MS](https://github.com/jakobschroeber/bachelor_thesis)
 * [Moodle Upgrade in Kubernetes Helm Chart Version](https://github.com/bitnami/charts/issues/5367)
 * [moodle-podman](https://github.com/DiCITS/moodle-podman)
+* [Machine_learning_backends](https://docs.moodle.org/dev/Machine_learning_backends)
 
 ## JupyterHub
 * [Manual deployment of JupyterHub on Kubernetes for a single machine](https://kienmn97.medium.com/manually-deploy-jupyterhub-on-kubernetes-for-a-single-machine-dbcd9c9e50a4)
