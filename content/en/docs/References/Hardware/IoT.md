@@ -12,6 +12,7 @@ description: News and information about Internet of Things and its applications
 * [Particle](https://www.particle.io/)
 * [Sierra Wireless](https://www.sierrawireless.com/)
 * [Libelium](http://www.libelium.com)
+* [Self-hosted Internet of Things](https://github.com/awesome-selfhosted/awesome-selfhosted#internet-of-things-iot)
 
 # Smart Homes
 * [Hermes protocol](https://docs.snips.ai/reference/hermes) compatible services ([Snips.AI](https://snips.ai/))
