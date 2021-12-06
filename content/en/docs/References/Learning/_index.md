@@ -218,6 +218,7 @@ Make a server and add an A record for auth.mechatronics3d.com and put the IP add
   * [BBBatScale](https://gitlab.com/bbbatscale/bbbatscale/-/blob/master/GettingStarted.md)
   * [BBB bot](https://github.com/mconf/bigbluebot)
   * [BigBlueButton Load Balancer](https://b3lb.io/)
+  * [NextCloud BBB](https://github.com/sualko/cloud_bbb/)
 * [Opencast](https://opencast.org/)
   * [PyCA](https://github.com/opencast/pyCA)
 
