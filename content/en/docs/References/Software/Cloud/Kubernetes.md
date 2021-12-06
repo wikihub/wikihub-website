@@ -85,6 +85,7 @@ description: News and information about Kubernetes
 * [OpenEBS](https://openebs.io/)
 * [portworx](https://portworx.com/)
 * [Scality](https://www.scality.com/our-open-source-philosophy)
+* [NextCloud Apps](https://apps.nextcloud.com/)
 
 # Monitoring
 
@@ -184,7 +185,6 @@ description: News and information about Kubernetes
 
 ## [cert-manager troubleshooting](https://cert-manager.io/docs/faq/acme/)
 * `dig +short example.com`
-
 
 # Kubeflow
 
