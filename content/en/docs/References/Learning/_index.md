@@ -86,6 +86,7 @@ description: Resources for learning
 * [Manuscripts.io](https://www.manuscripts.io)
 * [Remarqable](https://www.remarqable.com/web/index.html)
 * [Scitrus](https://www.scitrus.com/welcome)
+* [Synchronized editing: the future of collaborative writing](https://www.nature.com/articles/d41586-020-00916-6)
 
 # Employee Training System
 
