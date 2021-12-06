@@ -396,6 +396,8 @@
 &lt;li&gt;&lt;a href=&#34;https://rancher.com/docs/k3s/latest/en/cluster-access/&#34;&gt;k3s config&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/k8s-at-home/template-cluster-k3s&#34;&gt;template-cluster-k3s&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/rxbn/k8s-gitops&#34;&gt;k8s-gitops&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://fabianlee.org/2021/09/12/kubernetes-k3s-cluster-on-ubuntu-using-ansible/&#34;&gt;Kubernetes: K3s cluster on Ubuntu using Ansible&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://fabianlee.org/2021/09/16/kubernetes-k3s-with-multiple-istio-ingress-gateways/&#34;&gt;Kubernetes: K3s with multiple Istio ingress gateways&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;rancher&#34;&gt;Rancher&lt;/h2&gt;
 &lt;ul&gt;
