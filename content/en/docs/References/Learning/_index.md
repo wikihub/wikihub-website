@@ -89,6 +89,7 @@ description: Resources for learning
 
 # Authoring Tools
 * [Adapt Learning](https://github.com/adaptlearning)
+* [eXe Learning](https://github.com/exelearning)
 * [DaSL course template bookdown](https://github.com/jhudsl/DaSL_Course_Template_Bookdown)
 * [Jupyter4edu](https://jupyter4edu.github.io/jupyter-edu-book/)
 * [Authorea](https://www.authorea.com)
