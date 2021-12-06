@@ -47,6 +47,7 @@ description: News and information about DevOps technologies and tools
 
 # JenkinsX
 
+* [JenkinsX on k3s](https://jenkins-x.io/v3/admin/platforms/k3s/)
 * [Serverless Jenkins with Jenkins X](https://medium.com/@jdrawlings/serverless-jenkins-with-jenkins-x-9134cbfe6870)
 * [James Rawlings](https://medium.com/@jdrawlings)
 
