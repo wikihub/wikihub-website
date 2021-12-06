@@ -34,6 +34,7 @@ description: Resources for learning
 
 * [Amplify](https://amplify.com/)
 * [Mathigon](https://mathigon.org/)
+* [ELAN e.V.](https://elan-ev.de/)
 
 # Standards
 
