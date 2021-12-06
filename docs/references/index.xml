@@ -887,6 +887,17 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://edumeet.org/&#34;&gt;EduMeet&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://jitsi.org/&#34;&gt;Jitsi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://bigbluebutton.org/&#34;&gt;BigBlueButton&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/bigbluebutton/bigbluebutton.github.io/issues/192&#34;&gt;Book keeping: third party integrations&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gitlab.com/bbbatscale/bbbatscale/-/blob/master/GettingStarted.md&#34;&gt;BBBatScale&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://opencast.org/&#34;&gt;Opencast&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/opencast/pyCA&#34;&gt;PyCA&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;online-course-templates&#34;&gt;Online course templates&lt;/h1&gt;
 &lt;ul&gt;
