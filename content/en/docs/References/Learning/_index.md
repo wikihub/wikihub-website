@@ -26,8 +26,10 @@ description: Resources for learning
 # Universities
 
 * [eLearning at MIT](https://openlearning.mit.edu/)
+* [UCFopen](https://github.com/ucfopen)
+* [Open Source University](https://github.com/OpenSourceUniversity)
 
-## Standards
+# Standards
 
 *   [Learning Tools Interoperability](https://www.imsglobal.org/activity/learning-tools-interoperability)
 *   [Moodle and LTI](https://moodle.com/news/what-is-lti-and-how-it-can-improve-your-learning-ecosystem/)
@@ -35,9 +37,10 @@ description: Resources for learning
 *   [Creating SCORM Content](https://docs.moodle.org/311/en/Creating_SCORM_Content)
 *   [Awesome LTI](https://github.com/scollovati/awesome-lti)
 
-## eLearning Apps
+# eLearning Apps
 
 * [eduappcenter.com](https://www.eduappcenter.com/)
+* [Sagefy](https://github.com/sagefy/sagefy)
 
 # Online schools
 * [Synthesis](https://www.synthesis.is/)
