@@ -82,6 +82,8 @@ description: Resources for learning
 * [Jupyter4edu](https://jupyter4edu.github.io/jupyter-edu-book/)
 * [Authorea](https://www.authorea.com)
 * [Scalar](https://scalar.me/anvc/features/overview/)
+* [Introducing Manuscripts.io](https://www.ncbi.nlm.nih.gov/books/NBK540955/)
+* [Manuscripts.io](https://www.manuscripts.io)
 
 # Employee Training System
 
