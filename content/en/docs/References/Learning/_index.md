@@ -23,6 +23,10 @@ description: Resources for learning
 *   [Computing Education Research Blog](https://computinged.wordpress.com/)
 *   [Walking Randomly](http://www.walkingrandomly.com/)
 
+# Universities
+
+* [eLearning at MIT](https://openlearning.mit.edu/)
+
 ## Standards
 
 *   [Learning Tools Interoperability](https://www.imsglobal.org/activity/learning-tools-interoperability)
