@@ -828,7 +828,7 @@
 &lt;li&gt;&lt;code&gt;keytool -import -alias auth.mechatronics3d.com -keystore keycloak.jks -file /etc/letsencrypt/live/auth.mechatronics3d.com/fullchain.pem&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://jaas.ai/u/tengu-team/keycloak/2&#34;&gt;Juju Keycloak&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;moodle&#34;&gt;Moodle&lt;/h3&gt;
+&lt;h2 id=&#34;moodle&#34;&gt;Moodle&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://hub.docker.com/r/up2university/moodle&#34;&gt;docker-moodle&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://bitnami.com/stack/moodle/helm&#34;&gt;Installing Moodle with Kubernetes by Bitnami&lt;/a&gt;&lt;/li&gt;
@@ -847,6 +847,14 @@
 &lt;li&gt;&lt;a href=&#34;https://docs.tutor.overhang.io/index.html&#34;&gt;EdX by Tutor&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://bitnami.com/stack/edx/cloud&#34;&gt;EdX by Bitnami&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/edx/ecommerce&#34;&gt;EdX ecommerce&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;sakai&#34;&gt;Sakai&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.sakailms.org/&#34;&gt;Sakai&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;ilias&#34;&gt;ILIAS&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ilias.de/en/&#34;&gt;ILIAS&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;open-edx&#34;&gt;OPEN edX&lt;/h3&gt;
 &lt;ul&gt;
