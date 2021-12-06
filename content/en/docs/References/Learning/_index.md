@@ -99,6 +99,7 @@ description: Resources for learning
 * [Remarqable](https://www.remarqable.com/web/index.html)
 * [Scitrus](https://www.scitrus.com/welcome)
 * [Synchronized editing: the future of collaborative writing](https://www.nature.com/articles/d41586-020-00916-6)
+* [Mathigon Studio](https://mathigon.io/studio/)
 
 # Employee Training System
 
