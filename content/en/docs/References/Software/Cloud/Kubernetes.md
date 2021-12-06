@@ -254,6 +254,8 @@ description: News and information about Kubernetes
 * [k3s config](https://rancher.com/docs/k3s/latest/en/cluster-access/)
 * [template-cluster-k3s](https://github.com/k8s-at-home/template-cluster-k3s)
 * [k8s-gitops](https://github.com/rxbn/k8s-gitops)
+* [Kubernetes: K3s cluster on Ubuntu using Ansible](https://fabianlee.org/2021/09/12/kubernetes-k3s-cluster-on-ubuntu-using-ansible/)
+* [Kubernetes: K3s with multiple Istio ingress gateways](https://fabianlee.org/2021/09/16/kubernetes-k3s-with-multiple-istio-ingress-gateways/)
 
 ## Rancher
 
