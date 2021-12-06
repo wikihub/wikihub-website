@@ -221,3 +221,7 @@ Make a server and add an A record for auth.mechatronics3d.com and put the IP add
 * [The Mnemosyne Project](https://mnemosyne-proj.org/)
 * [Algodeck](https://github.com/teivah/algodeck)
 * [SRS Toolbelt](https://github.com/balta2ar/srs-toolbelt)
+
+# Forums
+
+* [Discourse](https://www.discourse.org/)
