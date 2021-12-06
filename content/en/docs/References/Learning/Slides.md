@@ -42,7 +42,7 @@ description: Resources for learning with slides
 *   [MDX Deck (React)](https://github.com/jxnblk/mdx-deck)
 *   [Eagle js slides (Vue)](https://github.com/zulko/eagle.js/)
 *   [Vue presentation](https://github.com/RobinCK/vue-presentation)
-*   [Web slides TV](https://webslides.tv/)
+*   [WebSlides](https://webslides.tv/)
 *   [Impress js](https://github.com/impress/impress.js/)
 *   [Deck js](http://imakewebthings.com/deck.js/)
 *   [Slides](http://www.briancavalier.com/code/slides/#0)
