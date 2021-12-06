@@ -152,7 +152,7 @@ Make a server and add an A record for auth.mechatronics3d.com and put the IP add
 
 * [ILIAS](https://www.ilias.de/en/)
 
-### OPEN edX
+## OPEN edX
 * [OPEN edX: Architecture and Engineering](https://openedx.atlassian.net/wiki/spaces/AC/overview?homepageId=7766132)
 
 ### EdX Deployment
@@ -185,6 +185,10 @@ Make a server and add an A record for auth.mechatronics3d.com and put the IP add
 ## Mahara
 
 * [Mahara.org](https://mahara.org/)
+
+## Tsugi Cloud
+
+* [Tsugi Cloud](https://www.tsugicloud.org/tsugi/store/)
 
 # Video Conferencing
 
