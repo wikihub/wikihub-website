@@ -25,6 +25,8 @@ description: Resources for learning
 
 ## Standards
 
+*   [Learning Tools Interoperability](https://www.imsglobal.org/activity/learning-tools-interoperability)
+*   [Moodle and LTI](https://moodle.com/news/what-is-lti-and-how-it-can-improve-your-learning-ecosystem/)
 *   [SCORM vs LTI](https://rusticisoftware.com/blog/scorm-vs-lti/)
 *   [Creating SCORM Content](https://docs.moodle.org/311/en/Creating_SCORM_Content)
 
