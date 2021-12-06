@@ -37,6 +37,7 @@ description: Resources for learning with slides
 
 # Web Slides
 
+*   [Awesome Slideshows](https://github.com/slideshow-s9/awesome-slideshows)
 *   [Hypersay](https://hypersay.com/en/)
 *   [MDX Deck (React)](https://github.com/jxnblk/mdx-deck)
 *   [Eagle js slides (Vue)](https://github.com/zulko/eagle.js/)
