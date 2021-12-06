@@ -48,6 +48,7 @@ description: News and information about DevOps technologies and tools
 # JenkinsX
 
 * [Serverless Jenkins with Jenkins X](https://medium.com/@jdrawlings/serverless-jenkins-with-jenkins-x-9134cbfe6870)
+* [James Rawlings](https://medium.com/@jdrawlings)
 
 # ARM
 
