@@ -84,6 +84,8 @@ description: Resources for learning
 * [Scalar](https://scalar.me/anvc/features/overview/)
 * [Introducing Manuscripts.io](https://www.ncbi.nlm.nih.gov/books/NBK540955/)
 * [Manuscripts.io](https://www.manuscripts.io)
+* [Remarqable](https://www.remarqable.com/web/index.html)
+* [Scitrus](https://www.scitrus.com/welcome)
 
 # Employee Training System
 
