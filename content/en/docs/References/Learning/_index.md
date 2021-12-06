@@ -30,6 +30,11 @@ description: Resources for learning
 * [UCFopen](https://github.com/ucfopen)
 * [Open Source University](https://github.com/OpenSourceUniversity)
 
+# Companies
+
+* [Amplify](https://amplify.com/)
+* [Mathigon](https://mathigon.org/)
+
 # Standards
 
 *   [Learning Tools Interoperability](https://www.imsglobal.org/activity/learning-tools-interoperability)
