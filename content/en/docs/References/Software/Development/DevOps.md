@@ -45,6 +45,10 @@ description: News and information about DevOps technologies and tools
 
 * [Use AWS CodeBuild with Jenkins](https://docs.aws.amazon.com/codebuild/latest/userguide/jenkins-plugin.html)
 
+# JenkinsX
+
+* [Serverless Jenkins with Jenkins X](https://medium.com/@jdrawlings/serverless-jenkins-with-jenkins-x-9134cbfe6870)
+
 # ARM
 
 * [Graviton2 AWS managed services](https://github.com/aws/aws-graviton-getting-started/blob/main/managed_services.md)
