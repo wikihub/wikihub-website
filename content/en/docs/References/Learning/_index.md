@@ -29,6 +29,7 @@ description: Resources for learning
 *   [Moodle and LTI](https://moodle.com/news/what-is-lti-and-how-it-can-improve-your-learning-ecosystem/)
 *   [SCORM vs LTI](https://rusticisoftware.com/blog/scorm-vs-lti/)
 *   [Creating SCORM Content](https://docs.moodle.org/311/en/Creating_SCORM_Content)
+*   [Awesome LTI](https://github.com/scollovati/awesome-lti)
 
 ## eLearning Apps
 
