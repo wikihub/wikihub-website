@@ -27,7 +27,12 @@
       <description>
         
         
-        &lt;h1 id=&#34;software&#34;&gt;Software&lt;/h1&gt;
+        &lt;h1 id=&#34;standards&#34;&gt;Standards&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://sharedstreets.io/&#34;&gt;Shared Streets&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://mpai.community/standards/mpai-cav/use-cases-and-functional-requirements/&#34;&gt;MPAI-CAV&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;software&#34;&gt;Software&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://awesomeopensource.com/projects/autonomous-driving&#34;&gt;Open source autonomous driving&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://awesomeopensource.com/projects/autonomous-vehicles&#34;&gt;Open source autonomous vehicles&lt;/a&gt;&lt;/li&gt;
