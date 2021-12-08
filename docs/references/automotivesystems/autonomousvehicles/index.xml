@@ -383,11 +383,15 @@
       <description>
         
         
-        &lt;h1 id=&#34;autowareiohttpsgitlabcomautowarefoundationautowareaidrivers&#34;&gt;&lt;a href=&#34;https://gitlab.com/autowarefoundation/autoware.ai/drivers&#34;&gt;Autoware.io&lt;/a&gt;&lt;/h1&gt;
+        &lt;h1 id=&#34;autowareauto-ros-2&#34;&gt;Autoware.auto (ROS 2)&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;Vehicle control&lt;/li&gt;
-&lt;li&gt;Sensor and ECU integration&lt;/li&gt;
-&lt;li&gt;Simulation &amp;amp; Tools&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://autowarefoundation.gitlab.io/autoware.auto/AutowareAuto/index.html&#34;&gt;AutowareAuto wiki&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://autowarefoundation.gitlab.io/autoware.auto/AutowareAuto/howto.html&#34;&gt;AutowareAuto How to&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gitlab.com/autowarefoundation/autoware-foundation/-/wikis/Autonomy-hardware-working-group&#34;&gt;Autonomy hardware workgroup&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gitlab.com/autowarefoundation/autoware-foundation/-/wikis/Autonomy-Software-working-group&#34;&gt;Autonomy software working group&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.autoware.org/post/autonomous-valet-parking-2020&#34;&gt;Autonomous valet parking 2020&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gitlab.com/autowarefoundation/autoware.auto/AutowareAuto&#34;&gt;Autoware.auto on Gitlab&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://autowarefoundation.gitlab.io/autoware.auto/AutowareAuto/installation.html&#34;&gt;Autoware.auto install&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;autowareai-ros-1httpsgitlabcomautowarefoundationautowareai&#34;&gt;&lt;a href=&#34;https://gitlab.com/autowarefoundation/autoware.ai&#34;&gt;Autoware.ai (ROS 1)&lt;/a&gt;&lt;/h1&gt;
 &lt;ul&gt;
@@ -411,6 +415,12 @@
 &lt;li&gt;&lt;a href=&#34;https://github.com/hatem-darweesh/autoware/tree/op-x&#34;&gt;op-x repo by Hatem&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/streetdrone-home/Autoware/&#34;&gt;Old Autoware repo&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h1 id=&#34;autowareiohttpsgitlabcomautowarefoundationautowareaidrivers&#34;&gt;&lt;a href=&#34;https://gitlab.com/autowarefoundation/autoware.ai/drivers&#34;&gt;Autoware.io&lt;/a&gt;&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Vehicle control&lt;/li&gt;
+&lt;li&gt;Sensor and ECU integration&lt;/li&gt;
+&lt;li&gt;Simulation &amp;amp; Tools&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2 id=&#34;simulation&#34;&gt;Simulation&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://gitlab.com/autowarefoundation/autoware.ai/autoware/-/wikis/Gazebo-Simulation-Start&#34;&gt;Gazebo&lt;/a&gt;&lt;/li&gt;
@@ -426,16 +436,6 @@
 &lt;h2 id=&#34;fleet-management&#34;&gt;Fleet Management&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/CPFL/AMS&#34;&gt;Autoware Management System&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;autowareauto-ros-2&#34;&gt;Autoware.auto (ROS 2)&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://autowarefoundation.gitlab.io/autoware.auto/AutowareAuto/index.html&#34;&gt;AutowareAuto wiki&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://autowarefoundation.gitlab.io/autoware.auto/AutowareAuto/howto.html&#34;&gt;AutowareAuto How to&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://gitlab.com/autowarefoundation/autoware-foundation/-/wikis/Autonomy-hardware-working-group&#34;&gt;Autonomy hardware workgroup&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://gitlab.com/autowarefoundation/autoware-foundation/-/wikis/Autonomy-Software-working-group&#34;&gt;Autonomy software working group&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.autoware.org/post/autonomous-valet-parking-2020&#34;&gt;Autonomous valet parking 2020&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://gitlab.com/autowarefoundation/autoware.auto/AutowareAuto&#34;&gt;Autoware.auto on Gitlab&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://autowarefoundation.gitlab.io/autoware.auto/AutowareAuto/installation.html&#34;&gt;Autoware.auto install&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;vehicle-interface&#34;&gt;Vehicle Interface&lt;/h2&gt;
 &lt;ul&gt;
