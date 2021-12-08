@@ -36,6 +36,7 @@ description: News and information about software development and necessary tools
 
 # git
 
+* [git-scm](https://git-scm.com/book/en/v2)
 * [version control](https://web.mit.edu/6.031/www/sp20/classes/05-version-control/)
 *   [Install the latest git](https://itsfoss.com/install-git-ubuntu/)
 *   [Setting your username in Git](https://help.github.com/articles/setting-your-username-in-git/)
