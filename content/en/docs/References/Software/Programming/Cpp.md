@@ -23,3 +23,11 @@ description: Resources for C++ programming
 * [UT](https://boost-ext.github.io/ut/)
 * [Boost.Test](https://github.com/boostorg/test)
 * [Catch2](https://github.com/catchorg/Catch2)
+
+# C++ Style Guides
+
+* [ROS C++ Style Guide](http://wiki.ros.org/CppStyleGuide)
+* [ROSCpp Code Format](https://github.com/PickNikRobotics/roscpp_code_format)
+* [ClangFormat](https://clang.llvm.org/docs/ClangFormat.html)
+* [Autoware Coding Style](https://gitlab.com/autowarefoundation/autoware.ai/autoware/-/wikis/Contributing-to-Autoware#coding-style)
+* [Contributing to Autoware](https://gitlab.com/autowarefoundation/autoware.ai/autoware/-/wikis/Contributing-to-Autoware)
