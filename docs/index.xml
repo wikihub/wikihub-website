@@ -578,6 +578,14 @@
 &lt;li&gt;&lt;a href=&#34;https://github.com/boostorg/test&#34;&gt;Boost.Test&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/catchorg/Catch2&#34;&gt;Catch2&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h1 id=&#34;c-style-guides&#34;&gt;C++ Style Guides&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://wiki.ros.org/CppStyleGuide&#34;&gt;ROS C++ Style Guide&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/PickNikRobotics/roscpp_code_format&#34;&gt;ROSCpp Code Format&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://clang.llvm.org/docs/ClangFormat.html&#34;&gt;ClangFormat&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gitlab.com/autowarefoundation/autoware.ai/autoware/-/wikis/Contributing-to-Autoware#coding-style&#34;&gt;Autoware Coding Style&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gitlab.com/autowarefoundation/autoware.ai/autoware/-/wikis/Contributing-to-Autoware&#34;&gt;Contributing to Autoware&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
       </description>
     </item>
