@@ -5,6 +5,11 @@ weight: 5
 description: Autonomous Vehicles
 ---
 
+# Standards
+
+* [Shared Streets](https://sharedstreets.io/)
+* [MPAI-CAV](https://mpai.community/standards/mpai-cav/use-cases-and-functional-requirements/)
+
 # Software
 * [Open source autonomous driving](https://awesomeopensource.com/projects/autonomous-driving)
 * [Open source autonomous vehicles](https://awesomeopensource.com/projects/autonomous-vehicles)
