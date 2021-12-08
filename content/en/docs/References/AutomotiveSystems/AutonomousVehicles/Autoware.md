@@ -4,10 +4,15 @@ linkTitle: "Autoware"
 date: 2020-02-06
 description: News and resources on Autoware
 ---
-# [Autoware.io](https://gitlab.com/autowarefoundation/autoware.ai/drivers)
-* Vehicle control
-* Sensor and ECU integration
-* Simulation & Tools
+
+# Autoware.auto (ROS 2)
+* [AutowareAuto wiki](https://autowarefoundation.gitlab.io/autoware.auto/AutowareAuto/index.html)
+* [AutowareAuto How to](https://autowarefoundation.gitlab.io/autoware.auto/AutowareAuto/howto.html)
+* [Autonomy hardware workgroup](https://gitlab.com/autowarefoundation/autoware-foundation/-/wikis/Autonomy-hardware-working-group)
+* [Autonomy software working group](https://gitlab.com/autowarefoundation/autoware-foundation/-/wikis/Autonomy-Software-working-group)
+* [Autonomous valet parking 2020](https://www.autoware.org/post/autonomous-valet-parking-2020)
+* [Autoware.auto on Gitlab](https://gitlab.com/autowarefoundation/autoware.auto/AutowareAuto)
+* [Autoware.auto install](https://autowarefoundation.gitlab.io/autoware.auto/AutowareAuto/installation.html)
 
 # [Autoware.ai (ROS 1)](https://gitlab.com/autowarefoundation/autoware.ai)
 * [Autoware wiki](https://gitlab.com/autowarefoundation/autoware.ai/autoware/-/wikis/home)
@@ -28,6 +33,11 @@ description: News and resources on Autoware
 * [op-x repo by Hatem](https://github.com/hatem-darweesh/autoware/tree/op-x)
 * [Old Autoware repo](https://github.com/streetdrone-home/Autoware/)
 
+# [Autoware.io](https://gitlab.com/autowarefoundation/autoware.ai/drivers)
+* Vehicle control
+* Sensor and ECU integration
+* Simulation & Tools
+
 ## Simulation
 * [Gazebo](https://gitlab.com/autowarefoundation/autoware.ai/autoware/-/wikis/Gazebo-Simulation-Start)
 * [LGSVL GitHub](https://github.com/lgsvl/Autoware)
@@ -40,15 +50,6 @@ description: News and resources on Autoware
 
 ## Fleet Management
 * [Autoware Management System](https://github.com/CPFL/AMS)
-
-# Autoware.auto (ROS 2)
-* [AutowareAuto wiki](https://autowarefoundation.gitlab.io/autoware.auto/AutowareAuto/index.html)
-* [AutowareAuto How to](https://autowarefoundation.gitlab.io/autoware.auto/AutowareAuto/howto.html)
-* [Autonomy hardware workgroup](https://gitlab.com/autowarefoundation/autoware-foundation/-/wikis/Autonomy-hardware-working-group)
-* [Autonomy software working group](https://gitlab.com/autowarefoundation/autoware-foundation/-/wikis/Autonomy-Software-working-group)
-* [Autonomous valet parking 2020](https://www.autoware.org/post/autonomous-valet-parking-2020)
-* [Autoware.auto on Gitlab](https://gitlab.com/autowarefoundation/autoware.auto/AutowareAuto)
-* [Autoware.auto install](https://autowarefoundation.gitlab.io/autoware.auto/AutowareAuto/installation.html)
 
 ## Vehicle Interface
 * [Collect use cases for vehicle interface](https://gitlab.com/autowarefoundation/autoware.auto/AutowareAuto/-/issues/85)
