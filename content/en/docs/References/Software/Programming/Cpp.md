@@ -31,3 +31,4 @@ description: Resources for C++ programming
 * [ClangFormat](https://clang.llvm.org/docs/ClangFormat.html)
 * [Autoware Coding Style](https://gitlab.com/autowarefoundation/autoware.ai/autoware/-/wikis/Contributing-to-Autoware#coding-style)
 * [Contributing to Autoware](https://gitlab.com/autowarefoundation/autoware.ai/autoware/-/wikis/Contributing-to-Autoware)
+* [clang-format VSCode extension](https://marketplace.visualstudio.com/items?itemName=xaver.clang-format)
