@@ -39,3 +39,7 @@ description: Resources for running a small business
 
 * [SBIR](https://www.sbir.gov/)
 * [Ice Cores](https://icecores.org/)
+
+# Hiring
+
+* [How to prepare for an interview at Geotab](https://www.geotab.com/blog/how-to-prepare-for-an-interview/)
