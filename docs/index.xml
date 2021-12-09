@@ -586,6 +586,7 @@
 &lt;li&gt;&lt;a href=&#34;https://gitlab.com/autowarefoundation/autoware.ai/autoware/-/wikis/Contributing-to-Autoware#coding-style&#34;&gt;Autoware Coding Style&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://gitlab.com/autowarefoundation/autoware.ai/autoware/-/wikis/Contributing-to-Autoware&#34;&gt;Contributing to Autoware&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://marketplace.visualstudio.com/items?itemName=xaver.clang-format&#34;&gt;clang-format VSCode extension&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;cppcheck, cpplint, uncrustify, lint_cmake, xmllint, flake8, pep257&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
