@@ -32,3 +32,4 @@ description: Resources for C++ programming
 * [Autoware Coding Style](https://gitlab.com/autowarefoundation/autoware.ai/autoware/-/wikis/Contributing-to-Autoware#coding-style)
 * [Contributing to Autoware](https://gitlab.com/autowarefoundation/autoware.ai/autoware/-/wikis/Contributing-to-Autoware)
 * [clang-format VSCode extension](https://marketplace.visualstudio.com/items?itemName=xaver.clang-format)
+* cppcheck, cpplint, uncrustify, lint_cmake, xmllint, flake8, pep257
