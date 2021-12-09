@@ -677,6 +677,34 @@
     </item>
     
     <item>
+      <title>Docs: Cloud Storage</title>
+      <link>https://wikihub.github.io/docs/references/software/cloud/storage/</link>
+      <pubDate>Thu, 09 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/software/cloud/storage/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;minio&#34;&gt;MinIO&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/sleighzy/k3s-minio-deployment&#34;&gt;k3s-minio-deployment&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;nextcloud&#34;&gt;NextCloud&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.nextcloud.com/server/latest/admin_manual/contents.html&#34;&gt;NextCloud Admin Manual&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;synology&#34;&gt;Synology&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://kb.synology.com/en-sg/search&#34;&gt;Synology knowledge center&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.mact.me/2020/12/24/two-great-guides-for-setting-up-minio-on-your-synology-nas&#34;&gt;Two great guides for setting up Minio on your Synology NAS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://mariushosting.com/how-to-install-nextcloud-on-your-synology-nas/&#34;&gt;How to Install Nextcloud on Your Synology NAS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://atlassc.net/2021/08/10/mount-synology-with-cifs-utils-on-ubuntu/&#34;&gt;Mount Synology NAS with cifs-utils on Ubuntu&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Docs: Self Hosted</title>
       <link>https://wikihub.github.io/docs/references/software/cloud/selfhoasted/</link>
       <pubDate>Tue, 05 Oct 2021 00:00:00 +0000</pubDate>
