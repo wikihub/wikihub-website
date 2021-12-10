@@ -1,9 +1,13 @@
 ---
-title: "Building"
-linkTitle: "Building"
+title: "Smart Cities"
+linkTitle: "Smart Cities"
 weight: 70
-description: Resources for building construction and optimization
+description: Resources for smart cities, building construction and optimization
 ---
+
+# Metaverase
+
+* [Cesium: The Platform for 3D Geospatial](https://cesium.com/)
 
 # Building Automation
 
