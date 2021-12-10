@@ -12,6 +12,12 @@ description: Resources for learning
 * [Self-hosted learning and courses](https://github.com/awesome-selfhosted/awesome-selfhosted#learning-and-courses)
 * [Awesome EdTech Tools](https://github.com/hkalant/awesome-edtech-tools)
 
+# Learning Platforms
+
+* [Disco](https://www.disco.co/)
+* [Thinkific](https://www.thinkific.com/)
+* [Kajabi](https://kajabi.com/)
+
 # Hackathons
 * [Ultrahack](https://ultrahack.org/)
 
