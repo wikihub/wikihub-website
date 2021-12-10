@@ -20,3 +20,7 @@ description: News and information about cloud storage
 * [Two great guides for setting up Minio on your Synology NAS](https://blog.mact.me/2020/12/24/two-great-guides-for-setting-up-minio-on-your-synology-nas)
 * [How to Install Nextcloud on Your Synology NAS](https://mariushosting.com/how-to-install-nextcloud-on-your-synology-nas/)
 * [Mount Synology NAS with cifs-utils on Ubuntu](https://atlassc.net/2021/08/10/mount-synology-with-cifs-utils-on-ubuntu/)
+
+# Ubuntu
+
+* [Ubuntu: Creating a Samba/CIFS share to quickly share files with Windows](https://fabianlee.org/2016/07/21/ubuntu-creating-a-samba-cifs-share-to-quickly-share-files-with-windows/)
