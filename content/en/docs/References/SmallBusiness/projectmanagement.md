@@ -13,3 +13,8 @@ description: Resources for project management
 
 * [mdline](https://github.com/azu/mdline)
 * [mermaid](https://mermaidjs.github.io/)
+
+# Prioritization Methods
+
+* [Value vs Effort](https://jexo.io/blog/backlog-prioritization-techniques-the-value-vs-effort/)
+* [RICE](https://www.productplan.com/glossary/rice-scoring-model/)
