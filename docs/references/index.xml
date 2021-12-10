@@ -616,61 +616,6 @@
     </item>
     
     <item>
-      <title>Docs: Building</title>
-      <link>https://wikihub.github.io/docs/references/building/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://wikihub.github.io/docs/references/building/</guid>
-      <description>
-        
-        
-        &lt;h1 id=&#34;building-automation&#34;&gt;Building Automation&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://beic.ca/&#34;&gt;Building Energy Innovators Council&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.brainboxai.com/&#34;&gt;Brain Box AI&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.paritygo.com/&#34;&gt;Parity&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://carleton.ca/dbom/&#34;&gt;Data-driven building operation and maintenance research group&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://buildingenergychallenge.ca/&#34;&gt;Building energy challenge&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://projectstasio.com/&#34;&gt;Project STASIO&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://simulate.energy/&#34;&gt;Simulate Energy&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://betterbuildingsbc.ca/new-construction/net-zero-energy-ready-challenge/&#34;&gt;Clean BC&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.bomatoronto.org/&#34;&gt;BOMA Toronto&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://buildingsimulation2019.org/competitions/&#34;&gt;Buildings Simulation 2019&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;government-funds&#34;&gt;Government Funds&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.sdtc.ca/en/&#34;&gt;SDTC&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.nrcan.gc.ca/science-data/research-centres-labs/energy-offices-labs/office-energy-research-development-oerd/5711&#34;&gt;OERD&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;startups&#34;&gt;Startups&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.bluwave-ai.com/&#34;&gt;Bluwave AI&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;academic-research&#34;&gt;Academic Research&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://simulationresearch.lbl.gov/&#34;&gt;Simulation Research&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;net-zero-energy-buildings&#34;&gt;Net Zero Energy Buildings&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.huffingtonpost.ca/entry/net-zero-energy-homes-in-ontario-that-produce-as-much-power-as-they-consume_ca_5cd540fae4b07bc729764592&#34;&gt;Net-Zero Energy Homes In Ontario&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.terra-view.com/guelphs-new-net-zero-carbon-emission-home/&#34;&gt;Terra View&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;tiny-houses&#34;&gt;Tiny Houses&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=E7D9_r8rjgE&#34;&gt;15 Modern Tiny Homes and Prefab Modular Housing&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;floor-plans&#34;&gt;Floor Plans&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://leafletjs.com/&#34;&gt;Leeflet JS&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/anthonyblackham/floorplans&#34;&gt;floorplans&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/cvdlab/react-planner&#34;&gt;React Planner&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.sweethome3d.com/&#34;&gt;Sweethome 3D&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
       <title>Docs: Fintech</title>
       <link>https://wikihub.github.io/docs/references/fintech/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -976,6 +921,65 @@
 &lt;h1 id=&#34;forums&#34;&gt;Forums&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.discourse.org/&#34;&gt;Discourse&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Smart Cities</title>
+      <link>https://wikihub.github.io/docs/references/building/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/building/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;metaverase&#34;&gt;Metaverase&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://cesium.com/&#34;&gt;Cesium: The Platform for 3D Geospatial&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;building-automation&#34;&gt;Building Automation&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://beic.ca/&#34;&gt;Building Energy Innovators Council&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.brainboxai.com/&#34;&gt;Brain Box AI&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.paritygo.com/&#34;&gt;Parity&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://carleton.ca/dbom/&#34;&gt;Data-driven building operation and maintenance research group&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://buildingenergychallenge.ca/&#34;&gt;Building energy challenge&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://projectstasio.com/&#34;&gt;Project STASIO&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://simulate.energy/&#34;&gt;Simulate Energy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://betterbuildingsbc.ca/new-construction/net-zero-energy-ready-challenge/&#34;&gt;Clean BC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.bomatoronto.org/&#34;&gt;BOMA Toronto&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://buildingsimulation2019.org/competitions/&#34;&gt;Buildings Simulation 2019&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;government-funds&#34;&gt;Government Funds&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.sdtc.ca/en/&#34;&gt;SDTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.nrcan.gc.ca/science-data/research-centres-labs/energy-offices-labs/office-energy-research-development-oerd/5711&#34;&gt;OERD&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;startups&#34;&gt;Startups&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.bluwave-ai.com/&#34;&gt;Bluwave AI&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;academic-research&#34;&gt;Academic Research&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://simulationresearch.lbl.gov/&#34;&gt;Simulation Research&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;net-zero-energy-buildings&#34;&gt;Net Zero Energy Buildings&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.huffingtonpost.ca/entry/net-zero-energy-homes-in-ontario-that-produce-as-much-power-as-they-consume_ca_5cd540fae4b07bc729764592&#34;&gt;Net-Zero Energy Homes In Ontario&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.terra-view.com/guelphs-new-net-zero-carbon-emission-home/&#34;&gt;Terra View&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;tiny-houses&#34;&gt;Tiny Houses&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=E7D9_r8rjgE&#34;&gt;15 Modern Tiny Homes and Prefab Modular Housing&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;floor-plans&#34;&gt;Floor Plans&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://leafletjs.com/&#34;&gt;Leeflet JS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/anthonyblackham/floorplans&#34;&gt;floorplans&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/cvdlab/react-planner&#34;&gt;React Planner&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.sweethome3d.com/&#34;&gt;Sweethome 3D&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
