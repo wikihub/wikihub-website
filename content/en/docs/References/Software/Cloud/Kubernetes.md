@@ -182,6 +182,7 @@ description: News and information about Kubernetes
 * `kubectl get all --all-namespaces`
 * `kubectl -n kube-system get secret`
 * `kubectl -n kube-system describe secret kubernetes-dashboard-token-xxxx`
+* [krew](https://krew.sigs.k8s.io/)
 
 # SSL on Kubernetes
 * [Free SSL on Kubernetes with Let’s Encrypt and cert-manager](https://medium.com/adg-vit/free-ssl-on-kubernetes-with-lets-encrypt-and-cert-manager-8a2466a611d9)
