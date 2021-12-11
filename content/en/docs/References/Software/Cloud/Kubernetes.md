@@ -262,6 +262,10 @@ description: News and information about Kubernetes
 * [Kubernetes: K3s cluster on Ubuntu using Ansible](https://fabianlee.org/2021/09/12/kubernetes-k3s-cluster-on-ubuntu-using-ansible/)
 * [Kubernetes: K3s with multiple Istio ingress gateways](https://fabianlee.org/2021/09/16/kubernetes-k3s-with-multiple-istio-ingress-gateways/)
 
+## k3d
+
+* [k3d history](https://thklein.io/blog/20210622-k3d-history/)
+
 ## Rancher
 
 * [How to install Rancher on k3s](https://vmguru.com/2021/04/how-to-install-rancher-on-k3s/)
