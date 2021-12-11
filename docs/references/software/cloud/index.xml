@@ -318,6 +318,7 @@
 &lt;li&gt;&lt;code&gt;kubectl get all --all-namespaces&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;kubectl -n kube-system get secret&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;kubectl -n kube-system describe secret kubernetes-dashboard-token-xxxx&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://krew.sigs.k8s.io/&#34;&gt;krew&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;ssl-on-kubernetes&#34;&gt;SSL on Kubernetes&lt;/h1&gt;
 &lt;ul&gt;
