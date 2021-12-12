@@ -141,7 +141,7 @@
 &lt;li&gt;&lt;a href=&#34;https://cluster-in-the-cloud.readthedocs.io/en/latest/index.html&#34;&gt;Cluster in the cloud&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://kubebyexample.com/&#34;&gt;Kube by example&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.containerlabs.kubedaily.com/&#34;&gt;containerlabs&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.flant.com/&#34;&gt;Flant Blog&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;hosted-kubernetes&#34;&gt;Hosted kubernetes&lt;/h2&gt;
 &lt;ul&gt;
@@ -516,6 +516,8 @@
 &lt;li&gt;&lt;a href=&#34;https://gitkube.sh/&#34;&gt;Gitkube&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/MinikubeAddon/watchpod&#34;&gt;Watchpod&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/Mirantis/k8s-devbox&#34;&gt;k8s-devbox&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/flant-com/k9s-terminal-ui-for-kubernetes-aeead8b0303f&#34;&gt;k9s&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://popeyecli.io/&#34;&gt;popeye&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;komposehttpskomposeio&#34;&gt;&lt;a href=&#34;https://kompose.io/&#34;&gt;Kompose&lt;/a&gt;&lt;/h1&gt;
 &lt;ul&gt;
