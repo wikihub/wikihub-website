@@ -273,6 +273,7 @@ description: News and information about Kubernetes
 ## Rancher
 
 * [How to install Rancher on k3s](https://vmguru.com/2021/04/how-to-install-rancher-on-k3s/)
+* [Deploying Rancher on k3s on WSL2](https://boxofcables.dev/deploying-rancher-on-k3s-on-wsl2/)
 * [k3s and Rancher docker-compose.yml](https://github.com/dschuldt/Docker/blob/d098102c4b8820f11288b210b0f3b62aacbd9d03/k3s/docker-compose.yml)
 
 ## Calico
