@@ -415,6 +415,7 @@
 &lt;h2 id=&#34;rancher&#34;&gt;Rancher&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://vmguru.com/2021/04/how-to-install-rancher-on-k3s/&#34;&gt;How to install Rancher on k3s&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/dschuldt/Docker/blob/d098102c4b8820f11288b210b0f3b62aacbd9d03/k3s/docker-compose.yml&#34;&gt;k3s and Rancher docker-compose.yml&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;calico&#34;&gt;Calico&lt;/h2&gt;
 &lt;ul&gt;
