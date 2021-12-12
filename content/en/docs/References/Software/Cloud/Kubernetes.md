@@ -21,8 +21,9 @@ description: News and information about Kubernetes
 *   [cert-manager](https://cert-manager.io/)
 *   [Cluster in the cloud](https://cluster-in-the-cloud.readthedocs.io/en/latest/index.html)
 *   [Kube by example](https://kubebyexample.com/)
-* [containerlabs](https://www.containerlabs.kubedaily.com/)
-* 
+*   [containerlabs](https://www.containerlabs.kubedaily.com/)
+*   [Flant Blog](https://blog.flant.com/)
+
 ## Hosted kubernetes
 * [Platform - Certified Kubernetes - Hosted](https://landscape.cncf.io/card-mode?category=certified-kubernetes-hosted&grouping=category)
 * [Civo](https://www.civo.com/)
@@ -369,6 +370,8 @@ description: News and information about Kubernetes
 *   [Gitkube](https://gitkube.sh/)
 *   [Watchpod](https://github.com/MinikubeAddon/watchpod)
 *   [k8s-devbox](https://github.com/Mirantis/k8s-devbox)
+*   [k9s](https://medium.com/flant-com/k9s-terminal-ui-for-kubernetes-aeead8b0303f)
+*   [popeye](https://popeyecli.io/)
 
 # [Kompose](https://kompose.io/)
 * [Compose to kubernetes simplified with kompose](https://www.opcito.com/blogs/compose-to-kubernetes-simplified-with-kompose)
