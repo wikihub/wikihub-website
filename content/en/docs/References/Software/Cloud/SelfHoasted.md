@@ -19,6 +19,7 @@ description: News and information about self-hosted applications
 * [Managing my personal server in 2020](https://github.com/erebe/personal-server/blob/master/README.md)
 * [Smart Home Beginner: My smart home setup 2019](https://www.smarthomebeginner.com/my-smart-home-setup-2019/)
 * [Ikarus](https://ikarus.sg/tag/kubernetes/)
+* [homelab-server](https://github.com/omdv/homelab-server)
 
 # Self-Hosted Web Applications
 - [Awesome selfhosted](https://github.com/Kickball/awesome-selfhosted)
