@@ -180,6 +180,7 @@
 &lt;h2 id=&#34;example-applications&#34;&gt;Example Applications&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/helkey/url-shorten&#34;&gt;URL Shortener Design Doc&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/MUONetwork/playbooks&#34;&gt;MUONetwork&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;ingress&#34;&gt;Ingress&lt;/h2&gt;
 &lt;ul&gt;
@@ -198,6 +199,7 @@
 &lt;li&gt;&lt;a href=&#34;https://traefik.io/blog/https-on-kubernetes-using-traefik-proxy/&#34;&gt;HTTPS on Kubernetes Using Traefik Proxy&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/traefik-tech-blog&#34;&gt;Traefik tech blog&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/sleighzy/k3s-traefik-v2-kubernetes-crd&#34;&gt;k3s-traefik-v2-kubernetes-crd&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/MUONetwork/playbooks/blob/main/playbooks/templates/docker-compose-traefik.yml.j2&#34;&gt;Traefik template&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;installing-kubernetes-with-deployment-toolshttpskubernetesiodocssetupproduction-environmenttools&#34;&gt;&lt;a href=&#34;https://kubernetes.io/docs/setup/production-environment/tools/&#34;&gt;Installing Kubernetes with deployment tools&lt;/a&gt;&lt;/h1&gt;
 &lt;ul&gt;
