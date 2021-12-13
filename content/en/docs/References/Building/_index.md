@@ -9,6 +9,10 @@ description: Resources for smart cities, building construction and optimization
 
 * [Cesium: The Platform for 3D Geospatial](https://cesium.com/)
 
+# Remote lab
+
+* [Duckietown navigation starter pack](https://www.okdo.com/us/p/duckietown-navigation-starter-pack/)
+
 # Building Automation
 
 * [Building Energy Innovators Council](https://beic.ca/)
