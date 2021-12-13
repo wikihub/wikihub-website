@@ -78,6 +78,7 @@ description: News and information about Kubernetes
 * [Traefik tech blog](https://github.com/traefik-tech-blog)
 * [k3s-traefik-v2-kubernetes-crd](https://github.com/sleighzy/k3s-traefik-v2-kubernetes-crd)
 * [Traefik template](https://github.com/MUONetwork/playbooks/blob/main/playbooks/templates/docker-compose-traefik.yml.j2)
+* [traefik-docker](https://github.com/riogezz/traefik-docker)
 
 # [Installing Kubernetes with deployment tools](https://kubernetes.io/docs/setup/production-environment/tools/)
 
