@@ -270,6 +270,7 @@ description: News and information about Kubernetes
 ## k3d
 
 * [k3d history](https://thklein.io/blog/20210622-k3d-history/)
+* [k3d-nginx-ingress](https://github.com/waybarrios/k3d-nginx-ingress)
 
 ## Rancher
 
