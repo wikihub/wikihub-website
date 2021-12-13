@@ -105,6 +105,7 @@ description: News and information about Kubernetes
 * [Bitnami community](https://community.bitnami.com/)
 * [Two year update: Building an Open Source Marketplace for Kubernetes](https://blog.alexellis.io/kubernetes-marketplace-two-year-update/)
 * [k8ssandra](https://k8ssandra.io/)
+* [ELK Stack](https://www.elastic.co/what-is/elk-stack)
 
 ## arkade
 * [arkade - The Open Source Kubernetes Marketplace](https://github.com/alexellis/arkade)
