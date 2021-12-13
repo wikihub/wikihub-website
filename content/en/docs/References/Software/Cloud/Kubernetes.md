@@ -59,6 +59,7 @@ description: News and information about Kubernetes
 ## Example Applications
 
 * [URL Shortener Design Doc](https://github.com/helkey/url-shorten)
+* [MUONetwork](https://github.com/MUONetwork/playbooks)
 
 ## Ingress
 * [Ingress annotations](https://github.com/kubernetes/ingress-nginx/blob/main/docs/user-guide/nginx-configuration/annotations.md)
@@ -76,6 +77,7 @@ description: News and information about Kubernetes
 * [HTTPS on Kubernetes Using Traefik Proxy](https://traefik.io/blog/https-on-kubernetes-using-traefik-proxy/)
 * [Traefik tech blog](https://github.com/traefik-tech-blog)
 * [k3s-traefik-v2-kubernetes-crd](https://github.com/sleighzy/k3s-traefik-v2-kubernetes-crd)
+* [Traefik template](https://github.com/MUONetwork/playbooks/blob/main/playbooks/templates/docker-compose-traefik.yml.j2)
 
 # [Installing Kubernetes with deployment tools](https://kubernetes.io/docs/setup/production-environment/tools/)
 
