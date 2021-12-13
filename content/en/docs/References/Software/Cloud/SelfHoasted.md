@@ -32,6 +32,10 @@ description: News and information about self-hosted applications
 - [/r/selfhosted/](https://old.reddit.com/r/selfhosted/)
 - [The self-hosted dilemma - Home server or the cloud?](https://arvind.io/posts/self-hosted-home-server-vs-cloud/)
 
+# Applications
+
+* [ToolJet](https://docs.tooljet.com/docs/intro/)
+
 # Communications
 
 * [Matterbridge](https://github.com/42wim/matterbridge/)
