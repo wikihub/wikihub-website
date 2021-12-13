@@ -19,3 +19,7 @@ description: Resources for project management
 
 * [Value vs Effort](https://jexo.io/blog/backlog-prioritization-techniques-the-value-vs-effort/)
 * [RICE](https://www.productplan.com/glossary/rice-scoring-model/)
+
+# Managers
+
+* [101 Questions](https://github.com/jwsy/1on1-questions)
