@@ -31,3 +31,4 @@ description: News and information about Terraform, Nomad, Vault, Consul
 # Homelab
 
 * [distributed-homelab-cluster](https://blog.tjll.net/distributed-homelab-cluster/)
+* [traefik-nomad-route53](https://visibilityspots.org/traefik-nomad-route53.html)
