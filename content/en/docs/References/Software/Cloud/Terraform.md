@@ -27,3 +27,7 @@ description: News and information about Terraform, Nomad, Vault, Consul
 * [Securing your apps without touching the code!](https://github.com/nehrman/hashiconfEU-2019)
 * [Automate the renewal of TLS certificates with Vault and Cert-Manager](https://www.cinqict.nl/blog/automate-the-renewal-of-tls-certificates-with-vault)
 * [vault-k8s](https://github.com/hashicorp/vault-k8s)
+
+# Homelab
+
+* [distributed-homelab-cluster](https://blog.tjll.net/distributed-homelab-cluster/)
