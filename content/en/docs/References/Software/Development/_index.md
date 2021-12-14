@@ -8,6 +8,10 @@ description: News and information about software development and necessary tools
 
 ---
 
+# Open Source
+
+* [Open source guide](https://opensource.guide/)
+
 # Coding interviews
 
 * [Awesome interview questions](https://github.com/DopplerHQ/awesome-interview-questions)
