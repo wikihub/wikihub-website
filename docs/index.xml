@@ -1409,6 +1409,7 @@
 &lt;li&gt;&lt;a href=&#34;https://github.com/sleighzy/k3s-traefik-v2-kubernetes-crd&#34;&gt;k3s-traefik-v2-kubernetes-crd&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/MUONetwork/playbooks/blob/main/playbooks/templates/docker-compose-traefik.yml.j2&#34;&gt;Traefik template&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/riogezz/traefik-docker&#34;&gt;traefik-docker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://tingshean.github.io/2020/12/09/traefik-in-k8s-with-helm.html&#34;&gt;traefik-in-k8s-with-helm&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;installing-kubernetes-with-deployment-toolshttpskubernetesiodocssetupproduction-environmenttools&#34;&gt;&lt;a href=&#34;https://kubernetes.io/docs/setup/production-environment/tools/&#34;&gt;Installing Kubernetes with deployment tools&lt;/a&gt;&lt;/h1&gt;
 &lt;ul&gt;
