@@ -113,6 +113,10 @@
 &lt;li&gt;&lt;a href=&#34;https://www.cinqict.nl/blog/automate-the-renewal-of-tls-certificates-with-vault&#34;&gt;Automate the renewal of TLS certificates with Vault and Cert-Manager&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/hashicorp/vault-k8s&#34;&gt;vault-k8s&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h1 id=&#34;homelab&#34;&gt;Homelab&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.tjll.net/distributed-homelab-cluster/&#34;&gt;distributed-homelab-cluster&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
       </description>
     </item>
