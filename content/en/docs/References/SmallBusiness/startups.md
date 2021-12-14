@@ -7,6 +7,13 @@ description: Resources for startups
 
 # Ontario
 
+## Capital Investors
+
+* [Georgian](https://georgian.io/)
+  * [Georgian Companies](https://georgian.io/companies/?status=4580)
+* [GreenSky Capitals](https://greenskycapital.com/)
+  * [GreenSky Portfolio](https://greenskycapital.com/)
+
 ## Services
 
 * [Growth Partners](http://www.growthpartners.ca/)
