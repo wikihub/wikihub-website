@@ -23,6 +23,7 @@ description: News and information about Kubernetes
 *   [Kube by example](https://kubebyexample.com/)
 *   [containerlabs](https://www.containerlabs.kubedaily.com/)
 *   [Flant Blog](https://blog.flant.com/)
+*   [Learning Kubernetes](https://github.com/dionmadyasta/Learning-Kubernetes)
 
 ## Hosted kubernetes
 * [Platform - Certified Kubernetes - Hosted](https://landscape.cncf.io/card-mode?category=certified-kubernetes-hosted&grouping=category)
