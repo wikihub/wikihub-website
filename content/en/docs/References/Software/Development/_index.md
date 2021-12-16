@@ -80,6 +80,7 @@ description: News and information about software development and necessary tools
 * [An open source Git extension for versioning large files](https://git-lfs.github.com/)
 * [Manage large files with Git Large File Storage (LFS)](https://support.atlassian.com/bitbucket-cloud/docs/manage-large-files-with-git-large-file-storage-lfs/)
 * [Measuring the many sizes of a Git repository](https://github.blog/2018-03-05-measuring-the-many-sizes-of-a-git-repository/)
+* [git lfs on AWS S3](https://blog.dermah.com/2020/05/26/how-to-be-stingy-git-lfs-on-your-own-s3-bucket/)
 
 ## Submodules
 
