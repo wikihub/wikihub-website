@@ -14,6 +14,7 @@ description: Resources for C++ programming
 * [C++ Tutorial](https://www.cplusplus.com/doc/tutorial/)
 * [clang](http://clang.org/)
 * [Introduction to C++, MIT, 2011](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-096-introduction-to-c-january-iap-2011/index.htm)
+* [Modern C++ cheatsheet](https://newbedev.com/modern-c-cheatsheet)
 
 # Behaviour Driven Development
 * [Cucumber-CPP](https://github.com/cucumber/cucumber-cpp)
