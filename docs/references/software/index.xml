@@ -184,7 +184,11 @@
       <description>
         
         
-        &lt;h1 id=&#34;awesome-machine-learning&#34;&gt;Awesome Machine Learning&lt;/h1&gt;
+        &lt;h1 id=&#34;reproducibility&#34;&gt;Reproducibility&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://towardsdatascience.com/why-git-and-git-lfs-is-not-enough-to-solve-the-machine-learning-reproducibility-crisis-f733b49e96e8&#34;&gt;Why Git and Git-LFS is not enough to solve the Machine Learning Reproducibility crisis&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;awesome-machine-learning&#34;&gt;Awesome Machine Learning&lt;/h1&gt;
 &lt;p&gt;A collection of awesome machine learning goodies&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://blog.oursky.com/2018/02/14/tensorflow-business-applications-ai-hong-kong/&#34;&gt;What can TensorFlow really do?&lt;/a&gt;&lt;/li&gt;
