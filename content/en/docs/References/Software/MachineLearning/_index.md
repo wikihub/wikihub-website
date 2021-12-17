@@ -5,6 +5,11 @@ date: 2019-02-22
 weight: 30
 description: News and information about machine learning and its applications
 ---
+
+# Reproducibility
+
+* [Why Git and Git-LFS is not enough to solve the Machine Learning Reproducibility crisis](https://towardsdatascience.com/why-git-and-git-lfs-is-not-enough-to-solve-the-machine-learning-reproducibility-crisis-f733b49e96e8)
+
 # Awesome Machine Learning
 A collection of awesome machine learning goodies
 
