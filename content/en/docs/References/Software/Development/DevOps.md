@@ -51,6 +51,10 @@ description: News and information about DevOps technologies and tools
 * [Serverless Jenkins with Jenkins X](https://medium.com/@jdrawlings/serverless-jenkins-with-jenkins-x-9134cbfe6870)
 * [James Rawlings](https://medium.com/@jdrawlings)
 
+# Bitbucket
+
+* [Configure your runner in bitbucket-pipelines.yml](https://support.atlassian.com/bitbucket-cloud/docs/configure-your-runner-in-bitbucket-pipelines-yml/)
+
 # ARM
 
 * [Graviton2 AWS managed services](https://github.com/aws/aws-graviton-getting-started/blob/main/managed_services.md)
