@@ -70,6 +70,9 @@ description: News and information about software development and necessary tools
    * `git push origin v0.0.1`
 * [Learn git branching](https://learngitbranching.js.org/)
 
+## Rebase
+* [Git Interactive Rebase, Squash, Amend and Other Ways of Rewriting History](https://thoughtbot.com/blog/git-interactive-rebase-squash-amend-rewriting-history)
+
 ## Pruning
 * [How to Use prune to Clean Up Remote Branches in Git](https://www.git-tower.com/learn/git/faq/cleanup-remote-branches-with-git-prune/)
 * [Pruning](https://git-scm.com/docs/git-fetch)
