@@ -33,6 +33,10 @@ description: News and information about Kubernetes
 
 * [DeepOps](https://github.com/NVIDIA/deepops/tree/master/docs/k8s-cluster)
 
+## Cost optimization
+
+* [Technical introduction to Ocean by Spot: Serverless infrastructure engine for containers and Kubernetes](https://spot.io/blog/technical-introduction-to-ocean-by-spot-serverless-infrastructure-engine-for-containers-and-kubernetes/)
+
 # Frameworks
 
 * [Greymatter.io](https://twitter.com/GreymatterIo/status/1429900011572273152)
