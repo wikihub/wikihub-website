@@ -20,7 +20,7 @@
     
     
     <item>
-      <title>Docs: Design</title>
+      <title>Docs: Architecture</title>
       <link>https://wikihub.github.io/docs/references/software/development/design/</link>
       <pubDate>Sat, 13 Nov 2021 00:00:00 +0000</pubDate>
       
@@ -30,6 +30,10 @@
         
         &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.cgap.org/research/slide-deck/smartphones-and-mobile-money-principles-uiux-design-10&#34;&gt;Smartphones and Mobile Money: Principles for UI/UX Design (1.0)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;design-patterns&#34;&gt;Design Patterns&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/DovAmir/awesome-design-patterns&#34;&gt;Awesome Software and Architectural Design Patterns&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
