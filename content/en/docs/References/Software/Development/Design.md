@@ -12,4 +12,5 @@ description: News and information about software design
 
 # Design Patterns
 
+* [Software design pattern](https://en.wikipedia.org/wiki/Software_design_pattern)
 * [Awesome Software and Architectural Design Patterns](https://github.com/DovAmir/awesome-design-patterns)
