@@ -1371,6 +1371,10 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/NVIDIA/deepops/tree/master/docs/k8s-cluster&#34;&gt;DeepOps&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h2 id=&#34;cost-optimization&#34;&gt;Cost optimization&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://spot.io/blog/technical-introduction-to-ocean-by-spot-serverless-infrastructure-engine-for-containers-and-kubernetes/&#34;&gt;Technical introduction to Ocean by Spot: Serverless infrastructure engine for containers and Kubernetes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h1 id=&#34;frameworks&#34;&gt;Frameworks&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://twitter.com/GreymatterIo/status/1429900011572273152&#34;&gt;Greymatter.io&lt;/a&gt;&lt;/li&gt;
