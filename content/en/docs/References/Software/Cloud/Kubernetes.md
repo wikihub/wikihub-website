@@ -37,6 +37,10 @@ description: News and information about Kubernetes
 
 * [Technical introduction to Ocean by Spot: Serverless infrastructure engine for containers and Kubernetes](https://spot.io/blog/technical-introduction-to-ocean-by-spot-serverless-infrastructure-engine-for-containers-and-kubernetes/)
 
+## Observation
+
+* [Opstrace](https://opstrace.com/)
+
 # Frameworks
 
 * [Greymatter.io](https://twitter.com/GreymatterIo/status/1429900011572273152)
