@@ -282,6 +282,28 @@
         &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.itemis.com/en/yakindu/state-machine/documentation/user-guide/lab_projects_fmu_codegen&#34;&gt;Generate Functional Mock-up Unit (FMU) from statecharts&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://emphysis.github.io/pages/downloads/efmi_specification_1.0.0-alpha.3.html&#34;&gt;Functional Mock-up Interface for Embedded Systems (eFMI)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.sim-vicus.de/&#34;&gt;sim-vicus&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/NTNU-IHB/PythonFMU/&#34;&gt;PythonFMU&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/PySimulator/PySimulator/&#34;&gt;PySimulator&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pypi.org/project/PyFMI/&#34;&gt;PyFMI&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://framagit.org/Adrien.Gougeon/pandapower-fmu&#34;&gt;pandapower-fmu&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://openmodelica.org/&#34;&gt;OpenModelica&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://open-simulation-platform.github.io/&#34;&gt;open-simulation-platform&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/OpenModelica/OMSimulator&#34;&gt;OMSimulator&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://bauklimatik-dresden.de/nandrad/&#34;&gt;nandrad&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://bauklimatik-dresden.de/mastersim/&#34;&gt;mastersim&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jmodelica.org/&#34;&gt;jModelica&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://into-cps.org/&#34;&gt;into-cps&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/Hopsan/hopsan&#34;&gt;Hopsan&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.synopsys.com/verification/virtual-prototyping/virtual-ecu/fmu-sdk.html&#34;&gt;fmu-sdk&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/NTNU-IHB/FMU-proxy&#34;&gt;FMU-proxy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/CATIA-Systems/FMPy&#34;&gt;FMPy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/NTNU-IHB/fmi4j&#34;&gt;fmi4j&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/NTNU-IHB/fmi4cpp&#34;&gt;fmi4cpp&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/ThummeTo/FMI.jl&#34;&gt;FMI.jl&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/modelon-community/fmi-library&#34;&gt;fmi-library&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://bitbucket.org/simulage/daccosim/wiki/Home&#34;&gt;daccosim&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.fortiss.org/en/results/software/autofocus-3&#34;&gt;autofocus-3&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
