@@ -2204,6 +2204,24 @@
     </item>
     
     <item>
+      <title>Docs: MLOps</title>
+      <link>https://wikihub.github.io/docs/references/software/machinelearning/mlops/</link>
+      <pubDate>Wed, 22 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/software/machinelearning/mlops/</guid>
+      <description>
+        
+        
+        &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://madewithml.com/courses/mlops/labeling/&#34;&gt;Data labeling&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/wkentaro/labelme&#34;&gt;labelme&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/kubeflow/kubeflow/issues/1316&#34;&gt;Annotation on Kubeflow&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Docs: Machine Vision</title>
       <link>https://wikihub.github.io/docs/references/software/machinelearning/machinevision/</link>
       <pubDate>Sun, 19 Sep 2021 00:00:00 +0000</pubDate>
@@ -2464,28 +2482,6 @@
 &lt;h1 id=&#34;matlab&#34;&gt;MATLAB&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/jianxiongxiao/ProfXkit&#34;&gt;ProfXkit&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Docs: Lidars</title>
-      <link>https://wikihub.github.io/docs/references/robotics/lidars/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://wikihub.github.io/docs/references/robotics/lidars/</guid>
-      <description>
-        
-        
-        &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/pulse/how-choose-right-lidar-sensor-your-project-shahab-khokhar/&#34;&gt;How to Choose the Right LiDAR Sensor for Your Project&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;2d-lidars&#34;&gt;2D Lidars&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.ydlidar.com/&#34;&gt;YDLidar&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/ydlidar/sdk&#34;&gt;YDLidar SDK&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/rasheeddo/testYDLidar&#34;&gt;Testing YDLidar&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>

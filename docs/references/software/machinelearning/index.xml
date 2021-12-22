@@ -20,6 +20,24 @@
     
     
     <item>
+      <title>Docs: MLOps</title>
+      <link>https://wikihub.github.io/docs/references/software/machinelearning/mlops/</link>
+      <pubDate>Wed, 22 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/software/machinelearning/mlops/</guid>
+      <description>
+        
+        
+        &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://madewithml.com/courses/mlops/labeling/&#34;&gt;Data labeling&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/wkentaro/labelme&#34;&gt;labelme&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/kubeflow/kubeflow/issues/1316&#34;&gt;Annotation on Kubeflow&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Docs: Machine Vision</title>
       <link>https://wikihub.github.io/docs/references/software/machinelearning/machinevision/</link>
       <pubDate>Sun, 19 Sep 2021 00:00:00 +0000</pubDate>
