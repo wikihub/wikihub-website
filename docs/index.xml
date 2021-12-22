@@ -2214,6 +2214,7 @@
         
         &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://madewithml.com/courses/mlops/labeling/&#34;&gt;Data labeling&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://labelstud.io/&#34;&gt;Label Studio&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/wkentaro/labelme&#34;&gt;labelme&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/kubeflow/kubeflow/issues/1316&#34;&gt;Annotation on Kubeflow&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/recogito/annotorious&#34;&gt;annotorious&lt;/a&gt;&lt;/li&gt;
