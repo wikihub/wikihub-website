@@ -45,3 +45,7 @@ description: Resources for the Python language
 
 # [requirements.txt](https://pip.pypa.io/en/stable/cli/pip_install/#requirements-file-format)
 * [Using pip and requirements.txt to install from the HEAD of a Github branch](https://codeinthehole.com/tips/using-pip-and-requirementstxt-to-install-from-the-head-of-a-github-branch/)
+
+# Testing
+
+* [Getting Started With Testing in Python](https://realpython.com/python-testing/)
