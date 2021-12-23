@@ -14,6 +14,9 @@ description: News and information about cloud storage
 
 * [NextCloud Admin Manual](https://docs.nextcloud.com/server/latest/admin_manual/contents.html)
 
+# TrueNAS
+* [TrueNAS](https://www.truenas.com/)
+
 # Synology
 
 * [Synology knowledge center](https://kb.synology.com/en-sg/search)
