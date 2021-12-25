@@ -41,6 +41,7 @@ description: News and information about Kubernetes
 ## Cost optimization
 
 * [Technical introduction to Ocean by Spot: Serverless infrastructure engine for containers and Kubernetes](https://spot.io/blog/technical-introduction-to-ocean-by-spot-serverless-infrastructure-engine-for-containers-and-kubernetes/)
+* [kubecost](https://www.kubecost.com)
 
 ## Observation
 
