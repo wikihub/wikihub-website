@@ -30,6 +30,11 @@ description: News and information about Kubernetes
 * [Civo](https://www.civo.com/)
   * [The World's First Managed k3s](https://blog.alexellis.io/the-worlds-first-managed-k3s/)
 
+| Name     | Cores | RAM  | Storage | Price |
+|----------|:-----:|-----:|--------:|------:|
+| Kubeflow |   4   | 12GB |   50GB  |       |
+
+
 ## NVIDIA
 
 * [DeepOps](https://github.com/NVIDIA/deepops/tree/master/docs/k8s-cluster)
