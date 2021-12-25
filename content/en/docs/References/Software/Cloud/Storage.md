@@ -30,5 +30,6 @@ description: News and information about cloud storage
 
 # Data Version Control
 
-* [lakeFS](https://lakefs.io/)
 * [Data version control tools](https://dagshub.com/blog/data-version-control-tools/)
+* [DVC](https://dvc.org/)
+* [lakeFS](https://lakefs.io/)
