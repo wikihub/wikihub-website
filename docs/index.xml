@@ -2129,6 +2129,22 @@
     </item>
     
     <item>
+      <title>Docs: OCaml</title>
+      <link>https://wikihub.github.io/docs/references/software/programming/ocaml/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/software/programming/ocaml/</guid>
+      <description>
+        
+        
+        &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://ocaml.org/&#34;&gt;OCaml programming language&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Docs: Python</title>
       <link>https://wikihub.github.io/docs/references/software/programming/python/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -2436,48 +2452,6 @@
         
         &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.pozyx.io/&#34;&gt;Pozyx&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Docs: Intel Robotics</title>
-      <link>https://wikihub.github.io/docs/references/robotics/intel/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://wikihub.github.io/docs/references/robotics/intel/</guid>
-      <description>
-        
-        
-        &lt;h1 id=&#34;intel-realsensehttpswwwintelcacontentwwwcaenarchitecture-and-technologyrealsense-overviewhtml&#34;&gt;&lt;a href=&#34;https://www.intel.ca/content/www/ca/en/architecture-and-technology/realsense-overview.html&#34;&gt;Intel RealSense&lt;/a&gt;&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/IntelRealSense/librealsense&#34;&gt;Intel RealSense SDK&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/IntelRealSense/librealsense/blob/master/doc/installation_raspbian.md&#34;&gt;Install on raspbian&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/IntelRealSense/librealsense/blob/master/doc/RaspberryPi3.md&#34;&gt;Install on Raspberry Pi 3&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.intelrealsense.com/developers/&#34;&gt;Recommended configurations&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/JetsonHacksNano/installLibrealsense&#34;&gt;Install LibRealSense on Jetosn Nano&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;raspberry-pi&#34;&gt;Raspberry Pi&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/IntelRealSense/librealsense/blob/master/doc/RaspberryPi3.md&#34;&gt;Intel® RealSense™ D400 cameras with Raspberry Pi&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;ros&#34;&gt;ROS&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://idorobotics.com/2018/11/02/integrating-the-intel-realsense-d435-with-ros/&#34;&gt;Integrating the Intel RealSense D435 with ROS&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/jacobmoroni/robotic_vision/wiki/3D-Reconstruction-using-RTAB-Map-with-Intel-RealSense-D435-RGB-D-Camera&#34;&gt;3D Reconstruction using RTAB Map with Intel RealSense D435 RGB D Camera&lt;/a&gt;
-&lt;ul&gt;
-&lt;li&gt;Install RealSense SDK version 2.24&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/IntelRealSense/realsense-ros/issues/812&#34;&gt;sudo apt-get update &amp;amp;&amp;amp; sudo apt-get install ros-melodic-ddynamic-reconfigure&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Install LibRealSense on Jetosn Nano: sudo apt install ros-melodic-perception&lt;/li&gt;
-&lt;li&gt;Install LibRealSense on Jetosn Nano: sudo apt install ros-melodic-diagnostics&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/IntelRealSense/realsense-ros/wiki/SLAM-with-D435i&#34;&gt;SLAM with RealSense D435i camera on ROS&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;gazebo&#34;&gt;Gazebo&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/intel/gazebo-realsense&#34;&gt;Gazebo RealSense plugin&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
