@@ -15,7 +15,7 @@ description: Resources on embedded systems and single board computers
 
 # Containers
 
-* [SOAFEE](https://armkeil.blob.core.windows.net/developer/Files/pdf/white-paper/arm-scalable-open-architecture-for-embedded-edge-soafee.pdf)
+* [Scalable Open Architecture For Embedded Edge (SOAFEE)](https://armkeil.blob.core.windows.net/developer/Files/pdf/white-paper/arm-scalable-open-architecture-for-embedded-edge-soafee.pdf)
 
 # Single Board Microcontrollers
 * [Mbed platforms](https://os.mbed.com/platforms/)
