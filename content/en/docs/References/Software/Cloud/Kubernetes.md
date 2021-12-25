@@ -38,7 +38,10 @@ description: News and information about Kubernetes
 | OVH VPS Essen |   2   | 4GB  |  80GB   |   Unlimited   | $0.02/h   | $14.73/mth |
 | OVH VPS Comft |   4   | 8GB  |  160GB  |   Unlimited   | $0.03/h   | $29.47/mth |
 | AWS m5.large  |   2   | 8GB  |  40GB   |      200GB    | $0.13/h   | $93.68/mth |
+|   t2.2xlarge  |   8   | 32GB |         |               | $0.48/h   | $345.6/mth |
+|  g4dn.xlarge  |   4   | 16GB |  125GB  |      25G      | $0.67/h   | $482.4/mth |
 | GCP n2d std 2 |   2   | 8GB  |  40GB   |       0       | $0.10/h   | $71.93/mth |
+
 
 ## NVIDIA
 
