@@ -22,8 +22,10 @@ A collection of awesome machine learning goodies
 * [Machine Learning Mind Map](https://github.com/dformoso/machine-learning-mindmap)
 * [Deep Learning Drizzle](https://deep-learning-drizzle.github.io/)
 * [Rethinking generalization requires revisiting old ideas: statistical mechanics approaches and complex learning behavior](https://arxiv.org/abs/1710.09553)
-* [Thinc](https://thinc.ai/)
-* [Explosion](https://explosion.ai/)
+* [Explosion](https://explosion.ai/) on [GitHub](https://github.com/explosion)
+  * [Thinc](https://thinc.ai/)
+  * [Prodigy](https://prodi.gy/)
+  * [SpaCy](https://spacy.io/)
 
 # Podcast
 - [Andrew Ng: Influential leader in artificial intelligence](https://behindthetech.libsynpro.com/003-andrew-ng-influential-leader-in-artificial-intelligence)
