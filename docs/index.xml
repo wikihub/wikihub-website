@@ -2209,6 +2209,22 @@
     </item>
     
     <item>
+      <title>Docs: Rust</title>
+      <link>https://wikihub.github.io/docs/references/software/programming/rust/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/software/programming/rust/</guid>
+      <description>
+        
+        
+        &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.rust-lang.org/&#34;&gt;Rust programming language&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Docs: MLOps</title>
       <link>https://wikihub.github.io/docs/references/software/machinelearning/mlops/</link>
       <pubDate>Wed, 22 Dec 2021 00:00:00 +0000</pubDate>
@@ -2462,35 +2478,6 @@
 &lt;h3 id=&#34;gazebo&#34;&gt;Gazebo&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/intel/gazebo-realsense&#34;&gt;Gazebo RealSense plugin&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Docs: Learning Robotics</title>
-      <link>https://wikihub.github.io/docs/references/robotics/learningrobotics/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://wikihub.github.io/docs/references/robotics/learningrobotics/</guid>
-      <description>
-        
-        
-        &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/mithi/robotics-coursework&#34;&gt;Robotics courses&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;edxhttpswwwedxorg&#34;&gt;&lt;a href=&#34;https://www.edx.org&#34;&gt;EdX&lt;/a&gt;&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.edx.org/course/autonomous-mobile-robots&#34;&gt;Autonomous Mobile Robots&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;children&#34;&gt;Children&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Open_Roberta&#34;&gt;Open Roberta&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://robo-geek.ca/&#34;&gt;RoboGeek&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;matlab&#34;&gt;MATLAB&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/jianxiongxiao/ProfXkit&#34;&gt;ProfXkit&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>

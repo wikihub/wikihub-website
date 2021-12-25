@@ -20,20 +20,20 @@
 <link rel="icon" type="image/png" href="/favicons/android-144x144.png" sizes="144x144">
 <link rel="icon" type="image/png" href="/favicons/android-192x192.png"sizes="192x192">
 
-<title>Kubernetes | WIKIHUB</title><meta property="og:title" content="Kubernetes" />
-<meta property="og:description" content="News and information about Kubernetes" />
+<title>Rust | WIKIHUB</title><meta property="og:title" content="Rust" />
+<meta property="og:description" content="Resources for Rust programming" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://wikihub.github.io/docs/references/software/cloud/kubernetes/" /><meta property="article:section" content="docs" />
-<meta property="article:published_time" content="2019-05-04T00:00:00+00:00" />
+<meta property="og:url" content="https://wikihub.github.io/docs/references/software/programming/rust/" /><meta property="article:section" content="docs" />
+
 <meta property="article:modified_time" content="2021-12-25T11:42:35-05:00" /><meta property="og:site_name" content="WIKIHUB" />
 
-<meta itemprop="name" content="Kubernetes">
-<meta itemprop="description" content="News and information about Kubernetes"><meta itemprop="datePublished" content="2019-05-04T00:00:00+00:00" />
+<meta itemprop="name" content="Rust">
+<meta itemprop="description" content="Resources for Rust programming">
 <meta itemprop="dateModified" content="2021-12-25T11:42:35-05:00" />
-<meta itemprop="wordCount" content="927">
+<meta itemprop="wordCount" content="3">
 <meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Kubernetes"/>
-<meta name="twitter:description" content="News and information about Kubernetes"/>
+<meta name="twitter:title" content="Rust"/>
+<meta name="twitter:description" content="Resources for Rust programming"/>
 
 
 
@@ -47,7 +47,7 @@
   integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
   crossorigin="anonymous"></script>
 
-    <title>Kubernetes | WIKIHUB</title>
+    <title>Rust | WIKIHUB</title>
   </head>
   <body class="td-page">
     <header>
@@ -1122,10 +1122,10 @@
 
 <ul class="td-sidebar-nav__section pr-md-3">
   <li class="td-sidebar-nav__section-title">
-    <a  href="/docs/references/software/programming/" class="align-left pl-0 pr-2 collapsed td-sidebar-link td-sidebar-link__section">Programming</a>
+    <a  href="/docs/references/software/programming/" class="align-left pl-0 pr-2 active td-sidebar-link td-sidebar-link__section">Programming</a>
   </li>
   <ul>
-    <li class="collapse " id="docsreferencessoftwareprogramming">
+    <li class="collapse show" id="docsreferencessoftwareprogramming">
       
       
       
@@ -1174,7 +1174,7 @@
       
       
       
-      <a class="td-sidebar-link td-sidebar-link__page " id="m-docsreferencessoftwareprogrammingrust" href="/docs/references/software/programming/rust/">Rust</a>
+      <a class="td-sidebar-link td-sidebar-link__page  active" id="m-docsreferencessoftwareprogrammingrust" href="/docs/references/software/programming/rust/">Rust</a>
       
       
     </li>
@@ -1269,10 +1269,10 @@
 
 <ul class="td-sidebar-nav__section pr-md-3">
   <li class="td-sidebar-nav__section-title">
-    <a  href="/docs/references/software/cloud/" class="align-left pl-0 pr-2 active td-sidebar-link td-sidebar-link__section">Cloud Computing</a>
+    <a  href="/docs/references/software/cloud/" class="align-left pl-0 pr-2 collapsed td-sidebar-link td-sidebar-link__section">Cloud Computing</a>
   </li>
   <ul>
-    <li class="collapse show" id="docsreferencessoftwarecloud">
+    <li class="collapse " id="docsreferencessoftwarecloud">
       
       
       
@@ -1303,7 +1303,7 @@
       
       
       
-      <a class="td-sidebar-link td-sidebar-link__page  active" id="m-docsreferencessoftwarecloudkubernetes" href="/docs/references/software/cloud/kubernetes/">Kubernetes</a>
+      <a class="td-sidebar-link td-sidebar-link__page " id="m-docsreferencessoftwarecloudkubernetes" href="/docs/references/software/cloud/kubernetes/">Kubernetes</a>
       
       
       
@@ -1775,71 +1775,14 @@
 <div class="td-page-meta ml-2 pb-1 pt-2 mb-0">
 
 
-<a href="https://github.com/wikihub/wikihub-website/edit/master/content/en/docs/References/Software/Cloud/Kubernetes.md" target="_blank"><i class="fa fa-edit fa-fw"></i> Edit this page</a>
-<a href="https://github.com/wikihub/wikihub-website/issues/new?title=Kubernetes" target="_blank"><i class="fab fa-github fa-fw"></i> Create issue</a>
+<a href="https://github.com/wikihub/wikihub-website/edit/master/content/en/docs/References/Software/Programming/rust.md" target="_blank"><i class="fa fa-edit fa-fw"></i> Edit this page</a>
+<a href="https://github.com/wikihub/wikihub-website/issues/new?title=Rust" target="_blank"><i class="fab fa-github fa-fw"></i> Create issue</a>
 </div>
 
 
 
 
 
-
-<nav id="TableOfContents">
-  <ul>
-    <li><a href="#hosted-kubernetes">Hosted kubernetes</a></li>
-    <li><a href="#nvidia">NVIDIA</a></li>
-    <li><a href="#cost-optimization">Cost optimization</a></li>
-    <li><a href="#observation">Observation</a></li>
-  </ul>
-
-  <ul>
-    <li><a href="#example-applications">Example Applications</a></li>
-    <li><a href="#ingress">Ingress</a>
-      <ul>
-        <li><a href="#traefik">Traefik</a></li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li><a href="#arkade">arkade</a></li>
-    <li><a href="#jaas">JAAS</a></li>
-  </ul>
-
-  <ul>
-    <li><a href="#nginx">Nginx</a></li>
-    <li><a href="#wordpress">WordPress</a></li>
-    <li><a href="#moodle">Moodle</a></li>
-    <li><a href="#jupyterhub">JupyterHub</a></li>
-    <li><a href="#binderhub">BinderHub</a></li>
-    <li><a href="#keycloak">Keycloak</a></li>
-    <li><a href="#cicd">CI/CD</a></li>
-    <li><a href="#gitpod">Gitpod</a></li>
-  </ul>
-
-  <ul>
-    <li><a href="#cert-manager-troubleshootinghttpscert-manageriodocsfaqacme"><a href="https://cert-manager.io/docs/faq/acme/">cert-manager troubleshooting</a></a></li>
-  </ul>
-
-  <ul>
-    <li><a href="#k3d">k3d</a></li>
-    <li><a href="#rancher">Rancher</a></li>
-    <li><a href="#calico">Calico</a></li>
-    <li><a href="#traefik-1">Traefik</a></li>
-    <li><a href="#netmaker">Netmaker</a></li>
-    <li><a href="#zerotier">Zerotier</a></li>
-    <li><a href="#consul">Consul</a></li>
-    <li><a href="#submariner">Submariner</a></li>
-  </ul>
-
-  <ul>
-    <li><a href="#metallb">Metallb</a></li>
-  </ul>
-
-  <ul>
-    <li><a href="#openshift">OpenShift</a></li>
-  </ul>
-</nav>
 
 
 
@@ -1886,14 +1829,14 @@
 
 
 <li class="breadcrumb-item" >
-	<a href="https://wikihub.github.io/docs/references/software/cloud/">Cloud Computing</a>
+	<a href="https://wikihub.github.io/docs/references/software/programming/">Programming</a>
 </li>
 
 
 
 
 <li class="breadcrumb-item active" aria-current="page">
-	<a href="https://wikihub.github.io/docs/references/software/cloud/kubernetes/">Kubernetes</a>
+	<a href="https://wikihub.github.io/docs/references/software/programming/rust/">Rust</a>
 </li>
 
 	</ol>
@@ -1901,442 +1844,10 @@
 
             
 <div class="td-content">
-	<h1>Kubernetes</h1>
-	<div class="lead">News and information about Kubernetes</div>
+	<h1>Rust</h1>
+	<div class="lead">Resources for Rust programming</div>
 	<ul>
-<li><a href="https://jimmysong.io/awesome-cloud-native/">Awesome cloud native</a></li>
-</ul>
-<h1 id="kubernetes">Kubernetes</h1>
-<ul>
-<li><a href="https://github.com/mrbobbytables/k8s-intro-tutorials">Introduction to Kubernetes</a></li>
-<li><a href="https://qconuk2019.container.training">Getting Started With Kubernetes and Container Orchestration</a></li>
-<li><a href="https://kind.sigs.k8s.io/">kind</a></li>
-<li><a href="https://github.com/NVIDIA/k8s-device-plugin">K8s device plugin by NVIDIA</a></li>
-<li><a href="https://kubernetes.io/docs/reference/kubectl/cheatsheet/">Kubernetes cheat sheet</a></li>
-<li><a href="https://kubernetes.io/docs/reference/kubectl/docker-cli-to-kubectl/">kubectl for Docker users</a></li>
-<li><a href="https://cert-manager.io/">cert-manager</a></li>
-<li><a href="https://cluster-in-the-cloud.readthedocs.io/en/latest/index.html">Cluster in the cloud</a></li>
-<li><a href="https://kubebyexample.com/">Kube by example</a></li>
-<li><a href="https://www.containerlabs.kubedaily.com/">containerlabs</a></li>
-<li><a href="https://blog.flant.com/">Flant Blog</a></li>
-<li><a href="https://github.com/dionmadyasta/Learning-Kubernetes">Learning Kubernetes</a></li>
-</ul>
-<h2 id="hosted-kubernetes">Hosted kubernetes</h2>
-<ul>
-<li><a href="https://landscape.cncf.io/card-mode?category=certified-kubernetes-hosted&amp;grouping=category">Platform - Certified Kubernetes - Hosted</a></li>
-<li><a href="https://www.civo.com/">Civo</a>
-<ul>
-<li><a href="https://blog.alexellis.io/the-worlds-first-managed-k3s/">The World&rsquo;s First Managed k3s</a></li>
-</ul>
-</li>
-</ul>
-<h2 id="nvidia">NVIDIA</h2>
-<ul>
-<li><a href="https://github.com/NVIDIA/deepops/tree/master/docs/k8s-cluster">DeepOps</a></li>
-</ul>
-<h2 id="cost-optimization">Cost optimization</h2>
-<ul>
-<li><a href="https://spot.io/blog/technical-introduction-to-ocean-by-spot-serverless-infrastructure-engine-for-containers-and-kubernetes/">Technical introduction to Ocean by Spot: Serverless infrastructure engine for containers and Kubernetes</a></li>
-</ul>
-<h2 id="observation">Observation</h2>
-<ul>
-<li><a href="https://opstrace.com/">Opstrace</a></li>
-</ul>
-<h1 id="frameworks">Frameworks</h1>
-<ul>
-<li><a href="https://twitter.com/GreymatterIo/status/1429900011572273152">Greymatter.io</a></li>
-<li><a href="https://solo.io">solo.io</a></li>
-</ul>
-<h1 id="raspberry-pi">Raspberry Pi</h1>
-<ul>
-<li><a href="https://blog.alexellis.io/test-drive-k3s-on-raspberry-pi/">Test drive k3s on raspberry pi</a></li>
-</ul>
-<h1 id="monitoring">Monitoring</h1>
-<ul>
-<li><a href="https://www.datadoghq.com/">Datahog</a></li>
-</ul>
-<h1 id="learning">Learning</h1>
-<ul>
-<li><a href="https://www.kubeflow.org/docs/started/getting-started/">Getting started</a></li>
-<li><a href="https://youtu.be/T4Z7visMM4E">Kubernetes Services explained | ClusterIP vs NodePort vs LoadBalancer vs Headless Service</a></li>
-<li><a href="https://youtu.be/80Ew_fsV4rM">Kubernetes Ingress Tutorial for Beginners | simply explained | Kubernetes Tutorial 22</a></li>
-<li><a href="https://github.com/snjiaojiao/k8-helloworld-example">k8-helloworld-example</a></li>
-<li><a href="https://github.com/marcel-dempers/docker-development-youtube-series">Docker development YouTube series</a></li>
-<li><a href="https://medium.com/google-cloud/kubernetes-nodeport-vs-loadbalancer-vs-ingress-when-should-i-use-what-922f010849e0">Kubernetes NodePort vs LoadBalancer vs Ingress? When should I use what?</a></li>
-<li><a href="https://www.olivercoding.com/2021-01-02-kubernetes-home/">Series: Kubernetes at home</a></li>
-<li><a href="https://imti.co/kubernetes-platform-book/">Kubernetes platform book</a></li>
-<li><a href="https://schoolofdevops.github.io/ultimate-kubernetes-bootcamp/">Ultimate kubernetes bootcamp</a></li>
-</ul>
-<h2 id="example-applications">Example Applications</h2>
-<ul>
-<li><a href="https://github.com/helkey/url-shorten">URL Shortener Design Doc</a></li>
-<li><a href="https://github.com/MUONetwork/playbooks">MUONetwork</a></li>
-</ul>
-<h2 id="ingress">Ingress</h2>
-<ul>
-<li><a href="https://github.com/kubernetes/ingress-nginx/blob/main/docs/user-guide/nginx-configuration/annotations.md">Ingress annotations</a></li>
-<li><a href="https://platform9.com/blog/ultimate-guide-to-kubernetes-ingress-controllers/">Ultimate Guide to Kubernetes Ingress Controllers</a></li>
-<li><a href="https://goteleport.com/teleport/download/">Teleport</a></li>
-<li><a href="https://docs.inlets.dev/">Inlets</a></li>
-<li><a href="https://blog.zespre.com/inlets-the-cloud-native-tunnel.html">A Tour of Inlets - A Tunnel Built for the Cloud</a></li>
-</ul>
-<h3 id="traefik">Traefik</h3>
-<ul>
-<li><a href="https://doc.traefik.io/traefik/https/acme/#using-letsencrypt-with-kubernetes">Traefik doc</a></li>
-<li><a href="https://www.alexhyett.com/traefik-vs-nginx-docker-raspberry-pi">Traefik vs Nginx for Reverse Proxy with Docker on a Raspberry Pi</a></li>
-<li><a href="https://github.com/56kcloud/traefik-training">Traefik training</a></li>
-<li><a href="https://github.com/traefik-tech-blog/traefik-k8s-tls">traefik-k8s-tls</a></li>
-<li><a href="https://traefik.io/blog/https-on-kubernetes-using-traefik-proxy/">HTTPS on Kubernetes Using Traefik Proxy</a></li>
-<li><a href="https://github.com/traefik-tech-blog">Traefik tech blog</a></li>
-<li><a href="https://github.com/sleighzy/k3s-traefik-v2-kubernetes-crd">k3s-traefik-v2-kubernetes-crd</a></li>
-<li><a href="https://github.com/MUONetwork/playbooks/blob/main/playbooks/templates/docker-compose-traefik.yml.j2">Traefik template</a></li>
-<li><a href="https://github.com/riogezz/traefik-docker">traefik-docker</a></li>
-<li><a href="https://tingshean.github.io/2020/12/09/traefik-in-k8s-with-helm.html">traefik-in-k8s-with-helm</a></li>
-<li><a href="https://traefik.io/blog/install-and-configure-traefik-with-helm/">Install And Configure Traefik with Helm</a></li>
-</ul>
-<h1 id="installing-kubernetes-with-deployment-toolshttpskubernetesiodocssetupproduction-environmenttools"><a href="https://kubernetes.io/docs/setup/production-environment/tools/">Installing Kubernetes with deployment tools</a></h1>
-<ul>
-<li><a href="https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/">Bootstrapping clusters with kubeadm</a></li>
-<li><a href="https://kubernetes.io/docs/setup/production-environment/tools/kops/">Installing Kubernetes with kops</a></li>
-<li><a href="https://kubernetes.io/docs/setup/production-environment/tools/kubespray/">Installing Kubernetes with Kubespray</a></li>
-</ul>
-<h1 id="storage">Storage</h1>
-<ul>
-<li><a href="https://min.io/">MinIO</a>
-<ul>
-<li><a href="https://github.com/ngaxavi/mlflow-practices">mlflow-practices</a></li>
-<li><a href="https://github.com/zamberform/dev-tools-with-docker/blob/master/minio/docker-compose.yaml">MinIO docker-compose</a></li>
-</ul>
-</li>
-<li><a href="https://ceph.io/en/">Ceph</a></li>
-<li><a href="https://rook.io/">Rook</a></li>
-<li><a href="https://openebs.io/">OpenEBS</a></li>
-<li><a href="https://portworx.com/">portworx</a></li>
-<li><a href="https://www.scality.com/our-open-source-philosophy">Scality</a></li>
-<li><a href="https://apps.nextcloud.com/">NextCloud Apps</a></li>
-</ul>
-<h1 id="monitoring-1">Monitoring</h1>
-<ul>
-<li><a href="https://inlets.dev/blog/2020/12/15/multi-cluster-monitoring.html">Multi-cluster monitoring</a></li>
-</ul>
-<h1 id="applications">Applications</h1>
-<ul>
-<li><a href="https://artifacthub.io">ArtifactHub</a></li>
-<li><a href="https://bitnami.com">Bitnami</a></li>
-<li><a href="https://community.bitnami.com/">Bitnami community</a></li>
-<li><a href="https://github.com/civo/kubernetes-marketplace">Civo Kubernetes Marketplace</a></li>
-<li><a href="https://blog.alexellis.io/kubernetes-marketplace-two-year-update/">Two year update: Building an Open Source Marketplace for Kubernetes</a></li>
-<li><a href="https://k8ssandra.io/">k8ssandra</a></li>
-<li><a href="https://www.elastic.co/what-is/elk-stack">ELK Stack</a></li>
-</ul>
-<h2 id="arkade">arkade</h2>
-<ul>
-<li><a href="https://github.com/alexellis/arkade">arkade - The Open Source Kubernetes Marketplace</a></li>
-</ul>
-<h2 id="jaas">JAAS</h2>
-<ul>
-<li><a href="https://jaas.ai/kubeflow/bundle/270">Kubeflow Charm</a></li>
-<li><a href="https://jaas.ai/u/aisrael/gitlab-k8s/bundle/1">Gitlab k8s</a></li>
-<li><a href="https://jaas.ai/minio/55">MinIO</a></li>
-</ul>
-<h1 id="operators">Operators</h1>
-<ul>
-<li><a href="https://sdk.operatorframework.io/docs/installation/">Install the Operator SDK CLI</a></li>
-<li><a href="https://operatorhub.io/">OperatorHub.io</a></li>
-<li><a href="https://operatorhub.io/operator/kubeflow">Kubeflow Operator</a></li>
-<li><a href="https://operatorhub.io/operator/minio-operator">MinIO Operator</a></li>
-</ul>
-<h2 id="nginx">Nginx</h2>
-<ul>
-<li><a href="https://kubernetes.io/docs/tasks/run-application/run-stateless-application-deployment/">Run stateless application deployment</a></li>
-</ul>
-<h2 id="wordpress">WordPress</h2>
-<ul>
-<li><a href="https://kubernetes.io/docs/tutorials/stateful-application/mysql-wordpress-persistent-volume/">Example: Deploying WordPress and MySQL with Persistent Volumes</a></li>
-<li><a href="https://www.cloudytuts.com/tutorials/kubernetes/how-to-deploy-wordpress-and-mysql-on-kubernetes/">How to Deploy WordPress and MySQL on Kubernetes</a></li>
-</ul>
-<h2 id="moodle">Moodle</h2>
-<ul>
-<li><a href="https://itnext.io/creating-multi-tenant-moodle-service-on-kubernetes-using-operator-pattern-a4fd418d47ad">Creating Multi-tenant Moodle service on Kubernetes using Operator Pattern</a></li>
-<li><a href="https://github.com/bitnami/charts/tree/master/bitnami/moodle/#installing-the-chart">Moodle helm chart by Bitnami</a></li>
-<li><a href="https://github.com/jbkc85/moodle-kubernetes-tutorial">moodle-kubernetes-tutorial</a></li>
-<li><a href="https://github.com/jlabusch/moodle-k8s/blob/master/deploy.yaml">moodle-k8s</a></li>
-<li><a href="https://github.com/harsh4870/Moodle-on-kubernetes">Moodle-on-kubernetes</a></li>
-<li><a href="https://cloud.garr.it/containers/moodle/">Moodle by cloud.garr.it</a></li>
-<li><a href="https://gsconlinepress.com/journals/gscaet/sites/default/files/GSCAET-2021-0023.pdf">Implementation of the Moodle e-learning platform from server selection to configuration</a></li>
-<li><a href="https://www.howtoforge.com/how-to-install-moodle-on-ubuntu-20-04/">How to Install Moodle with Nginx and Let&rsquo;s Encrypt SSL on Ubuntu 20.04</a></li>
-<li><a href="https://geekflare.com/best-moodle-hosting/">Best Moodle hosting</a></li>
-<li><a href="https://blog.programster.org/deploy-moodle-with-docker">Deploy Moodle With Docker</a></li>
-<li><a href="https://github.com/vishnubob/wait-for-it/blob/master/wait-for-it.sh">wait-for-it.sh</a></li>
-<li><a href="https://github.com/bitnami/bitnami-docker-moodle">bitnami-docker-moodle</a></li>
-<li><a href="https://github.com/keeganwhite/docker-raspi-server">docker-raspi-server</a></li>
-<li><a href="https://github.com/jakobschroeber/bachelor_thesis">Assessment MS</a></li>
-<li><a href="https://github.com/bitnami/charts/issues/5367">Moodle Upgrade in Kubernetes Helm Chart Version</a></li>
-<li><a href="https://github.com/DiCITS/moodle-podman">moodle-podman</a></li>
-<li><a href="https://docs.moodle.org/dev/Machine_learning_backends">Machine_learning_backends</a></li>
-</ul>
-<h2 id="jupyterhub">JupyterHub</h2>
-<ul>
-<li><a href="https://kienmn97.medium.com/manually-deploy-jupyterhub-on-kubernetes-for-a-single-machine-dbcd9c9e50a4">Manual deployment of JupyterHub on Kubernetes for a single machine</a></li>
-<li><a href="https://github.com/BrownUniversity/terraform-gcp-jupyterhub">terraform-gcp-jupyterhub</a></li>
-<li><a href="https://jupyterhub.readthedocs.io/en/stable/api/app.html#jupyterhub.app.JupyterHub.base_url">JupyterHub Documentation</a></li>
-<li><a href="https://www.suse.com/c/rancher_blog/ai-meets-kubernetes-install-jupyterhub-with-rancher/">AI meets Kubernetes: install JupyterHub with Rancher</a></li>
-</ul>
-<h2 id="binderhub">BinderHub</h2>
-<ul>
-<li><a href="https://github.com/alan-turing-institute/binderhub-deploy">binderhub-deploy</a></li>
-<li><a href="https://github.com/pangeo-data/pangeo-binder">pangeo-binder</a></li>
-</ul>
-<h2 id="keycloak">Keycloak</h2>
-<ul>
-<li><a href="https://www.keycloak.org/getting-started">Keycloak: Getting started</a></li>
-<li><a href="https://www.keycloak.org/getting-started/getting-started-kube">Keycloak on Kubernetes</a></li>
-<li><a href="https://up2u.readthedocs.io/sso/">Up2U: single sign on</a></li>
-<li><a href="https://github.com/thomasdarimont/keycloak-project-example">Keycloak project example</a></li>
-<li><a href="https://gist.github.com/bsamadi/cdefd1923f084c6174e4b399f2ce3e79">keycloud-codecentric manifest</a></li>
-<li><a href="https://github.com/argoproj/argo-cd/discussions/6641">keycloak bitnami</a></li>
-<li><a href="https://github.com/sleighzy/k3s-traefik-forward-auth-openid-connect">k3s-traefik-forward-auth-openid-connect</a></li>
-</ul>
-<h2 id="cicd">CI/CD</h2>
-<ul>
-<li><a href="https://github.com/argoproj/argo-cd">ArgoCD on GitHub</a></li>
-<li><a href="https://argo-cd.readthedocs.io/en/stable/operator-manual/ingress/">ArgoCd ingress configurations</a></li>
-<li><a href="https://tekton.dev/">Tekton</a></li>
-</ul>
-<h2 id="gitpod">Gitpod</h2>
-<ul>
-<li><a href="https://github.com/corneliusludmann/gitpod-docker-k3s">gitpod-docker-k3s</a></li>
-<li><a href="https://github.com/fntlnz/gitpod-k3s">gitpod workspace with k3s</a></li>
-<li><a href="https://github.com/gitpod-io/template-k3s">k3s template for gitpod workspaces</a></li>
-</ul>
-<h1 id="gitops">GitOps</h1>
-<ul>
-<li><a href="https://codefresh.io/">CodeFresh</a></li>
-</ul>
-<h1 id="kubectl">Kubectl</h1>
-<ul>
-<li><code>kubectl get all --all-namespaces</code></li>
-<li><code>kubectl -n kube-system get secret</code></li>
-<li><code>kubectl -n kube-system describe secret kubernetes-dashboard-token-xxxx</code></li>
-<li><a href="https://krew.sigs.k8s.io/">krew</a></li>
-</ul>
-<h1 id="ssl-on-kubernetes">SSL on Kubernetes</h1>
-<ul>
-<li><a href="https://medium.com/adg-vit/free-ssl-on-kubernetes-with-lets-encrypt-and-cert-manager-8a2466a611d9">Free SSL on Kubernetes with Let’s Encrypt and cert-manager</a></li>
-<li><a href="https://zero-to-jupyterhub.readthedocs.io/en/latest/administrator/security.html">Confirm that your domain is running HTTPS: <code>http://ssllabs.com/ssltest/analyze.html?d=&lt;YOUR-DOMAIN&gt;</code></a></li>
-<li><a href="https://letsencrypt.org/docs/rate-limits/">Let’s Encrypt provides rate limits to ensure fair usage by as many people as possible.</a></li>
-</ul>
-<h2 id="cert-manager-troubleshootinghttpscert-manageriodocsfaqacme"><a href="https://cert-manager.io/docs/faq/acme/">cert-manager troubleshooting</a></h2>
-<ul>
-<li><code>dig +short example.com</code></li>
-</ul>
-<h1 id="kubeflow">Kubeflow</h1>
-<ul>
-<li><a href="https://yann-leguilly.gitlab.io/post/2020-03-04-kubeflow-on-laptop/">Installing Kubeflow on a laptop</a></li>
-</ul>
-<h1 id="helm">Helm</h1>
-<ul>
-<li><a href="https://kubeapps.com/">Kubeapps</a></li>
-<li><a href="https://artifacthub.io/">ArtifactHUB</a></li>
-<li><a href="https://helm.sh/docs/topics/kubernetes_distros/">Kubernetes distribution guide</a></li>
-<li><a href="https://chartcenter.io/#">Chart Center</a></li>
-<li><code>helm show chart jupyterhub/jupyterhub</code></li>
-<li><code>helm delete $(helm ls --short)</code></li>
-</ul>
-<h1 id="kubermatichttpswwwkubermaticcomproductskubermatic"><a href="https://www.kubermatic.com/products/kubermatic/">Kubermatic</a></h1>
-<ul>
-<li><a href="https://www.kubermatic.com/products/kubeone/">KubeOne</a></li>
-<li><a href="https://github.com/kubermatic/kubeone">KubeOne on GitHub</a></li>
-</ul>
-<h1 id="kustomizehttpskustomizeio"><a href="https://kustomize.io/">Kustomize</a></h1>
-<h1 id="juju">Juju</h1>
-<ul>
-<li><a href="https://juju.is/docs/olm/controllers">Juju is an Open Source Charmed Operator Framework.</a></li>
-<li><a href="https://charmhub.io/">CharmHub</a></li>
-<li><code>juju switch</code></li>
-<li><a href="https://github.com/hetznercloud/kubecon-europe-2021">kubecon-europe-2021</a>
-<ul>
-<li><code>juju unregister kontroller</code></li>
-<li><code>juju bootstrap kubecon kontroller</code></li>
-<li><a href="https://www.kubeflow.org/docs/distributions/charmed/install-kubeflow/">Install Kubeflow</a></li>
-<li><code>hcloud floating-ip create --type ipv4 --home-location nbg1</code></li>
-<li><a href="https://metallb.universe.tf/installation/">Metallb installation</a></li>
-<li><code>juju config metallb-controller iprange=&lt;IPRANGE&gt;</code></li>
-</ul>
-</li>
-</ul>
-<h1 id="kind">Kind</h1>
-<ul>
-<li><a href="https://medium.com/@munza/local-kubernetes-with-kind-helm-dashboard-41152e4b3b3d">Local Kubernetes with kind, Helm &amp; Dashboard</a></li>
-<li><a href="https://www.eclipse.org/che/docs/che-7/installation-guide/installing-che-on-kind/">Installing Che on kind</a></li>
-</ul>
-<h1 id="microk8shttpsmicrok8sio"><a href="https://microk8s.io/">Microk8s</a></h1>
-<ul>
-<li>There is an <a href="https://github.com/ubuntu/microk8s/issues/1754">issue</a> with the November 2020 version of Microk8s. For now, you need to his command: <code>sudo snap install microk8s --classic --channel=latest/edge</code></li>
-<li><a href="https://ubuntu.com/tutorials/install-a-local-kubernetes-with-microk8s#1-overview">Install a local kubernetes with microk8s</a></li>
-<li><a href="https://ubuntu.com/kubernetes/install">Install Microk8s</a></li>
-<li>microk8s start</li>
-<li>microk8s stop</li>
-<li>microk8s status</li>
-<li>microk8s enable dns dashboard gpu helm3 metallb host-access storage</li>
-<li><a href="https://microk8s.io/docs/working-with-kubectl">Working with kubectl</a></li>
-<li><code>microk8s enable kubeflow</code></li>
-<li><code>microk8s juju config dex-auth static-username</code></li>
-<li><code>microk8s juju config dex-auth static-password</code></li>
-<li>You can also change the username and password. For example: <code>microk8s juju config dex-auth static-username=admin</code></li>
-<li><a href="https://gist.github.com/etheleon/80414516c7fbc7147a5718b9897b1518">Installing Kubeflow</a></li>
-</ul>
-<h1 id="rancher-k3s">Rancher k3s</h1>
-<ul>
-<li><a href="https://rancher.com/docs/k3s/latest/en/quick-start/">K3s: Quick start</a></li>
-<li><a href="https://rancher.com/blog/2020/set-up-k3s-high-availability-using-k3d">Set up K3s in High Availability using k3d</a></li>
-<li><a href="https://github.com/vfarcic/k3d-demo">k3s-demo</a></li>
-<li><a href="https://rancher.com/docs/k3s/latest/en/installation/install-options/how-to-flags/">How to Use Flags and Environment Variables</a></li>
-<li><a href="https://k3d.io/">k3d</a></li>
-<li><a href="https://github.com/sleighzy/k3s-traefik-v2-kubernetes-crd">k3s-traefik-v2-kubernetes-crd</a></li>
-<li><a href="https://github.com/sleighzy/raspberry-pi-k3s-homelab">raspberry-pi-k3s-homelab</a></li>
-<li><a href="https://registry.terraform.io/modules/cicdteam/k3s/hcloud/latest">Terraform: k3s on hcloud</a></li>
-<li><a href="https://github.com/cicdteam/terraform-hcloud-k3s">terraform-hcloud-k3s</a></li>
-<li><a href="https://github.com/alexellis/k3sup">k3sup</a></li>
-<li><a href="https://github.com/rancher/k3os">k3os</a></li>
-<li><a href="https://rancher.com/docs/k3s/latest/en/cluster-access/">k3s config</a></li>
-<li><a href="https://github.com/k8s-at-home/template-cluster-k3s">template-cluster-k3s</a></li>
-<li><a href="https://github.com/rxbn/k8s-gitops">k8s-gitops</a></li>
-<li><a href="https://fabianlee.org/2021/09/12/kubernetes-k3s-cluster-on-ubuntu-using-ansible/">Kubernetes: K3s cluster on Ubuntu using Ansible</a></li>
-<li><a href="https://fabianlee.org/2021/09/16/kubernetes-k3s-with-multiple-istio-ingress-gateways/">Kubernetes: K3s with multiple Istio ingress gateways</a></li>
-</ul>
-<h2 id="k3d">k3d</h2>
-<ul>
-<li><a href="https://thklein.io/blog/20210622-k3d-history/">k3d history</a></li>
-<li><a href="https://github.com/waybarrios/k3d-nginx-ingress">k3d-nginx-ingress</a></li>
-</ul>
-<h2 id="rancher">Rancher</h2>
-<ul>
-<li><a href="https://vmguru.com/2021/04/how-to-install-rancher-on-k3s/">How to install Rancher on k3s</a></li>
-<li><a href="https://boxofcables.dev/deploying-rancher-on-k3s-on-wsl2/">Deploying Rancher on k3s on WSL2</a></li>
-<li><a href="https://github.com/dschuldt/Docker/blob/d098102c4b8820f11288b210b0f3b62aacbd9d03/k3s/docker-compose.yml">k3s and Rancher docker-compose.yml</a></li>
-</ul>
-<h2 id="calico">Calico</h2>
-<ul>
-<li><a href="https://docs.projectcalico.org/getting-started/kubernetes/k3s/">Calico: getting started</a></li>
-</ul>
-<h2 id="traefik-1">Traefik</h2>
-<ul>
-<li><a href="https://refactored.xyz/k3s-traefik-2/">k3s Traefik 2</a></li>
-<li><a href="https://www.katacoda.com/notsureifkevin/courses/k8s/traefik-v2-helm-secure-dashboard#">traefik-v2-helm-secure-dashboard</a></li>
-</ul>
-<h2 id="netmaker">Netmaker</h2>
-<ul>
-<li><a href="https://itnext.io/how-to-deploy-a-single-kubernetes-cluster-across-multiple-clouds-using-k3s-and-wireguard-a5ae176a6e81">How to deploy a single Kubernetes cluster across multiple clouds using k3s and WireGuard</a></li>
-<li><a href="https://itnext.io/how-to-deploy-a-highly-available-wireguard-network-management-server-on-kubernetes-294e23c7abcb">How to Deploy a Highly Available WireGuard® Network Management Server on Kubernetes</a></li>
-</ul>
-<h2 id="zerotier">Zerotier</h2>
-<ul>
-<li><a href="https://gist.github.com/dwitzig/1c3f0a3ed215a5852a4dc40cc608e876">Deploy k3s cluster on Vultr with RancherOS over ZeroTier network</a></li>
-</ul>
-<h2 id="consul">Consul</h2>
-<ul>
-<li><a href="https://johansiebens.dev/posts/2020/09/consul-service-mesh-across-a-private-raspberry-pi-and-a-public-cloud/">Consul Service Mesh across a private Raspberry Pi and a public Cloud</a></li>
-</ul>
-<h2 id="submariner">Submariner</h2>
-<ul>
-<li><a href="https://submariner.io/getting-started/quickstart/k3s/">Submariner and k3s</a></li>
-</ul>
-<h1 id="k0s-project">k0s Project</h1>
-<ul>
-<li><a href="https://k0sproject.io/">k0s project</a></li>
-</ul>
-<h1 id="minikube">Minikube</h1>
-<ul>
-<li><a href="https://www.kubeflow.org/docs/started/workstation/minikube-linux/">Deploy using MiniKube on Linux</a></li>
-<li><a href="http://www.openkb.info/2018/10/minikube-cheat-sheet.html">Minikube cheat sheet</a></li>
-</ul>
-<h1 id="bare-metal">Bare Metal</h1>
-<ul>
-<li><a href="https://blog.alexellis.io/kubernetes-in-10-minutes/">Kubernetes on bare metal in 10 minutes</a></li>
-</ul>
-<h1 id="load-balancers">Load Balancers</h1>
-<ul>
-<li><a href="https://cloud.google.com/kubernetes-engine/docs/how-to/ingress-multi-ssl">Using multiple SSL certificates in HTTPS load balancing with Ingress</a></li>
-</ul>
-<h2 id="metallb">Metallb</h2>
-<ul>
-<li><a href="https://metallb.universe.tf/installation/clouds/">Metallb cloud compatibility</a></li>
-</ul>
-<h1 id="kubespray">Kubespray</h1>
-<ul>
-<li><a href="https://kubespray.io/#/">Kubespray</a></li>
-</ul>
-<h1 id="kops">Kops</h1>
-<ul>
-<li><a href="https://github.com/kubernetes/kops">Kops</a></li>
-</ul>
-<h1 id="bare-metal-1">Bare Metal</h1>
-<ul>
-<li><a href="https://www.packet.com/">Packet</a></li>
-<li><a href="https://blog.alexellis.io/kubernetes-in-10-minutes/">Kubernetes on bare-metal in 10 minutes</a></li>
-<li><a href="https://metal.equinix.com/solutions/kubernetes/">Run K8s on Bare Metal</a></li>
-</ul>
-<h1 id="gitops-1">GitOps</h1>
-<ul>
-<li><a href="https://www.gitops.tech/">GitOps</a></li>
-<li><a href="https://github.com/weaveworks/awesome-gitops">GitOps awesome</a></li>
-<li><a href="https://www.kubestack.com/">Kubestack</a></li>
-<li><a href="https://toolkit.fluxcd.io/">Flux v2</a></li>
-</ul>
-<h1 id="local-development-environment">Local development environment</h1>
-<ul>
-<li><a href="https://rajputvaibhav.medium.com/pacing-up-development-on-kubernetes-690d8487a79e">Telepresence: Pacing up development on Kubernetes</a></li>
-<li><a href="https://kubernetes.io/blog/2018/05/01/developing-on-kubernetes/">Developing Kubernetes</a></li>
-<li><a href="https://ksync.github.io/ksync/">ksync</a></li>
-<li><a href="https://kubernetes.io/blog/2019/03/28/running-kubernetes-locally-on-linux-with-minikube-now-with-kubernetes-1.14-support/">Running Kubernetes locally on Linux with Minikube</a></li>
-<li><a href="https://www.mailgun.com/blog/creating-development-environments-with-kubernetes-devgun/">Devgun</a></li>
-<li><a href="https://itnext.io/simplified-kubernetes-development-visual-studio-code-kubernetes-tools-extension-95bac450370c">Simplified Kubernetes Development — Visual Studio Code Kubernetes Tools Extension</a></li>
-<li><a href="https://github.com.cnpmjs.org/tilt-dev/tilt">Tilt</a></li>
-<li><a href="https://okteto.com/">Okteto</a></li>
-</ul>
-<h2 id="openshift">OpenShift</h2>
-<ul>
-<li><a href="https://developers.redhat.com/products/codeready-containers/overview">CodeReady</a></li>
-</ul>
-<h1 id="tools">Tools</h1>
-<ul>
-<li><a href="https://kubernetes.io/docs/reference/kubectl/overview/">kubectl</a></li>
-<li><a href="https://cloudark.io/">KubePlus</a></li>
-<li><a href="https://kube-vip.io/">kube-vip</a></li>
-<li><a href="https://kubefwd.com/">kubefwd</a></li>
-<li><a href="https://okteto.com/">Okteto</a></li>
-<li><a href="https://forge.sh/">Forge</a></li>
-<li><a href="https://gardener.cloud/">Gardener</a></li>
-<li><a href="https://garden.io/">Garden</a></li>
-<li><a href="https://draft.sh/">Draft</a></li>
-<li><a href="https://skaffold.dev/">Skaffold</a></li>
-<li><a href="https://squash.solo.io/">Squash</a></li>
-<li><a href="https://www.telepresence.io/">Telepresence</a></li>
-<li><a href="https://ksync.github.io/ksync/">ksync</a></li>
-<li><a href="https://gitkube.sh/">Gitkube</a></li>
-<li><a href="https://github.com/MinikubeAddon/watchpod">Watchpod</a></li>
-<li><a href="https://github.com/Mirantis/k8s-devbox">k8s-devbox</a></li>
-<li><a href="https://medium.com/flant-com/k9s-terminal-ui-for-kubernetes-aeead8b0303f">k9s</a></li>
-<li><a href="https://popeyecli.io/">popeye</a></li>
-</ul>
-<h1 id="komposehttpskomposeio"><a href="https://kompose.io/">Kompose</a></h1>
-<ul>
-<li><a href="https://www.opcito.com/blogs/compose-to-kubernetes-simplified-with-kompose">Compose to kubernetes simplified with kompose</a></li>
-<li><a href="https://www.alibabacloud.com/help/doc-detail/120298.htm">Kompose troubleshooting</a></li>
-<li><a href="https://www.digitalocean.com/community/tutorials/how-to-migrate-a-docker-compose-workflow-to-kubernetes">How To Migrate a Docker Compose Workflow to Kubernetes</a></li>
-</ul>
-<h1 id="kubeflow-1">Kubeflow</h1>
-<ul>
-<li><a href="https://www.kubeflow.org/docs/started/workstation/minikube-linux/">Install Kubeflow on Minikube</a></li>
-</ul>
-<h1 id="linkerd">Linkerd</h1>
-<ul>
-<li><a href="https://linkerd.io/">Linkerd</a></li>
-</ul>
-<h1 id="edge">Edge</h1>
-<ul>
-<li><a href="https://k3os.io/">K3OS</a></li>
+<li><a href="https://www.rust-lang.org/">Rust programming language</a></li>
 </ul>
 
 	
