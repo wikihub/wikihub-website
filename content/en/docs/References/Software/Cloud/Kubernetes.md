@@ -34,7 +34,6 @@ description: News and information about Kubernetes
 |----------|:-----:|-----:|--------:|------:|
 | Kubeflow |   4   | 12GB |   50GB  |       |
 
-
 ## NVIDIA
 
 * [DeepOps](https://github.com/NVIDIA/deepops/tree/master/docs/k8s-cluster)
@@ -70,6 +69,8 @@ description: News and information about Kubernetes
 * [Series: Kubernetes at home](https://www.olivercoding.com/2021-01-02-kubernetes-home/)
 * [Kubernetes platform book](https://imti.co/kubernetes-platform-book/)
 * [Ultimate kubernetes bootcamp](https://schoolofdevops.github.io/ultimate-kubernetes-bootcamp/)
+* [Cloud Native Academy by Aqua](https://www.aquasec.com/cloud-native-academy/)
+* [Learning kasten.io by Veeam](https://learning.kasten.io/)
 
 ## Example Applications
 
