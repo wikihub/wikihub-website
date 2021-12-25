@@ -30,9 +30,11 @@ description: News and information about Kubernetes
 * [Civo](https://www.civo.com/)
   * [The World's First Managed k3s](https://blog.alexellis.io/the-worlds-first-managed-k3s/)
 
-| Name     | Cores | RAM  | Storage | Price |
-|----------|:-----:|-----:|--------:|------:|
-| Kubeflow |   4   | 12GB |   50GB  |       |
+| Name     | Cores | RAM  | Storage |   Price   |
+|----------|:-----:|-----:|--------:|----------:|
+| Kubeflow |   4   | 12GB |   50GB  |           |
+|t2.2xlarge|   8   | 32GB |   EBS   | $0.4096/h |
+|  CPX21   |   3   | 4GB  |  80GB   | $0.02/h   |
 
 ## NVIDIA
 
