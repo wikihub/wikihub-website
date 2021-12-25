@@ -7,6 +7,10 @@ description: Resources about open source software
 
 ---
 
+# Open Source
+
+* [Awesome Open Source](https://awesomeopensource.com/)
+* [Sourcegraph](https://sourcegraph.com/search)
 * [Open Source at Google](https://opensource.google/)
 * [GitHub Open Source Guides](https://opensource.guide/)
 
