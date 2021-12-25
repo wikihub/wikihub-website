@@ -13,6 +13,10 @@ description: Resources on embedded systems and single board computers
 * [Platform.io](https://platform.io/)
 * [XOD](https://xod.io/)
 
+# Containers
+
+* [SOAFEE](https://armkeil.blob.core.windows.net/developer/Files/pdf/white-paper/arm-scalable-open-architecture-for-embedded-edge-soafee.pdf)
+
 # Single Board Microcontrollers
 * [Mbed platforms](https://os.mbed.com/platforms/)
 * [PlatformIO boards](https://platformio.org/boards)
