@@ -805,6 +805,10 @@
 &lt;li&gt;&lt;a href=&#34;https://platform.io/&#34;&gt;Platform.io&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://xod.io/&#34;&gt;XOD&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h1 id=&#34;containers&#34;&gt;Containers&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://armkeil.blob.core.windows.net/developer/Files/pdf/white-paper/arm-scalable-open-architecture-for-embedded-edge-soafee.pdf&#34;&gt;SOAFEE&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h1 id=&#34;single-board-microcontrollers&#34;&gt;Single Board Microcontrollers&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://os.mbed.com/platforms/&#34;&gt;Mbed platforms&lt;/a&gt;&lt;/li&gt;
