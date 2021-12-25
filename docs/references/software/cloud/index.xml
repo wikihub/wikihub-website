@@ -156,7 +156,11 @@
 &lt;h2 id=&#34;hosted-kubernetes&#34;&gt;Hosted kubernetes&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://landscape.cncf.io/card-mode?category=certified-kubernetes-hosted&amp;amp;grouping=category&#34;&gt;Platform - Certified Kubernetes - Hosted&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.civo.com/&#34;&gt;Civo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.civo.com/&#34;&gt;Civo&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.alexellis.io/the-worlds-first-managed-k3s/&#34;&gt;The World&amp;rsquo;s First Managed k3s&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;nvidia&#34;&gt;NVIDIA&lt;/h2&gt;
 &lt;ul&gt;
