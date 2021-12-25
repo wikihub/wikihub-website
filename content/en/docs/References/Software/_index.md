@@ -7,11 +7,6 @@ description: Software resources
 
 ---
 
-# Open Source
-
-*   [Awesome Open Source](https://awesomeopensource.com/)
-*   [Sourcegraph](https://sourcegraph.com/search)
-
 # MacOS
 
 *   [Mac App Store](http://macappstore.org/)
