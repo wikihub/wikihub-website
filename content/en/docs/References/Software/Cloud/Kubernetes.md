@@ -30,11 +30,15 @@ description: News and information about Kubernetes
 * [Civo](https://www.civo.com/)
   * [The World's First Managed k3s](https://blog.alexellis.io/the-worlds-first-managed-k3s/)
 
-| Name     | Cores | RAM  | Storage |   Price   |
-|----------|:-----:|-----:|--------:|----------:|
-| Kubeflow |   4   | 12GB |   50GB  |           |
-|t2.2xlarge|   8   | 32GB |   EBS   | $0.4096/h |
-|  CPX21   |   3   | 4GB  |  80GB   | $0.02/h   |
+| Name          | Cores | RAM  | Storage | Data Transfer |  CAD/h    |  CAD/m     |
+|---------------|:-----:|-----:|--------:|--------------:|----------:|-----------:|
+| Kubeflow      |   4   | 12GB |  50GB   |               |           |            |
+| Hetzner CPX21 |   3   | 4GB  |  80GB   |     20TB      | $0.02/h   | $14.4/mth  |
+| Hetzner CPX31 |   4   | 8GB  |  160GB  |     20TB      | $0.03/h   | $21.6/mth  |
+| OVH VPS Essen |   2   | 4GB  |  80GB   |   Unlimited   | $0.02/h   | $14.73/mth |
+| OVH VPS Comft |   4   | 8GB  |  160GB  |   Unlimited   | $0.03/h   | $29.47/mth |
+| AWS m5.large  |   2   | 8GB  |  40GB   |      200GB    | $0.13/h   | $93.68/mth |
+| GCP n2d std 2 |   2   | 8GB  |  40GB   |       0       | $0.10/h   | $71.93/mth |
 
 ## NVIDIA
 
