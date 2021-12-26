@@ -41,6 +41,7 @@ description: News and information about Kubernetes
 |   t2.2xlarge  |   8   | 32GB |         |               | $0.48/h   | $345.6/mth |
 |  g4dn.xlarge  |   4   | 16GB |  125GB  |      25G      | $0.67/h   | $482.4/mth |
 | GCP n2d std 2 |   2   | 8GB  |  40GB   |       0       | $0.10/h   | $71.93/mth |
+| Contabo VPS M |   6   | 16GB |  400GB  |   Unlimited   | $0.022/h  | $15.38/mth |
 
 
 ## NVIDIA
