@@ -38,6 +38,7 @@ description: Network and Internet resources
 * [WireGuard config](https://www.wireguardconfig.com/)
 * [Wireguard routing](https://kaspars.net/blog/wireguard-routing)
 * [Wireguard-manager](https://github.com/complexorganizations/wireguard-manager)
+* [Wiregate - free Cloud endpoint for your home devices](https://mwitkow.me/posts/2020-04-07_wiregate/)
 
 ## Netmaker
 
