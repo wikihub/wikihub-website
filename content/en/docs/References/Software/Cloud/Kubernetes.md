@@ -30,6 +30,11 @@ description: News and information about Kubernetes
 * [Civo](https://www.civo.com/)
   * [The World's First Managed k3s](https://blog.alexellis.io/the-worlds-first-managed-k3s/)
 
+## Virtual Private Servers
+* [VPS Benchmarks](https://www.vpsbenchmarks.com/)
+* [Server Hunter](https://www.serverhunter.com)
+
+
 | Name          | Cores | RAM  | Storage | Data Transfer |  CAD/h    |  CAD/m     |
 |---------------|:-----:|-----:|--------:|--------------:|----------:|-----------:|
 | Kubeflow      |   4   | 12GB |  50GB   |               |           |            |
