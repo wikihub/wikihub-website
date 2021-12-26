@@ -40,6 +40,7 @@ description: Network and Internet resources
 * [Wireguard-manager](https://github.com/complexorganizations/wireguard-manager)
 * [Wiregate - free Cloud endpoint for your home devices](https://mwitkow.me/posts/2020-04-07_wiregate/)
 * [wg-gen-web](https://github.com/vx3r/wg-gen-web)
+* [Wireguard managers](https://kaspars.net/blog/wireguard-managers)
 
 ## Netmaker
 
