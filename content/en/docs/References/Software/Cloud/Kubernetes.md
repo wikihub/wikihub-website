@@ -290,6 +290,7 @@ description: News and information about Kubernetes
 
 * [K3s: Quick start](https://rancher.com/docs/k3s/latest/en/quick-start/)
 * [Set up K3s in High Availability using k3d](https://rancher.com/blog/2020/set-up-k3s-high-availability-using-k3d)
+* [Setup lightweight Kubernetes with K3s](https://pgillich.medium.com/setup-lightweight-kubernetes-with-k3s-6a1c57d62217)
 * [k3s-demo](https://github.com/vfarcic/k3d-demo)
 * [How to Use Flags and Environment Variables](https://rancher.com/docs/k3s/latest/en/installation/install-options/how-to-flags/)
 * [k3d](https://k3d.io/)
