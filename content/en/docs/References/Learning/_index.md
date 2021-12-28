@@ -21,6 +21,7 @@ description: Resources for learning
 
 ## Canadian
 
+* [D2L](https://www.d2l.com/)
 * [Thinkific](https://www.thinkific.com/)
 * [BigBlueButton](https://bigbluebutton.org/)
 * [Top Hat](https://tophat.com/)
