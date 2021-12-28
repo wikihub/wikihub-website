@@ -162,6 +162,10 @@ Make a server and add an A record for auth.mechatronics3d.com and put the IP add
 * [Juju Moodle Base by GARR](https://jaas.ai/u/csd-garr/moodle-base/bundle/2)
 * [Moosh](https://github.com/tmuras/moosh)
 
+## Mahara
+
+* [Mahoodle: Mahara and Moodle](https://wiki.mahara.org/images/d/d5/Mahoodle.pdf)
+
 ## EdX
 
 * [EdX Lilac](https://edx.readthedocs.io/projects/open-edx-release-notes/en/latest/lilac.html)
