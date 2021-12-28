@@ -827,6 +827,10 @@
 &lt;li&gt;&lt;a href=&#34;https://jaas.ai/u/csd-garr/moodle-base/bundle/2&#34;&gt;Juju Moodle Base by GARR&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/tmuras/moosh&#34;&gt;Moosh&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h2 id=&#34;mahara&#34;&gt;Mahara&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://wiki.mahara.org/images/d/d5/Mahoodle.pdf&#34;&gt;Mahoodle: Mahara and Moodle&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2 id=&#34;edx&#34;&gt;EdX&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://edx.readthedocs.io/projects/open-edx-release-notes/en/latest/lilac.html&#34;&gt;EdX Lilac&lt;/a&gt;&lt;/li&gt;
@@ -874,7 +878,7 @@
 &lt;li&gt;&lt;a href=&#34;https://blog.lawrencemcdaniel.com/open-edx-setup-smtp-email/&#34;&gt;SMTP setup&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/namshi/docker-smtp&#34;&gt;namshi SMTP docker&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;mahara&#34;&gt;Mahara&lt;/h2&gt;
+&lt;h2 id=&#34;mahara-1&#34;&gt;Mahara&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://mahara.org/&#34;&gt;Mahara.org&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
