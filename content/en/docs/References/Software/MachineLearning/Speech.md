@@ -31,6 +31,7 @@ description: News and information about Speech synthesis and voice analysis
 * [gTTS](https://gtts.readthedocs.io/en/latest/)
 * [larynx](https://github.com/rhasspy/larynx)
 * [Parallel WaveGAN](https://kan-bayashi.github.io/ParallelWaveGAN/)
+* [MockingBird](https://github.com/babysor/MockingBird)
 
 ### Persian
 * [Lilak project](http://lilak-project.com)
