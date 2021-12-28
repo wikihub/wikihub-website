@@ -164,6 +164,7 @@ Make a server and add an A record for auth.mechatronics3d.com and put the IP add
 
 ## Mahara
 
+* [Mahara.org](https://mahara.org/)
 * [Mahoodle: Mahara and Moodle](https://wiki.mahara.org/images/d/d5/Mahoodle.pdf)
 
 ## EdX
@@ -211,10 +212,6 @@ Make a server and add an A record for auth.mechatronics3d.com and put the IP add
 * [timeout](https://sibunglon.com/2020/07/26/solve-smtp-open-edx-timeout/)
 * [SMTP setup](https://blog.lawrencemcdaniel.com/open-edx-setup-smtp-email/)
 * [namshi SMTP docker](https://github.com/namshi/docker-smtp)
-
-## Mahara
-
-* [Mahara.org](https://mahara.org/)
 
 ## Tsugi Cloud
 
