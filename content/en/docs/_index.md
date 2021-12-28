@@ -16,3 +16,7 @@ These are the main topics:
 * [Machine Learning]({{< ref "/docs/References/Software/MachineLearning" >}})
 * [Robotics]({{< ref "/docs/References/Robotics" >}})
 * [DevOps]({{< ref "/docs/References/Software/Development/DevOps.md" >}})
+
+# Awesome lists
+
+* [awesome](https://github.com/sindresorhus/awesome)
