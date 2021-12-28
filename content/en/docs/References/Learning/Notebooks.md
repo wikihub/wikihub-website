@@ -21,11 +21,13 @@ description: Resources for learning using notebooks
 * [Book: Teaching and Learning with Jupyter](https://jupyter4edu.github.io/jupyter-edu-book/)
 * [Data Science at UBC](https://datascience.ubc.ca/)
   * [Rudaux](https://ubc-dsci.github.io/rudaux/content/preface.html)
-
 ## Books
 * [Jupyter Book](https://jupyterbook.org/intro.html)
 * [iPyPublish](https://ipypublish.readthedocs.io/en/latest/)
 * [MkDocs](https://www.mkdocs.org/)
+
+## Learning Tools Interoperability
+* [LTI Launch JupyterHub Authenticator](https://github.com/jupyterhub/ltiauthenticator)
 
 # Machine Learning Hub
 * [CoCalc Kubernetes](https://github.com/sagemathinc/cocalc-kubernetes)
