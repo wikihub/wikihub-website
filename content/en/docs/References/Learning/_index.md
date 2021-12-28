@@ -19,6 +19,13 @@ description: Resources for learning
 * [Kajabi](https://kajabi.com/)
 * [Moodle vs Canvas](https://edwiser.org/blog/moodle-vs-canvas/)
 
+## Canadian
+
+* [Thinkific](https://www.thinkific.com/)
+* [BigBlueButton](https://bigbluebutton.org/)
+* [Top Hat](https://tophat.com/)
+* [Chalk](https://www.chalk.com/)
+
 # Hackathons
 * [Ultrahack](https://ultrahack.org/)
 
