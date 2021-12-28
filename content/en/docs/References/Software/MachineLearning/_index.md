@@ -53,7 +53,7 @@ A collection of awesome machine learning goodies
 - [Hands-On Machine Learning with Scikit-Learn and TensorFlow](http://shop.oreilly.com/product/0636920052289.do)
   -   [A series of Jupyter notebooks](https://github.com/ageron/handson-ml)
 -   [Deep Learning](http://www.deeplearningbook.org/)
-- [Open Source Data Science 100 UBC](https://github.com/UBC-DSCI/introduction-to-datascience)
+- [Data Science 100 UBC](https://github.com/UBC-DSCI/introduction-to-datascience)
 
 # Applications
 - [Project ideas](https://github.com/NirantK/awesome-project-ideas)
