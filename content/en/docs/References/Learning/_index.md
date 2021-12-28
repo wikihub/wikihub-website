@@ -17,6 +17,7 @@ description: Resources for learning
 * [Disco](https://www.disco.co/)
 * [Thinkific](https://www.thinkific.com/)
 * [Kajabi](https://kajabi.com/)
+* [Moodle vs Canvas](https://edwiser.org/blog/moodle-vs-canvas/)
 
 # Hackathons
 * [Ultrahack](https://ultrahack.org/)
