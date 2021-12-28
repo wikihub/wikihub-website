@@ -110,6 +110,10 @@
 &lt;li&gt;&lt;a href=&#34;https://ipypublish.readthedocs.io/en/latest/&#34;&gt;iPyPublish&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.mkdocs.org/&#34;&gt;MkDocs&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h2 id=&#34;learning-tools-interoperability&#34;&gt;Learning Tools Interoperability&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/jupyterhub/ltiauthenticator&#34;&gt;LTI Launch JupyterHub Authenticator&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h1 id=&#34;machine-learning-hub&#34;&gt;Machine Learning Hub&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/sagemathinc/cocalc-kubernetes&#34;&gt;CoCalc Kubernetes&lt;/a&gt;&lt;/li&gt;
