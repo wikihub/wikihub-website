@@ -32,7 +32,7 @@ description: Resources for learning using notebooks
 * [Science Box](https://sciencebox.web.cern.ch/sciencebox/)
 * [JupyterHub](https://github.com/jupyterhub/jupyterhub)
 * [The littlest JuperHub](https://github.com/jupyterhub/the-littlest-jupyterhub) ([tljh](https://tljh.jupyter.org/en/latest/))
-* [Plugin for The Littlest JupyterHub to build multiple user environments with repo2dockerrepo2docker](https://github.com/plasmabio/tljh-repo2docker)
+* [Plugin for The Littlest JupyterHub to build multiple user environments with repo2docker](https://github.com/plasmabio/tljh-repo2docker)
 * [Zero to JupyterHub k8s](https://github.com/jupyterhub/zero-to-jupyterhub-k8s)
 * [ContainDS Dashboards](https://cdsdashboards.readthedocs.io/en/stable/#)
 
