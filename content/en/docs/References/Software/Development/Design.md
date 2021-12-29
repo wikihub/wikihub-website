@@ -18,4 +18,4 @@ description: News and information about software design
 
 # System Design
 
-* [System Design](https://github.com/donnemartin/system-design-primer)
+* [System design premier](https://github.com/donnemartin/system-design-primer)
