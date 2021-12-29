@@ -10,6 +10,7 @@ description: Resources for teaching students to code
 * [Cocalc comparison](https://cocalc.com/doc/compare.html)
 * [GitHub Education Pack](https://education.github.com/pack)
 * [Code Your Future](https://syllabus.codeyourfuture.io/)
+* [Coding Rooms](https://www.codingrooms.com/)
 
 ## GitHub
 
