@@ -35,3 +35,6 @@ description: Resources for teaching students to code
 
 *   [Introduction to databases](https://github.com/ipeirotis/introduction-to-databases/tree/739f25fd9891523bc949f5aeda2c515f5d2b6858)
 
+# Computational Social Science
+
+* [Teaching materials for computational social science](https://github.com/collections/teaching-computational-social-science)
