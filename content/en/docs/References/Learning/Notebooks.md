@@ -22,6 +22,7 @@ description: Resources for learning using notebooks
 * [Data Science at UBC](https://datascience.ubc.ca/)
   * [Rudaux](https://ubc-dsci.github.io/rudaux/content/preface.html)
 * [Coursekata](https://coursekata.org/)
+* [IllumiDesk](https://www.illumidesk.com/)
 
 ## Books
 * [Jupyter Book](https://jupyterbook.org/intro.html)
