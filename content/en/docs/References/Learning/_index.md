@@ -77,6 +77,10 @@ description: Resources for learning
 * [GitHub Education Pack](https://education.github.com/pack)
 * [Code Your Future](https://syllabus.codeyourfuture.io/)
 
+## GitHub
+
+* [Teaching Courses with GitHub and Jupyter Notebooks](https://sites.duke.edu/ilearninglab/files/2020/12/Teaching-Courses-with-GitHub-and-Jupyter-Notebooks.pdf)
+
 ## Codelab
 
 *   [claat](https://github.com/googlecodelabs/tools)
