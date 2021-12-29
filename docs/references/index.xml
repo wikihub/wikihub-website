@@ -836,6 +836,11 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://openedx.atlassian.net/wiki/spaces/AC/overview?homepageId=7766132&#34;&gt;OPEN edX: Architecture and Engineering&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h3 id=&#34;kubernetes&#34;&gt;Kubernetes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.tutor.overhang.io/k8s.html&#34;&gt;Tutor: kubernetes deployment&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://grove.opencraft.com/&#34;&gt;Grove&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h3 id=&#34;edx-deployment&#34;&gt;EdX Deployment&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://openedx-deployment.doc.opencraft.com/en/latest/&#34;&gt;Open EdX deployment&lt;/a&gt;&lt;/li&gt;
