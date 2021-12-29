@@ -145,6 +145,7 @@ Make a server and add an A record for auth.mechatronics3d.com and put the IP add
 * [Juju Moodle by GARR](https://jaas.ai/u/csd-garr/moodle/12)
 * [Juju Moodle Base by GARR](https://jaas.ai/u/csd-garr/moodle-base/bundle/2)
 * [Moosh](https://github.com/tmuras/moosh)
+* [Site Stuck at Upgrade](https://www.moodlewiki.com/books/troubleshooting/page/site-stuck-at-upgrade)
 
 ## Mahara
 
