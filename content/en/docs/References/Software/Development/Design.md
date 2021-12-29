@@ -15,3 +15,7 @@ description: News and information about software design
 * [Software design pattern](https://en.wikipedia.org/wiki/Software_design_pattern)
 * [Awesome Software and Architectural Design Patterns](https://github.com/DovAmir/awesome-design-patterns)
 * [30 best practices for software development and testing](https://opensource.com/article/17/5/30-best-practices-software-development-and-testing)
+
+# System Design
+
+* [System Design](https://github.com/donnemartin/system-design-primer)
