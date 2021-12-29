@@ -19,3 +19,4 @@ description: News and information about software design
 # System Design
 
 * [System design premier](https://github.com/donnemartin/system-design-primer)
+* [Design essentials](https://github.com/collections/design-essentials)
