@@ -299,6 +299,48 @@
     </item>
     
     <item>
+      <title>Docs: Coding</title>
+      <link>https://wikihub.github.io/docs/references/learning/coding/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/learning/coding/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;code-tutorials&#34;&gt;Code Tutorials&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://cocalc.com/doc/compare.html&#34;&gt;Cocalc comparison&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://education.github.com/pack&#34;&gt;GitHub Education Pack&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://syllabus.codeyourfuture.io/&#34;&gt;Code Your Future&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;github&#34;&gt;GitHub&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://sites.duke.edu/ilearninglab/files/2020/12/Teaching-Courses-with-GitHub-and-Jupyter-Notebooks.pdf&#34;&gt;Teaching Courses with GitHub and Jupyter Notebooks&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;codelab&#34;&gt;Codelab&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/googlecodelabs/tools&#34;&gt;claat&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/deepakshrma/googles-codelabs&#34;&gt;claat in Node.js&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/ucl-casa-ce/claat-snippets-atom&#34;&gt;Atom extension for claat&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;katacoda&#34;&gt;Katacoda&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://katacoda.com&#34;&gt;Katacoda&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://katacoda.com/create&#34;&gt;Katacoda: create&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;devops&#34;&gt;DevOps&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://kodekloud.com/&#34;&gt;KodeKloud&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;databases&#34;&gt;Databases&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/ipeirotis/introduction-to-databases/tree/739f25fd9891523bc949f5aeda2c515f5d2b6858&#34;&gt;Introduction to databases&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Docs: K12</title>
       <link>https://wikihub.github.io/docs/references/learning/k12/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
