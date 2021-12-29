@@ -170,6 +170,11 @@ Make a server and add an A record for auth.mechatronics3d.com and put the IP add
 ## OPEN edX
 * [OPEN edX: Architecture and Engineering](https://openedx.atlassian.net/wiki/spaces/AC/overview?homepageId=7766132)
 
+### Kubernetes
+
+* [Tutor: kubernetes deployment](https://docs.tutor.overhang.io/k8s.html)
+* [Grove](https://grove.opencraft.com/)
+
 ### EdX Deployment
 
 * [Open EdX deployment](https://openedx-deployment.doc.opencraft.com/en/latest/)
