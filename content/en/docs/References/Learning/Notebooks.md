@@ -21,6 +21,8 @@ description: Resources for learning using notebooks
 * [Book: Teaching and Learning with Jupyter](https://jupyter4edu.github.io/jupyter-edu-book/)
 * [Data Science at UBC](https://datascience.ubc.ca/)
   * [Rudaux](https://ubc-dsci.github.io/rudaux/content/preface.html)
+* [Coursekata](https://coursekata.org/)
+
 ## Books
 * [Jupyter Book](https://jupyterbook.org/intro.html)
 * [iPyPublish](https://ipypublish.readthedocs.io/en/latest/)
