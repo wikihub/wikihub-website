@@ -24,6 +24,7 @@ description: News and information about Kubernetes
 *   [containerlabs](https://www.containerlabs.kubedaily.com/)
 *   [Flant Blog](https://blog.flant.com/)
 *   [Learning Kubernetes](https://github.com/dionmadyasta/Learning-Kubernetes)
+*   [Learnk8s](https://learnk8s.io/)
 
 ## Hosted kubernetes
 * [Platform - Certified Kubernetes - Hosted](https://landscape.cncf.io/card-mode?category=certified-kubernetes-hosted&grouping=category)
