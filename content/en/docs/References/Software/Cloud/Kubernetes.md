@@ -87,6 +87,7 @@ description: News and information about Kubernetes
 * [Ultimate kubernetes bootcamp](https://schoolofdevops.github.io/ultimate-kubernetes-bootcamp/)
 * [Cloud Native Academy by Aqua](https://www.aquasec.com/cloud-native-academy/)
 * [Learning kasten.io by Veeam](https://learning.kasten.io/)
+* [Kubernetes Mastery](https://slides.kubernetesmastery.com)
 
 ## Example Applications
 
