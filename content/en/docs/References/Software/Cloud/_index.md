@@ -14,9 +14,10 @@ description: News and information about cloud computing services
 
 * [Min.io](https://min.io/)
 
-# OpenStack
+# Software Stacks
 
 * [LXD OpenStack Cloud](https://jaas.ai/openstack-lxd)
+* [OpenStax](https://github.com/openstax)
 
 # GPU Computing
 
