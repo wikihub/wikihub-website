@@ -41,7 +41,7 @@ description: News and information about self-hosted applications
 
 * [Matterbridge](https://github.com/42wim/matterbridge/)
 * [Element](https://www.element.io/)
-* [An open network for secure, decentralized communication](https://matrix.org/)
+* [Matrix: An open network for secure, decentralized communication](https://matrix.org/)
 
 # Video Conferencing
 
