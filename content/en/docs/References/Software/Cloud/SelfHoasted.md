@@ -48,3 +48,4 @@ description: News and information about self-hosted applications
 * [Jitsi Meet Handbook](https://jitsi.github.io/handbook/docs/devops-guide/devops-guide-docker)
   * [8x8](https://jaas.8x8.vc)
 * [Project ION](https://pionion.github.io/docs/deploy/docker)
+* [BigBlueButton](https://bigbluebutton.org/)
