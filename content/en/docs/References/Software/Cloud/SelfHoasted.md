@@ -52,3 +52,9 @@ description: News and information about self-hosted applications
 * [Video conferencing](https://products.containerize.com/video-conferencing/)
 * [OpenMeetings](https://openmeetings.apache.org/)
 * [Kurento](https://www.kurento.org/)
+
+# Content Management System
+
+## Drupal
+
+* [Drupal on AWS](https://github.com/mrn55/k8s)
