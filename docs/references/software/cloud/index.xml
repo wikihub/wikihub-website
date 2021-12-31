@@ -937,7 +937,11 @@
 &lt;/ul&gt;
 &lt;h1 id=&#34;video-conferencing&#34;&gt;Video Conferencing&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://jitsi.github.io/handbook/docs/devops-guide/devops-guide-docker&#34;&gt;Jitsi Meet Handbook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jitsi.github.io/handbook/docs/devops-guide/devops-guide-docker&#34;&gt;Jitsi Meet Handbook&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://jaas.8x8.vc&#34;&gt;8x8&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
