@@ -49,3 +49,4 @@ description: News and information about self-hosted applications
   * [8x8](https://jaas.8x8.vc)
 * [Project ION](https://pionion.github.io/docs/deploy/docker)
 * [BigBlueButton](https://bigbluebutton.org/)
+* [Video conferencing](https://products.containerize.com/video-conferencing/)
