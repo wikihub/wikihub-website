@@ -51,3 +51,4 @@ description: News and information about self-hosted applications
 * [BigBlueButton](https://bigbluebutton.org/)
 * [Video conferencing](https://products.containerize.com/video-conferencing/)
 * [OpenMeetings](https://openmeetings.apache.org/)
+* [Kurento](https://www.kurento.org/)
