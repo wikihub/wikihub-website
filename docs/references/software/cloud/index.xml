@@ -935,6 +935,10 @@
 &lt;li&gt;&lt;a href=&#34;https://www.element.io/&#34;&gt;Element&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://matrix.org/&#34;&gt;An open network for secure, decentralized communication&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h1 id=&#34;video-conferencing&#34;&gt;Video Conferencing&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://jitsi.github.io/handbook/docs/devops-guide/devops-guide-docker&#34;&gt;Jitsi Meet Handbook&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
       </description>
     </item>
