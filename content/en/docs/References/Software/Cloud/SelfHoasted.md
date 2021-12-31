@@ -50,3 +50,4 @@ description: News and information about self-hosted applications
 * [Project ION](https://pionion.github.io/docs/deploy/docker)
 * [BigBlueButton](https://bigbluebutton.org/)
 * [Video conferencing](https://products.containerize.com/video-conferencing/)
+* [OpenMeetings](https://openmeetings.apache.org/)
