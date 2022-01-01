@@ -75,6 +75,7 @@ description: News and information about Kubernetes
 * [How to get started with WireGuard VPN](https://upcloud.com/community/tutorials/get-started-wireguard-vpn/)
 * [wireguard-install](https://github.com/angristan/wireguard-install)
 * [Wireguard-manager](https://github.com/complexorganizations/wireguard-manager)
+* [Kubernetes clusters for the hobbyist](https://github.com/hobby-kube/guide)
 
 ## Netmaker
 
@@ -336,6 +337,7 @@ description: News and information about Kubernetes
 * [Kubernetes: K3s cluster on Ubuntu using Ansible](https://fabianlee.org/2021/09/12/kubernetes-k3s-cluster-on-ubuntu-using-ansible/)
 * [Kubernetes: K3s with multiple Istio ingress gateways](https://fabianlee.org/2021/09/16/kubernetes-k3s-with-multiple-istio-ingress-gateways/)
 * [Install K3S with k3sup and Calico](https://devopstales.github.io/kubernetes/k3sup-calico/)
+* [Kubernetes clusters for the hobbyist](https://github.com/hobby-kube/guide)
 
 ## k3d
 
