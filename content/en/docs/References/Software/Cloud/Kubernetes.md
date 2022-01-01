@@ -64,6 +64,29 @@ description: News and information about Kubernetes
 
 * [Opstrace](https://opstrace.com/)
 
+# Monitoring
+
+* [Datahog](https://www.datadoghq.com/)
+
+# Networking
+
+## [WireGuard](https://www.wireguard.com/)
+
+* [https://github.com/angristan/wireguard-install](https://github.com/angristan/c)
+* [Wireguard-manager](https://github.com/complexorganizations/wireguard-manager)
+
+## Netmaker
+
+* [Netmaker client installation](https://docs.netmaker.org/client-installation.html)
+* [Getting Started with Netmaker: A WireGuard® Virtual Networking Platform](https://itnext.io/getting-started-with-netmaker-a-wireguard-virtual-networking-platform-3d563fbd87f0)
+
+## Zerotier
+
+* [Deploy k3s cluster on Vultr with RancherOS over ZeroTier network](https://gist.github.com/dwitzig/1c3f0a3ed215a5852a4dc40cc608e876)
+* [Part 1: K3s, Zerotier, DigitalOcean, and more...Oh my!](https://www.danmanners.com/posts/k3s-digitalocean-zerotier-and-more/)
+* [Part 2: Connecting Raspberry Pi's to DigitalOcean with ZeroTier](https://www.danmanners.com/posts/p2-k3s-digitalocean-zerotier-and-more/)
+* [Part 3: Deploying K3s and Updating Traefik](https://www.danmanners.com/posts/p3-k3s-digitalocean-zerotier-and-more/)
+
 # Frameworks
 
 * [Greymatter.io](https://twitter.com/GreymatterIo/status/1429900011572273152)
@@ -71,10 +94,6 @@ description: News and information about Kubernetes
 
 # Raspberry Pi
 * [Test drive k3s on raspberry pi](https://blog.alexellis.io/test-drive-k3s-on-raspberry-pi/)
-
-# Monitoring
-
-* [Datahog](https://www.datadoghq.com/)
 
 # Learning
 
