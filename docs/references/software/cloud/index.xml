@@ -294,7 +294,8 @@
 &lt;h1 id=&#34;networking&#34;&gt;Networking&lt;/h1&gt;
 &lt;h2 id=&#34;wireguardhttpswwwwireguardcom&#34;&gt;&lt;a href=&#34;https://www.wireguard.com/&#34;&gt;WireGuard&lt;/a&gt;&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/angristan/c&#34;&gt;https://github.com/angristan/wireguard-install&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://upcloud.com/community/tutorials/get-started-wireguard-vpn/&#34;&gt;How to get started with WireGuard VPN&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/angristan/wireguard-install&#34;&gt;wireguard-install&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/complexorganizations/wireguard-manager&#34;&gt;Wireguard-manager&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;netmaker&#34;&gt;Netmaker&lt;/h2&gt;
