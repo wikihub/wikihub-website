@@ -1836,7 +1836,6 @@
 &lt;li&gt;&lt;a href=&#34;https://fabianlee.org/2021/09/12/kubernetes-k3s-cluster-on-ubuntu-using-ansible/&#34;&gt;Kubernetes: K3s cluster on Ubuntu using Ansible&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://fabianlee.org/2021/09/16/kubernetes-k3s-with-multiple-istio-ingress-gateways/&#34;&gt;Kubernetes: K3s with multiple Istio ingress gateways&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://devopstales.github.io/kubernetes/k3sup-calico/&#34;&gt;Install K3S with k3sup and Calico&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/hobby-kube/guide&#34;&gt;Kubernetes clusters for the hobbyist&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;k3d&#34;&gt;k3d&lt;/h2&gt;
 &lt;ul&gt;
