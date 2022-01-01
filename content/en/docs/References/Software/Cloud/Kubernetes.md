@@ -30,6 +30,7 @@ description: News and information about Kubernetes
 * [Platform - Certified Kubernetes - Hosted](https://landscape.cncf.io/card-mode?category=certified-kubernetes-hosted&grouping=category)
 * [Civo](https://www.civo.com/)
   * [The World's First Managed k3s](https://blog.alexellis.io/the-worlds-first-managed-k3s/)
+* [Platform9](https://platform9.com/)
 
 ## Virtual Private Servers
 * [VPS Benchmarks](https://www.vpsbenchmarks.com/)
