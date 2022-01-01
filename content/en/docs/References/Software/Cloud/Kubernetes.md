@@ -367,6 +367,7 @@ description: News and information about Kubernetes
 # Kubespray
 
 * [Kubespray](https://kubespray.io/#/)
+* [Kubespray: getting started](https://kubespray.io/#/docs/getting-started)
 
 # Kops
 
