@@ -72,7 +72,8 @@ description: News and information about Kubernetes
 
 ## [WireGuard](https://www.wireguard.com/)
 
-* [https://github.com/angristan/wireguard-install](https://github.com/angristan/c)
+* [How to get started with WireGuard VPN](https://upcloud.com/community/tutorials/get-started-wireguard-vpn/)
+* [wireguard-install](https://github.com/angristan/wireguard-install)
 * [Wireguard-manager](https://github.com/complexorganizations/wireguard-manager)
 
 ## Netmaker
