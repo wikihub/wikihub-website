@@ -81,6 +81,7 @@ description: News and information about Kubernetes
 
 * [Netmaker client installation](https://docs.netmaker.org/client-installation.html)
 * [Getting Started with Netmaker: A WireGuard® Virtual Networking Platform](https://itnext.io/getting-started-with-netmaker-a-wireguard-virtual-networking-platform-3d563fbd87f0)
+* [8 Use Cases for Kubernetes over VPN: Unlocking Multicloud Flexibility](https://itnext.io/8-use-cases-for-kubernetes-over-vpn-unlocking-multicloud-flexibility-3958dab2219f)
 
 ## Innernet
 
