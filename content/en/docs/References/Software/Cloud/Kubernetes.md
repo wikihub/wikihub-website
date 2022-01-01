@@ -80,6 +80,11 @@ description: News and information about Kubernetes
 * [Netmaker client installation](https://docs.netmaker.org/client-installation.html)
 * [Getting Started with Netmaker: A WireGuard® Virtual Networking Platform](https://itnext.io/getting-started-with-netmaker-a-wireguard-virtual-networking-platform-3d563fbd87f0)
 
+## Innernet
+
+* [innernet](https://github.com/tonarino/innernet)
+* [Introducing innernet](https://blog.tonari.no/introducing-innernet)
+
 ## Zerotier
 
 * [Deploy k3s cluster on Vultr with RancherOS over ZeroTier network](https://gist.github.com/dwitzig/1c3f0a3ed215a5852a4dc40cc608e876)
