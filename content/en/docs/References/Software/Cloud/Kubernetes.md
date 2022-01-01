@@ -90,6 +90,7 @@ description: News and information about Kubernetes
 * [Cloud Native Academy by Aqua](https://www.aquasec.com/cloud-native-academy/)
 * [Learning kasten.io by Veeam](https://learning.kasten.io/)
 * [Kubernetes Mastery](https://slides.kubernetesmastery.com)
+* [Kubernetes The Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
 
 ## Example Applications
 
