@@ -120,6 +120,7 @@ description: News and information about Kubernetes
 * [Learning kasten.io by Veeam](https://learning.kasten.io/)
 * [Kubernetes Mastery](https://slides.kubernetesmastery.com)
 * [Kubernetes The Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
+* [Kube by example](https://kubebyexample.com/)
 
 ## Example Applications
 
