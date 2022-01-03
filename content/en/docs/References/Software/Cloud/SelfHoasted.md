@@ -41,6 +41,7 @@ description: News and information about self-hosted applications
 # Applications
 
 * [ToolJet](https://docs.tooljet.com/docs/intro/)
+* [DeGoogle](https://degoogle.jmoore.dev/)
 
 # Communications
 
