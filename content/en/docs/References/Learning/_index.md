@@ -93,6 +93,7 @@ description: Resources for learning
 *   [Learning Tools Interoperability](https://en.wikipedia.org/wiki/Learning_Tools_Interoperability)
 
 # Authoring Tools
+
 * [Adapt Learning](https://github.com/adaptlearning)
 * [eXe Learning](https://github.com/exelearning)
 * [DaSL course template bookdown](https://github.com/jhudsl/DaSL_Course_Template_Bookdown)
@@ -126,22 +127,24 @@ description: Resources for learning
 
 ## Up2U
 
-### [Setting up SSL for Keycloak](https://www.keycloak.org/docs/latest/server_installation/#_setting_up_ssl)
+* [filesystem-for-jupyter](https://github.com/sciencemesh/filesystem-for-jupyter)
+
+* [Setting up SSL for Keycloak](https://www.keycloak.org/docs/latest/server_installation/#_setting_up_ssl)
 Make a server and add an A record for auth.mechatronics3d.com and put the IP address of the server as the value. Run these commands in the keycloak server:
 
-* `curl -s "https://get.sdkman.io" | bash`
-* Open a new terminal
-* `sdk list java`
-* `sdk install java 11.0.11-open`
-* Generate a certificate: `keytool -genkey -alias localhost -keyalg RSA -keystore keycloak.jks -validity 10950`
-* Get a certificate: `keytool -certreq -alias yourdomain -keystore keycloak.jks > keycloak.careq`
-* `sudo snap install --classic certbot`
-* `sudo ln -s /snap/bin/certbot /usr/bin/certbot`
-* `certbot certonly --standalone -d auth.mechatronics3d.com` ([gist](https://gist.github.com/bsamadi/541bd6ced11111a251ecfd494dd30694))
-* `wget https://letsencrypt.org/certs/isrgrootx1.pem`
-* `keytool -import -keystore keycloak.jks -file isrgrootx1.pem -alias root`
-* `keytool -import -alias auth.mechatronics3d.com -keystore keycloak.jks -file /etc/letsencrypt/live/auth.mechatronics3d.com/fullchain.pem`
-* [Juju Keycloak](https://jaas.ai/u/tengu-team/keycloak/2)
+  * `curl -s "https://get.sdkman.io" | bash`
+  * Open a new terminal
+  * `sdk list java`
+  * `sdk install java 11.0.11-open`
+  * Generate a certificate: `keytool -genkey -alias localhost -keyalg RSA -keystore keycloak.jks -validity 10950`
+  * Get a certificate: `keytool -certreq -alias yourdomain -keystore keycloak.jks > keycloak.careq`
+  * `sudo snap install --classic certbot`
+  * `sudo ln -s /snap/bin/certbot /usr/bin/certbot`
+  * `certbot certonly --standalone -d auth.mechatronics3d.com` ([gist](https://gist.github.com/bsamadi/541bd6ced11111a251ecfd494dd30694))
+  * `wget https://letsencrypt.org/certs/isrgrootx1.pem`
+  * `keytool -import -keystore keycloak.jks -file isrgrootx1.pem -alias root`
+  * `keytool -import -alias auth.mechatronics3d.com -keystore keycloak.jks -file /etc/letsencrypt/live/auth.mechatronics3d.com/fullchain.pem`
+  * [Juju Keycloak](https://jaas.ai/u/tengu-team/keycloak/2)
 
 ## Moodle
 
