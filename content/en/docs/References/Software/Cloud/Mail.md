@@ -10,5 +10,11 @@ description: News and information about email servers
 
 * [Postal](https://docs.postalserver.io/)
 * [Docker Mailserver](https://docker-mailserver.github.io/docker-mailserver/edge/)
+* [Mailcow](https://github.com/mailcow/mailcow-dockerized)
+* [Mailu](https://github.com/Mailu/Mailu)
 * [How to set up a mail server on the cloud for free](https://www.linkedin.com/pulse/how-set-up-mail-server-cloud-free-alwin-woo-pmp/)
 * [Free mail server by Axigen](https://www.axigen.com/mail-server/free/)
+
+# Research
+
+* [BitMaelum](https://bitmaelum.com/)
