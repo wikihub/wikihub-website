@@ -30,6 +30,10 @@ description: Resources for learning
 * [Chalk](https://www.chalk.com/)
 * [Disco](https://www.disco.co/)
 
+## American
+
+* [North American Higher Ed LMS Market Share by Enrollments: A consolidating market](https://eliterate.us/na-he-lms-market-share-enrollments-for-2012-2018/)
+
 # Hackathons
 * [Ultrahack](https://ultrahack.org/)
 
