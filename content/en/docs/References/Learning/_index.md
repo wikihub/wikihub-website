@@ -7,10 +7,13 @@ description: Resources for learning
 
 ---
 
+# EdTech
+
 * [Top tools for learning](https://www.toptools4learning.com/)
 * [Digital Promise](https://digitalpromise.org/initiative/instructional-coaching/instructional-coaching-playbook/about-this-playbook/)
 * [Self-hosted learning and courses](https://github.com/awesome-selfhosted/awesome-selfhosted#learning-and-courses)
 * [Awesome EdTech Tools](https://github.com/hkalant/awesome-edtech-tools)
+* [Ethical EdTech](https://ethicaledtech.info)
 
 # Learning Platforms
 
