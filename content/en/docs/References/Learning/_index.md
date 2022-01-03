@@ -208,6 +208,10 @@ Make a server and add an A record for auth.mechatronics3d.com and put the IP add
 
 * [Tsugi Cloud](https://www.tsugicloud.org/tsugi/store/)
 
+## WordPress
+
+* [LearnPress](https://thimpress.com/learnpress-plugin/)
+
 # Video Conferencing
 
 * [EduMeet](https://edumeet.org/)
