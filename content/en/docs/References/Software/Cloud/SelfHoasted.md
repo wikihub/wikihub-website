@@ -14,6 +14,10 @@ description: News and information about self-hosted applications
 ## Ingress
 * [ngrok alternatives](https://www.softwaretestinghelp.com/ngrok-alternatives/)
 
+# VPS
+
+* [Selfhosted cloud apps](https://selfhost.cloud/Apps/)
+
 # Homelabs
 
 * [Managing my personal server in 2020](https://github.com/erebe/personal-server/blob/master/README.md)
