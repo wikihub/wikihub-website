@@ -19,6 +19,10 @@ description: News and information about self-hosted applications
 * [Selfhosted cloud apps](https://selfhost.cloud/Apps/)
 * [Uberspace](https://lab.uberspace.de/index.html)
 
+# Cloud Desktop
+
+* [IsardVDI](https://isardvdi.com/)
+
 # Homelabs
 
 * [Managing my personal server in 2020](https://github.com/erebe/personal-server/blob/master/README.md)
