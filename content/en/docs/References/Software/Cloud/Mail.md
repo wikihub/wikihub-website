@@ -14,6 +14,7 @@ description: News and information about email servers
 * [Mailu](https://github.com/Mailu/Mailu)
 * [Dovecot](https://www.dovecot.org/)
 * [Postfix](http://www.postfix.org/)
+* [ISPmail](https://workaround.org/ispmail)
 * [How to set up a mail server on the cloud for free](https://www.linkedin.com/pulse/how-set-up-mail-server-cloud-free-alwin-woo-pmp/)
 * [Free mail server by Axigen](https://www.axigen.com/mail-server/free/)
 
