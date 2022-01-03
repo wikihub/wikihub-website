@@ -1806,11 +1806,7 @@
 
   <ul>
     <li><a href="#cern">CERN</a></li>
-    <li><a href="#up2u">Up2U</a>
-      <ul>
-        <li><a href="#setting-up-ssl-for-keycloakhttpswwwkeycloakorgdocslatestserver_installation_setting_up_ssl"><a href="https://www.keycloak.org/docs/latest/server_installation/#_setting_up_ssl">Setting up SSL for Keycloak</a></a></li>
-      </ul>
-    </li>
+    <li><a href="#up2u">Up2U</a></li>
     <li><a href="#moodle">Moodle</a></li>
     <li><a href="#mahara">Mahara</a></li>
     <li><a href="#edx">EdX</a></li>
@@ -1994,8 +1990,13 @@
 <li><a href="https://sciencebox.web.cern.ch/sciencebox/">ScienceBox</a></li>
 </ul>
 <h2 id="up2u">Up2U</h2>
-<h3 id="setting-up-ssl-for-keycloakhttpswwwkeycloakorgdocslatestserver_installation_setting_up_ssl"><a href="https://www.keycloak.org/docs/latest/server_installation/#_setting_up_ssl">Setting up SSL for Keycloak</a></h3>
-<p>Make a server and add an A record for auth.mechatronics3d.com and put the IP address of the server as the value. Run these commands in the keycloak server:</p>
+<ul>
+<li>
+<p><a href="https://github.com/sciencemesh/filesystem-for-jupyter">filesystem-for-jupyter</a></p>
+</li>
+<li>
+<p><a href="https://www.keycloak.org/docs/latest/server_installation/#_setting_up_ssl">Setting up SSL for Keycloak</a>
+Make a server and add an A record for auth.mechatronics3d.com and put the IP address of the server as the value. Run these commands in the keycloak server:</p>
 <ul>
 <li><code>curl -s &quot;https://get.sdkman.io&quot; | bash</code></li>
 <li>Open a new terminal</li>
@@ -2010,6 +2011,8 @@
 <li><code>keytool -import -keystore keycloak.jks -file isrgrootx1.pem -alias root</code></li>
 <li><code>keytool -import -alias auth.mechatronics3d.com -keystore keycloak.jks -file /etc/letsencrypt/live/auth.mechatronics3d.com/fullchain.pem</code></li>
 <li><a href="https://jaas.ai/u/tengu-team/keycloak/2">Juju Keycloak</a></li>
+</ul>
+</li>
 </ul>
 <h2 id="moodle">Moodle</h2>
 <ul>
@@ -2215,7 +2218,7 @@
 </script>
 
 	
-	<div class="text-muted mt-5 pt-3 border-top">Last modified 02.01.2022: <a  href="https://github.com/wikihub/wikihub-website/commit/2a655b81c833cad4707d0ece0c05a0be9fff4f0f">Update Linux.md (2a655b8)</a>
+	<div class="text-muted mt-5 pt-3 border-top">Last modified 02.01.2022: <a  href="https://github.com/wikihub/wikihub-website/commit/cb4ce7489b79573bc628d7ae95d83af3e40f67f2">Update _index.md (cb4ce74)</a>
 </div>
 </div>
 

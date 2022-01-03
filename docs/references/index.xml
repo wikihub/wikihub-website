@@ -790,8 +790,13 @@
 &lt;li&gt;&lt;a href=&#34;https://sciencebox.web.cern.ch/sciencebox/&#34;&gt;ScienceBox&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;up2u&#34;&gt;Up2U&lt;/h2&gt;
-&lt;h3 id=&#34;setting-up-ssl-for-keycloakhttpswwwkeycloakorgdocslatestserver_installation_setting_up_ssl&#34;&gt;&lt;a href=&#34;https://www.keycloak.org/docs/latest/server_installation/#_setting_up_ssl&#34;&gt;Setting up SSL for Keycloak&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Make a server and add an A record for auth.mechatronics3d.com and put the IP address of the server as the value. Run these commands in the keycloak server:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/sciencemesh/filesystem-for-jupyter&#34;&gt;filesystem-for-jupyter&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.keycloak.org/docs/latest/server_installation/#_setting_up_ssl&#34;&gt;Setting up SSL for Keycloak&lt;/a&gt;
+Make a server and add an A record for auth.mechatronics3d.com and put the IP address of the server as the value. Run these commands in the keycloak server:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;code&gt;curl -s &amp;quot;https://get.sdkman.io&amp;quot; | bash&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;Open a new terminal&lt;/li&gt;
@@ -806,6 +811,8 @@
 &lt;li&gt;&lt;code&gt;keytool -import -keystore keycloak.jks -file isrgrootx1.pem -alias root&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;keytool -import -alias auth.mechatronics3d.com -keystore keycloak.jks -file /etc/letsencrypt/live/auth.mechatronics3d.com/fullchain.pem&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://jaas.ai/u/tengu-team/keycloak/2&#34;&gt;Juju Keycloak&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;moodle&#34;&gt;Moodle&lt;/h2&gt;
 &lt;ul&gt;
