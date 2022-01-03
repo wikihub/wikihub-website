@@ -17,6 +17,7 @@ description: News and information about self-hosted applications
 # VPS
 
 * [Selfhosted cloud apps](https://selfhost.cloud/Apps/)
+* [Uberspace](https://lab.uberspace.de/index.html)
 
 # Homelabs
 
