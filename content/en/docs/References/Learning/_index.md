@@ -130,6 +130,7 @@ description: Resources for learning
 ## Open Learning Initiative
 
 * [OLI Torus](https://proton.oli.cmu.edu/)
+* [Affiliated projects](https://www.cmu.edu/simon/projects/affiliated-projects.html)
 
 ## Up2U
 
