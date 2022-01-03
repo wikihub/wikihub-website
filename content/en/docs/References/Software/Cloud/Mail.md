@@ -25,6 +25,10 @@ description: News and information about email servers
 * AWS Simple Email Service
 * Google Mail
 
+# k3s
+
+* [Docker Mailserver on k3s](https://github.com/kyzdev/docker-mailserver-k3s)
+
 # Research
 
 * [BitMaelum](https://bitmaelum.com/)
