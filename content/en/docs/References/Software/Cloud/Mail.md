@@ -29,6 +29,10 @@ description: News and information about email servers
 
 * [Docker Mailserver on k3s](https://github.com/kyzdev/docker-mailserver-k3s)
 
+# Moodle
+
+* [Troubleshooting PHPmailer](https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting)
+
 # Research
 
 * [BitMaelum](https://bitmaelum.com/)
