@@ -5,6 +5,9 @@ weight: 200
 description: Resources for teaching students to code
 ---
 
+# Teaching
+* [Autolab](https://docs.autolabproject.com/)
+
 # Code Tutorials
 
 * [Cocalc comparison](https://cocalc.com/doc/compare.html)
