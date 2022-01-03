@@ -1058,6 +1058,23 @@
     </item>
     
     <item>
+      <title>Docs: Email Servers</title>
+      <link>https://wikihub.github.io/docs/references/software/cloud/mail/</link>
+      <pubDate>Sun, 11 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/software/cloud/mail/</guid>
+      <description>
+        
+        
+        &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/pulse/how-set-up-mail-server-cloud-free-alwin-woo-pmp/&#34;&gt;How to set up a mail server on the cloud for free&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.axigen.com/mail-server/free/&#34;&gt;Free mail server by Axigen&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Docs: Serverless</title>
       <link>https://wikihub.github.io/docs/references/software/cloud/serverless/</link>
       <pubDate>Sun, 11 Oct 2020 00:00:00 +0000</pubDate>
