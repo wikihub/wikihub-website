@@ -308,7 +308,11 @@
       <description>
         
         
-        &lt;h1 id=&#34;code-tutorials&#34;&gt;Code Tutorials&lt;/h1&gt;
+        &lt;h1 id=&#34;teaching&#34;&gt;Teaching&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.autolabproject.com/&#34;&gt;Autolab&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;code-tutorials&#34;&gt;Code Tutorials&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://cocalc.com/doc/compare.html&#34;&gt;Cocalc comparison&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://education.github.com/pack&#34;&gt;GitHub Education Pack&lt;/a&gt;&lt;/li&gt;
