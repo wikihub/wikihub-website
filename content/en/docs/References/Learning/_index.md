@@ -14,7 +14,6 @@ description: Resources for learning
 
 # Learning Platforms
 
-* [Disco](https://www.disco.co/)
 * [Thinkific](https://www.thinkific.com/)
 * [Kajabi](https://kajabi.com/)
 * [Moodle vs Canvas](https://edwiser.org/blog/moodle-vs-canvas/)
@@ -26,6 +25,7 @@ description: Resources for learning
 * [BigBlueButton](https://bigbluebutton.org/)
 * [Top Hat](https://tophat.com/)
 * [Chalk](https://www.chalk.com/)
+* [Disco](https://www.disco.co/)
 
 # Hackathons
 * [Ultrahack](https://ultrahack.org/)
