@@ -125,6 +125,7 @@ description: Resources for learning
 
 * [CERNBox](https://github.com/cernbox)
 * [ScienceBox](https://sciencebox.web.cern.ch/sciencebox/)
+* [ScienceMesh](https://sciencemesh.io/)
 
 ## Up2U
 
