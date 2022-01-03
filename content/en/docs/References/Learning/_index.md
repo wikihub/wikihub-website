@@ -134,6 +134,7 @@ description: Resources for learning
 
 ## Up2U
 
+* [Up to University](https://up2university.eu/up2universe/)
 * [filesystem-for-jupyter](https://github.com/sciencemesh/filesystem-for-jupyter)
 
 * [Setting up SSL for Keycloak](https://www.keycloak.org/docs/latest/server_installation/#_setting_up_ssl)
