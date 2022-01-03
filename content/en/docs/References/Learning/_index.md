@@ -168,6 +168,7 @@ Make a server and add an A record for auth.mechatronics3d.com and put the IP add
 * [Moosh](https://github.com/tmuras/moosh)
 * [Site Stuck at Upgrade](https://www.moodlewiki.com/books/troubleshooting/page/site-stuck-at-upgrade)
 * [Azure Moodle](https://github.com/Azure/Moodle)
+* [Login Moodle with Keycloak OAuth2](https://kursat.github.io/#/post/2021-03-11-moodle-keycloak-oauth2-integration.md)
 
 ## Mahara
 
