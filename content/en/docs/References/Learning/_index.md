@@ -14,6 +14,7 @@ description: Resources for learning
 * [Self-hosted learning and courses](https://github.com/awesome-selfhosted/awesome-selfhosted#learning-and-courses)
 * [Awesome EdTech Tools](https://github.com/hkalant/awesome-edtech-tools)
 * [Ethical EdTech](https://ethicaledtech.info)
+* [Addressing the Decline of Open Source LMS for #altc Discussion](https://philonedtech.com/addressing-the-decline-of-open-source-lms-for-altc-discussion/)
 
 # Learning Platforms
 
