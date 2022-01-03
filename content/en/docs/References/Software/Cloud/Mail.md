@@ -17,6 +17,13 @@ description: News and information about email servers
 * [How to set up a mail server on the cloud for free](https://www.linkedin.com/pulse/how-set-up-mail-server-cloud-free-alwin-woo-pmp/)
 * [Free mail server by Axigen](https://www.axigen.com/mail-server/free/)
 
+# Cloud mail servers
+
+* Mailgun
+* Sendgrid
+* AWS Simple Email Service
+* Google Mail
+
 # Research
 
 * [BitMaelum](https://bitmaelum.com/)
