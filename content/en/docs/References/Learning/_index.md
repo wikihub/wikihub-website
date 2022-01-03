@@ -127,6 +127,10 @@ description: Resources for learning
 * [ScienceBox](https://sciencebox.web.cern.ch/sciencebox/)
 * [ScienceMesh](https://sciencemesh.io/)
 
+## Open Learning Initiative
+
+* [OLI Torus](https://proton.oli.cmu.edu/)
+
 ## Up2U
 
 * [filesystem-for-jupyter](https://github.com/sciencemesh/filesystem-for-jupyter)
