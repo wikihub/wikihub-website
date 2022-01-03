@@ -116,6 +116,7 @@ description: Resources for learning
 * [edapp](https://www.edapp.com/)
 * [GARR](https://cloud.garr.it/)
 * [GARR Charms](https://git.garr.it/cloud/charms)
+* [Digital Democratic](https://gitlab.com/digitaldemocratic/digitaldemocratic/-/blob/master/README_en.md)
 
 ## CERN
 
