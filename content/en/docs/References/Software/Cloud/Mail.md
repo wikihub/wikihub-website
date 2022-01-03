@@ -31,8 +31,9 @@ description: News and information about email servers
 
 # Moodle
 
-* [Troubleshooting PHPmailer](https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting)
+* [Sending Custom Emails in Moodle Using the email_to_user() Function](https://articlebin.michaelmilette.com/sending-custom-emails-in-moodle-using-the-email_to_user-function/)
 * [Sign in with App Passwords](https://support.google.com/accounts/answer/185833?p=InvalidSecondFactor&visit_id=637768417042511139-4034099741&rd=1)
+* [Troubleshooting PHPmailer](https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting)
 
 # Research
 
