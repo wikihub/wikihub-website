@@ -17,6 +17,7 @@ These are the main topics:
 * [Robotics]({{< ref "/docs/References/Robotics" >}})
 * [DevOps]({{< ref "/docs/References/Software/Development/DevOps.md" >}})
 * [Kubernetes]({{< ref "/docs/References/Software/Cloud/Kubernetes.md" >}})
+* [Learning]({{< ref "/docs/references/learning">}})
 
 # Awesome lists
 
