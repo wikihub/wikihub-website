@@ -67,6 +67,7 @@ description: News and information about Kubernetes
 # Monitoring
 
 * [Datahog](https://www.datadoghq.com/)
+* [Grafana Loki](https://github.com/grafana/loki)
 
 # Networking
 
