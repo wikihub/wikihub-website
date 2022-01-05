@@ -45,6 +45,7 @@ description: News and information about self-hosted applications
 - [The self-hosted dilemma - Home server or the cloud?](https://arvind.io/posts/self-hosted-home-server-vs-cloud/)
 - [Firefly III](https://docs.firefly-iii.org/)
 - [Greenhouse](https://greenhouse.server.garden/)
+- [Build your very own self-hosting platform with Raspberry Pi and Kubernetes](https://kauri.io/#build-your-very-own-self-hosting-platform-with-raspberry-pi-and-kubernetes-introduction/1229f21044ef4bff8df35875d6803776/a)
 
 # Applications
 * [ToolJet](https://docs.tooljet.com/docs/intro/)
