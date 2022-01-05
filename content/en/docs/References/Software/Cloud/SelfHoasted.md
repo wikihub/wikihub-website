@@ -44,6 +44,7 @@ description: News and information about self-hosted applications
 - [/r/selfhosted/](https://old.reddit.com/r/selfhosted/)
 - [The self-hosted dilemma - Home server or the cloud?](https://arvind.io/posts/self-hosted-home-server-vs-cloud/)
 - [Firefly III](https://docs.firefly-iii.org/)
+- [Greenhouse](https://greenhouse.server.garden/)
 
 # Applications
 * [ToolJet](https://docs.tooljet.com/docs/intro/)
