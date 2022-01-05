@@ -46,6 +46,7 @@ description: News and information about self-hosted applications
 - [Firefly III](https://docs.firefly-iii.org/)
 - [Greenhouse](https://greenhouse.server.garden/)
 - [Build your very own self-hosting platform with Raspberry Pi and Kubernetes](https://kauri.io/#build-your-very-own-self-hosting-platform-with-raspberry-pi-and-kubernetes-introduction/1229f21044ef4bff8df35875d6803776/a)
+- [Managing my personal server in 2020](https://reposhub.com/linux/system-utilities/erebe-personal-server.html)
 
 # Applications
 * [ToolJet](https://docs.tooljet.com/docs/intro/)
