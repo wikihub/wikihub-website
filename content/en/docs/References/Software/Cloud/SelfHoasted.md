@@ -7,6 +7,7 @@ description: News and information about self-hosted applications
 ---
 
 # Kubernetes
+
 * [Self-hosting Kubernetes on your Raspberry Pi](https://blog.alexellis.io/self-hosting-kubernetes-on-your-raspberry-pi/)
 * [k8s at home](https://k8s-at-home.com/)
 * [awesome home kubernetes](https://github.com/k8s-at-home/awesome-home-kubernetes)
@@ -15,12 +16,14 @@ description: News and information about self-hosted applications
 * [ngrok alternatives](https://www.softwaretestinghelp.com/ngrok-alternatives/)
 
 # VPS
-
 * [Selfhosted cloud apps](https://selfhost.cloud/Apps/)
 * [Uberspace](https://lab.uberspace.de/index.html)
 
-# Cloud Desktop
+# VPN
 
+* [Techlore](https://techlore.tech/index.html)
+
+# Cloud Desktop
 * [IsardVDI](https://isardvdi.com/)
 
 # Homelabs
@@ -43,18 +46,15 @@ description: News and information about self-hosted applications
 - [Firefly III](https://docs.firefly-iii.org/)
 
 # Applications
-
 * [ToolJet](https://docs.tooljet.com/docs/intro/)
 * [DeGoogle](https://degoogle.jmoore.dev/)
 
 # Communications
-
 * [Matterbridge](https://github.com/42wim/matterbridge/)
 * [Element](https://www.element.io/)
 * [Matrix: An open network for secure, decentralized communication](https://matrix.org/)
 
 # Video Conferencing
-
 * [Jitsi Meet Handbook](https://jitsi.github.io/handbook/docs/devops-guide/devops-guide-docker)
   * [8x8](https://jaas.8x8.vc)
 * [Project ION](https://pionion.github.io/docs/deploy/docker)
