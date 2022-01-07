@@ -1547,6 +1547,10 @@
 &lt;li&gt;&lt;a href=&#34;https://www.datadoghq.com/&#34;&gt;Datahog&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/grafana/loki&#34;&gt;Grafana Loki&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h1 id=&#34;management&#34;&gt;Management&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://geek-cookbook.funkypenguin.co.nz/recipes/portainer/&#34;&gt;Portainer recipe&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h1 id=&#34;networking&#34;&gt;Networking&lt;/h1&gt;
 &lt;h2 id=&#34;wireguardhttpswwwwireguardcom&#34;&gt;&lt;a href=&#34;https://www.wireguard.com/&#34;&gt;WireGuard&lt;/a&gt;&lt;/h2&gt;
 &lt;ul&gt;
