@@ -11,6 +11,7 @@ description: News and information about back-end technologies
 # FastAPI
 
 * [FastAPI](https://fastapi.tiangolo.com/)
+* [full-stack-fastapi-postgresql](https://github.com/tiangolo/full-stack-fastapi-postgresql)
 
 # Flask
 
