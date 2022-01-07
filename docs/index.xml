@@ -2027,6 +2027,10 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://l0rd.github.io/containerspatterns/#1&#34;&gt;Containers Patterns&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h1 id=&#34;docker-swarm&#34;&gt;Docker Swarm&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/sfproductlabs/roo&#34;&gt;Roo&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h1 id=&#34;podman&#34;&gt;Podman&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/install-guide.html&#34;&gt;Container Toolkit and Podman&lt;/a&gt;&lt;/li&gt;
