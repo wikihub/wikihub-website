@@ -38,6 +38,7 @@ description: News and information about containers
 * [How to Use Docker Restart Policies to Keep Containers Running](https://www.cloudsavvyit.com/10912/how-to-use-docker-restart-policies-to-keep-containers-running/)
 * [Using Alpine can make Python Docker builds 50× slower](https://pythonspeed.com/articles/alpine-docker-python/)
 * [GPU support on docker-compose](https://docs.docker.com/compose/gpu-support/)
+* [Docker Swarm](https://dockerswarm.rocks/)
 
 ## Getting started
 
