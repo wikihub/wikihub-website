@@ -16,7 +16,8 @@ These are the main topics:
 * [Machine Learning]({{< ref "/docs/References/Software/MachineLearning" >}})
 * [Robotics]({{< ref "/docs/References/Robotics" >}})
 * [DevOps]({{< ref "/docs/References/Software/Development/DevOps.md" >}})
-* [Kubernetes]({{< ref "/docs/References/Software/Cloud/Kubernetes.md" >}})
+* [Kubernetes]({{< ref "/docs/References/Software/Cloud/Containers.md" >}})
+* [Containers]({{< ref "/docs/References/Software/Cloud/Kubernetes.md" >}})
 * [Learning]({{< ref "/docs/references/learning">}})
 
 # Awesome lists
