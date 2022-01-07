@@ -8,6 +8,10 @@ description: News and information about back-end technologies
 
 ---
 
+# FastAPI
+
+* [FastAPI](https://fastapi.tiangolo.com/)
+
 # Flask
 
 * [flaskapps](https://github.com/imfht/flaskapps)
