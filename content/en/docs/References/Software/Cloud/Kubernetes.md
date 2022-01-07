@@ -69,6 +69,10 @@ description: News and information about Kubernetes
 * [Datahog](https://www.datadoghq.com/)
 * [Grafana Loki](https://github.com/grafana/loki)
 
+# Management
+
+* [Portainer recipe](https://geek-cookbook.funkypenguin.co.nz/recipes/portainer/)
+
 # Networking
 
 ## [WireGuard](https://www.wireguard.com/)
