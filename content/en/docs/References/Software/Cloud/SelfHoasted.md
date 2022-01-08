@@ -33,6 +33,7 @@ description: News and information about self-hosted applications
 * [Ikarus](https://ikarus.sg/tag/kubernetes/)
 * [homelab-server](https://github.com/omdv/homelab-server)
 * [selfhosted](https://github.com/mattiss/selfhosted/tree/master/docker)
+* [Self hosted services](https://github.com/sethforprivacy/self-hosted-services)
 
 # Self-Hosted Web Applications
 - [Awesome selfhosted](https://github.com/Kickball/awesome-selfhosted)
