@@ -466,6 +466,7 @@ description: News and information about Kubernetes
 *   [k8s-devbox](https://github.com/Mirantis/k8s-devbox)
 *   [k9s](https://medium.com/flant-com/k9s-terminal-ui-for-kubernetes-aeead8b0303f)
 *   [popeye](https://popeyecli.io/)
+*   [Kong](https://konghq.com/)
 
 # [Kompose](https://kompose.io/)
 * [Compose to kubernetes simplified with kompose](https://www.opcito.com/blogs/compose-to-kubernetes-simplified-with-kompose)
