@@ -13,6 +13,7 @@ description: News and information about authentication
 * [How to deploy a free Auth0 alternative to DigitalOcean in 5 minutes](https://dev.to/tillsanders/how-to-deploy-a-free-auth0-alternative-to-digitalocean-in-5-minutes-2ili)
 * [OneLogin](https://www.onelogin.com/)
 * [Okta](https://www.okta.com/)
+* [Authelia](https://www.authelia.com/)
 
 ## Keycloak
 
