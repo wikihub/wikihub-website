@@ -1927,6 +1927,10 @@
 &lt;li&gt;&lt;a href=&#34;https://blog.alexellis.io/kubernetes-in-10-minutes/&#34;&gt;Kubernetes on bare-metal in 10 minutes&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://metal.equinix.com/solutions/kubernetes/&#34;&gt;Run K8s on Bare Metal&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h1 id=&#34;gitlab&#34;&gt;Gitlab&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/apk8s/k3s-gitlab&#34;&gt;k3s-gitlab&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h1 id=&#34;gitops-1&#34;&gt;GitOps&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.gitops.tech/&#34;&gt;GitOps&lt;/a&gt;&lt;/li&gt;
