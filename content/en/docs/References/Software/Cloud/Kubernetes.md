@@ -428,6 +428,7 @@ description: News and information about Kubernetes
 # Gitlab
 
 * [k3s-gitlab](https://github.com/apk8s/k3s-gitlab)
+* [Hands on DevOps](https://github.com/nemonik/hands-on-DevOps-gen2)
 
 # GitOps
 
