@@ -109,6 +109,11 @@ description: News and information about containers
 * [Docuum](https://github.com/stepchowfun/docuum)
 * [Dive](https://github.com/wagoodman/dive)
 
+# Portainer App Templates
+* [Portainer V2 Templates for Selfhosted Projects/Homelabs](https://qballjos.github.io/portainer_templates/)
+* [Andy Yang portainer templates](https://github.com/AndyYangUK/portainer_templates)
+* [Selfhosted Pro portainer templates](https://github.com/SelfhostedPro/selfhosted_templates)
+    
 # Local Development Environment
 * [Visual Studio Code: Create dev container](https://code.visualstudio.com/docs/remote/create-dev-container)
 * [runnable](https://runnable.com/)
