@@ -113,6 +113,7 @@ description: News and information about containers
 * [Portainer V2 Templates for Selfhosted Projects/Homelabs](https://qballjos.github.io/portainer_templates/)
 * [Andy Yang portainer templates](https://github.com/AndyYangUK/portainer_templates)
 * [Selfhosted Pro portainer templates](https://github.com/SelfhostedPro/selfhosted_templates)
+* [The Spad portainer templates](https://github.com/TheSpad/selfhosted_templates)
     
 # Local Development Environment
 * [Visual Studio Code: Create dev container](https://code.visualstudio.com/docs/remote/create-dev-container)
