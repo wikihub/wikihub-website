@@ -80,6 +80,15 @@ description: News and information about cloud computing services
 - [Setting up OIDC Authentication & Audit Logging With Kubermatic KubeOne](https://www.kubermatic.com/blog/kubeone-oidc-authentication-audit-logging/)
 - [Our own GitLab Server with docker and traefik](https://community.hetzner.com/tutorials/gitlab-server-with-docker)
 - [Dynamically deploying new hosts with Rancher and Hetzner Cloud](https://www.youtube.com/watch?v=9gqpntc5SvI)
+- [Change the password](https://www.reddit.com/r/hetzner/comments/i4nf71/hetzner_cloud_root_password_if_i_created_the/)
+  * open up the console from the Hetzner Cloud web interface
+  * starting from the screen with login prompt, hit the big CTRL+ALT+DEL key
+  * wait for instance reboot (fast flashing log messages)
+  * during this reboot, hit CTRL+ALT+DEL again!
+  * this gets you into the GRUB menu
+  * select "Advanced .."
+  * boot into "Recovery Mode"
+  * open "root shell" :P
 
 ## Terraform
 
