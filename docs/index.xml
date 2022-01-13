@@ -1188,6 +1188,22 @@
     </item>
     
     <item>
+      <title>Docs: Security</title>
+      <link>https://wikihub.github.io/docs/references/software/cloud/security/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/software/cloud/security/</guid>
+      <description>
+        
+        
+        &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://livecd.hacking-lab.com/&#34;&gt;Hacking Lab Live CD&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Docs: STM32</title>
       <link>https://wikihub.github.io/docs/references/hardware/stm32/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -2633,22 +2649,6 @@
 &lt;li&gt;&lt;a href=&#34;https://www.openhab.org/addons/bindings/gpstracker/&#34;&gt;OpenHAB GPSTracker Binding&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.followmee.com/&#34;&gt;Followmee&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://gurtam.com/&#34;&gt;Gurtam&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Docs: Indoor Positioning</title>
-      <link>https://wikihub.github.io/docs/references/robotics/indoorpositioning/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://wikihub.github.io/docs/references/robotics/indoorpositioning/</guid>
-      <description>
-        
-        
-        &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.pozyx.io/&#34;&gt;Pozyx&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
