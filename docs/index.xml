@@ -1140,6 +1140,22 @@
     </item>
     
     <item>
+      <title>Docs: Networking</title>
+      <link>https://wikihub.github.io/docs/references/software/cloud/networking/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/software/cloud/networking/</guid>
+      <description>
+        
+        
+        &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://geek-cookbook.funkypenguin.co.nz/reference/networks/&#34;&gt;Docker networks&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Docs: Safety</title>
       <link>https://wikihub.github.io/docs/references/robotics/safety/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -2602,53 +2618,6 @@
         
         &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.kiwibot.com/&#34;&gt;Kiwibot&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Docs: GPS</title>
-      <link>https://wikihub.github.io/docs/references/robotics/gps/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://wikihub.github.io/docs/references/robotics/gps/</guid>
-      <description>
-        
-        
-        &lt;h1 id=&#34;gps&#34;&gt;GPS&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Differential_GPS&#34;&gt;Differential GPS&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Real-time_kinematic&#34;&gt;Real Time Kinematic (RTK) Positioning&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/davidmerrick/awesome-gps-viz&#34;&gt;Awesome GPS visualization&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/shangxiazuoyou/awesome-location&#34;&gt;Awesome location&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.ngs.noaa.gov/gps-toolbox/exist.htm&#34;&gt;Existing GPS algorithms and source code available&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;gnss&#34;&gt;GNSS&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/barbeau/awesome-gnss&#34;&gt;Awesome GNSS&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/hdkarimi/awesome-gnss&#34;&gt;Awesome GNSS&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.ngs.noaa.gov/gps-toolbox/GAMP.htm&#34;&gt;GAMP: An open-source software of multi-GNSS precise point positioning using undifferenced and uncombined observations&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;rtk&#34;&gt;RTK&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.rtklib.com/&#34;&gt;RTKLIB&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/tomojitakasu/RTKLIB&#34;&gt;RTKLIB on GitHub&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://wiki.openstreetmap.org/wiki/RTKLIB&#34;&gt;RTKLIB on OpenStreetMap&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.ardusimple.com/simplertk2b/&#34;&gt;simpleRTK2B&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.ardusimple.com/store/&#34;&gt;ArduSimple store&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://rtkexplorer.com/&#34;&gt;RTK Explorer&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.dot.state.mn.us/research/reports/2018/201810.pdf&#34;&gt;Evaluation of Low-Cost, Centimeter-Level Accuracy OEM GNSS Receivers&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;gps-trackers&#34;&gt;GPS Trackers&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.balena.io/blog/balena-fin-gps-tracker-project/&#34;&gt;Balena Fin GPS Tracker&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;gps-web-applications&#34;&gt;GPS web applications&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.openhab.org/addons/bindings/gpstracker/&#34;&gt;OpenHAB GPSTracker Binding&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.followmee.com/&#34;&gt;Followmee&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://gurtam.com/&#34;&gt;Gurtam&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
