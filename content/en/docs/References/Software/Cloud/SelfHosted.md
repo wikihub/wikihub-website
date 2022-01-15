@@ -12,7 +12,6 @@ description: News and information about self-hosted applications
 * [Quaker template](https://github.com/cchacin/quaker-template)
 
 # Kubernetes
-
 * [Self-hosting Kubernetes on your Raspberry Pi](https://blog.alexellis.io/self-hosting-kubernetes-on-your-raspberry-pi/)
 * [k8s at home](https://k8s-at-home.com/)
 * [awesome home kubernetes](https://github.com/k8s-at-home/awesome-home-kubernetes)
@@ -26,20 +25,19 @@ description: News and information about self-hosted applications
 * [Uberspace](https://lab.uberspace.de/index.html)
 
 # VPN
-
 * [Techlore](https://techlore.tech/index.html)
 
 # Cloud Desktop
 * [IsardVDI](https://isardvdi.com/)
 
 # Homelabs
-
 * [Managing my personal server in 2020](https://github.com/erebe/personal-server/blob/master/README.md)
 * [Smart Home Beginner: My smart home setup 2019](https://www.smarthomebeginner.com/my-smart-home-setup-2019/)
 * [Ikarus](https://ikarus.sg/tag/kubernetes/)
 * [homelab-server](https://github.com/omdv/homelab-server)
 * [selfhosted](https://github.com/mattiss/selfhosted/tree/master/docker)
 * [Self hosted services](https://github.com/sethforprivacy/self-hosted-services)
+* [PAPAMICA](https://github.com/PAPAMICA)
 
 # Self-Hosted Web Applications
 - [Awesome selfhosted](https://github.com/Kickball/awesome-selfhosted)
@@ -81,5 +79,4 @@ description: News and information about self-hosted applications
 # Content Management System
 
 ## Drupal
-
 * [Drupal on AWS](https://github.com/mrn55/k8s)
