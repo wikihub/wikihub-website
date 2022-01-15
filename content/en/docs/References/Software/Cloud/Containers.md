@@ -19,14 +19,10 @@ description: News and information about containers
 * `sudo podman run --rm --runtime=nvidia nvidia/cuda:11.0-base nvidia-smi`
 
 # Docker
-* [Docker reference](https://docs.docker.com/reference/)
-* [Play with Docker](https://labs.play-with-docker.com/)
-* [Docker tips](https://confluence.jaytaala.com/display/TKB/Docker+tips)
 * [Install Docker on Ubuntu](https://docs.docker.com/engine/install/ubuntu/)
 * [Dockerfile reference](https://docs.docker.com/engine/reference/builder/)
 * [Develop with Docker](https://docs.docker.com/develop/)
 * [How to setup Docker and Nvidia-Docker 2.0 on Ubuntu 18.04](https://cnvrg.io/how-to-setup-docker-and-nvidia-docker-2-0-on-ubuntu-18-04/)
-* [An Introduction to Docker](http://odewahn.github.io/docker-jumpstart/)
 * [Running Linux apps in MacOS using docker](http://shanavasv.com/running-linux-apps-in-macos-using-docker/)
 * [How to show X11 windows with Docker on Mac](https://medium.com/@mreichelt/how-to-show-x11-windows-within-docker-on-mac-50759f4b65cb)
 * [Running xeyes in Docker](http://nelkinda.com/blog/xeyes-in-docker/)
@@ -76,10 +72,13 @@ description: News and information about containers
 * [minidocks](https://github.com/minidocks)
 
 ## Learning
+* [Docker reference](https://docs.docker.com/reference/)
+* [An Introduction to Docker](http://odewahn.github.io/docker-jumpstart/)
+* [Play with Docker](https://labs.play-with-docker.com/)
+* [Docker tips](https://confluence.jaytaala.com/display/TKB/Docker+tips)
 * [CyVerse Container Camp 2020](https://learning.cyverse.org/projects/cyverse-container-camp/en/2020/index.html)
 * [Docker and Python](https://ep2020.europython.eu/media/conference/slides/4bVczWt-docker-and-python-making-them-play-nicely-and-securely-for-dat_veC0l2l.pdf)
 * [Slash Docker?](https://runnable.com/docker/)
-* [Play with Docker](https://labs.play-with-docker.com/)
 
 ## Prune  
 * Remove all the images without a tag: `docker rmi $(docker images -f dangling=true -q)`
