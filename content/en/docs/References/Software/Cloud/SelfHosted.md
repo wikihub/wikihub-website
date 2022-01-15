@@ -11,6 +11,12 @@ description: News and information about self-hosted applications
 * [Data science docker stack](https://github.com/sham-sr/data_science_docker_stack)
 * [Quaker template](https://github.com/cchacin/quaker-template)
 
+# Portainer Templates
+* [Portainer V2 Templates for Selfhosted Projects/Homelabs](https://qballjos.github.io/portainer_templates/)
+* [Andy Yang portainer templates](https://github.com/AndyYangUK/portainer_templates)
+* [Selfhosted Pro portainer templates](https://github.com/SelfhostedPro/selfhosted_templates)
+* [The Spad portainer templates](https://github.com/TheSpad/selfhosted_templates)
+
 # Kubernetes
 * [Self-hosting Kubernetes on your Raspberry Pi](https://blog.alexellis.io/self-hosting-kubernetes-on-your-raspberry-pi/)
 * [k8s at home](https://k8s-at-home.com/)
