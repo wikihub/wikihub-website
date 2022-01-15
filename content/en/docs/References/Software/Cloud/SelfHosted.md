@@ -55,6 +55,10 @@ description: News and information about self-hosted applications
 - [Build your very own self-hosting platform with Raspberry Pi and Kubernetes](https://kauri.io/#build-your-very-own-self-hosting-platform-with-raspberry-pi-and-kubernetes-introduction/1229f21044ef4bff8df35875d6803776/a)
 - [Managing my personal server in 2020](https://reposhub.com/linux/system-utilities/erebe-personal-server.html)
 
+# Dashboard
+* [Heimdall](https://github.com/linuxserver/Heimdall)
+* [Dashy](https://github.com/Lissy93/dashy)
+
 # Applications
 * [ToolJet](https://docs.tooljet.com/docs/intro/)
 * [DeGoogle](https://degoogle.jmoore.dev/)
