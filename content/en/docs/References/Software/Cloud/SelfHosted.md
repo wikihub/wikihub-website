@@ -7,6 +7,7 @@ description: News and information about self-hosted applications
 ---
 
 # Docker
+* [Docker stack this](https://github.com/pascalandy/docker-stack-this)
 * [Data science docker stack](https://github.com/sham-sr/data_science_docker_stack)
 
 # Kubernetes
