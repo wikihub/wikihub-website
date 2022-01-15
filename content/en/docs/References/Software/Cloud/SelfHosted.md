@@ -14,7 +14,7 @@ description: News and information about self-hosted applications
 * [Self-hosting Kubernetes on your Raspberry Pi](https://blog.alexellis.io/self-hosting-kubernetes-on-your-raspberry-pi/)
 * [k8s at home](https://k8s-at-home.com/)
 * [awesome home kubernetes](https://github.com/k8s-at-home/awesome-home-kubernetes)
-* [Awesome Self Hosted](https://selfhosted.libhunt.com/)
+* [Awesome Self Hosted: libhunt](https://selfhosted.libhunt.com/)
 
 ## Ingress
 * [ngrok alternatives](https://www.softwaretestinghelp.com/ngrok-alternatives/)
