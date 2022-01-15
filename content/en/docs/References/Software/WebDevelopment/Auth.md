@@ -10,10 +10,12 @@ description: News and information about authentication
 
 # Single Sign On
 
-* [How to deploy a free Auth0 alternative to DigitalOcean in 5 minutes](https://dev.to/tillsanders/how-to-deploy-a-free-auth0-alternative-to-digitalocean-in-5-minutes-2ili)
+* [Keycloak](https://www.keycloak.org/)
+* [Ory](https://github.com/ory)
+* [Authelia](https://www.authelia.com/)
 * [OneLogin](https://www.onelogin.com/)
 * [Okta](https://www.okta.com/)
-* [Authelia](https://www.authelia.com/)
+* [How to deploy a free Auth0 alternative to DigitalOcean in 5 minutes](https://dev.to/tillsanders/how-to-deploy-a-free-auth0-alternative-to-digitalocean-in-5-minutes-2ili)
 
 ## Keycloak
 
