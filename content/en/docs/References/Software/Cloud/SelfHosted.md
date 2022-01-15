@@ -1,6 +1,6 @@
 ---
-title: "Self Hosted"
-linkTitle: "Self Hosted"
+title: "Self-hosted"
+linkTitle: "Self-hosted"
 date: 2021-10-05
 weight: 70
 description: News and information about self-hosted applications
