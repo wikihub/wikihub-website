@@ -18,7 +18,8 @@ These are the main topics:
 * [DevOps]({{< ref "/docs/References/Software/Development/DevOps.md" >}})
 * [Containers]({{< ref "/docs/References/Software/Cloud/Containers.md" >}})
 * [Kubernetes]({{< ref "/docs/References/Software/Cloud/Kubernetes.md" >}})
-* [Learning]({{< ref "/docs/references/learning">}})
+* [Self Hosted]({{< ref "/docs/References/Software/Cloud/SelfHosted.md" >}})
+* [Learning]({{< ref "/docs/References/Learning">}})
 
 # Awesome lists
 
