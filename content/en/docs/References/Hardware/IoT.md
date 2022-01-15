@@ -26,6 +26,7 @@ description: News and information about Internet of Things and its applications
 
 * [Legato](https://legato.io/)
 * [MangOH](https://mangoh.io/)
+* [AIOTES 2.0](https://github.com/activage/AIOTES-2.0/wiki)
 
 # IoT Courses
 
