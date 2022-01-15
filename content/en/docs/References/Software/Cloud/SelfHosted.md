@@ -6,6 +6,9 @@ weight: 70
 description: News and information about self-hosted applications
 ---
 
+# Docker
+* [Data science docker stack](https://github.com/sham-sr/data_science_docker_stack)
+
 # Kubernetes
 
 * [Self-hosting Kubernetes on your Raspberry Pi](https://blog.alexellis.io/self-hosting-kubernetes-on-your-raspberry-pi/)
