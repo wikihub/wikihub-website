@@ -79,6 +79,7 @@ description: News and information about containers
 * [CyVerse Container Camp 2020](https://learning.cyverse.org/projects/cyverse-container-camp/en/2020/index.html)
 * [Docker and Python](https://ep2020.europython.eu/media/conference/slides/4bVczWt-docker-and-python-making-them-play-nicely-and-securely-for-dat_veC0l2l.pdf)
 * [Slash Docker?](https://runnable.com/docker/)
+* [Awesome Docker](https://awesome-docker.netlify.app/)
 
 ## Prune  
 * Remove all the images without a tag: `docker rmi $(docker images -f dangling=true -q)`
