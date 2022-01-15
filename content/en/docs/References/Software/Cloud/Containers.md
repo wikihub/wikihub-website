@@ -110,10 +110,6 @@ description: News and information about containers
 * [Dive](https://github.com/wagoodman/dive)
 
 # Portainer
-* [Portainer V2 Templates for Selfhosted Projects/Homelabs](https://qballjos.github.io/portainer_templates/)
-* [Andy Yang portainer templates](https://github.com/AndyYangUK/portainer_templates)
-* [Selfhosted Pro portainer templates](https://github.com/SelfhostedPro/selfhosted_templates)
-* [The Spad portainer templates](https://github.com/TheSpad/selfhosted_templates)
 * [Central Authentication and SSO](https://blog.gurucomputing.com.au/doing-more-with-docker/central-authentication-and-sso/)
     
 # Local Development Environment
