@@ -13,6 +13,7 @@ description: News and information about authentication
 * [Keycloak](https://www.keycloak.org/)
 * [Ory](https://github.com/ory)
 * [Authelia](https://www.authelia.com/)
+* [Authentik](https://goauthentik.io/)
 * [Authorino](https://github.com/kuadrant/authorino)
 * [OneLogin](https://www.onelogin.com/)
 * [Okta](https://www.okta.com/)
