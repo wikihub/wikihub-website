@@ -10,3 +10,4 @@ weight: 20
 
 * [Awesome Zerotier](https://github.com/zerotier/awesome-zerotier)
 * [ztncui](https://key-networks.com/ztncui/)
+* [Running MPLS over ZeroTier Part 1](https://gotz.co/2019/02/17/mpls-over-zerotier-pt-1/)
