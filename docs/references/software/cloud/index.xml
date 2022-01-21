@@ -74,7 +74,7 @@
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;sudo lsof -i -P -n | grep LISTEN 
 sudo netstat -tulpn | grep LISTEN
 &lt;/code&gt;&lt;/pre&gt;&lt;ul&gt;
-&lt;li&gt;List of running services:&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://linuxconfig.org/how-to-use-systemctl-to-list-services-on-systemd-linux&#34;&gt;List of running services&lt;/a&gt;:&lt;/li&gt;
 &lt;/ul&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;systemctl list-units --type=service --state=running 
 &lt;/code&gt;&lt;/pre&gt;
