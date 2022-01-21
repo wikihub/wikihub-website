@@ -26,3 +26,8 @@ sudo netstat -tulpn | grep LISTEN
 ```
 systemctl list-units --type=service --state=running 
 ```
+* To list all the IPv4 rules:
+
+```
+sudo iptables -S
+```
