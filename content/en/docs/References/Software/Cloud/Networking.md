@@ -21,7 +21,7 @@ sudo lsof -i -P -n | grep LISTEN
 sudo netstat -tulpn | grep LISTEN
 ```
 
-* List of running services:
+* [List of running services](https://linuxconfig.org/how-to-use-systemctl-to-list-services-on-systemd-linux):
 
 ```
 systemctl list-units --type=service --state=running 
