@@ -68,9 +68,15 @@
 &lt;li&gt;&lt;a href=&#34;https://gotz.co/2019/02/17/mpls-over-zerotier-pt-1/&#34;&gt;Running MPLS over ZeroTier Part 1&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;ubuntu&#34;&gt;Ubuntu&lt;/h1&gt;
-&lt;p&gt;To see ports in use&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;To see ports in use:&lt;/li&gt;
+&lt;/ul&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;sudo lsof -i -P -n | grep LISTEN 
 sudo netstat -tulpn | grep LISTEN
+&lt;/code&gt;&lt;/pre&gt;&lt;ul&gt;
+&lt;li&gt;List of running services:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;systemctl list-units --type=service --state=running 
 &lt;/code&gt;&lt;/pre&gt;
       </description>
     </item>
