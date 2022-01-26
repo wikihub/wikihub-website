@@ -6,6 +6,7 @@ weight: 30
 description: News and information about machine learning DevOps
 ---
 
+* [Awesome MLOps](https://github.com/visenger/awesome-mlops)
 * [Data labeling](https://madewithml.com/courses/mlops/labeling/)
 * [Label Studio](https://labelstud.io/)
 * [labelme](https://github.com/wkentaro/labelme)
