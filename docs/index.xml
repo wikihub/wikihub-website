@@ -2498,6 +2498,7 @@ sudo netstat -tulpn | grep LISTEN
         
         
         &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/visenger/awesome-mlops&#34;&gt;Awesome MLOps&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://madewithml.com/courses/mlops/labeling/&#34;&gt;Data labeling&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://labelstud.io/&#34;&gt;Label Studio&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/wkentaro/labelme&#34;&gt;labelme&lt;/a&gt;&lt;/li&gt;
