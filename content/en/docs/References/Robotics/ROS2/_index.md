@@ -29,6 +29,9 @@ description: News and information about web applications for ROS2
 * [ROS 2 Package Maintainer Guide](https://docs.ros.org/en/galactic/Guides/Package-maintainer-guide.html)
 * [CI jobs](https://github.com/ros-infrastructure/ros_buildfarm/blob/master/doc/jobs/ci_jobs.rst)
 * [build.ros2.org](https://build.ros2.org/)
+* [ROS Testing, Continuous Integration, and Deployment RIC Web Meeting](https://youtu.be/rdv3nywmUxM)
+* [ROSCon 2016 Seoul Day 2 The ROS build farm what it can do for me](https://youtu.be/n4oZUyIUkuE)
+* [Docker based ROS Build Farm ROSCon 2015 Hamburg Day 1 Daniel Di Marco](https://youtu.be/g4VPahhmQLk)
 
 # Testing
 * [Autoware.Auto: Testing in general](https://autowarefoundation.gitlab.io/autoware.auto/AutowareAuto/testing-in-general.html)
