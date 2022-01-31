@@ -1289,6 +1289,9 @@
 &lt;li&gt;&lt;a href=&#34;https://docs.ros.org/en/galactic/Guides/Package-maintainer-guide.html&#34;&gt;ROS 2 Package Maintainer Guide&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/ros-infrastructure/ros_buildfarm/blob/master/doc/jobs/ci_jobs.rst&#34;&gt;CI jobs&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://build.ros2.org/&#34;&gt;build.ros2.org&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtu.be/rdv3nywmUxM&#34;&gt;ROS Testing, Continuous Integration, and Deployment RIC Web Meeting&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtu.be/n4oZUyIUkuE&#34;&gt;ROSCon 2016 Seoul Day 2 The ROS build farm what it can do for me&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtu.be/g4VPahhmQLk&#34;&gt;Docker based ROS Build Farm ROSCon 2015 Hamburg Day 1 Daniel Di Marco&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;testing&#34;&gt;Testing&lt;/h1&gt;
 &lt;ul&gt;
