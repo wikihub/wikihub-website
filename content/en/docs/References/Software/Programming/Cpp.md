@@ -34,3 +34,7 @@ description: Resources for C++ programming
 * [Contributing to Autoware](https://gitlab.com/autowarefoundation/autoware.ai/autoware/-/wikis/Contributing-to-Autoware)
 * [clang-format VSCode extension](https://marketplace.visualstudio.com/items?itemName=xaver.clang-format)
 * cppcheck, cpplint, uncrustify, lint_cmake, xmllint, flake8, pep257
+
+# Testing
+
+* [Generating a C++ Code Coverage Report with Colcon](https://answers.ros.org/question/355388/generating-a-c-code-coverage-report-with-colcon/)
