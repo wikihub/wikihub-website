@@ -121,3 +121,7 @@ description: News and information about cloud computing services
 
 ## SSL Certificates
 * [SSL certificates on Hetzner](https://docs.hetzner.com/konsoleh/ssl/certificates)
+
+# Virtualization
+
+* [IsarVDI](https://isardvdi.com/)
