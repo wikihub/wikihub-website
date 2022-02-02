@@ -238,6 +238,23 @@
     </item>
     
     <item>
+      <title>Docs: Software Engineering</title>
+      <link>https://wikihub.github.io/docs/references/software/softwareengineering/</link>
+      <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/software/softwareengineering/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;courses&#34;&gt;Courses&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ecs.csun.edu/~rlingard/comp480/&#34;&gt;Software System Development by Bob Lingard&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Docs: Business Procedure Model and Notation</title>
       <link>https://wikihub.github.io/docs/references/systemsengineering/bpmn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -2626,22 +2643,6 @@ sudo netstat -tulpn | grep LISTEN
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://xenex.com/&#34;&gt;Xenex&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.blue-ocean-robotics.com/&#34;&gt;Blue Ocean Robotics&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Docs: Delivery Robots</title>
-      <link>https://wikihub.github.io/docs/references/robotics/deliveryrobot/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://wikihub.github.io/docs/references/robotics/deliveryrobot/</guid>
-      <description>
-        
-        
-        &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.kiwibot.com/&#34;&gt;Kiwibot&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
