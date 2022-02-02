@@ -31,6 +31,7 @@ description: Resources and tools for requirements management
 * [Pickles Living Documentation](http://www.picklesdoc.com/)
 * [Kick Start and Scale Behavior Driven Development](https://cucumber.io/resources/ebooks/kick-start-and-scale-behavior-driven-development/)
 * [BDD 101: Writing Good Gherkin](https://automationpanda.com/2017/01/30/bdd-101-writing-good-gherkin/)
+* [Behavior-Driven Development](https://automationpanda.com/bdd/)
 
 ## Gherkin
 * [Gherkin](https://cucumber.io/docs/gherkin/reference/)
