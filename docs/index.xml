@@ -639,17 +639,6 @@
 &lt;li&gt;&lt;a href=&#34;https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-096-introduction-to-c-january-iap-2011/index.htm&#34;&gt;Introduction to C++, MIT, 2011&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://newbedev.com/modern-c-cheatsheet&#34;&gt;Modern C++ cheatsheet&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id=&#34;behaviour-driven-development&#34;&gt;Behaviour Driven Development&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/cucumber/cucumber-cpp&#34;&gt;Cucumber-CPP&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;unit-testing&#34;&gt;Unit Testing&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/google/googletest&#34;&gt;GoogleTest&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://boost-ext.github.io/ut/&#34;&gt;UT&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/boostorg/test&#34;&gt;Boost.Test&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/catchorg/Catch2&#34;&gt;Catch2&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
 &lt;h1 id=&#34;c-style-guides&#34;&gt;C++ Style Guides&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://wiki.ros.org/CppStyleGuide&#34;&gt;ROS C++ Style Guide&lt;/a&gt;&lt;/li&gt;
@@ -660,8 +649,16 @@
 &lt;li&gt;&lt;a href=&#34;https://marketplace.visualstudio.com/items?itemName=xaver.clang-format&#34;&gt;clang-format VSCode extension&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;cppcheck, cpplint, uncrustify, lint_cmake, xmllint, flake8, pep257&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id=&#34;testing&#34;&gt;Testing&lt;/h1&gt;
+&lt;h1 id=&#34;behaviour-driven-development&#34;&gt;Behaviour Driven Development&lt;/h1&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/cucumber/cucumber-cpp&#34;&gt;Cucumber-CPP&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;unit-testing&#34;&gt;Unit Testing&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/google/googletest&#34;&gt;GoogleTest&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://boost-ext.github.io/ut/&#34;&gt;UT&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/boostorg/test&#34;&gt;Boost.Test&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/catchorg/Catch2&#34;&gt;Catch2&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://answers.ros.org/question/355388/generating-a-c-code-coverage-report-with-colcon/&#34;&gt;Generating a C++ Code Coverage Report with Colcon&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
