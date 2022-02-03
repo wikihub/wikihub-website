@@ -1394,6 +1394,10 @@ sudo netstat -tulpn | grep LISTEN
 &lt;li&gt;&lt;a href=&#34;https://github.com/marketplace/actions/codeguru-reviewer&#34;&gt;CodeGuru Reviewer&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/ModusCreateOrg/capsule&#34;&gt;Capsule&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h1 id=&#34;ec2&#34;&gt;EC2&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://aws.amazon.com/premiumsupport/knowledge-center/ebs-volume-size-increase/&#34;&gt;Increasing the storage size&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
       </description>
     </item>
