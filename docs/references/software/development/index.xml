@@ -133,6 +133,7 @@
 &lt;/ul&gt;
 &lt;h1 id=&#34;code-coverage&#34;&gt;Code coverage&lt;/h1&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.sonarqube.org/&#34;&gt;SonarQube&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://librecov.com/&#34;&gt;LibreCov&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/danhper/opencov&#34;&gt;OpenCov&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://openclover.org/&#34;&gt;OpenClover&lt;/a&gt;&lt;/li&gt;
