@@ -11,5 +11,6 @@ description: News and information about testing and necessary tools
 
 # Code coverage
 
+* [LibreCov](https://librecov.com/)
 * [OpenCov](https://github.com/danhper/opencov)
 * [OpenClover](http://openclover.org/)
