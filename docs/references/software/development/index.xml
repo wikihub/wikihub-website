@@ -119,17 +119,22 @@
     </item>
     
     <item>
-      <title>Docs: Unit Testing</title>
-      <link>https://wikihub.github.io/docs/references/software/development/unittesting/</link>
+      <title>Docs: Testing</title>
+      <link>https://wikihub.github.io/docs/references/software/development/testing/</link>
       <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://wikihub.github.io/docs/references/software/development/unittesting/</guid>
+      <guid>https://wikihub.github.io/docs/references/software/development/testing/</guid>
       <description>
         
         
         &lt;h1 id=&#34;hardware-unit-testing&#34;&gt;Hardware Unit Testing&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://pragprog.com/titles/jgade/test-driven-development-for-embedded-c&#34;&gt;Test driven development for embedded C&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;code-coverage&#34;&gt;Code coverage&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/danhper/opencov&#34;&gt;OpenCov&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://openclover.org/&#34;&gt;OpenClover&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
