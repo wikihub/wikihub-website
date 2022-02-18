@@ -329,6 +329,22 @@
     </item>
     
     <item>
+      <title>Docs: Model Based Systems Engineering</title>
+      <link>https://wikihub.github.io/docs/references/systemsengineering/mbse/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/systemsengineering/mbse/</guid>
+      <description>
+        
+        
+        &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://insights.sei.cmu.edu/blog/introduction-model-based-systems-engineering-mbse/&#34;&gt;An Introduction to Model-Based Systems Engineering (MBSE)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Docs: Modelica</title>
       <link>https://wikihub.github.io/docs/references/systemsengineering/modelica/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -2561,105 +2577,6 @@ sudo netstat -tulpn | grep LISTEN
         &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://opendatacam.github.io/opendatacam/&#34;&gt;opendatacam&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/abs/1908.11069&#34;&gt;StarNet: Targeted Computation for Object Detection in Point Clouds&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Docs: Applications</title>
-      <link>https://wikihub.github.io/docs/references/robotics/applications/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://wikihub.github.io/docs/references/robotics/applications/</guid>
-      <description>
-        
-        
-        &lt;h1 id=&#34;applications&#34;&gt;Applications&lt;/h1&gt;
-&lt;h2 id=&#34;agriculture&#34;&gt;Agriculture&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.smallrobotcompany.com/&#34;&gt;Small Robot Company&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;horticulture&#34;&gt;Horticulture&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://robohub.org/harvey-a-working-robot-for-container-crops/&#34;&gt;Harvey HV100&lt;/a&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://youtu.be/waa9DOaaTA4&#34;&gt;Nursery Robot&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://youtu.be/Ls7aBKS2A4Y&#34;&gt;Robots on the Plant Farm&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://youtu.be/swbDwlKPjKE&#34;&gt;Growing plants with a little help from our robotic friends&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://youtu.be/nax--FnA3v4&#34;&gt;Bailey Nurseries, Yamhill OR: Deep Gravel with HV-100 Part 1&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=nmzwR6XcLIE&#34;&gt;Bailey Nurseries, Yamhill OR: Deep Gravel with HV-100 Part 2&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://youtu.be/No39rPOqwrg&#34;&gt;Robots in Horticulture&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://youtu.be/DCzAOwddFZw&#34;&gt;Dewar Nurseries, FL: HV-100 Robots Consolidate Plants with the Sprinklers On&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://youtu.be/CYbVdwTtb6o&#34;&gt;Robot Plant Movers&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://youtu.be/x6WilKKbXog&#34;&gt;Little plant movers, Robots in action&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://youtu.be/HIpelnM1NBE&#34;&gt;Robot Farming and the Future of Food: Hard Work on Wheels&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=-k7JTfVgjAI&#34;&gt;Nursery Robot in Action&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://youtu.be/p4J8TPOP-OM&#34;&gt;Harvest Automation&amp;rsquo;s HV-100 robots space plants at Altman Plants in CA&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://youtu.be/FhtSbPOEnrQ&#34;&gt;Dewar Nurseries, FL 4 HV-100 Robots Space Plants with the Sprinklers On&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://youtu.be/KkubZ7novI4&#34;&gt;McCorkle Nursery Gives a Glimpse into the Future&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://youtu.be/S0pQpgrSoDE&#34;&gt;Harvest Automation&amp;rsquo;s HV-100 Robots spacing plants at McCorkle time-lapse&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=uVb8wMULpPs&#34;&gt;Harvest Automation Robots spacing plants at McCorkle Nurseries&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://youtu.be/QD7m2ociG60&#34;&gt;Plant Spacing robots at Bailey Nursery (APGA 2015)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://youtu.be/tm8-nEkX6mc&#34;&gt;KSTP/ABC Bailey Nursery Uses Harvest Automation Robots for Time Consuming, Dull Job&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=YjGwRuL649k&#34;&gt;Robots moving plants at Color Spot Nursery in San Antonio&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;delivery-robots&#34;&gt;Delivery robots&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.santannapisa.it/en/news/mobot-robotic-shopping-cart-designed-santanna-school-spinoff-company-mediate-santanna-school&#34;&gt;Mobot robotic shopping cart&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;food&#34;&gt;Food&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.nourish.ai/&#34;&gt;Nourish&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;lawn-mowers&#34;&gt;Lawn mowers&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://mowerproject.com/&#34;&gt;The mower project&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.canadiantire.ca/en/pdp/husqvarna-18v-automower-310-robotic-lawn-mower-0601799p.0601799.html&#34;&gt;Husqvarna 18V Automower® 310 Robotic Lawn Mower&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.amazon.ca/Gardena-4069-R80Li-Robotic-Lawnmower/dp/B06XD2X262/ref=pd_sbs_469_7&#34;&gt;GARDENA 4069 R80Li Robotic Lawnmower&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.walmart.ca/en/ip/robomow-rc304-robotic-lawn-mower/6000199850549&#34;&gt;Robomow RC304 Robotic Lawn Mower&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=Ve-V3t0rbkI&#34;&gt;RoboGREEN&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=Wx7_vyPcIns&#34;&gt;RoboFlail&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.remotemowers.com/&#34;&gt;Remote mowers&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=VpnO9zqhgAA&#34;&gt;Alamo Industrial: RidgeRunner&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.kommtek.de/en/products/automation/roboflail-mini/&#34;&gt;RoboFlail mini&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://evatech.net/PRODUCT.php?ID=6&#34;&gt;EvaTech&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;electric-lawn-tractors&#34;&gt;Electric lawn tractors&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.homedepot.ca/product/ryobi-38-inch-100-ah-battery-electric-rear-engine-riding-lawn-mower/1001528340&#34;&gt;Ryobi 38 inch 100Ah battery electric rear engine riding lawn mower&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;snow-removal&#34;&gt;Snow removal&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.consumerreports.org/snow-blowers/snow-blower-features-that-matter/&#34;&gt;Snow blower features that matter&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.homedepot.com/b/Outdoors-Outdoor-Power-Equipment-Snow-Removal-Equipment-Snow-Blowers-Gas-Snow-Blowers/Power-Steering/N-5yc1vZceo5Z1z0r2r7?storeSelection=1287,1233,1234,1268,1228&#34;&gt;Power steering snow blowers&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.zdnet.com/article/transforming-robot-will-mow-fields-shovel-snow/&#34;&gt;Left Hand Robotics&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.northstar-robotics.com/&#34;&gt;Northstar Robotics&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.accuweather.com/en/weather-news/autonomous-kobi-robot-can-remove-snow-from-your-driveway-startup/60988472&#34;&gt;Kobi&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://snowposium.ca/&#34;&gt;Snowposium&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://canadabusiness.ca/starting/checklists-and-guides-for-starting-a-business/landscaping-and-snow-removal-start-up-checklist/&#34;&gt;Landscaping and snow removal start-up checklist&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=zPt1fb_9Dd8&#34;&gt;Snowblowing John deere 1025r with quick hitch 54&amp;quot; snowblower&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=PnfHyxtrRF0&#34;&gt;Rear 3pt hitch Snowblower&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=FjJjSj4PX50&#34;&gt;Kubota BX snow blower&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=MYct9ZGNUA8&#34;&gt;Kubota BX snow blowing 28 inches snow&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=409LlbeaaWY&#34;&gt;Kubota Moving Snow&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=w_-yqc_UIc8&#34;&gt;John Deere Tractors With Snowblowers&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=5upOXk_AQHE&#34;&gt;Robotics Snow Plow&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;snow-removal-market&#34;&gt;Snow removal market&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://globalnews.ca/news/5473401/autonomous-lawn-mower-snow-clearing-robot-edmonton/&#34;&gt;Edmonton&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;floor-sweeping&#34;&gt;Floor sweeping&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.tennantco.com/en_ca/1/machines/sweepers/product.s30.ride-on-sweeper.M-S30.html&#34;&gt;Tennant S30&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;uvc-robots&#34;&gt;UVC Robots&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://xenex.com/&#34;&gt;Xenex&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.blue-ocean-robotics.com/&#34;&gt;Blue Ocean Robotics&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>

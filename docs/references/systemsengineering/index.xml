@@ -91,6 +91,22 @@
     </item>
     
     <item>
+      <title>Docs: Model Based Systems Engineering</title>
+      <link>https://wikihub.github.io/docs/references/systemsengineering/mbse/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/systemsengineering/mbse/</guid>
+      <description>
+        
+        
+        &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://insights.sei.cmu.edu/blog/introduction-model-based-systems-engineering-mbse/&#34;&gt;An Introduction to Model-Based Systems Engineering (MBSE)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Docs: Modelica</title>
       <link>https://wikihub.github.io/docs/references/systemsengineering/modelica/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
