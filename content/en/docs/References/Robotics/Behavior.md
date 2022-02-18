@@ -30,6 +30,9 @@ description: Resources about robotic behaviors
 * [UnrealEngine Behavior Trees](https://docs.unrealengine.com/4.27/en-US/InteractiveExperiences/ArtificialIntelligence/BehaviorTrees/)
 * [Metacontrol for ROS2 systems (MROS)](https://robmosys.eu/mros/)
 
+## JavaScript
+* [npm keyword:behavior-tree](https://npm.io/search/keyword:behavior-tree)
+
 # Finaite State Machines
 
 * [QP Model Based Design Tool](https://www.state-machine.com/products/qm)
