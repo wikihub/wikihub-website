@@ -47,4 +47,5 @@ description: News and information about front-end development technologies
 
 # GUI
 
-* [pencil](https://pencil.evolus.vn/)
+* [Pencil](https://pencil.evolus.vn/)
+* [GUI prototyping tools](https://wiki.c2.com/?GuiPrototypingTools)
