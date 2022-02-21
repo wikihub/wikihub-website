@@ -20,6 +20,29 @@
     
     
     <item>
+      <title>Docs: Software Development Life Cycle</title>
+      <link>https://wikihub.github.io/docs/references/software/development/sdlc/</link>
+      <pubDate>Mon, 21 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/software/development/sdlc/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;software-development-life-cycle&#34;&gt;Software Development Life Cycle&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Systems_development_life_cycle&#34;&gt;Systems Development Life Cycle&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://stackify.com/what-is-sdlc/&#34;&gt;What Is SDLC? Understand the Software Development Life Cycle&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.microsoft.com/en-us/research/uploads/prod/2019/04/devtime-preprint-TSE19.pdf&#34;&gt;Today was a Good Day: The Daily Life of Software Developers&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;tools&#34;&gt;Tools&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.mergify.com/&#34;&gt;Mergify&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Docs: Architecture</title>
       <link>https://wikihub.github.io/docs/references/software/development/design/</link>
       <pubDate>Sat, 13 Nov 2021 00:00:00 +0000</pubDate>
