@@ -37,6 +37,22 @@
     </item>
     
     <item>
+      <title>Docs: ROS2 Demos</title>
+      <link>https://wikihub.github.io/docs/references/robotics/ros2/ros2-demos/</link>
+      <pubDate>Thu, 18 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://wikihub.github.io/docs/references/robotics/ros2/ros2-demos/</guid>
+      <description>
+        
+        
+        &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://automaticaddison.com/estimate-aruco-marker-pose-using-opencv-gazebo-and-ros-2/&#34;&gt;Estimate ArUco Marker Pose Using OpenCV, Gazebo, and ROS 2&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Docs: Learning ROS 2</title>
       <link>https://wikihub.github.io/docs/references/robotics/ros2/learningros2/</link>
       <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
