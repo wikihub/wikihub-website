@@ -15,3 +15,4 @@ description: News and information about software development life cycle
 # Tools
 
 * [Mergify](https://docs.mergify.com/)
+* [pre-commit: A framework for managing and maintaining multi-language pre-commit hooks](https://pre-commit.com/)
