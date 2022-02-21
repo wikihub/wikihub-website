@@ -25,12 +25,12 @@
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://wikihub.github.io/docs/references/hardware/network/" /><meta property="article:section" content="docs" />
 
-<meta property="article:modified_time" content="2022-02-20T21:31:18-05:00" /><meta property="og:site_name" content="WIKIHUB" />
+<meta property="article:modified_time" content="2022-02-21T11:07:58-05:00" /><meta property="og:site_name" content="WIKIHUB" />
 
 <meta itemprop="name" content="Network">
 <meta itemprop="description" content="Network and Internet resources">
-<meta itemprop="dateModified" content="2022-02-20T21:31:18-05:00" />
-<meta itemprop="wordCount" content="256">
+<meta itemprop="dateModified" content="2022-02-21T11:07:58-05:00" />
+<meta itemprop="wordCount" content="362">
 <meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Network"/>
 <meta name="twitter:description" content="Network and Internet resources"/>
@@ -1998,6 +1998,18 @@
 <li><a href="https://www.linksysinfo.org/index.php?threads/guide-flash-linksys-ea6300v1-ea6400-ea6500v2-ea6700-ea6900v1-0-1-1-with-tomato.73877/">Linksys EA6900 Tomato</a>
 <ul>
 <li><a href="https://freshtomato.org/downloads/freshtomato-arm/Linksys-EA-CFE/">Linksys EA6900 Fresh Tomato</a></li>
+<li>Do a 30 30 30 reset. Keep the reset button, wait for 30 seconds, turn the router off, wait for 30 seconds, turn the router on and wait for 30 seconds.</li>
+<li>Go to <code>192.168.1.1</code> and restore the default firmware.</li>
+<li>Restart</li>
+<li>Enter with the password <code>admin</code>.</li>
+<li>Navigate to Connectivity → Basic and flash &ldquo;linksys_ea6xxx_ddwrt.bin&rdquo;.</li>
+<li>Restart</li>
+<li>Set the admin username and password</li>
+<li>Navigate to Wireless &gt; Basic Settings.</li>
+<li>Change the SSID of wl0 and wl1 to desired names and save.</li>
+<li>Set wl0 to client and wl1 to access point (AP).</li>
+<li>Save</li>
+<li>Navigate to Wireless Security and set the security mode to WPA2 Personal, and enter the shared keys.</li>
 </ul>
 </li>
 </ul>
@@ -2077,7 +2089,7 @@
 </script>
 
 	
-	<div class="text-muted mt-5 pt-3 border-top">Last modified 20.02.2022: <a  href="https://github.com/wikihub/wikihub-website/commit/b94a969659e5361d59a4758d5bcf6b175989e126">Update Network.md (b94a969)</a>
+	<div class="text-muted mt-5 pt-3 border-top">Last modified 21.02.2022: <a  href="https://github.com/wikihub/wikihub-website/commit/af5117e9a5bb9839f66f5786f1fda3bbf90bed9b">Update Network.md (af5117e)</a>
 </div>
 </div>
 
