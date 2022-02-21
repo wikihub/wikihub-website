@@ -13,12 +13,6 @@ description: News and information about software development and necessary tools
 * [Open source guide](https://opensource.guide/)
 * [Open source agenda](https://www.opensourceagenda.com/)
 
-# Software Development Life Cycle
-
-* [Systems Development Life Cycle](https://en.wikipedia.org/wiki/Systems_development_life_cycle)
-* [What Is SDLC? Understand the Software Development Life Cycle](https://stackify.com/what-is-sdlc/)
-* [Today was a Good Day: The Daily Life of Software Developers](https://www.microsoft.com/en-us/research/uploads/prod/2019/04/devtime-preprint-TSE19.pdf)
-
 # Coding interviews
 
 * [Awesome interview questions](https://github.com/DopplerHQ/awesome-interview-questions)
