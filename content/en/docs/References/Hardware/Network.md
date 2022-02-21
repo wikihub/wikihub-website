@@ -79,6 +79,7 @@ description: Network and Internet resources
 * [CFEditor](https://cfeditor.feng.si/)
 * [AsusWRT-Merlin](https://www.asuswrt-merlin.net/)
 * [Linksys EA6900 DD-WRT](https://wiki.dd-wrt.com/wiki/index.php/Linksys_EA6900)
+* [Linksys EA6900 Tomato](https://www.linksysinfo.org/index.php?threads/guide-flash-linksys-ea6300v1-ea6400-ea6500v2-ea6700-ea6900v1-0-1-1-with-tomato.73877/)
 
 # Sockets
 
