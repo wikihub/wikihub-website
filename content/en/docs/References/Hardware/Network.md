@@ -81,6 +81,18 @@ description: Network and Internet resources
 * [Linksys EA6900 DD-WRT](https://wiki.dd-wrt.com/wiki/index.php/Linksys_EA6900)
 * [Linksys EA6900 Tomato](https://www.linksysinfo.org/index.php?threads/guide-flash-linksys-ea6300v1-ea6400-ea6500v2-ea6700-ea6900v1-0-1-1-with-tomato.73877/)
   * [Linksys EA6900 Fresh Tomato](https://freshtomato.org/downloads/freshtomato-arm/Linksys-EA-CFE/)
+  * Do a 30 30 30 reset. Keep the reset button, wait for 30 seconds, turn the router off, wait for 30 seconds, turn the router on and wait for 30 seconds.
+  * Go to `192.168.1.1` and restore the default firmware.
+  * Restart
+  * Enter with the password `admin`.
+  * Navigate to Connectivity → Basic and flash "linksys_ea6xxx_ddwrt.bin".
+  * Restart
+  * Set the admin username and password
+  * Navigate to Wireless > Basic Settings.
+  * Change the SSID of wl0 and wl1 to desired names and save.
+  * Set wl0 to client and wl1 to access point (AP).
+  * Save
+  * Navigate to Wireless Security and set the security mode to WPA2 Personal, and enter the shared keys.
 
 # Sockets
 
