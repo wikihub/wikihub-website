@@ -37,6 +37,7 @@
 &lt;h1 id=&#34;tools&#34;&gt;Tools&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://docs.mergify.com/&#34;&gt;Mergify&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pre-commit.com/&#34;&gt;pre-commit: A framework for managing and maintaining multi-language pre-commit hooks&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
