@@ -8,6 +8,7 @@ description: Resources for learning robotics
 * [Robotics courses](https://github.com/mithi/robotics-coursework)
 * [EZ Robot](https://www.ez-robot.com/)
 * [cubelets](https://modrobotics.com/)
+* [Revolution Robotics](https://revolutionrobotics.org/)
 
 # [EdX](https://www.edx.org)
 
