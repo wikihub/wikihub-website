@@ -41,15 +41,12 @@ description: Network and Internet resources
 * [Wiregate - free Cloud endpoint for your home devices](https://mwitkow.me/posts/2020-04-07_wiregate/)
 * [wg-gen-web](https://github.com/vx3r/wg-gen-web)
 * [Wireguard managers](https://kaspars.net/blog/wireguard-managers)
-
-## Netmaker
-
-* [Netmaker client installation](https://docs.netmaker.org/client-installation.html)
-* [Getting Started with Netmaker: A WireGuard® Virtual Networking Platform](https://itnext.io/getting-started-with-netmaker-a-wireguard-virtual-networking-platform-3d563fbd87f0)
-
-## Firezone
-
-* [Firezone](https://www.firez.one/)
+* Netmaker
+  * [Netmaker client installation](https://docs.netmaker.org/client-installation.html)
+  * [Getting Started with Netmaker: A WireGuard® Virtual Networking Platform](https://itnext.io/getting-started-with-netmaker-a-wireguard-virtual-networking-platform-3d563fbd87f0)
+* Firezone
+  * [Firezone](https://www.firez.one/)
+* [wg-access-server](https://www.freie-netze.org/wg-access-server/deployment/2-docker-compose/)
 
 ## Zerotier
 
