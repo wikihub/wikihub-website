@@ -47,9 +47,9 @@ description: Network and Internet resources
 * [Netmaker client installation](https://docs.netmaker.org/client-installation.html)
 * [Getting Started with Netmaker: A WireGuard® Virtual Networking Platform](https://itnext.io/getting-started-with-netmaker-a-wireguard-virtual-networking-platform-3d563fbd87f0)
 
-## Firez
+## Firezone
 
-* [Firez](https://www.firez.one/)
+* [Firezone](https://www.firez.one/)
 
 ## Zerotier
 
