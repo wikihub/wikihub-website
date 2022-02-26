@@ -80,6 +80,7 @@ description: News and information about containers
 * [Docker and Python](https://ep2020.europython.eu/media/conference/slides/4bVczWt-docker-and-python-making-them-play-nicely-and-securely-for-dat_veC0l2l.pdf)
 * [Slash Docker?](https://runnable.com/docker/)
 * [Awesome Docker](https://awesome-docker.netlify.app/)
+* [Ahmad Rafiee: Docker training with DockerMe](https://github.com/AhmadRafiee/Docker_training_with_DockerMe)
 
 ## Prune  
 * Remove all the images without a tag: `docker rmi $(docker images -f dangling=true -q)`
