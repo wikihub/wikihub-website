@@ -889,6 +889,7 @@ sudo netstat -tulpn | grep LISTEN
 &lt;li&gt;&lt;a href=&#34;https://ep2020.europython.eu/media/conference/slides/4bVczWt-docker-and-python-making-them-play-nicely-and-securely-for-dat_veC0l2l.pdf&#34;&gt;Docker and Python&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://runnable.com/docker/&#34;&gt;Slash Docker?&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://awesome-docker.netlify.app/&#34;&gt;Awesome Docker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/AhmadRafiee/Docker_training_with_DockerMe&#34;&gt;Ahmad Rafiee: Docker training with DockerMe&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;prune&#34;&gt;Prune&lt;/h2&gt;
 &lt;ul&gt;
