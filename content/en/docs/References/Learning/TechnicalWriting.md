@@ -14,6 +14,7 @@ description: Resources for technical writing
 
 # Diagrams
 * [Diagrams](https://diagrams.mingrammer.com/)
+* [Quiver](https://q.uiver.app/)
 
 # Persian
 
