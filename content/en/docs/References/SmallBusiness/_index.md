@@ -19,6 +19,9 @@ description: Resources for running a small business
 * [Toronto | KPMG | CA](https://home.kpmg/ca/en/home/about/offices/toronto-1.html)
 * [Assurance and Accounting, Tax, and Advisory Services CPA Firm | BDO Canada](https://www.bdo.ca/en-ca/home/)
 
+# Corporate Tax
+* [Fair Tax Canada](https://fairtaxcanada.com/rates/)
+
 # Phone
 
 * [VOIP.ms](https://www.voip.ms)
