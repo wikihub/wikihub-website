@@ -26,6 +26,7 @@ description: Resources for running a small business
 * [FutureTax](https://www.futuretax.ca/t2/)
 * [Intuit Profile Tax](https://profile.intuit.ca/pricing/#t2/co-17)
 * [Pro Tax built into QuickBooks Online Accountant](https://quickbooks.intuit.com/ca/accountants/features/tax-returns/)
+* [Tax Chopper](https://www.taxchopper.ca/biz/price.jsp)
 
 # Phone
 
