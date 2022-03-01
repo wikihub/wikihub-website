@@ -33,6 +33,7 @@ description: Resources for running a small business
 * [TurboTax](https://turbotax.intuit.ca/tax/software/business/business-incorporated)
 * [TaxTron](https://taxtronweb.ca/T2/taxtron-T2-for-web)
 * [WebTax4B.ca](https://secure.macront.com/WebTax4B.ca/)
+* [GIFI - Importing a Microsoft Excel™ File](https://support.wolterskluwer.ca/en/support/newsdetail.asp?d=1514)
 
 # Personal Tax
 
