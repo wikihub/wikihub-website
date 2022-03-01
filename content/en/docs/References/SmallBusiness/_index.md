@@ -25,6 +25,7 @@ description: Resources for running a small business
 * [Cantax](https://www.wolterskluwer.com/en-ca/solutions/cantax)
 * [FutureTax](https://www.futuretax.ca/t2/)
 * [Intuit Profile Tax](https://profile.intuit.ca/pricing/#t2/co-17)
+* [Pro Tax built into QuickBooks Online Accountant](https://quickbooks.intuit.com/ca/accountants/features/tax-returns/)
 
 # Phone
 
