@@ -34,6 +34,10 @@ description: Resources for running a small business
 * [TaxTron](https://taxtronweb.ca/T2/taxtron-T2-for-web)
 * [WebTax4B.ca](https://secure.macront.com/WebTax4B.ca/)
 
+# Personal Tax
+
+* [GenuTax](https://www.genutax.ca/)
+
 # Phone
 
 * [VOIP.ms](https://www.voip.ms)
