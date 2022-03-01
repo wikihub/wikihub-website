@@ -21,6 +21,7 @@ description: Resources for running a small business
 * [Toronto | KPMG | CA](https://home.kpmg/ca/en/home/about/offices/toronto-1.html)
 * [Assurance and Accounting, Tax, and Advisory Services CPA Firm | BDO Canada](https://www.bdo.ca/en-ca/home/)
 * [Best Accounting Software for Small Business](https://www.investopedia.com/best-accounting-software-for-small-business-5069679)
+* [Free and low-cost accounting and invoicing software for your business](https://www.bdc.ca/en/articles-tools/technology/free-low-cost-applications/accounting-software-free-low-cost-options)
 
 # Corporate Tax
 * [Fair Tax Canada](https://fairtaxcanada.com/rates/)
