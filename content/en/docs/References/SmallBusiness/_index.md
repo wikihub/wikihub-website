@@ -30,6 +30,7 @@ description: Resources for running a small business
 * [TaxCycle](https://www.taxcycle.com/pricing/)
 * [TurboTax](https://turbotax.intuit.ca/tax/software/business/business-incorporated)
 * [TaxTron](https://taxtronweb.ca/T2/taxtron-T2-for-web)
+* [WebTax4B.ca](https://secure.macront.com/WebTax4B.ca/)
 
 # Phone
 
