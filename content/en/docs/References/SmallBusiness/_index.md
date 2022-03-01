@@ -20,6 +20,7 @@ description: Resources for running a small business
 * [EY - Canada - Advisory, Assurance, Tax, Transaction Services - EY - Canada](https://www.ey.com/ca/en/home)
 * [Toronto | KPMG | CA](https://home.kpmg/ca/en/home/about/offices/toronto-1.html)
 * [Assurance and Accounting, Tax, and Advisory Services CPA Firm | BDO Canada](https://www.bdo.ca/en-ca/home/)
+* [Best Accounting Software for Small Business](https://www.investopedia.com/best-accounting-software-for-small-business-5069679)
 
 # Corporate Tax
 * [Fair Tax Canada](https://fairtaxcanada.com/rates/)
