@@ -6,6 +6,8 @@ description: Resources for running a small business
 ---
 # Accounting
 
+* [Sage 50](https://www.sage.com/en-ca/products/sage-50cloud/)
+* [QuickBooks Online](https://quickbooks.intuit.com/ca/pricing/)
 * [Online Bookkeeping Services for Your Small Business | Bench Accounting](https://bench.co/)
 * [cloudbookkeeping | Bookkeeping & Payroll Plans](https://www.cloudbookkeepingservices.ca/bookkeeping-plans)
 * [Jetstream Administration + Bookkeeping - Jetstream Administration](https://jetstreamadmin.com/)
