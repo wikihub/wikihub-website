@@ -21,6 +21,7 @@ description: Resources for running a small business
 
 # Corporate Tax
 * [Fair Tax Canada](https://fairtaxcanada.com/rates/)
+* [The Canada Revenue Agency (CRA) certifies commercial tax preparation software packages for use with the Corporation Internet Filing service.](https://www.canada.ca/en/revenue-agency/services/e-services/e-services-businesses/corporation-internet-filing/software.html)
 
 # Phone
 
