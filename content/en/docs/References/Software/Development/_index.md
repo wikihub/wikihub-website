@@ -29,6 +29,7 @@ description: News and information about software development and necessary tools
 * [Eclipse Che: The Kubernetes-Native IDE for Developer Teams](http://www.eclipse.org/che/)
 * [Theia IDE](https://theia-ide.org/)
 * [Eclipse Theia](https://github.com/eclipse-theia/theia)
+* [EditorConfig](https://editorconfig.org/)
 
 # Diagrams and charts
 
