@@ -48,6 +48,7 @@ description: Network and Internet resources
   * [Firezone](https://www.firez.one/)
 * [wg-access-server](https://www.freie-netze.org/wg-access-server/deployment/2-docker-compose/)
 * [headscale](https://github.com/juanfont/headscale)
+* [subspace](https://github.com/subspacecloud/subspace)
 
 ## Zerotier
 
