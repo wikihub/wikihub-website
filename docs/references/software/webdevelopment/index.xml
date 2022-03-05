@@ -72,6 +72,11 @@
 &lt;li&gt;&lt;a href=&#34;https://formspree.io/&#34;&gt;Formspree&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.smashingmagazine.com/2018/05/building-serverless-contact-form-static-website/&#34;&gt;Building serverless contact form static website&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h1 id=&#34;progressive-web-applications&#34;&gt;Progressive Web Applications&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://developers.google.com/web/tools/workbox/guides/get-started&#34;&gt;Workbox&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-pwa&#34;&gt;docusaurus plugin pwa&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
       </description>
     </item>
